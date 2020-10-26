@@ -1,5 +1,5 @@
 ---
-title: Saint louis
+title: Saint Louis
 url: /saint-louis/
 latitude: 
 longitude: 
