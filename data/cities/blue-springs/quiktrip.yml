@@ -1,6 +1,5 @@
 id: 815800652
 type: way
-shop: convenience
 latitude: 39.010000000000005
 longitude: -94.2736203
 postcode: "64015"
@@ -9,4 +8,4 @@ street: "Southwest US 40 HWY"
 housenumber: 705
 phone: ""
 opening_hours: ""
-website: "https://www.quiktrip.com/Locations?utm_source=gmb&utm_medium=yext"
+website: "https://www.quiktrip.com/Locations"
