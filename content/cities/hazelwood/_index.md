@@ -1,6 +1,6 @@
 ---
 title: Hazelwood
 url: /hazelwood/
-latitude: 38.786163300000005
-longitude: -90.3540562
+latitude: 38.7761446
+longitude: -90.3715909
 ---
