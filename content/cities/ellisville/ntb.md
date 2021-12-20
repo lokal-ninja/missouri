@@ -1,5 +1,5 @@
 ---
 title: "NTB"
 url: /ellisville/ntb/
-shop: tyres
+shop: car repair
 ---
