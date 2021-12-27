@@ -1,6 +1,6 @@
 ---
 title: Dardenne Prairie
 url: /dardenne-prairie/
-latitude: 38.7694969
-longitude: -90.7290157
+latitude: 38.773
+longitude: -90.737
 ---

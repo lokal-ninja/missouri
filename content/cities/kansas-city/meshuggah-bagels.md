@@ -1,5 +1,5 @@
 ---
 title: "Meshuggah Bagels"
 url: /kansas-city/meshuggah-bagels/
-shop: bakery
+shop: Bäckerei
 ---

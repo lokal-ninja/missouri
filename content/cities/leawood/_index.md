@@ -1,6 +1,6 @@
 ---
 title: Leawood
 url: /leawood/
-latitude: 37.037006000000005
-longitude: -94.49689070000001
+latitude: 38.889
+longitude: -94.606
 ---

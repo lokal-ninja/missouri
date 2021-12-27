@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /cameron/walmart-supercenter/
-shop: department store
+shop: Warenhaus
 ---

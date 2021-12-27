@@ -1,5 +1,5 @@
 ---
 title: "Fishland"
 url: /west-plains/fishland/
-shop: pet
+shop: Tiere
 ---

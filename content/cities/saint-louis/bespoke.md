@@ -1,5 +1,5 @@
 ---
 title: "Bespoke"
 url: /saint-louis/bespoke/
-shop: clothes
+shop: Kleidung
 ---

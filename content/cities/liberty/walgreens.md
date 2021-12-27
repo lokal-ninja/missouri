@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /liberty/walgreens/
-shop: chemist
+shop: Drogerie
 ---

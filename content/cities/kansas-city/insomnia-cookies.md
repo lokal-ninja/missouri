@@ -1,5 +1,5 @@
 ---
 title: "Insomnia Cookies"
 url: /kansas-city/insomnia-cookies/
-shop: bakery
+shop: Bäckerei
 ---

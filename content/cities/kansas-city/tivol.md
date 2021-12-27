@@ -1,5 +1,5 @@
 ---
 title: "TIVOL"
 url: /kansas-city/tivol/
-shop: jewelry
+shop: Schmuck
 ---

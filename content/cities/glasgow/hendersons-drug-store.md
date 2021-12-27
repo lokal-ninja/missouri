@@ -1,5 +1,5 @@
 ---
 title: "Henderson's Drug Store"
 url: /glasgow/hendersons-drug-store/
-shop: chemist
+shop: Drogerie
 ---

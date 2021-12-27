@@ -1,5 +1,5 @@
 ---
 title: "SouthTown Cleaners"
 url: /joplin/southtown-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

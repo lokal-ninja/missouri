@@ -1,5 +1,5 @@
 ---
 title: "Schnucks"
 url: /jennings/schnucks/
-shop: supermarket
+shop: Supermarkt
 ---

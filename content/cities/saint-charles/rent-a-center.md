@@ -1,5 +1,5 @@
 ---
 title: "Rent-A-Center"
 url: /saint-charles/rent-a-center/
-shop: furniture
+shop: Möbel
 ---

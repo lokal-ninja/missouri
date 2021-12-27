@@ -1,6 +1,6 @@
 ---
 title: St. Joseph
 url: /st-joseph/
-latitude: 
-longitude: 
+latitude: 39.733
+longitude: -94.801
 ---

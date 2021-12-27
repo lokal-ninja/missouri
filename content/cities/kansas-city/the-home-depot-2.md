@@ -1,5 +1,5 @@
 ---
 title: "The Home Depot"
 url: /kansas-city/the-home-depot-2/
-shop: doityourself
+shop: Baumarkt
 ---

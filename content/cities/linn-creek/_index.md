@@ -1,6 +1,6 @@
 ---
 title: Linn Creek
 url: /linn-creek/
-latitude: 38.0376252
-longitude: -92.7118951
+latitude: 38.074
+longitude: -92.71
 ---

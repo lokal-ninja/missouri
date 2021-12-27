@@ -1,5 +1,5 @@
 ---
 title: "Encore"
 url: /washington/encore/
-shop: clothes
+shop: Kleidung
 ---

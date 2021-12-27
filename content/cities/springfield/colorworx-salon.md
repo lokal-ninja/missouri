@@ -1,5 +1,5 @@
 ---
 title: "Colorworx Salon"
 url: /springfield/colorworx-salon/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Printery House"
 url: /conception/the-printery-house/
-shop: gift
+shop: Andenken
 ---

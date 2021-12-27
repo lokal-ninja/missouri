@@ -1,6 +1,6 @@
 ---
 title: Republic
 url: /republic/
-latitude: 37.1202149
-longitude: -93.4807001
+latitude: 37.127
+longitude: -93.459
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bass River Resort"
 url: /courtois/bass-river-resort/
-shop: convenience
+shop: Lebensmittel
 ---

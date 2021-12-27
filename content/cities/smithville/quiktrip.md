@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /smithville/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

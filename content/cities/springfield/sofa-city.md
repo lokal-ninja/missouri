@@ -1,5 +1,5 @@
 ---
 title: "Sofa City"
 url: /springfield/sofa-city/
-shop: furniture
+shop: Möbel
 ---

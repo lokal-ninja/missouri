@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /florissant/officemax/
-shop: office supplies
+shop: Schreibwaren
 ---

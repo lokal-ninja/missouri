@@ -1,6 +1,6 @@
 ---
 title: Savannah
 url: /savannah/
-latitude: 39.9413678
-longitude: -94.829946
+latitude: 39.941
+longitude: -94.83
 ---

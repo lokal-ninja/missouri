@@ -1,6 +1,6 @@
 ---
 title: Birch Tree
 url: /birch-tree/
-latitude: 36.9911648
-longitude: -91.49263760000001
+latitude: 36.999
+longitude: -91.492
 ---

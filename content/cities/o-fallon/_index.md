@@ -1,6 +1,6 @@
 ---
 title: O Fallon
 url: /o-fallon/
-latitude: 
-longitude: 
+latitude: 38.793
+longitude: -90.702
 ---

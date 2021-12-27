@@ -1,5 +1,5 @@
 ---
 title: "Brooklyn Market"
 url: /kansas-city/brooklyn-market/
-shop: supermarket
+shop: Supermarkt
 ---

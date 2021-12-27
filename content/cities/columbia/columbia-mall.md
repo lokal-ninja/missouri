@@ -1,5 +1,5 @@
 ---
 title: "Columbia Mall"
 url: /columbia/columbia-mall/
-shop: mall
+shop: Einkaufszentrum
 ---

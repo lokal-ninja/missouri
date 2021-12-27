@@ -1,5 +1,5 @@
 ---
 title: "Factory Connection"
 url: /west-plains/factory-connection/
-shop: clothes
+shop: Kleidung
 ---

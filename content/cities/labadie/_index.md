@@ -1,6 +1,6 @@
 ---
 title: Labadie
 url: /labadie/
-latitude: 38.5289415
-longitude: -90.8501356
+latitude: 38.501
+longitude: -90.897
 ---

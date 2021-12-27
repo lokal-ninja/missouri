@@ -1,5 +1,5 @@
 ---
 title: "Pride Cleaners"
 url: /kansas-city/pride-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

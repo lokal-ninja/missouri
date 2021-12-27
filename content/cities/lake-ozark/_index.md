@@ -1,6 +1,6 @@
 ---
 title: Lake Ozark
 url: /lake-ozark/
-latitude: 38.1798796
-longitude: -92.62264540000001
+latitude: 38.199
+longitude: -92.638
 ---

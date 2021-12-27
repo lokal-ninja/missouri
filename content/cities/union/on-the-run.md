@@ -1,5 +1,5 @@
 ---
 title: "On The Run"
 url: /union/on-the-run/
-shop: convenience
+shop: Lebensmittel
 ---

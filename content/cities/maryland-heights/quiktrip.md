@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /maryland-heights/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

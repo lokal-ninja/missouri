@@ -1,5 +1,5 @@
 ---
 title: "Westlake Ace Hardware"
 url: /gladstone/westlake-ace-hardware/
-shop: hardware
+shop: Eisenwaren
 ---

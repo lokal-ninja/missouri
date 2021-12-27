@@ -1,5 +1,5 @@
 ---
 title: "Marie Angelique"
 url: /ofallon/marie-angelique/
-shop: clothes
+shop: Kleidung
 ---

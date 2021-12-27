@@ -1,6 +1,6 @@
 ---
 title: Humansville
 url: /humansville/
-latitude: 37.7944806
-longitude: -93.5779815
+latitude: 37.795
+longitude: -93.58
 ---

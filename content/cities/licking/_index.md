@@ -1,6 +1,6 @@
 ---
 title: Licking
 url: /licking/
-latitude: 37.499488400000004
-longitude: -91.85709840000001
+latitude: 37.45
+longitude: -91.863
 ---

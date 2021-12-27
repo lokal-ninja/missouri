@@ -1,6 +1,6 @@
 ---
 title: Union
 url: /union/
-latitude: 40.3628189
-longitude: -91.7543323
+latitude: 38.44
+longitude: -91.088
 ---

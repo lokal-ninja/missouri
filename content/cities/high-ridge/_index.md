@@ -1,6 +1,6 @@
 ---
 title: High Ridge
 url: /high-ridge/
-latitude: 38.4589432
-longitude: -90.53651260000001
+latitude: 38.486
+longitude: -90.505
 ---

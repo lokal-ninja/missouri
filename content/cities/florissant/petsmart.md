@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /florissant/petsmart/
-shop: pet
+shop: Tiere
 ---

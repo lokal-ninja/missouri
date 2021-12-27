@@ -1,5 +1,5 @@
 ---
 title: "Cutco Kitchen"
 url: /creve-coeur/cutco-kitchen/
-shop: kitchen
+shop: Küchen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Opened Book"
 url: /hannibal/opened-book/
-shop: books
+shop: Bücher
 ---

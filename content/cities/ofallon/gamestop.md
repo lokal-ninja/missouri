@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /ofallon/gamestop/
-shop: video games
+shop: Videospiele
 ---

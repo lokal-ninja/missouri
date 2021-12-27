@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /union/autozone/
-shop: car parts
+shop: Autoteile
 ---

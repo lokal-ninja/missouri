@@ -1,6 +1,6 @@
 ---
 title: Osage Beach
 url: /osage-beach/
-latitude: 38.1259916
-longitude: -92.6723254
+latitude: 38.144
+longitude: -92.633
 ---

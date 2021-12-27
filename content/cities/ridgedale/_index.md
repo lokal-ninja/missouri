@@ -1,6 +1,6 @@
 ---
 title: Ridgedale
 url: /ridgedale/
-latitude: 36.5039535
-longitude: -93.22379190000001
+latitude: 36.537
+longitude: -93.276
 ---

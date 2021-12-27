@@ -1,5 +1,5 @@
 ---
 title: "Menards"
 url: /poplar-bluff/menards/
-shop: doityourself
+shop: Baumarkt
 ---

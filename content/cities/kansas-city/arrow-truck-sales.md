@@ -1,5 +1,5 @@
 ---
 title: "Arrow Truck Sales"
 url: /kansas-city/arrow-truck-sales/
-shop: shop
+shop: Allgemein
 ---

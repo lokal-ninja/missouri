@@ -1,5 +1,5 @@
 ---
 title: "Dress Barn"
 url: /florissant/dress-barn/
-shop: clothes
+shop: Kleidung
 ---

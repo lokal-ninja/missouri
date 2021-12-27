@@ -1,5 +1,5 @@
 ---
 title: "Beverly's Hill"
 url: /st-louis-city/beverlys-hill/
-shop: clothes
+shop: Kleidung
 ---

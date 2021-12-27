@@ -1,5 +1,5 @@
 ---
 title: "MetroPCS"
 url: /maplewood/metropcs/
-shop: mobile phone
+shop: Handy
 ---

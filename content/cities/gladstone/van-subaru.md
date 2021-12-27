@@ -1,5 +1,5 @@
 ---
 title: "Van Subaru"
 url: /gladstone/van-subaru/
-shop: car
+shop: Autohaus
 ---

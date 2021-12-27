@@ -1,6 +1,6 @@
 ---
 title: Jane
 url: /jane/
-latitude: 36.5472963
-longitude: -94.3052109
+latitude: 36.509
+longitude: -94.283
 ---

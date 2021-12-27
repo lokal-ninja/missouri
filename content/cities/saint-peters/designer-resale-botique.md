@@ -1,5 +1,5 @@
 ---
 title: "Designer Resale Botique"
 url: /saint-peters/designer-resale-botique/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: West Plaisn
 url: /west-plaisn/
-latitude: 
-longitude: 
+latitude: 36.68
+longitude: -91.9
 ---

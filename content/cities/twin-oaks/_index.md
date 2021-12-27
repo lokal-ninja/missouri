@@ -1,6 +1,6 @@
 ---
 title: Twin Oaks
 url: /twin-oaks/
-latitude: 38.5647758
-longitude: -90.49651030000001
+latitude: 38.569
+longitude: -90.498
 ---

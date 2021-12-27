@@ -1,5 +1,5 @@
 ---
 title: "Supplement Superstore"
 url: /springfield/supplement-superstore/
-shop: nutrition supplements
+shop: Nahrungsergänzung
 ---

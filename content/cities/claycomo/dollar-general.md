@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /claycomo/dollar-general/
-shop: variety store
+shop: Kramladen
 ---

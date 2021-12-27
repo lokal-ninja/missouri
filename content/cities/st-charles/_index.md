@@ -1,6 +1,6 @@
 ---
 title: St. Charles
 url: /st-charles/
-latitude: 
-longitude: 
+latitude: 38.822
+longitude: -90.516
 ---

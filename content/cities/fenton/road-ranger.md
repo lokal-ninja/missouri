@@ -1,5 +1,5 @@
 ---
 title: "Road Ranger"
 url: /fenton/road-ranger/
-shop: convenience
+shop: Lebensmittel
 ---

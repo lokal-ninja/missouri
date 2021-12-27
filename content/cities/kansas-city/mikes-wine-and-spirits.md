@@ -1,5 +1,5 @@
 ---
 title: "Mike's Wine and Spirits"
 url: /kansas-city/mikes-wine-and-spirits/
-shop: alcohol
+shop: Spirituosen
 ---

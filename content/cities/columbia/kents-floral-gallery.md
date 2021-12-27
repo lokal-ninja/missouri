@@ -1,5 +1,5 @@
 ---
 title: "Kent's Floral Gallery"
 url: /columbia/kents-floral-gallery/
-shop: florist
+shop: Blumen
 ---

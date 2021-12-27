@@ -1,6 +1,6 @@
 ---
 title: bridgeton
 url: /bridgeton/
-latitude: 
-longitude: 
+latitude: 38.754
+longitude: -90.432
 ---

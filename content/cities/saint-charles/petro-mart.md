@@ -1,5 +1,5 @@
 ---
 title: "Petro Mart"
 url: /saint-charles/petro-mart/
-shop: convenience
+shop: Lebensmittel
 ---

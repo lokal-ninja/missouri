@@ -1,6 +1,6 @@
 ---
 title: Fredericktown
 url: /fredericktown/
-latitude: 37.5597754
-longitude: -90.29400700000001
+latitude: 37.558
+longitude: -90.319
 ---

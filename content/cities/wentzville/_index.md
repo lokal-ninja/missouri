@@ -1,6 +1,6 @@
 ---
 title: Wentzville
 url: /wentzville/
-latitude: 38.8244136
-longitude: -90.86831190000001
+latitude: 38.824
+longitude: -90.844
 ---

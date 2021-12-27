@@ -1,6 +1,6 @@
 ---
 title: Fenton
 url: /fenton/
-latitude: 
-longitude: 
+latitude: 38.512
+longitude: -90.445
 ---

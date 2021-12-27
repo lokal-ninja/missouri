@@ -1,6 +1,6 @@
 ---
 title: Northmoor
 url: /northmoor/
-latitude: 39.183690500000004
-longitude: -94.60548030000001
+latitude: 39.18
+longitude: -94.609
 ---

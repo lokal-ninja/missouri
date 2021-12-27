@@ -1,6 +1,6 @@
 ---
 title: St Lou
 url: /st-lou/
-latitude: 
-longitude: 
+latitude: 38.631
+longitude: -90.196
 ---

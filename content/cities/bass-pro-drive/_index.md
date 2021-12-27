@@ -1,6 +1,6 @@
 ---
 title: Bass Pro Drive
 url: /bass-pro-drive/
-latitude: 
-longitude: 
+latitude: 38.772
+longitude: -90.495
 ---

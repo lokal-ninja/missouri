@@ -1,6 +1,6 @@
 ---
 title: Mountain Grove
 url: /mountain-grove/
-latitude: 37.1306078
-longitude: -92.26349420000001
+latitude: 37.149
+longitude: -92.259
 ---

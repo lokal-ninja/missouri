@@ -1,6 +1,6 @@
 ---
 title: Claycomo
 url: /claycomo/
-latitude: 
-longitude: 
+latitude: 39.2
+longitude: -94.495
 ---

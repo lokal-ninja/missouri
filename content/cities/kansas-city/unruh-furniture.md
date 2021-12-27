@@ -1,5 +1,5 @@
 ---
 title: "Unruh Furniture"
 url: /kansas-city/unruh-furniture/
-shop: furniture
+shop: Möbel
 ---

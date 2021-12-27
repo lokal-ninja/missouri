@@ -1,6 +1,6 @@
 ---
 title: Branson West
 url: /branson-west/
-latitude: 36.6968941
-longitude: -93.3689339
+latitude: 36.688
+longitude: -93.34
 ---

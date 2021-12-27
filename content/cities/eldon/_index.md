@@ -1,6 +1,6 @@
 ---
 title: Eldon
 url: /eldon/
-latitude: 38.3494456
-longitude: -92.5805241
+latitude: 38.35
+longitude: -92.579
 ---

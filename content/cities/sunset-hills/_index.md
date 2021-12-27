@@ -1,6 +1,6 @@
 ---
 title: Sunset Hills
 url: /sunset-hills/
-latitude: 38.5389423
-longitude: -90.407341
+latitude: 38.554
+longitude: -90.408
 ---

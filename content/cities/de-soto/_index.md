@@ -1,6 +1,6 @@
 ---
 title: De Soto
 url: /de-soto/
-latitude: 38.1394978
-longitude: -90.55512590000001
+latitude: 38.134
+longitude: -90.556
 ---

@@ -1,6 +1,6 @@
 ---
 title: Cuba
 url: /cuba/
-latitude: 39.2172396
-longitude: -93.6113256
+latitude: 38.064
+longitude: -91.406
 ---

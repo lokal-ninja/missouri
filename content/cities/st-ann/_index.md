@@ -1,6 +1,6 @@
 ---
 title: St. Ann
 url: /st-ann/
-latitude: 
-longitude: 
+latitude: 38.733
+longitude: -90.396
 ---

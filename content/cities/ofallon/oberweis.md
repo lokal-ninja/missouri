@@ -1,5 +1,5 @@
 ---
 title: "Oberweis"
 url: /ofallon/oberweis/
-shop: dairy
+shop: Milch
 ---

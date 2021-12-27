@@ -1,5 +1,5 @@
 ---
 title: "BonWorth"
 url: /saint-peters/bonworth/
-shop: clothes
+shop: Kleidung
 ---

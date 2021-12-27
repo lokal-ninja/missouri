@@ -1,6 +1,6 @@
 ---
 title: Ballwin
 url: /ballwin/
-latitude: 38.5936028
-longitude: -90.53855490000001
+latitude: 38.591
+longitude: -90.54
 ---

@@ -1,6 +1,6 @@
 ---
 title: Overland
 url: /overland/
-latitude: 38.7011626
-longitude: -90.3623381
+latitude: 38.689
+longitude: -90.373
 ---

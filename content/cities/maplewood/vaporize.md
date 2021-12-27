@@ -1,5 +1,5 @@
 ---
 title: "Vaporize"
 url: /maplewood/vaporize/
-shop: tobacco
+shop: Tabak
 ---

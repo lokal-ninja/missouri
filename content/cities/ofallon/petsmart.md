@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /ofallon/petsmart/
-shop: pet
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /florissant/michaels/
-shop: craft
+shop: Basteln
 ---

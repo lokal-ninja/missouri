@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /ofallon/cvs-pharmacy-2/
-shop: chemist
+shop: Drogerie
 ---

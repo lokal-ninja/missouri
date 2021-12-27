@@ -1,5 +1,5 @@
 ---
 title: "Quick Trip"
 url: /saint-peters/quick-trip/
-shop: convenience
+shop: Lebensmittel
 ---

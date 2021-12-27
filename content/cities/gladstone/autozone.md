@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /gladstone/autozone/
-shop: car parts
+shop: Autoteile
 ---

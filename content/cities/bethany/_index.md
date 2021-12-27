@@ -1,6 +1,6 @@
 ---
 title: Bethany
 url: /bethany/
-latitude: 36.6117237
-longitude: -90.0692618
+latitude: 40.263
+longitude: -94.015
 ---

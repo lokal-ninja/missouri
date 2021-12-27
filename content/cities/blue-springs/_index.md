@@ -1,6 +1,6 @@
 ---
 title: Blue Springs
 url: /blue-springs/
-latitude: 39.017316
-longitude: -94.28226500000001
+latitude: 39.026
+longitude: -94.248
 ---

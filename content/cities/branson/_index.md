@@ -1,6 +1,6 @@
 ---
 title: Branson
 url: /branson/
-latitude: 36.6411357
-longitude: -93.2175285
+latitude: 36.644
+longitude: -93.217
 ---
