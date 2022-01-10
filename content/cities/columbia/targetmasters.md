@@ -1,5 +1,5 @@
 ---
 title: "TargetMasters"
 url: /columbia/targetmasters/
-shop: Waffen
+shop: weapons
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spoked"
 url: /saint-louis/spoked/
-shop: Fahrrad
+shop: bicycle
 ---

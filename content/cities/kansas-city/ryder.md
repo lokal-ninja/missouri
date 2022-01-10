@@ -1,5 +1,5 @@
 ---
 title: "Ryder"
 url: /kansas-city/ryder/
-shop: Mieten
+shop: storage rental
 ---

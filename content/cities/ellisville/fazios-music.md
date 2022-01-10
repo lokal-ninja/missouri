@@ -1,5 +1,5 @@
 ---
 title: "Fazio's Music"
 url: /ellisville/fazios-music/
-shop: Instrumente
+shop: musical instrument
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EntertainMart"
 url: /springfield/entertainmart/
-shop: Kramladen
+shop: variety store
 ---

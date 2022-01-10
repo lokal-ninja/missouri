@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /ofallon/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

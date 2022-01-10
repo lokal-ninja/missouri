@@ -1,5 +1,5 @@
 ---
 title: "Slackers"
 url: /ofallon/slackers/
-shop: Videospiele
+shop: video games
 ---

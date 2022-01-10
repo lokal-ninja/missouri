@@ -1,5 +1,5 @@
 ---
 title: "Rasch Automotive Service Center"
 url: /kirkwood/rasch-automotive-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

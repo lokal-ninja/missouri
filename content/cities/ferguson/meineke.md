@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /ferguson/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

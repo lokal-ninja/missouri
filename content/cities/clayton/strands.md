@@ -1,5 +1,5 @@
 ---
 title: "Strands"
 url: /clayton/strands/
-shop: Friseur
+shop: hairdresser
 ---

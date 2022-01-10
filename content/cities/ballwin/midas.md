@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /ballwin/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

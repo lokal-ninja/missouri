@@ -1,5 +1,5 @@
 ---
 title: "Maurices"
 url: /belton/maurices/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /saint-louis/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

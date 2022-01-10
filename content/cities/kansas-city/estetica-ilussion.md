@@ -1,5 +1,5 @@
 ---
 title: "Estetica Ilussion"
 url: /kansas-city/estetica-ilussion/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Reeds Springs Automotive"
 url: /reeds-spring/reeds-springs-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

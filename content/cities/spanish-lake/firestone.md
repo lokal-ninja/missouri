@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /spanish-lake/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

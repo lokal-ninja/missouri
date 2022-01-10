@@ -1,5 +1,5 @@
 ---
 title: "Torrid"
 url: /saint-peters/torrid/
-shop: Kleidung
+shop: clothes
 ---

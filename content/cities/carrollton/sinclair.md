@@ -1,5 +1,5 @@
 ---
 title: "Sinclair"
 url: /carrollton/sinclair/
-shop: Lebensmittel
+shop: convenience
 ---

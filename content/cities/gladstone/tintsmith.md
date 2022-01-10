@@ -1,5 +1,5 @@
 ---
 title: "Tintsmith"
 url: /gladstone/tintsmith/
-shop: Autowerkstatt
+shop: car repair
 ---

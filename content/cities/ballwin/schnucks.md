@@ -1,5 +1,5 @@
 ---
 title: "Schnucks"
 url: /ballwin/schnucks/
-shop: Supermarkt
+shop: supermarket
 ---

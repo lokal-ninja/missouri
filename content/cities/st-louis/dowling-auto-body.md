@@ -1,5 +1,5 @@
 ---
 title: "Dowling Auto Body"
 url: /st-louis/dowling-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

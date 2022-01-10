@@ -1,5 +1,5 @@
 ---
 title: "Casual Male XL"
 url: /springfield/casual-male-xl/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oberweis"
 url: /oakville/oberweis/
-shop: Milch
+shop: dairy
 ---

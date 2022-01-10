@@ -1,5 +1,5 @@
 ---
 title: "Dickey Bub's"
 url: /rolla/dickey-bubs/
-shop: Dorfladen
+shop: general
 ---

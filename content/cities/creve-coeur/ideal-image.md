@@ -1,5 +1,5 @@
 ---
 title: "Ideal Image"
 url: /creve-coeur/ideal-image/
-shop: Allgemein
+shop: shop
 ---

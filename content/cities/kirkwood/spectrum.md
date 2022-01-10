@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /kirkwood/spectrum/
-shop: Handy
+shop: mobile phone
 ---

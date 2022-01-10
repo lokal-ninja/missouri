@@ -1,5 +1,5 @@
 ---
 title: "Cartridge World"
 url: /washington/cartridge-world/
-shop: Kopieren
+shop: copyshop
 ---

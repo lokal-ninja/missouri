@@ -1,5 +1,5 @@
 ---
 title: "Xpress Mart"
 url: /kansas-city/xpress-mart-2/
-shop: Lebensmittel
+shop: convenience
 ---

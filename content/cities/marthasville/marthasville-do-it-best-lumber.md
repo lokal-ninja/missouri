@@ -1,5 +1,5 @@
 ---
 title: "Marthasville Do It Best Lumber"
 url: /marthasville/marthasville-do-it-best-lumber/
-shop: Eisenwaren
+shop: hardware
 ---

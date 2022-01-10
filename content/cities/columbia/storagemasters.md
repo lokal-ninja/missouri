@@ -1,5 +1,5 @@
 ---
 title: "StorageMasters"
 url: /columbia/storagemasters/
-shop: Mieten
+shop: storage rental
 ---

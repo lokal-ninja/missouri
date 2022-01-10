@@ -1,5 +1,5 @@
 ---
 title: "Springfield Music"
 url: /springfield/springfield-music/
-shop: Instrumente
+shop: musical instrument
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Under the Awning Boutique"
 url: /independence/under-the-awning-boutique/
-shop: Andenken
+shop: gift
 ---

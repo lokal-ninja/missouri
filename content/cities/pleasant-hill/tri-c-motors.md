@@ -1,5 +1,5 @@
 ---
 title: "TRI-C Motors"
 url: /pleasant-hill/tri-c-motors/
-shop: Autohaus
+shop: car
 ---

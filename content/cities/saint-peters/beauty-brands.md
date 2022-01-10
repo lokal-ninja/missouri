@@ -1,5 +1,5 @@
 ---
 title: "Beauty Brands"
 url: /saint-peters/beauty-brands/
-shop: Kosmetik
+shop: beauty
 ---

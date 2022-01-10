@@ -1,5 +1,5 @@
 ---
 title: "Blvd Pastries"
 url: /kansas-city/blvd-pastries/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Revline Motors LLC"
 url: /kansas-city/revline-motors-llc/
-shop: Autowerkstatt
+shop: car repair
 ---

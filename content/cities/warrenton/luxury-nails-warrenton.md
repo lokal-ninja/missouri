@@ -1,5 +1,5 @@
 ---
 title: "Luxury Nails Warrenton"
 url: /warrenton/luxury-nails-warrenton/
-shop: Kosmetik
+shop: beauty
 ---

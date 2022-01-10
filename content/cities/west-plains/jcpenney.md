@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /west-plains/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

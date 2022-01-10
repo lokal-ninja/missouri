@@ -1,5 +1,5 @@
 ---
 title: "Dominique Bail Bonds"
 url: /columbia/dominique-bail-bonds/
-shop: Leiher
+shop: pawnbroker
 ---

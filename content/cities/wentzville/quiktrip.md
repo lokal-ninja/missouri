@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /wentzville/quiktrip/
-shop: Lebensmittel
+shop: convenience
 ---

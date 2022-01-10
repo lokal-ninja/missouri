@@ -1,5 +1,5 @@
 ---
 title: "Supplement Superstore"
 url: /washington/supplement-superstore/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

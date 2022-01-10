@@ -1,5 +1,5 @@
 ---
 title: "Dierbergs"
 url: /ellisville/dierbergs/
-shop: Supermarkt
+shop: supermarket
 ---

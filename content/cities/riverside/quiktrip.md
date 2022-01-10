@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /riverside/quiktrip/
-shop: Lebensmittel
+shop: convenience
 ---

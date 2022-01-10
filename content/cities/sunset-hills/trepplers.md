@@ -1,5 +1,5 @@
 ---
 title: "Treppler's"
 url: /sunset-hills/trepplers/
-shop: Autowerkstatt
+shop: car repair
 ---

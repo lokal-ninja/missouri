@@ -1,5 +1,5 @@
 ---
 title: "Tiger Mart"
 url: /humansville/tiger-mart-2/
-shop: Lebensmittel
+shop: convenience
 ---

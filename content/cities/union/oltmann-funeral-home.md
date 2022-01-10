@@ -1,5 +1,5 @@
 ---
 title: "Oltmann Funeral Home"
 url: /union/oltmann-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

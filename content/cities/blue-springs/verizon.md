@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /blue-springs/verizon/
-shop: Handy
+shop: mobile phone
 ---

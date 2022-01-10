@@ -1,5 +1,5 @@
 ---
 title: "JCPenney Home Store"
 url: /springfield/jcpenney-home-store/
-shop: Möbel
+shop: furniture
 ---

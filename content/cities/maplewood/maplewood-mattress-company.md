@@ -1,5 +1,5 @@
 ---
 title: "Maplewood Mattress Company"
 url: /maplewood/maplewood-mattress-company/
-shop: Betten
+shop: bed
 ---

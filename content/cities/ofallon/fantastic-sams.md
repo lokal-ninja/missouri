@@ -1,5 +1,5 @@
 ---
 title: "Fantastic Sams"
 url: /ofallon/fantastic-sams/
-shop: Friseur
+shop: hairdresser
 ---

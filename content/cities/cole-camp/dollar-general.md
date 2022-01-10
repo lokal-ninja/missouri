@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /cole-camp/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

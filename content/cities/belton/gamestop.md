@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /belton/gamestop/
-shop: Videospiele
+shop: video games
 ---

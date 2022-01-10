@@ -1,5 +1,5 @@
 ---
 title: "Langston Interiors"
 url: /rolla/langston-interiors/
-shop: Raumausstattung
+shop: interior decoration
 ---

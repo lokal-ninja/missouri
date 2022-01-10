@@ -1,5 +1,5 @@
 ---
 title: "Grand Beauty Supply"
 url: /ferguson/grand-beauty-supply-2/
-shop: Kosmetik
+shop: beauty
 ---

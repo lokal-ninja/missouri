@@ -1,5 +1,5 @@
 ---
 title: "DaVita Home Dialysis"
 url: /washington/davita-home-dialysis/
-shop: Sanitätshaus
+shop: medical supply
 ---

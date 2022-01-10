@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /independence/target/
-shop: Warenhaus
+shop: department store
 ---

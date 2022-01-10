@@ -1,5 +1,5 @@
 ---
 title: "Kakao Chocolate"
 url: /clayton/kakao-chocolate/
-shop: Schokolade
+shop: chocolate
 ---

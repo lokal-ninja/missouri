@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /rolla/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

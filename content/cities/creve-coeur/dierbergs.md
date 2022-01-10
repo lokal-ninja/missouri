@@ -1,5 +1,5 @@
 ---
 title: "Dierbergs"
 url: /creve-coeur/dierbergs/
-shop: Supermarkt
+shop: supermarket
 ---

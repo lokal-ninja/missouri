@@ -1,5 +1,5 @@
 ---
 title: "Lane Bryant"
 url: /saint-peters/lane-bryant/
-shop: Kleidung
+shop: clothes
 ---

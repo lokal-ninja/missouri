@@ -1,5 +1,5 @@
 ---
 title: "Taliaferro Imports"
 url: /springfield/taliaferro-imports/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Advanced Hearing Care"
 url: /washington/advanced-hearing-care/
-shop: Hörgeräte
+shop: hearing aids
 ---

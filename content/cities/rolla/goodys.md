@@ -1,5 +1,5 @@
 ---
 title: "Goody's"
 url: /rolla/goodys/
-shop: Warenhaus
+shop: department store
 ---

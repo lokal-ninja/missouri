@@ -1,5 +1,5 @@
 ---
 title: "Pilot Travel Center"
 url: /higginsville/pilot-travel-center/
-shop: Lebensmittel
+shop: convenience
 ---

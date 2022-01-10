@@ -1,5 +1,5 @@
 ---
 title: "Performance Eyecare"
 url: /creve-coeur/performance-eyecare/
-shop: Optiker
+shop: optician
 ---

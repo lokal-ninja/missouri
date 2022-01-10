@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /saint-peters/autozone/
-shop: Autoteile
+shop: car parts
 ---

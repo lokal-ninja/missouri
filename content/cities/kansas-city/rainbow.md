@@ -1,5 +1,5 @@
 ---
 title: "Rainbow"
 url: /kansas-city/rainbow/
-shop: Kleidung
+shop: clothes
 ---

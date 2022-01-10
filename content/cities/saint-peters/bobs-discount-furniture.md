@@ -1,5 +1,5 @@
 ---
 title: "Bob's Discount Furniture"
 url: /saint-peters/bobs-discount-furniture/
-shop: Möbel
+shop: furniture
 ---

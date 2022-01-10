@@ -1,5 +1,5 @@
 ---
 title: "Electric Voodoo Tattoo"
 url: /springfield/electric-voodoo-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

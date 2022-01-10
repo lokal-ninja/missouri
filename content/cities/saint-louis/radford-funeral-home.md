@@ -1,5 +1,5 @@
 ---
 title: "Radford Funeral Home"
 url: /saint-louis/radford-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

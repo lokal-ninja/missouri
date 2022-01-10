@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /ofallon/target/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autotire"
 url: /ballwin/autotire/
-shop: Reifen
+shop: tyres
 ---

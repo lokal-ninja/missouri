@@ -1,5 +1,5 @@
 ---
 title: "The Dress"
 url: /springfield/the-dress/
-shop: Kleidung
+shop: clothes
 ---

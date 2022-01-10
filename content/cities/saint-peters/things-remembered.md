@@ -1,5 +1,5 @@
 ---
 title: "Things Remembered"
 url: /saint-peters/things-remembered/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gamble's Gift Gallery"
 url: /springfield/gambles-gift-gallery/
-shop: Andenken
+shop: gift
 ---

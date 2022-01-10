@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /osage-beach/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

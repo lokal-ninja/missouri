@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /ballwin/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

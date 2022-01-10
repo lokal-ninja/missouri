@@ -1,5 +1,5 @@
 ---
 title: "The Market"
 url: /springfield/the-market/
-shop: Raumausstattung
+shop: interior decoration
 ---

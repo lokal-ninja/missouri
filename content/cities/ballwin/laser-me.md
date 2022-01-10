@@ -1,5 +1,5 @@
 ---
 title: "Laser Me"
 url: /ballwin/laser-me/
-shop: Kosmetik
+shop: beauty
 ---

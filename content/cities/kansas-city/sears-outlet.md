@@ -1,5 +1,5 @@
 ---
 title: "Sears Outlet"
 url: /kansas-city/sears-outlet/
-shop: Warenhaus
+shop: department store
 ---

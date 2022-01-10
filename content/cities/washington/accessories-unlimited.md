@@ -1,5 +1,5 @@
 ---
 title: "Accessories Unlimited"
 url: /washington/accessories-unlimited/
-shop: Autoteile
+shop: car parts
 ---

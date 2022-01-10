@@ -1,5 +1,5 @@
 ---
 title: "Hy-Vee"
 url: /independence/hy-vee-2/
-shop: Supermarkt
+shop: supermarket
 ---

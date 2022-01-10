@@ -1,5 +1,5 @@
 ---
 title: "Manoli's Jewelers"
 url: /springfield/manolis-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

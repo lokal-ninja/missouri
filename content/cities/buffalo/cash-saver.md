@@ -1,5 +1,5 @@
 ---
 title: "Cash Saver"
 url: /buffalo/cash-saver/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mac HQ"
 url: /st-louis/mac-hq/
-shop: Computer
+shop: computer
 ---

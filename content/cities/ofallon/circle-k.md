@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /ofallon/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

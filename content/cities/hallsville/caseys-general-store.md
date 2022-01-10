@@ -1,5 +1,5 @@
 ---
 title: "Caseys General Store"
 url: /hallsville/caseys-general-store/
-shop: Lebensmittel
+shop: convenience
 ---

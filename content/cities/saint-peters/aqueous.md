@@ -1,5 +1,5 @@
 ---
 title: "Aqueous"
 url: /saint-peters/aqueous/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

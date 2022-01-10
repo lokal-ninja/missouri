@@ -1,5 +1,5 @@
 ---
 title: "Tikka House"
 url: /kansas-city/tikka-house/
-shop: Gewürze
+shop: spices
 ---

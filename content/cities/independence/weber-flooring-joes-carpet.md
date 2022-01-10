@@ -1,5 +1,5 @@
 ---
 title: "Weber Flooring/Joe's Carpet"
 url: /independence/weber-flooring-joes-carpet/
-shop: Teppiche
+shop: carpet
 ---

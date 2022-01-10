@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /ballwin/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

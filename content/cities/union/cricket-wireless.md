@@ -1,5 +1,5 @@
 ---
 title: "Cricket Wireless"
 url: /union/cricket-wireless/
-shop: Handy
+shop: mobile phone
 ---

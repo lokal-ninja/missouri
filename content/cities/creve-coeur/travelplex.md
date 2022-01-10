@@ -1,5 +1,5 @@
 ---
 title: "Travelplex"
 url: /creve-coeur/travelplex/
-shop: Reisebüro
+shop: travel agency
 ---

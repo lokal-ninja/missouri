@@ -1,5 +1,5 @@
 ---
 title: "Chinatown Food Market"
 url: /kansas-city/chinatown-food-market/
-shop: Supermarkt
+shop: supermarket
 ---

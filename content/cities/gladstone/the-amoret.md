@@ -1,5 +1,5 @@
 ---
 title: "The Amoret"
 url: /gladstone/the-amoret/
-shop: Kosmetik
+shop: beauty
 ---

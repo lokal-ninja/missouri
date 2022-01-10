@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /eureka/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

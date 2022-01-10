@@ -1,5 +1,5 @@
 ---
 title: "Ladue Market"
 url: /ladue/ladue-market/
-shop: Lebensmittel
+shop: convenience
 ---

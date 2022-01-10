@@ -1,5 +1,5 @@
 ---
 title: "Arabica Coffee"
 url: /saint-peters/arabica-coffee/
-shop: Kaffee
+shop: coffee
 ---

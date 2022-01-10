@@ -1,5 +1,5 @@
 ---
 title: "Country Living"
 url: /washington/country-living/
-shop: Lebensmittel
+shop: convenience
 ---

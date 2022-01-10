@@ -1,5 +1,5 @@
 ---
 title: "Half Price Books"
 url: /kansas-city/half-price-books/
-shop: Bücher
+shop: books
 ---

@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /kearney/quiktrip/
-shop: Lebensmittel
+shop: convenience
 ---

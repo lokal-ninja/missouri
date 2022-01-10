@@ -1,5 +1,5 @@
 ---
 title: "Walmart Neighborhood Market"
 url: /webb-city/walmart-neighborhood-market/
-shop: Supermarkt
+shop: supermarket
 ---

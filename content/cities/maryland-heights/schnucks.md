@@ -1,5 +1,5 @@
 ---
 title: "Schnucks"
 url: /maryland-heights/schnucks/
-shop: Supermarkt
+shop: supermarket
 ---

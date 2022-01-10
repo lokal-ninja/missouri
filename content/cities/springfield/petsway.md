@@ -1,5 +1,5 @@
 ---
 title: "Petsway"
 url: /springfield/petsway/
-shop: Tiere
+shop: pet
 ---

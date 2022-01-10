@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /st-louis/bp-shop/
-shop: Lebensmittel
+shop: convenience
 ---

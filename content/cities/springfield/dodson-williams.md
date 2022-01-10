@@ -1,5 +1,5 @@
 ---
 title: "Dodson-Williams"
 url: /springfield/dodson-williams/
-shop: Autowerkstatt
+shop: car repair
 ---

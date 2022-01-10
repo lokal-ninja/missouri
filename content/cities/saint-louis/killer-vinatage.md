@@ -1,5 +1,5 @@
 ---
 title: "Killer Vinatage"
 url: /saint-louis/killer-vinatage/
-shop: Instrumente
+shop: musical instrument
 ---

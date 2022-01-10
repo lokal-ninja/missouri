@@ -1,5 +1,5 @@
 ---
 title: "Four Seasons Florist"
 url: /washington/four-seasons-florist/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Thoele Convenience Store"
 url: /saint-peters/thoele-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Epic Bike and Shop"
 url: /kansas-city/epic-bike-and-shop/
-shop: Fahrrad
+shop: bicycle
 ---

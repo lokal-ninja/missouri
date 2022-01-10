@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /blue-springs/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

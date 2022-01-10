@@ -1,5 +1,5 @@
 ---
 title: "Jeffriesburg Store"
 url: /union/jeffriesburg-store/
-shop: Supermarkt
+shop: supermarket
 ---

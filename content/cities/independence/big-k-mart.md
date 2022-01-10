@@ -1,5 +1,5 @@
 ---
 title: "Big K-Mart"
 url: /independence/big-k-mart/
-shop: Leerstehend
+shop: vacant
 ---

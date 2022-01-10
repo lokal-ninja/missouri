@@ -1,5 +1,5 @@
 ---
 title: "Country Mart"
 url: /potosi/country-mart/
-shop: Supermarkt
+shop: supermarket
 ---

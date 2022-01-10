@@ -1,5 +1,5 @@
 ---
 title: "TA"
 url: /matthews/ta/
-shop: Lebensmittel
+shop: convenience
 ---

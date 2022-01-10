@@ -1,5 +1,5 @@
 ---
 title: "Midwest Guitar"
 url: /saint-louis/midwest-guitar/
-shop: Instrumente
+shop: musical instrument
 ---

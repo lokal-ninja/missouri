@@ -1,5 +1,5 @@
 ---
 title: "Body Creations Ink"
 url: /springfield/body-creations-ink/
-shop: Tattoo
+shop: tattoo
 ---

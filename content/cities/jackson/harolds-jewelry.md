@@ -1,5 +1,5 @@
 ---
 title: "Harold's Jewelry"
 url: /jackson/harolds-jewelry/
-shop: Schmuck
+shop: jewelry
 ---

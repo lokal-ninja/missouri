@@ -1,5 +1,5 @@
 ---
 title: "Vee Village Auto Service"
 url: /kansas-city/vee-village-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

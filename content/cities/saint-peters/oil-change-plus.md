@@ -1,5 +1,5 @@
 ---
 title: "Oil Change Plus"
 url: /saint-peters/oil-change-plus/
-shop: Autowerkstatt
+shop: car repair
 ---

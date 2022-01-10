@@ -1,5 +1,5 @@
 ---
 title: "Plush Boutique"
 url: /washington/plush-boutique/
-shop: Modehaus
+shop: boutique
 ---

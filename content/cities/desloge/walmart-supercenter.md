@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /desloge/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

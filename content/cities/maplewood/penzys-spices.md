@@ -1,5 +1,5 @@
 ---
 title: "Penzy's Spices"
 url: /maplewood/penzys-spices/
-shop: Gewürze
+shop: spices
 ---

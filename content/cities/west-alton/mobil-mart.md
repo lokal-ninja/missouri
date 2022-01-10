@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /west-alton/mobil-mart/
-shop: Lebensmittel
+shop: convenience
 ---

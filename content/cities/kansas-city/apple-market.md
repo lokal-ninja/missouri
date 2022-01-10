@@ -1,5 +1,5 @@
 ---
 title: "Apple Market"
 url: /kansas-city/apple-market/
-shop: Supermarkt
+shop: supermarket
 ---

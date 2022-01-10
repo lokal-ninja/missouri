@@ -1,5 +1,5 @@
 ---
 title: "Famous Footwear"
 url: /kansas-city/famous-footwear/
-shop: Schuhe
+shop: shoes
 ---

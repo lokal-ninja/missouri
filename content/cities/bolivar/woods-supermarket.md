@@ -1,5 +1,5 @@
 ---
 title: "Woods Supermarket"
 url: /bolivar/woods-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

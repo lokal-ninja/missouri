@@ -1,5 +1,5 @@
 ---
 title: "Macadoodles"
 url: /springfield/macadoodles/
-shop: Spirituosen
+shop: alcohol
 ---

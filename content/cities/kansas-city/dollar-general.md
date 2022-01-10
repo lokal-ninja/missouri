@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /kansas-city/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

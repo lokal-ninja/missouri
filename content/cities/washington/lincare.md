@@ -1,5 +1,5 @@
 ---
 title: "Lincare"
 url: /washington/lincare/
-shop: Sanitätshaus
+shop: medical supply
 ---

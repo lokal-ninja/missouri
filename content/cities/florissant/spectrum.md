@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /florissant/spectrum/
-shop: Handy
+shop: mobile phone
 ---

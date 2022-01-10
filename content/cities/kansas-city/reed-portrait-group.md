@@ -1,5 +1,5 @@
 ---
 title: "Reed Portrait Group"
 url: /kansas-city/reed-portrait-group/
-shop: Allgemein
+shop: shop
 ---

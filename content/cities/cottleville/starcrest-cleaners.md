@@ -1,5 +1,5 @@
 ---
 title: "Starcrest Cleaners"
 url: /cottleville/starcrest-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ed's Meat Market"
 url: /washington/eds-meat-market/
-shop: Metzgerei
+shop: butcher
 ---

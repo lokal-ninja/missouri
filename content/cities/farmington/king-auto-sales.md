@@ -1,5 +1,5 @@
 ---
 title: "King Auto Sales"
 url: /farmington/king-auto-sales/
-shop: Autohaus
+shop: car
 ---

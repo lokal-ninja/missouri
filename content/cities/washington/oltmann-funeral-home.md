@@ -1,5 +1,5 @@
 ---
 title: "Oltmann Funeral Home"
 url: /washington/oltmann-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

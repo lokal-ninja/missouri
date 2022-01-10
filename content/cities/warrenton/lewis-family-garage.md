@@ -1,5 +1,5 @@
 ---
 title: "Lewis Family Garage"
 url: /warrenton/lewis-family-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

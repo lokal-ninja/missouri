@@ -1,5 +1,5 @@
 ---
 title: "Kay Jewelers"
 url: /kansas-city/kay-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

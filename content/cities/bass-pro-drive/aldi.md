@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /bass-pro-drive/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

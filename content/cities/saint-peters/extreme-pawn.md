@@ -1,5 +1,5 @@
 ---
 title: "Extreme Pawn"
 url: /saint-peters/extreme-pawn/
-shop: Leiher
+shop: pawnbroker
 ---

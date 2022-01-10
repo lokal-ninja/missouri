@@ -1,5 +1,5 @@
 ---
 title: "PLUG Projects"
 url: /kansas-city/plug-projects/
-shop: Kunst
+shop: art
 ---

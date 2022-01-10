@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /cuba/walmart/
-shop: Warenhaus
+shop: department store
 ---

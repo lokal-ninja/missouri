@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /lake-saint-louis/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

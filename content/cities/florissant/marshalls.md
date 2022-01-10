@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /florissant/marshalls/
-shop: Warenhaus
+shop: department store
 ---

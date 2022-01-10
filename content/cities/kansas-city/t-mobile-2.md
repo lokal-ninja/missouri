@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /kansas-city/t-mobile-2/
-shop: Handy
+shop: mobile phone
 ---

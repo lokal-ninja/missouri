@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /ballwin/marshalls/
-shop: Warenhaus
+shop: department store
 ---

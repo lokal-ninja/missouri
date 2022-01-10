@@ -1,5 +1,5 @@
 ---
 title: "Spring Valley"
 url: /springfield/spring-valley/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

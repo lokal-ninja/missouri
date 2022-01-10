@@ -1,5 +1,5 @@
 ---
 title: "Gordmans"
 url: /kansas-city/gordmans/
-shop: Warenhaus
+shop: department store
 ---

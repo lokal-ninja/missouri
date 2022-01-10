@@ -1,5 +1,5 @@
 ---
 title: "Sunbeam Discount Bakery Store"
 url: /springfield/sunbeam-discount-bakery-store/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boardwalk Hardwood Floors"
 url: /saint-peters/boardwalk-hardwood-floors/
-shop: Fußböden
+shop: flooring
 ---

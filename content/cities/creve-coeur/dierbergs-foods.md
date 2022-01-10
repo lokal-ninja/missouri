@@ -1,5 +1,5 @@
 ---
 title: "Dierberg's Foods"
 url: /creve-coeur/dierbergs-foods/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /creve-coeur/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Moto Mart"
 url: /st-louis/moto-mart/
-shop: Lebensmittel
+shop: convenience
 ---

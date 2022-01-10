@@ -1,5 +1,5 @@
 ---
 title: "Denny Dennis"
 url: /fenton/denny-dennis/
-shop: Sport
+shop: sports
 ---

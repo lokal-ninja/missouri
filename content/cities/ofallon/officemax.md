@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /ofallon/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LifeWay"
 url: /springfield/lifeway/
-shop: Bücher
+shop: books
 ---

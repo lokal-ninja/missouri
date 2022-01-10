@@ -1,5 +1,5 @@
 ---
 title: "Blue's Bike Company"
 url: /joplin/blues-bike-company/
-shop: Fahrrad
+shop: bicycle
 ---
