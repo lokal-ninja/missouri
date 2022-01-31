@@ -1,5 +1,5 @@
 ---
 title: "Heavy Duty Equipment"
 url: /chesterfield/heavy-duty-equipment/
-shop: shop
+shop: groundskeeping
 ---
