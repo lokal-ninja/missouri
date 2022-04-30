@@ -1,6 +1,6 @@
 ---
 title: St. Louis-City
 url: /st-louis-city/
-latitude: 38.631
-longitude: -90.193
+latitude: 38.628
+longitude: -90.189
 ---
