@@ -1,5 +1,5 @@
 ---
-title: "Do It Best"
+title: "Do it Best"
 url: /rock-port/do-it-best/
 shop: hardware
 ---

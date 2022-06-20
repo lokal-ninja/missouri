@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /town-and-country/target/
+url: /chesterfield/target-2/
 shop: department store
 ---
