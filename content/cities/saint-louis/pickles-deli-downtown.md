@@ -1,5 +1,5 @@
 ---
 title: "Pickles Deli Downtown"
-url: /st-louis-city/pickles-deli-downtown/
+url: /saint-louis/pickles-deli-downtown/
 shop: deli
 ---
