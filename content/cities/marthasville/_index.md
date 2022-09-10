@@ -1,6 +1,6 @@
 ---
 title: Marthasville
 url: /marthasville/
-latitude: 38.635
-longitude: -91.068
+latitude: 38.639
+longitude: -91.071
 ---
