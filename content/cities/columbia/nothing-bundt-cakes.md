@@ -1,5 +1,5 @@
 ---
 title: "Nothing Bundt Cakes"
-url: /st-louis/nothing-bundt-cakes/
+url: /columbia/nothing-bundt-cakes/
 shop: pastry
 ---
