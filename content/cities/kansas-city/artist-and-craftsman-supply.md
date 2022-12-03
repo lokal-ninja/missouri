@@ -1,5 +1,5 @@
 ---
-title: "Artist & Craftsman Supply"
+title: "Artist and Craftsman Supply"
 url: /kansas-city/artist-and-craftsman-supply/
-shop: art
+shop: craft
 ---
