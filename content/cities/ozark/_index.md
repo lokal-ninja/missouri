@@ -1,6 +1,6 @@
 ---
 title: Ozark
 url: /ozark/
-latitude: 37.002
-longitude: -93.224
+latitude: 37.022
+longitude: -93.204
 ---
