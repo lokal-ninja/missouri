@@ -1,6 +1,6 @@
 ---
 title: Lake Saint Louis
 url: /lake-saint-louis/
-latitude: 38.805
-longitude: -90.77
+latitude: 38.767
+longitude: -90.787
 ---
