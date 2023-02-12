@@ -1,6 +1,6 @@
 ---
 title: Arnold
 url: /arnold/
-latitude: 38.436
-longitude: -90.383
+latitude: 38.439
+longitude: -90.375
 ---

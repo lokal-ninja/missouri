@@ -1,5 +1,5 @@
 ---
 title: "Stick It Here"
-url: /hallsville/stick-it-here-3/
+url: /hallsville/stick-it-here/
 shop: storage rental
 ---
