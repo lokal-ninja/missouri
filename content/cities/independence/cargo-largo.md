@@ -1,5 +1,5 @@
 ---
 title: "Cargo Largo"
 url: /independence/cargo-largo/
-shop: shop
+shop: general
 ---
