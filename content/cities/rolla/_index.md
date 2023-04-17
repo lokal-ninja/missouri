@@ -1,6 +1,6 @@
 ---
 title: Rolla
 url: /rolla/
-latitude: 37.929
-longitude: -91.781
+latitude: 37.955
+longitude: -91.777
 ---
