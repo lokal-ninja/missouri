@@ -1,6 +1,6 @@
 ---
 title: Olivette
 url: /olivette/
-latitude: 38.673
-longitude: -90.378
+latitude: 38.674
+longitude: -90.388
 ---
