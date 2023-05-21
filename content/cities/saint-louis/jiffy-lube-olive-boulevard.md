@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
-url: /olivette/jiffy-lube/
+url: /saint-louis/jiffy-lube/
 shop: car repair
 ---

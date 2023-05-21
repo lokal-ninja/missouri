@@ -1,6 +1,6 @@
 ---
 title: O'Fallon
 url: /ofallon/
-latitude: 38.81
-longitude: -90.7
+latitude: 38.792
+longitude: -90.701
 ---
