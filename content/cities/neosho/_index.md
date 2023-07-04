@@ -1,6 +1,6 @@
 ---
 title: Neosho
 url: /neosho/
-latitude: 36.87
-longitude: -94.371
+latitude: 36.839
+longitude: -94.389
 ---
