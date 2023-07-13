@@ -1,11 +1,11 @@
-id: 269414461
-type: way
-latitude: 39.05741
-longitude: -94.60103
-postcode: "64111"
+id: 9916127321
+type: node
+latitude: 39.09869
+longitude: -94.58251
+postcode: "64106"
 city: Kansas City
-street: "West 39th Street"
-housenumber: 1208
+street: "East 13th Street"
+housenumber: 40
 phone: ""
-opening_hours: "Tu-Fr 07:00-14:00, Sa-Su 08:00-14:00"
-website: ""
+opening_hours: ""
+website: "https://www.meshuggahbagels.com/home"
