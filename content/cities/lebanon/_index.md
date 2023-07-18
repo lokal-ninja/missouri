@@ -1,6 +1,6 @@
 ---
 title: Lebanon
 url: /lebanon/
-latitude: 37.726
-longitude: -92.856
+latitude: 37.665
+longitude: -92.645
 ---
