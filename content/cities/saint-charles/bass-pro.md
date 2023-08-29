@@ -1,5 +1,5 @@
 ---
 title: "Bass Pro"
-url: /st-charles/bass-pro/
+url: /saint-charles/bass-pro/
 shop: outdoor
 ---
