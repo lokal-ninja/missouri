@@ -1,5 +1,5 @@
 ---
 title: "Schnucks"
-url: /arnold/schnucks/
+url: /arnold/schnucks-vogel-road/
 shop: supermarket
 ---

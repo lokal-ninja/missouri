@@ -1,5 +1,5 @@
 ---
 title: "Tuesday Morning"
-url: /kansas-city/tuesday-morning/
+url: /kansas-city/tuesday-morning-north-booth-avenue/
 shop: houseware
 ---

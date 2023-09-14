@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
-url: /springfield/supercuts/
+url: /springfield/supercuts-south-campbell-avenue/
 shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /ofallon/circle-k/
+url: /ofallon/circle-k-ofallon-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Schnucks"
-url: /florissant/schnucks/
+url: /florissant/schnucks-new-halls-ferry-road/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Famous Footwear"
-url: /kansas-city/famous-footwear/
+url: /kansas-city/famous-footwear-north-evanston-avenue/
 shop: shoes
 ---

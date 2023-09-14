@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
-url: /fenton/jiffy-lube/
+url: /fenton/jiffy-lube-hawkins-road/
 shop: car repair
 ---

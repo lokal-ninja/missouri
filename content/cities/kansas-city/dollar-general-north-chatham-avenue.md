@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /kansas-city/dollar-general/
+url: /kansas-city/dollar-general-north-chatham-avenue/
 shop: variety store
 ---

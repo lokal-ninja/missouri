@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
-url: /ofallon/dollar-tree/
+url: /ofallon/dollar-tree-highway-k/
 shop: variety store
 ---

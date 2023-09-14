@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
-url: /kansas-city/jcpenney/
+url: /kansas-city/jcpenney-north-flintlock-road/
 shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rent-A-Center"
-url: /kansas-city/rent-a-center/
+url: /kansas-city/rent-a-center-troost-avenue/
 shop: furniture
 ---

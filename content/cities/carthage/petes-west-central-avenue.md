@@ -1,5 +1,5 @@
 ---
 title: "Pete's"
-url: /carthage/petes/
+url: /carthage/petes-west-central-avenue/
 shop: convenience
 ---

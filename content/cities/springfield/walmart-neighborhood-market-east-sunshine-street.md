@@ -1,5 +1,5 @@
 ---
 title: "Walmart Neighborhood Market"
-url: /springfield/walmart-neighborhood-market/
+url: /springfield/walmart-neighborhood-market-east-sunshine-street/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Art Monster"
-url: /saint-louis/art-monster/
+url: /saint-louis/art-monster-cherokee-street/
 shop: tattoo
 ---

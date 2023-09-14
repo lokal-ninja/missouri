@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /ofallon/quiktrip/
+url: /ofallon/quiktrip-mexico-road/
 shop: convenience
 ---

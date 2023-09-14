@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /kansas-city/quiktrip/
+url: /kansas-city/quiktrip-state-line-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Save-A-Lot"
-url: /saint-louis/save-a-lot/
+url: /saint-louis/save-a-lot-union-boulevard/
 shop: supermarket
 ---

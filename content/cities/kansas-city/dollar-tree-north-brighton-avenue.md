@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
-url: /kansas-city/dollar-tree/
+url: /kansas-city/dollar-tree-north-brighton-avenue/
 shop: variety store
 ---
