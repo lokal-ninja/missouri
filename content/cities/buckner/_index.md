@@ -1,6 +1,6 @@
 ---
 title: Buckner
 url: /buckner/
-latitude: 39.135
-longitude: -94.203
+latitude: 39.139
+longitude: -94.2
 ---
