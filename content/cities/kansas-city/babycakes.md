@@ -1,5 +1,5 @@
 ---
 title: "BabyCakes"
 url: /kansas-city/babycakes/
-shop: bakery
+shop: pastry
 ---

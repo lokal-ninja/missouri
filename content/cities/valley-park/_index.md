@@ -1,6 +1,6 @@
 ---
 title: Valley Park
 url: /valley-park/
-latitude: 38.537
-longitude: -90.495
+latitude: 38.567
+longitude: -90.476
 ---
