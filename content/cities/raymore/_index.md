@@ -1,6 +1,6 @@
 ---
 title: Raymore
 url: /raymore/
-latitude: 38.813
-longitude: -94.49
+latitude: 38.809
+longitude: -94.495
 ---
