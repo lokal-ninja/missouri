@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /carthage/dollar-general-west-central-avenue/
+url: /carthage/dollar-general-south-grand-avenue/
 shop: variety store
 ---
