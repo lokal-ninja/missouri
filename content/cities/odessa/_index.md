@@ -1,6 +1,6 @@
 ---
 title: Odessa
 url: /odessa/
-latitude: 39.006
+latitude: 39.004
 longitude: -93.954
 ---
