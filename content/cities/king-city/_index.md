@@ -1,6 +1,6 @@
 ---
 title: King City
 url: /king-city/
-latitude: 40.053
+latitude: 40.055
 longitude: -94.524
 ---
