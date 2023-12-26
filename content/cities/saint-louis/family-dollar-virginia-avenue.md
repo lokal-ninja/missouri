@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
-url: /saint-louis/family-dollar-delmar-boulevard/
+url: /saint-louis/family-dollar-virginia-avenue/
 shop: variety store
 ---
