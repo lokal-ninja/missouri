@@ -1,6 +1,6 @@
 ---
 title: Harrisonville
 url: /harrisonville/
-latitude: 38.653
-longitude: -94.36
+latitude: 38.654
+longitude: -94.359
 ---
