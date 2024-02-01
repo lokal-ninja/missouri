@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /lees-summit/quiktrip-2/
+url: /saint-peters/quiktrip-main-street/
 shop: convenience
 ---
