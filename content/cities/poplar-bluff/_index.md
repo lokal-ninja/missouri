@@ -1,6 +1,6 @@
 ---
 title: Poplar Bluff
 url: /poplar-bluff/
-latitude: 36.778
-longitude: -90.424
+latitude: 36.763
+longitude: -90.412
 ---

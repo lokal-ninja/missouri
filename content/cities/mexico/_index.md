@@ -1,6 +1,6 @@
 ---
 title: Mexico
 url: /mexico/
-latitude: 39.173
-longitude: -91.885
+latitude: 39.147
+longitude: -91.891
 ---

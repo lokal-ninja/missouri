@@ -1,6 +1,6 @@
 ---
 title: Gladstone
 url: /gladstone/
-latitude: 39.219
-longitude: -94.577
+latitude: 39.225
+longitude: -94.576
 ---

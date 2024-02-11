@@ -1,6 +1,6 @@
 ---
 title: Platte City
 url: /platte-city/
-latitude: 39.352
-longitude: -94.766
+latitude: 39.35
+longitude: -94.76
 ---
