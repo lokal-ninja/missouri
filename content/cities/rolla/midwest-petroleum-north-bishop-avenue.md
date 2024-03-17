@@ -1,5 +1,5 @@
 ---
 title: "Midwest Petroleum"
-url: /rolla/midwest-petroleum-east-10th-street/
+url: /rolla/midwest-petroleum-north-bishop-avenue/
 shop: convenience
 ---
