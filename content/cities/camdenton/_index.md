@@ -1,6 +1,6 @@
 ---
 title: Camdenton
 url: /camdenton/
-latitude: 38.023
-longitude: -92.724
+latitude: 38.004
+longitude: -92.738
 ---

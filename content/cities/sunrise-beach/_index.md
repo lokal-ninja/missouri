@@ -1,6 +1,6 @@
 ---
 title: Sunrise Beach
 url: /sunrise-beach/
-latitude: 38.149
-longitude: -92.777
+latitude: 38.145
+longitude: -92.77
 ---
