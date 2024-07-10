@@ -1,6 +1,6 @@
 ---
 title: Sedalia
 url: /sedalia/
-latitude: 38.7
-longitude: -93.252
+latitude: 38.711
+longitude: -93.275
 ---

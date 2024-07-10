@@ -1,6 +1,6 @@
 ---
 title: Cape Girardeau
 url: /cape-girardeau/
-latitude: 37.302
-longitude: -89.549
+latitude: 37.3
+longitude: -89.58
 ---

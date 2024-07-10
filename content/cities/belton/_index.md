@@ -1,6 +1,6 @@
 ---
 title: Belton
 url: /belton/
-latitude: 38.815
-longitude: -94.498
+latitude: 38.812
+longitude: -94.508
 ---
