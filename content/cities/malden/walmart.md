@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /malden/walmart/
-shop: department store
+shop: supermarket
 ---

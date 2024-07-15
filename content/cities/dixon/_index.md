@@ -1,6 +1,6 @@
 ---
 title: Dixon
 url: /dixon/
-latitude: 37.995
-longitude: -92.094
+latitude: 37.998
+longitude: -92.085
 ---
