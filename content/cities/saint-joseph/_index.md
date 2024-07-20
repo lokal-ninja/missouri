@@ -1,6 +1,6 @@
 ---
 title: Saint Joseph
 url: /saint-joseph/
-latitude: 39.816
-longitude: -94.813
+latitude: 39.813
+longitude: -94.812
 ---
