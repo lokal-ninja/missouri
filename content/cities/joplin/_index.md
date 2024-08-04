@@ -1,6 +1,6 @@
 ---
 title: Joplin
 url: /joplin/
-latitude: 37.003
-longitude: -94.616
+latitude: 37.056
+longitude: -94.479
 ---
