@@ -1,5 +1,5 @@
 ---
 title: "Dickison Jewelry"
 url: /saint-louis/dickison-jewelry/
-shop: jewelry
+shop: Schmuck
 ---

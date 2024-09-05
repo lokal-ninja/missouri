@@ -1,5 +1,5 @@
 ---
 title: "Buckle"
 url: /fenton/buckle/
-shop: clothes
+shop: Kleidung
 ---

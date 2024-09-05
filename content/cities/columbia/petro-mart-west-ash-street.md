@@ -1,5 +1,5 @@
 ---
 title: "Petro Mart"
 url: /columbia/petro-mart-west-ash-street/
-shop: convenience
+shop: Lebensmittel
 ---

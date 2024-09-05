@@ -1,5 +1,5 @@
 ---
 title: "U-Gas"
 url: /wentzville/u-gas/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Button Makers"
 url: /saint-louis/button-makers/
-shop: clothes
+shop: Kleidung
 ---

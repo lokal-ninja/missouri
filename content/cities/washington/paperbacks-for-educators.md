@@ -1,5 +1,5 @@
 ---
 title: "Paperbacks for Educators"
 url: /washington/paperbacks-for-educators/
-shop: books
+shop: Bücher
 ---

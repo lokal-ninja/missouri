@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /florissant/target/
-shop: department store
+shop: Warenhaus
 ---

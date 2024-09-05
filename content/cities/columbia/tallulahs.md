@@ -1,5 +1,5 @@
 ---
 title: "Tallulahs"
 url: /columbia/tallulahs/
-shop: kitchen
+shop: Küchen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Convenient Food Mart"
 url: /jefferson-city/convenient-food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /blue-springs/old-navy/
-shop: clothes
+shop: Kleidung
 ---

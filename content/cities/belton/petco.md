@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /belton/petco/
-shop: pet
+shop: Tiere
 ---

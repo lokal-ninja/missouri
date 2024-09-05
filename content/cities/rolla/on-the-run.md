@@ -1,5 +1,5 @@
 ---
 title: "On the Run"
 url: /rolla/on-the-run/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /nixa/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

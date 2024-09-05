@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /kansas-city/dollar-general-north-oak-trafficway/
-shop: variety store
+shop: Kramladen
 ---

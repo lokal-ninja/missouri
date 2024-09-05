@@ -1,5 +1,5 @@
 ---
 title: "PacSun"
 url: /saint-peters/pacsun/
-shop: clothes
+shop: Kleidung
 ---

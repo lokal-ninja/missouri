@@ -1,5 +1,5 @@
 ---
 title: "Escapist"
 url: /kansas-city/escapist/
-shop: sports
+shop: Sport
 ---

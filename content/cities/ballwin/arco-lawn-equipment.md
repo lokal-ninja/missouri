@@ -1,5 +1,5 @@
 ---
 title: "ARCO Lawn Equipment"
 url: /ballwin/arco-lawn-equipment/
-shop: groundskeeping
+shop: Platzpflege
 ---

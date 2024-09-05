@@ -1,5 +1,5 @@
 ---
 title: "Thomas Autocare"
 url: /washington/thomas-autocare/
-shop: car repair
+shop: Autowerkstatt
 ---

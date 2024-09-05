@@ -1,5 +1,5 @@
 ---
 title: "Starrs"
 url: /richmond-heights/starrs/
-shop: alcohol
+shop: Spirituosen
 ---

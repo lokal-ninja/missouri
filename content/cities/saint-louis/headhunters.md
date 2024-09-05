@@ -1,5 +1,5 @@
 ---
 title: "Headhunters"
 url: /saint-louis/headhunters/
-shop: hairdresser
+shop: Friseur
 ---

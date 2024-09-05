@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /ofallon/great-clips/
-shop: hairdresser
+shop: Friseur
 ---

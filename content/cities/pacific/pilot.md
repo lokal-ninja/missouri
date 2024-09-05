@@ -1,5 +1,5 @@
 ---
 title: "Pilot"
 url: /pacific/pilot/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "For Strange Women"
 url: /kansas-city/for-strange-women/
-shop: perfumery
+shop: Parfümerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "New Balance"
 url: /creve-coeur/new-balance/
-shop: shoes
+shop: Schuhe
 ---

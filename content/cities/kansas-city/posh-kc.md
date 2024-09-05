@@ -1,5 +1,5 @@
 ---
 title: "Posh KC"
 url: /kansas-city/posh-kc/
-shop: beauty
+shop: Kosmetik
 ---

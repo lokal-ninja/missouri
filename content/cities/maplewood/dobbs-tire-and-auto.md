@@ -1,5 +1,5 @@
 ---
 title: "DOBBs Tire and Auto"
 url: /maplewood/dobbs-tire-and-auto/
-shop: car repair
+shop: Autowerkstatt
 ---

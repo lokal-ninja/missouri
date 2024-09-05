@@ -1,5 +1,5 @@
 ---
 title: "Sisters In Thyme"
 url: /springfield/sisters-in-thyme/
-shop: bakery
+shop: Bäckerei
 ---

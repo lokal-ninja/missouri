@@ -1,5 +1,5 @@
 ---
 title: "Always in Bloom"
 url: /saint-louis/always-in-bloom/
-shop: florist
+shop: Blumen
 ---

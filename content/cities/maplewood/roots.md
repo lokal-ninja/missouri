@@ -1,5 +1,5 @@
 ---
 title: "Roots"
 url: /maplewood/roots/
-shop: antiques
+shop: Antiquitäten
 ---

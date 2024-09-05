@@ -1,5 +1,5 @@
 ---
 title: "Shane Company"
 url: /olivette/shane-company/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /independence/autozone/
-shop: car parts
+shop: Autoteile
 ---

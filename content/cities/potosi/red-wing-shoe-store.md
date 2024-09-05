@@ -1,5 +1,5 @@
 ---
 title: "Red Wing Shoe Store"
 url: /potosi/red-wing-shoe-store/
-shop: shoes
+shop: Schuhe
 ---

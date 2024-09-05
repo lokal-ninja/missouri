@@ -1,5 +1,5 @@
 ---
 title: "On the Run"
 url: /saint-louis/on-the-run/
-shop: convenience
+shop: Lebensmittel
 ---

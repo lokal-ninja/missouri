@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /pleasant-valley/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

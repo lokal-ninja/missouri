@@ -1,5 +1,5 @@
 ---
 title: "Ruler Foods"
 url: /st-ann/ruler-foods/
-shop: supermarket
+shop: Supermarkt
 ---

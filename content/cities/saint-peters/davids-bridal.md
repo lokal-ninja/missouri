@@ -1,5 +1,5 @@
 ---
 title: "David's Bridal"
 url: /saint-peters/davids-bridal/
-shop: shop
+shop: Allgemein
 ---

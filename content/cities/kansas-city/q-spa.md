@@ -1,5 +1,5 @@
 ---
 title: "Q Spa"
 url: /kansas-city/q-spa/
-shop: massage
+shop: Massage
 ---

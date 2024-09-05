@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /gladstone/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

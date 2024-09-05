@@ -1,5 +1,5 @@
 ---
 title: "Break Time"
 url: /lake-ozark/break-time-bagnell-dam-boulevard/
-shop: gas
+shop: Gasflaschen
 ---

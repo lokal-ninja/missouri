@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /gladstone/midas/
-shop: car repair
+shop: Autowerkstatt
 ---

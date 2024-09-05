@@ -1,5 +1,5 @@
 ---
 title: "Double Action Protection LLC"
 url: /nevada/double-action-protection-llc/
-shop: weapons
+shop: Waffen
 ---

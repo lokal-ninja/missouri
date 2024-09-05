@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /troy/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

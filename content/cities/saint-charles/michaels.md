@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /saint-charles/michaels/
-shop: craft
+shop: Basteln
 ---

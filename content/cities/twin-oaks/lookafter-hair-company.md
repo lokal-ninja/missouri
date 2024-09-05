@@ -1,5 +1,5 @@
 ---
 title: "LookAfter Hair Company"
 url: /twin-oaks/lookafter-hair-company/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mosers"
 url: /mexico/mosers/
-shop: supermarket
+shop: Supermarkt
 ---

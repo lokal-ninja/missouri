@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /belton/petsmart/
-shop: pet
+shop: Tiere
 ---

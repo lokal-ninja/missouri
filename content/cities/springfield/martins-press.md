@@ -1,5 +1,5 @@
 ---
 title: "Martin's Press"
 url: /springfield/martins-press/
-shop: copyshop
+shop: Kopieren
 ---

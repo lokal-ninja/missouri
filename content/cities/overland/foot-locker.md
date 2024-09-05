@@ -1,5 +1,5 @@
 ---
 title: "Foot Locker"
 url: /overland/foot-locker/
-shop: shoes
+shop: Schuhe
 ---

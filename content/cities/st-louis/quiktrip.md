@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /st-louis/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

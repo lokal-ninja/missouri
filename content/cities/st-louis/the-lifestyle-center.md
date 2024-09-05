@@ -1,5 +1,5 @@
 ---
 title: "The Lifestyle Center"
 url: /st-louis/the-lifestyle-center/
-shop: beauty
+shop: Kosmetik
 ---

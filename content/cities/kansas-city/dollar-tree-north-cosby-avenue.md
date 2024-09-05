@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /kansas-city/dollar-tree-north-cosby-avenue/
-shop: variety store
+shop: Kramladen
 ---

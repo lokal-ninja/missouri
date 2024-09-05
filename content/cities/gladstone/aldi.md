@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /gladstone/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

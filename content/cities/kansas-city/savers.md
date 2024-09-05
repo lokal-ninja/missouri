@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /kansas-city/savers/
-shop: charity
+shop: Gebrauchtwaren
 ---

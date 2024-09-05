@@ -1,5 +1,5 @@
 ---
 title: "Royal Liquor"
 url: /kansas-city/royal-liquor/
-shop: alcohol
+shop: Spirituosen
 ---

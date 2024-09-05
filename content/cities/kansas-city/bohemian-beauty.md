@@ -1,5 +1,5 @@
 ---
 title: "Bohemian Beauty"
 url: /kansas-city/bohemian-beauty/
-shop: beauty
+shop: Kosmetik
 ---

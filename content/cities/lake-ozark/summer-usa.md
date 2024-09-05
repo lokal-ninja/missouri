@@ -1,5 +1,5 @@
 ---
 title: "Summer USA"
 url: /lake-ozark/summer-usa/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shoe Dept. Encore"
 url: /springfield/shoe-dept-encore/
-shop: shoes
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /raymore/firestone/
-shop: car repair
+shop: Autowerkstatt
 ---

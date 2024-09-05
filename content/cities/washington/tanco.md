@@ -1,5 +1,5 @@
 ---
 title: "Tanco"
 url: /washington/tanco/
-shop: beauty
+shop: Kosmetik
 ---

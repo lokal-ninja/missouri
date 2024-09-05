@@ -1,5 +1,5 @@
 ---
 title: "Read A Book"
 url: /saint-louis/read-a-book/
-shop: books
+shop: Bücher
 ---

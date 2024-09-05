@@ -1,5 +1,5 @@
 ---
 title: "Smallcakes"
 url: /kansas-city/smallcakes/
-shop: pastry
+shop: Konditorei
 ---

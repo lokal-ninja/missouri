@@ -1,5 +1,5 @@
 ---
 title: "Gerbes"
 url: /columbia/gerbes/
-shop: supermarket
+shop: Supermarkt
 ---

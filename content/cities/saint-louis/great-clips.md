@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /saint-louis/great-clips/
-shop: hairdresser
+shop: Friseur
 ---

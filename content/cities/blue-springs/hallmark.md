@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /blue-springs/hallmark/
-shop: gift
+shop: Andenken
 ---

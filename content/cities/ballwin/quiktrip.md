@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /ballwin/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

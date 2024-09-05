@@ -1,5 +1,5 @@
 ---
 title: "Oberweis"
 url: /ballwin/oberweis/
-shop: dairy
+shop: Milch
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jellybeans"
 url: /springfield/jellybeans/
-shop: clothes
+shop: Kleidung
 ---

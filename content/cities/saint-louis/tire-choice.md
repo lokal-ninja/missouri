@@ -1,5 +1,5 @@
 ---
 title: "Tire Choice"
 url: /saint-louis/tire-choice/
-shop: tyres
+shop: Reifen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Harps"
 url: /seligman/harps/
-shop: supermarket
+shop: Supermarkt
 ---

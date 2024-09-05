@@ -1,5 +1,5 @@
 ---
 title: "Goddess Gowns"
 url: /union/goddess-gowns/
-shop: clothes
+shop: Kleidung
 ---

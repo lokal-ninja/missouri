@@ -1,5 +1,5 @@
 ---
 title: "Maplewood Bicycle"
 url: /st-louis/maplewood-bicycle/
-shop: bicycle
+shop: Fahrrad
 ---

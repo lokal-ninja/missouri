@@ -1,5 +1,5 @@
 ---
 title: "Revolve"
 url: /kansas-city/revolve/
-shop: bicycle
+shop: Fahrrad
 ---

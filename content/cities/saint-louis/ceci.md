@@ -1,5 +1,5 @@
 ---
 title: "CeCi"
 url: /saint-louis/ceci/
-shop: clothes
+shop: Kleidung
 ---

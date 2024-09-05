@@ -1,5 +1,5 @@
 ---
 title: "Sutherlands"
 url: /liberty/sutherlands/
-shop: doityourself
+shop: Baumarkt
 ---

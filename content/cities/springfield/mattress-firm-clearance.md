@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm Clearance"
 url: /springfield/mattress-firm-clearance/
-shop: bed
+shop: Betten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /belton/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

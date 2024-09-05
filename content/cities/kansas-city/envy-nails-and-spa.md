@@ -1,5 +1,5 @@
 ---
 title: "Envy Nails and Spa"
 url: /kansas-city/envy-nails-and-spa/
-shop: beauty
+shop: Kosmetik
 ---

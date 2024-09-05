@@ -1,5 +1,5 @@
 ---
 title: "Tennyson's Furniture"
 url: /jefferson-city/tennysons-furniture/
-shop: furniture
+shop: Möbel
 ---

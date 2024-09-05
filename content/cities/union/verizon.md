@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /union/verizon/
-shop: mobile phone
+shop: Handy
 ---

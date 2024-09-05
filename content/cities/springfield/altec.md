@@ -1,5 +1,5 @@
 ---
 title: "Altec"
 url: /springfield/altec/
-shop: computer
+shop: Computer
 ---

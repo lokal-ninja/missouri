@@ -1,5 +1,5 @@
 ---
 title: "Paseo Express"
 url: /kansas-city/paseo-express/
-shop: convenience
+shop: Lebensmittel
 ---

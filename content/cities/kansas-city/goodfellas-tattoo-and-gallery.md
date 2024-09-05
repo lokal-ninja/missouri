@@ -1,5 +1,5 @@
 ---
 title: "Goodfellas Tattoo and Gallery"
 url: /kansas-city/goodfellas-tattoo-and-gallery/
-shop: tattoo
+shop: Tattoo
 ---

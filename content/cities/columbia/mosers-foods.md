@@ -1,5 +1,5 @@
 ---
-title: "Moser's Foods"
+title: "Mosers Foods"
 url: /columbia/mosers-foods/
-shop: supermarket
+shop: Supermarkt
 ---

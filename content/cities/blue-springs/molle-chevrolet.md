@@ -1,5 +1,5 @@
 ---
 title: "Molle Chevrolet"
 url: /blue-springs/molle-chevrolet/
-shop: car
+shop: Autohaus
 ---

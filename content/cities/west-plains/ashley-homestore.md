@@ -1,5 +1,5 @@
 ---
 title: "Ashley HomeStore"
 url: /west-plains/ashley-homestore/
-shop: furniture
+shop: Möbel
 ---

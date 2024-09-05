@@ -1,5 +1,5 @@
 ---
 title: "Men's Wearhouse"
 url: /saint-peters/mens-wearhouse/
-shop: clothes
+shop: Kleidung
 ---

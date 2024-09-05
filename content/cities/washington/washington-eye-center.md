@@ -1,5 +1,5 @@
 ---
 title: "Washington Eye Center"
 url: /washington/washington-eye-center/
-shop: optician
+shop: Optiker
 ---

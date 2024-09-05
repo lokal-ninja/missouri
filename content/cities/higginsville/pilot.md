@@ -1,5 +1,5 @@
 ---
 title: "Pilot"
 url: /higginsville/pilot/
-shop: convenience
+shop: Lebensmittel
 ---

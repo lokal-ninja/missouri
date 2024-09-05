@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /blue-springs/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

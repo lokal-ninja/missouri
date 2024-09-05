@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /carthage/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tanglewood Cottage"
 url: /washington/tanglewood-cottage/
-shop: antiques
+shop: Antiquitäten
 ---

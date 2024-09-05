@@ -1,5 +1,5 @@
 ---
 title: "Johnson Interiors"
 url: /washington/johnson-interiors/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Buchheit"
 url: /columbia/buchheit/
-shop: general
+shop: Dorfladen
 ---

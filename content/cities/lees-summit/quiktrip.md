@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /lees-summit/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

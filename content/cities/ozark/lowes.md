@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /ozark/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /ballwin/dsw/
-shop: shoes
+shop: Schuhe
 ---
