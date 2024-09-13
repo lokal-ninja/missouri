@@ -1,5 +1,5 @@
 ---
 title: "Heaton Bowman Smith Sidenfaden"
 url: /saint-joseph/heaton-bowman-smith-sidenfaden/
-shop: Bestattungen
+shop: funeral directors
 ---

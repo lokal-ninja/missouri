@@ -1,5 +1,5 @@
 ---
 title: "Lee's Family Laundry"
 url: /saint-louis/lees-family-laundry/
-shop: Wäscherei
+shop: laundry
 ---

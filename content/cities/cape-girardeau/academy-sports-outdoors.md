@@ -1,5 +1,5 @@
 ---
 title: "Academy Sports + Outdoors"
 url: /cape-girardeau/academy-sports-outdoors/
-shop: Sport
+shop: sports
 ---

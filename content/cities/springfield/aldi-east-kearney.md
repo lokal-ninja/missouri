@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /springfield/aldi-east-kearney/
-shop: Supermarkt
+shop: supermarket
 ---

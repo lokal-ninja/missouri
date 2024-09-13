@@ -1,5 +1,5 @@
 ---
 title: "Schutte Lumber Company"
 url: /kansas-city/schutte-lumber-company/
-shop: Eisenwaren
+shop: hardware
 ---

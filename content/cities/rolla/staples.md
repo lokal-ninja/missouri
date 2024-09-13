@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /rolla/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

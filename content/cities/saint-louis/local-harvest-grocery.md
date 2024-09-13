@@ -1,5 +1,5 @@
 ---
 title: "Local Harvest Grocery"
 url: /saint-louis/local-harvest-grocery/
-shop: Supermarkt
+shop: supermarket
 ---

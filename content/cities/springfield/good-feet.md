@@ -1,5 +1,5 @@
 ---
 title: "Good Feet"
 url: /springfield/good-feet/
-shop: Schuhe
+shop: shoes
 ---

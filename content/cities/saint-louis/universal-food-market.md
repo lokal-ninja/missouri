@@ -1,5 +1,5 @@
 ---
 title: "Universal Food Market"
 url: /saint-louis/universal-food-market/
-shop: Supermarkt
+shop: supermarket
 ---

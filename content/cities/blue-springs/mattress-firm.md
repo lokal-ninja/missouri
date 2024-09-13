@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /blue-springs/mattress-firm/
-shop: Betten
+shop: bed
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sunshine Eye Clinic"
 url: /springfield/sunshine-eye-clinic/
-shop: Optiker
+shop: optician
 ---

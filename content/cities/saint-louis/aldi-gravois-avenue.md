@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /saint-louis/aldi-gravois-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

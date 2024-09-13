@@ -1,5 +1,5 @@
 ---
 title: "Casey's General Store"
 url: /salem/caseys-general-store/
-shop: Lebensmittel
+shop: convenience
 ---

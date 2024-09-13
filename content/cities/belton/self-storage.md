@@ -1,5 +1,5 @@
 ---
 title: "Self Storage"
 url: /belton/self-storage/
-shop: Mieten
+shop: storage rental
 ---

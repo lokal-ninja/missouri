@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /raymore/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

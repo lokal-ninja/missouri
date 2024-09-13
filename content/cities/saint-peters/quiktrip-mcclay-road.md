@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /saint-peters/quiktrip-mcclay-road/
-shop: Lebensmittel
+shop: convenience
 ---

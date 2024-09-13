@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /st-louis/michaels-south-lindbergh-boulevard/
-shop: Basteln
+shop: craft
 ---

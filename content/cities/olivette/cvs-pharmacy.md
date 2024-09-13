@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /olivette/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

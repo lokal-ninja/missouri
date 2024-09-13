@@ -1,5 +1,5 @@
 ---
 title: "Warson Woods Antique Gallery"
 url: /st-louis/warson-woods-antique-gallery/
-shop: Antiquitäten
+shop: antiques
 ---

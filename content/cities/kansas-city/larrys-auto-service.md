@@ -1,5 +1,5 @@
 ---
 title: "Larry's Auto Service"
 url: /kansas-city/larrys-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

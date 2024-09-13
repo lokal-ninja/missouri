@@ -1,5 +1,5 @@
 ---
 title: "Schnucks"
 url: /wildwood/schnucks/
-shop: Supermarkt
+shop: supermarket
 ---

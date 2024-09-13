@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /saint-peters/t-mobile/
-shop: Handy
+shop: mobile phone
 ---

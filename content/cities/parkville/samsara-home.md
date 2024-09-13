@@ -1,5 +1,5 @@
 ---
 title: "Samsara Home"
 url: /parkville/samsara-home/
-shop: Raumausstattung
+shop: interior decoration
 ---

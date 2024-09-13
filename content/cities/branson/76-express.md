@@ -1,5 +1,5 @@
 ---
 title: "76 Express"
 url: /branson/76-express/
-shop: Lebensmittel
+shop: convenience
 ---

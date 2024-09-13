@@ -1,5 +1,5 @@
 ---
 title: "Muffies"
 url: /wildwood/muffies/
-shop: Bäckerei
+shop: bakery
 ---

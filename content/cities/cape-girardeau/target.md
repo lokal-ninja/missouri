@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /cape-girardeau/target/
-shop: Warenhaus
+shop: department store
 ---

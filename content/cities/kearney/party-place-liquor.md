@@ -1,5 +1,5 @@
 ---
 title: "Party Place Liquor"
 url: /kearney/party-place-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
 url: /fenton/jiffy-lube-hawkins-road/
-shop: Autowerkstatt
+shop: car repair
 ---

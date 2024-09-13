@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /creve-coeur/sprint/
-shop: Handy
+shop: mobile phone
 ---

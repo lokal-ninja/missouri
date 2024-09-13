@@ -1,5 +1,5 @@
 ---
 title: "Aaron's Tinting Service"
 url: /moberly/aarons-tinting-service/
-shop: Autoteile
+shop: car parts
 ---

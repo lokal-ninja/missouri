@@ -1,5 +1,5 @@
 ---
 title: "NTB"
 url: /saint-peters/ntb/
-shop: Autowerkstatt
+shop: car repair
 ---

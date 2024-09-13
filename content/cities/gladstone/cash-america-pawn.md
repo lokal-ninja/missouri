@@ -1,5 +1,5 @@
 ---
 title: "Cash America Pawn"
 url: /gladstone/cash-america-pawn/
-shop: Leiher
+shop: pawnbroker
 ---

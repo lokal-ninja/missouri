@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /saint-joseph/petco/
-shop: Tiere
+shop: pet
 ---

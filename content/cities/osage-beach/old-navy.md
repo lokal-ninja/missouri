@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /osage-beach/old-navy/
-shop: Kleidung
+shop: clothes
 ---

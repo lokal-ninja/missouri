@@ -1,5 +1,5 @@
 ---
 title: "Lane Bryant"
 url: /florissant/lane-bryant/
-shop: Kleidung
+shop: clothes
 ---

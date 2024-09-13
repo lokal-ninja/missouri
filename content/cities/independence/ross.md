@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /independence/ross/
-shop: Warenhaus
+shop: department store
 ---

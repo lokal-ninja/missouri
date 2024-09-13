@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
 url: /saint-joseph/discount-tire/
-shop: Reifen
+shop: tyres
 ---

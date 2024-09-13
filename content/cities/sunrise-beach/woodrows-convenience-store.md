@@ -1,5 +1,5 @@
 ---
 title: "Woodrow's Convenience Store"
 url: /sunrise-beach/woodrows-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

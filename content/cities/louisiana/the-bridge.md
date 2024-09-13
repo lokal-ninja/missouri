@@ -1,5 +1,5 @@
 ---
 title: "The Bridge"
 url: /louisiana/the-bridge/
-shop: Konditorei
+shop: pastry
 ---

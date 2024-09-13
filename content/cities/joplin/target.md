@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /joplin/target/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Big Frog"
 url: /creve-coeur/big-frog/
-shop: Kleidung
+shop: clothes
 ---

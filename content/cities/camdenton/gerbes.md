@@ -1,5 +1,5 @@
 ---
 title: "Gerbes"
 url: /camdenton/gerbes/
-shop: Supermarkt
+shop: supermarket
 ---

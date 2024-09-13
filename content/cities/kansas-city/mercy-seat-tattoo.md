@@ -1,5 +1,5 @@
 ---
 title: "Mercy Seat Tattoo"
 url: /kansas-city/mercy-seat-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TA"
 url: /norwood/ta/
-shop: Lebensmittel
+shop: convenience
 ---

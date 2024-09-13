@@ -1,5 +1,5 @@
 ---
 title: "Fastenal"
 url: /washington/fastenal/
-shop: Allgemein
+shop: shop
 ---

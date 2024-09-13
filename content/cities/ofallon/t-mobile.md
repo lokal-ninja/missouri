@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /ofallon/t-mobile/
-shop: Handy
+shop: mobile phone
 ---

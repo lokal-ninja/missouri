@@ -1,5 +1,5 @@
 ---
 title: "Office Products Alliance"
 url: /kansas-city/office-products-alliance/
-shop: Schreibwaren
+shop: office supplies
 ---

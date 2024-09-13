@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /saint-charles/autozone/
-shop: Autoteile
+shop: car parts
 ---

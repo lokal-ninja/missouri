@@ -1,5 +1,5 @@
 ---
 title: "HobbyTown"
 url: /oakview/hobbytown/
-shop: Sport
+shop: sports
 ---

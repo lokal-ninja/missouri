@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /cape-girardeau/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

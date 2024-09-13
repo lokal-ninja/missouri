@@ -1,5 +1,5 @@
 ---
 title: "Break Time"
 url: /columbia/break-time-west-route-k/
-shop: Lebensmittel
+shop: convenience
 ---

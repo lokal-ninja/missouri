@@ -1,5 +1,5 @@
 ---
 title: "Kilwins"
 url: /branson/kilwins/
-shop: Süßwaren
+shop: confectionery
 ---

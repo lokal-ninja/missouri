@@ -1,5 +1,5 @@
 ---
 title: "Metro Hardwoods"
 url: /independence/metro-hardwoods/
-shop: Baumarkt
+shop: doityourself
 ---

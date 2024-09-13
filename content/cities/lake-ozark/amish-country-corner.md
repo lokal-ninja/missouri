@@ -1,5 +1,5 @@
 ---
 title: "Amish Country Corner"
 url: /lake-ozark/amish-country-corner/
-shop: Kramladen
+shop: variety store
 ---

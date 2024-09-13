@@ -1,5 +1,5 @@
 ---
 title: "Rug Fashion"
 url: /springfield/rug-fashion/
-shop: Teppiche
+shop: carpet
 ---

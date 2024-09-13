@@ -1,5 +1,5 @@
 ---
 title: "Francesca's"
 url: /kansas-city/francescas/
-shop: Kleidung
+shop: clothes
 ---

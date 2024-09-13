@@ -1,5 +1,5 @@
 ---
 title: "Fantasy Shop"
 url: /saint-charles/fantasy-shop/
-shop: Leerstehend
+shop: vacant
 ---

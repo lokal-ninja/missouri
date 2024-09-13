@@ -1,5 +1,5 @@
 ---
 title: "Handyman"
 url: /florissant/handyman/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /maplewood/ross/
-shop: Warenhaus
+shop: department store
 ---

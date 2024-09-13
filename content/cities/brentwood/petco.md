@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /brentwood/petco/
-shop: Tiere
+shop: pet
 ---

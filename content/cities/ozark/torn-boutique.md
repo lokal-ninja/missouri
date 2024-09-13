@@ -1,5 +1,5 @@
 ---
 title: "Torn Boutique"
 url: /ozark/torn-boutique/
-shop: Kleidung
+shop: clothes
 ---

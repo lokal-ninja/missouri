@@ -1,5 +1,5 @@
 ---
 title: "PJ's Salon"
 url: /louisiana/pjs-salon/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hibbett Sports"
 url: /west-plains/hibbett-sports/
-shop: Sport
+shop: sports
 ---

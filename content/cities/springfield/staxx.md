@@ -1,5 +1,5 @@
 ---
 title: "Staxx"
 url: /springfield/staxx/
-shop: Kleidung
+shop: clothes
 ---

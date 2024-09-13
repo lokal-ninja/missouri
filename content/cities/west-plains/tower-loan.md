@@ -1,5 +1,5 @@
 ---
 title: "Tower Loan"
 url: /west-plains/tower-loan/
-shop: Leiher
+shop: pawnbroker
 ---

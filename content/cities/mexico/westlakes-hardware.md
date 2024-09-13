@@ -1,5 +1,5 @@
 ---
 title: "Westlakes Hardware"
 url: /mexico/westlakes-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

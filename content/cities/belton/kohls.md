@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /belton/kohls/
-shop: Warenhaus
+shop: department store
 ---

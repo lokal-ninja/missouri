@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /sedalia/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

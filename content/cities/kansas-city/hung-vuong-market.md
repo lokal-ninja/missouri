@@ -1,5 +1,5 @@
 ---
 title: "Hung Vuong Market"
 url: /kansas-city/hung-vuong-market/
-shop: Supermarkt
+shop: supermarket
 ---

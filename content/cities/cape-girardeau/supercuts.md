@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /cape-girardeau/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

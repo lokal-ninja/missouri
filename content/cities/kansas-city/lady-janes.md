@@ -1,5 +1,5 @@
 ---
 title: "Lady Jane's"
 url: /kansas-city/lady-janes/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Country Mart"
 url: /st-clair/country-mart/
-shop: Supermarkt
+shop: supermarket
 ---

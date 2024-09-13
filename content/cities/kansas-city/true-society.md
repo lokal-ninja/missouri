@@ -1,5 +1,5 @@
 ---
 title: "True Society"
 url: /kansas-city/true-society/
-shop: Kleidung
+shop: clothes
 ---

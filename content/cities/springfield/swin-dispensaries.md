@@ -1,5 +1,5 @@
 ---
 title: "Swin Dispensaries"
 url: /springfield/swin-dispensaries/
-shop: Hanf
+shop: cannabis
 ---

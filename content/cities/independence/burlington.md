@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /independence/burlington/
-shop: Warenhaus
+shop: department store
 ---

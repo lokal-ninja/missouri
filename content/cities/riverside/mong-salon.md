@@ -1,5 +1,5 @@
 ---
 title: "Mong Salon"
 url: /riverside/mong-salon/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pack Rat"
 url: /buffalo/pack-rat/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Journeys"
 url: /saint-peters/journeys/
-shop: Schuhe
+shop: shoes
 ---

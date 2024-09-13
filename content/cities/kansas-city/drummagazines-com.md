@@ -1,5 +1,5 @@
 ---
 title: "DrumMagazines.com"
 url: /kansas-city/drummagazines-com/
-shop: Waffen
+shop: weapons
 ---

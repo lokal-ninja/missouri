@@ -1,5 +1,5 @@
 ---
 title: "Menards"
 url: /rolla/menards/
-shop: Baumarkt
+shop: doityourself
 ---

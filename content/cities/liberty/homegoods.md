@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /liberty/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /kansas-city/gamestop/
-shop: Videospiele
+shop: video games
 ---

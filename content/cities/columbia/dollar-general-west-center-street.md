@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /columbia/dollar-general-west-center-street/
-shop: Kramladen
+shop: variety store
 ---

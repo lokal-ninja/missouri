@@ -1,5 +1,5 @@
 ---
 title: "Donut King"
 url: /north-kansas-city/donut-king/
-shop: Bäckerei
+shop: bakery
 ---

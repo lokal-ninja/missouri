@@ -1,5 +1,5 @@
 ---
 title: "Frick's Supermarket"
 url: /union/fricks-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

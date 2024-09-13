@@ -1,5 +1,5 @@
 ---
 title: "National Home Products"
 url: /springfield/national-home-products/
-shop: Baumarkt
+shop: doityourself
 ---

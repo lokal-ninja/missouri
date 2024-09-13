@@ -1,5 +1,5 @@
 ---
 title: "TA Truck Service Center"
 url: /oak-grove/ta-truck-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

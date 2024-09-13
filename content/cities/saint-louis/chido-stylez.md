@@ -1,5 +1,5 @@
 ---
 title: "Chido Stylez"
 url: /saint-louis/chido-stylez/
-shop: Friseur
+shop: hairdresser
 ---

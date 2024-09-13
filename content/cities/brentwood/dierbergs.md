@@ -1,5 +1,5 @@
 ---
 title: "Dierbergs"
 url: /brentwood/dierbergs/
-shop: Supermarkt
+shop: supermarket
 ---

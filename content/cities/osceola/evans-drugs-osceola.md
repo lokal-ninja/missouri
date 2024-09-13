@@ -1,5 +1,5 @@
 ---
 title: "Evans Drugs - Osceola"
 url: /osceola/evans-drugs-osceola/
-shop: Drogerie
+shop: chemist
 ---

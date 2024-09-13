@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /lake-saint-louis/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

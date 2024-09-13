@@ -1,5 +1,5 @@
 ---
 title: "Famous Footwear"
 url: /ofallon/famous-footwear/
-shop: Schuhe
+shop: shoes
 ---

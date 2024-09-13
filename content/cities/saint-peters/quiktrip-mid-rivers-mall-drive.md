@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /saint-peters/quiktrip-mid-rivers-mall-drive/
-shop: Lebensmittel
+shop: convenience
 ---

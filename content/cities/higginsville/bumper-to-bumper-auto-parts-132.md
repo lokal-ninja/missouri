@@ -1,5 +1,5 @@
 ---
 title: "Bumper To Bumper Auto Parts #132"
 url: /higginsville/bumper-to-bumper-auto-parts-132/
-shop: Autoteile
+shop: car parts
 ---

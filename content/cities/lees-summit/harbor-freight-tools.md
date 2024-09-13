@@ -1,5 +1,5 @@
 ---
 title: "Harbor Freight Tools"
 url: /lees-summit/harbor-freight-tools/
-shop: Eisenwaren
+shop: hardware
 ---

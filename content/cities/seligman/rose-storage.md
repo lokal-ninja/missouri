@@ -1,5 +1,5 @@
 ---
 title: "rose storage"
 url: /seligman/rose-storage/
-shop: Mieten
+shop: storage rental
 ---

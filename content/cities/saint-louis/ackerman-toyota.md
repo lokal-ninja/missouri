@@ -1,5 +1,5 @@
 ---
 title: "Ackerman Toyota"
 url: /saint-louis/ackerman-toyota/
-shop: Autohaus
+shop: car
 ---

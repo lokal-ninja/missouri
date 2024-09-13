@@ -1,5 +1,5 @@
 ---
 title: "Cycle Gear"
 url: /st-ann/cycle-gear/
-shop: Kleidung
+shop: clothes
 ---

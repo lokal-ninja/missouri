@@ -1,5 +1,5 @@
 ---
 title: "RNR Tire Express"
 url: /overland/rnr-tire-express/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Orange Computers"
 url: /maryland-heights/orange-computers/
-shop: Computer
+shop: computer
 ---

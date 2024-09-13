@@ -1,5 +1,5 @@
 ---
 title: "V-Stock"
 url: /saint-peters/v-stock/
-shop: Videospiele
+shop: video games
 ---

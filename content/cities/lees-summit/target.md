@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /lees-summit/target/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "National Rent to Own"
 url: /washington/national-rent-to-own/
-shop: Mieten
+shop: storage rental
 ---

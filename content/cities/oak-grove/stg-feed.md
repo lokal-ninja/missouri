@@ -1,5 +1,5 @@
 ---
 title: "STG Feed"
 url: /oak-grove/stg-feed/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

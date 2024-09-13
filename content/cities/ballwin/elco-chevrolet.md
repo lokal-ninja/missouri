@@ -1,5 +1,5 @@
 ---
 title: "ELCO Chevrolet"
 url: /ballwin/elco-chevrolet/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /pacific/dollar-general-east-osage-street/
-shop: Kramladen
+shop: variety store
 ---

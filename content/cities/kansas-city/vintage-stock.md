@@ -1,5 +1,5 @@
 ---
 title: "Vintage Stock"
 url: /kansas-city/vintage-stock/
-shop: Videothek
+shop: video
 ---

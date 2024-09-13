@@ -1,5 +1,5 @@
 ---
 title: "Hulett Chevrolet"
 url: /camdenton/hulett-chevrolet/
-shop: Autohaus
+shop: car
 ---

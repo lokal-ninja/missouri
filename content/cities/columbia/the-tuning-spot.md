@@ -1,5 +1,5 @@
 ---
 title: "The Tuning Spot"
 url: /columbia/the-tuning-spot/
-shop: Autowerkstatt
+shop: car repair
 ---

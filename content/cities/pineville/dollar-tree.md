@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /pineville/dollar-tree/
-shop: Kramladen
+shop: variety store
 ---

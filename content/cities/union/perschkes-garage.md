@@ -1,5 +1,5 @@
 ---
 title: "Perschke's Garage"
 url: /union/perschkes-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

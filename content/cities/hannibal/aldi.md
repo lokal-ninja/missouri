@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /hannibal/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Hair Center"
 url: /florissant/the-hair-center/
-shop: Friseur
+shop: hairdresser
 ---

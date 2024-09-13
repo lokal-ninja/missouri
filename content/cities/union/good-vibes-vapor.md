@@ -1,5 +1,5 @@
 ---
 title: "Good Vibes Vapor"
 url: /union/good-vibes-vapor/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

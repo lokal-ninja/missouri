@@ -1,5 +1,5 @@
 ---
 title: "Inque Jester Tattoo"
 url: /maryville/inque-jester-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sigwo"
 url: /springfield/sigwo/
-shop: Waffen
+shop: weapons
 ---

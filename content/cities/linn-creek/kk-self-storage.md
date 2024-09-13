@@ -1,5 +1,5 @@
 ---
 title: "KK Self Storage"
 url: /linn-creek/kk-self-storage/
-shop: Mieten
+shop: storage rental
 ---

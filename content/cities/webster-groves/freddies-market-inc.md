@@ -1,5 +1,5 @@
 ---
 title: "Freddie's Market, Inc."
 url: /webster-groves/freddies-market-inc/
-shop: Lebensmittel
+shop: convenience
 ---

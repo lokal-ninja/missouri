@@ -1,5 +1,5 @@
 ---
 title: "Doc’s Harley-Davidson"
 url: /kirkwood/docs-harley-davidson/
-shop: Motorrad
+shop: motorcycle
 ---

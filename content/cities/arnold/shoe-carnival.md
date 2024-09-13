@@ -1,5 +1,5 @@
 ---
 title: "Shoe Carnival"
 url: /arnold/shoe-carnival/
-shop: Schuhe
+shop: shoes
 ---

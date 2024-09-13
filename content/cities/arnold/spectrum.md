@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /arnold/spectrum/
-shop: Handy
+shop: mobile phone
 ---

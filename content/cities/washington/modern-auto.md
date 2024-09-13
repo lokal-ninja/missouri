@@ -1,5 +1,5 @@
 ---
 title: "Modern Auto"
 url: /washington/modern-auto/
-shop: Autohaus
+shop: car
 ---

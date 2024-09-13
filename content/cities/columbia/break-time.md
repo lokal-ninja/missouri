@@ -1,5 +1,5 @@
 ---
 title: "Break Time"
 url: /columbia/break-time/
-shop: Lebensmittel
+shop: convenience
 ---

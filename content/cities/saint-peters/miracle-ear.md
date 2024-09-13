@@ -1,5 +1,5 @@
 ---
 title: "Miracle-Ear"
 url: /saint-peters/miracle-ear/
-shop: Hörgeräte
+shop: hearing aids
 ---

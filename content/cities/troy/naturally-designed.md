@@ -1,5 +1,5 @@
 ---
 title: "Naturally Designed"
 url: /troy/naturally-designed/
-shop: Kunst
+shop: art
 ---

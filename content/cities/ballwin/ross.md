@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /ballwin/ross/
-shop: Warenhaus
+shop: department store
 ---

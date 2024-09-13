@@ -1,5 +1,5 @@
 ---
 title: "StorageMart"
 url: /kansas-city/storagemart/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ballwin Auto Center"
 url: /ballwin/ballwin-auto-center/
-shop: Autowerkstatt
+shop: car repair
 ---

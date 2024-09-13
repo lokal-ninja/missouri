@@ -1,5 +1,5 @@
 ---
 title: "Comic Book Relief"
 url: /saint-charles/comic-book-relief/
-shop: Bücher
+shop: books
 ---

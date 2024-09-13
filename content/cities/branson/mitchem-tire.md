@@ -1,5 +1,5 @@
 ---
 title: "Mitchem Tire"
 url: /branson/mitchem-tire/
-shop: Reifen
+shop: tyres
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
 url: /wentzville/jiffy-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

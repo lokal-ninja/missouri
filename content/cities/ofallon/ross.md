@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /ofallon/ross/
-shop: Warenhaus
+shop: department store
 ---

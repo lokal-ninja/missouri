@@ -1,5 +1,5 @@
 ---
 title: "Smoke Tokz"
 url: /kansas-city/smoke-tokz/
-shop: Tabak
+shop: tobacco
 ---

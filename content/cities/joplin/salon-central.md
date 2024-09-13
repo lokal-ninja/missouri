@@ -1,5 +1,5 @@
 ---
 title: "Salon Central"
 url: /joplin/salon-central/
-shop: Friseur
+shop: hairdresser
 ---

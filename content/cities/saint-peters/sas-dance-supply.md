@@ -1,5 +1,5 @@
 ---
 title: "SAS Dance Supply"
 url: /saint-peters/sas-dance-supply/
-shop: Kleidung
+shop: clothes
 ---

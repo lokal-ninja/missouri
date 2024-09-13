@@ -1,5 +1,5 @@
 ---
 title: "Fantastic Sams"
 url: /creve-coeur/fantastic-sams/
-shop: Friseur
+shop: hairdresser
 ---

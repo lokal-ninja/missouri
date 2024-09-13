@@ -1,5 +1,5 @@
 ---
 title: "Schnucks"
 url: /eureka/schnucks/
-shop: Supermarkt
+shop: supermarket
 ---

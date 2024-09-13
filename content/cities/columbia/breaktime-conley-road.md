@@ -1,5 +1,5 @@
 ---
 title: "BreakTime"
 url: /columbia/breaktime-conley-road/
-shop: Lebensmittel
+shop: convenience
 ---

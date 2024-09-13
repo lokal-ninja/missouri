@@ -1,5 +1,5 @@
 ---
 title: "Rocking Chair Quilts"
 url: /butler/rocking-chair-quilts/
-shop: Textil
+shop: fabric
 ---

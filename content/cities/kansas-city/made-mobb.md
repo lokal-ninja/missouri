@@ -1,5 +1,5 @@
 ---
 title: "Made Mobb"
 url: /kansas-city/made-mobb/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dents Unlimited"
 url: /columbia/dents-unlimited/
-shop: Autowerkstatt
+shop: car repair
 ---

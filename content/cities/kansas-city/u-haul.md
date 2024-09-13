@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /kansas-city/u-haul/
-shop: Mieten
+shop: storage rental
 ---

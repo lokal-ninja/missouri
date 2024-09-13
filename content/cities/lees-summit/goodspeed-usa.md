@@ -1,5 +1,5 @@
 ---
 title: "GoodSpeed USA"
 url: /lees-summit/goodspeed-usa/
-shop: Autoteile
+shop: car parts
 ---

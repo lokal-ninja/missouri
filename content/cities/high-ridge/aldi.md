@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /high-ridge/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Skylink Wireless"
 url: /saint-louis/skylink-wireless/
-shop: Handy
+shop: mobile phone
 ---

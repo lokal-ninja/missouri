@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /independence/sport-clips/
-shop: Friseur
+shop: hairdresser
 ---

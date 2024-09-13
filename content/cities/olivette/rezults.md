@@ -1,5 +1,5 @@
 ---
 title: "Rezults"
 url: /olivette/rezults/
-shop: Friseur
+shop: hairdresser
 ---

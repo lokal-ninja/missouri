@@ -1,5 +1,5 @@
 ---
 title: "Artery Custom Framing"
 url: /olivette/artery-custom-framing/
-shop: Allgemein
+shop: shop
 ---

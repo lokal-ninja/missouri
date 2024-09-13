@@ -1,5 +1,5 @@
 ---
 title: "American Cleaners"
 url: /saint-peters/american-cleaners-mexico-road/
-shop: Wäscherei
+shop: laundry
 ---

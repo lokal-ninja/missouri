@@ -1,5 +1,5 @@
 ---
 title: "Art Monster"
 url: /saint-louis/art-monster/
-shop: Tattoo
+shop: tattoo
 ---

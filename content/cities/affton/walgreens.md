@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /affton/walgreens/
-shop: Drogerie
+shop: chemist
 ---

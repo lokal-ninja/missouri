@@ -1,5 +1,5 @@
 ---
 title: "Dierbergs"
 url: /saint-peters/dierbergs/
-shop: Supermarkt
+shop: supermarket
 ---

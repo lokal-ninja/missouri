@@ -1,5 +1,5 @@
 ---
 title: "Leather Man"
 url: /lake-ozark/leather-man/
-shop: Kleidung
+shop: clothes
 ---

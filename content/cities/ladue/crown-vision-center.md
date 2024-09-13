@@ -1,5 +1,5 @@
 ---
 title: "Crown Vision Center"
 url: /ladue/crown-vision-center/
-shop: Optiker
+shop: optician
 ---

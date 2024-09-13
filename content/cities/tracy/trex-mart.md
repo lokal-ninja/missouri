@@ -1,5 +1,5 @@
 ---
 title: "Trex Mart"
 url: /tracy/trex-mart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HDIS"
 url: /olivette/hdis/
-shop: Sanitätshaus
+shop: medical supply
 ---

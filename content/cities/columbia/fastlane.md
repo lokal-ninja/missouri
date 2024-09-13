@@ -1,5 +1,5 @@
 ---
 title: "Fastlane"
 url: /columbia/fastlane/
-shop: Lebensmittel
+shop: convenience
 ---

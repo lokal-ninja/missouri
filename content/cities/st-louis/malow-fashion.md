@@ -1,5 +1,5 @@
 ---
 title: "Malow Fashion"
 url: /st-louis/malow-fashion/
-shop: Kleidung
+shop: clothes
 ---

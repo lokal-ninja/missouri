@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /independence/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

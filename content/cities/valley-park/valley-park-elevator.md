@@ -1,5 +1,5 @@
 ---
 title: "Valley Park Elevator"
 url: /valley-park/valley-park-elevator/
-shop: Eisenwaren
+shop: hardware
 ---

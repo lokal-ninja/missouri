@@ -1,5 +1,5 @@
 ---
 title: "Sellenriek Automotive"
 url: /ballwin/sellenriek-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

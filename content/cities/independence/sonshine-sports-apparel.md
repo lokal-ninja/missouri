@@ -1,5 +1,5 @@
 ---
 title: "Sonshine Sports Apparel"
 url: /independence/sonshine-sports-apparel/
-shop: Kleidung
+shop: clothes
 ---

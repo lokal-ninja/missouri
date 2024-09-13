@@ -1,5 +1,5 @@
 ---
 title: "River Market Antiques"
 url: /kansas-city/river-market-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

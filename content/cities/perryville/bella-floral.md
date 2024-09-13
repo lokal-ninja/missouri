@@ -1,5 +1,5 @@
 ---
 title: "Bella Floral"
 url: /perryville/bella-floral/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /independence/costco/
-shop: Großhandel
+shop: wholesale
 ---

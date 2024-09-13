@@ -1,5 +1,5 @@
 ---
 title: "Edible Arrangements"
 url: /ofallon/edible-arrangements/
-shop: Andenken
+shop: gift
 ---

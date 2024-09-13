@@ -1,5 +1,5 @@
 ---
 title: "Natural Grocers"
 url: /columbia/natural-grocers/
-shop: Supermarkt
+shop: supermarket
 ---

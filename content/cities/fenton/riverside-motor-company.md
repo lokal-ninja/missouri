@@ -1,5 +1,5 @@
 ---
 title: "Riverside Motor Company"
 url: /fenton/riverside-motor-company/
-shop: Autohaus
+shop: car
 ---

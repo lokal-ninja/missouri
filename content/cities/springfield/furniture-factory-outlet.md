@@ -1,5 +1,5 @@
 ---
 title: "Furniture Factory Outlet"
 url: /springfield/furniture-factory-outlet/
-shop: Möbel
+shop: furniture
 ---

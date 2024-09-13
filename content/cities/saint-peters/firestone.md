@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /saint-peters/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

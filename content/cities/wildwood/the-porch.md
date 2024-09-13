@@ -1,5 +1,5 @@
 ---
 title: "The Porch"
 url: /wildwood/the-porch/
-shop: Allgemein
+shop: shop
 ---

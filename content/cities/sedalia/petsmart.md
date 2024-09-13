@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /sedalia/petsmart/
-shop: Tiere
+shop: pet
 ---

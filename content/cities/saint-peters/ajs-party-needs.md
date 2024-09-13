@@ -1,5 +1,5 @@
 ---
 title: "AJs Party Needs"
 url: /saint-peters/ajs-party-needs/
-shop: Allgemein
+shop: shop
 ---

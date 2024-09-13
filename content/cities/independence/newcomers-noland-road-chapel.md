@@ -1,5 +1,5 @@
 ---
 title: "Newcomer's Noland Road Chapel"
 url: /independence/newcomers-noland-road-chapel/
-shop: Bestattungen
+shop: funeral directors
 ---

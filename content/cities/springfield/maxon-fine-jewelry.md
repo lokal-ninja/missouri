@@ -1,5 +1,5 @@
 ---
 title: "Maxon Fine Jewelry"
 url: /springfield/maxon-fine-jewelry/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Laflare Barber Salon"
 url: /kansas-city/laflare-barber-salon/
-shop: Friseur
+shop: hairdresser
 ---

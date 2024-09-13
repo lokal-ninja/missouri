@@ -1,5 +1,5 @@
 ---
 title: "Carter Funeral Home"
 url: /west-plains/carter-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

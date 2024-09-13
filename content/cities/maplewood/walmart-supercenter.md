@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /maplewood/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /kansas-city/spectrum/
-shop: Handy
+shop: mobile phone
 ---

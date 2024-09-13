@@ -1,5 +1,5 @@
 ---
 title: "Country Classic Antiques"
 url: /bolivar/country-classic-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

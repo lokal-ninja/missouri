@@ -1,5 +1,5 @@
 ---
 title: "Miracle Sar"
 url: /springfield/miracle-sar/
-shop: Hörgeräte
+shop: hearing aids
 ---

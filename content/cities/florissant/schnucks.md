@@ -1,5 +1,5 @@
 ---
 title: "Schnucks"
 url: /florissant/schnucks/
-shop: Supermarkt
+shop: supermarket
 ---

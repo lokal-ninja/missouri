@@ -1,5 +1,5 @@
 ---
 title: "Community Groceries"
 url: /kansas-city/community-groceries/
-shop: Supermarkt
+shop: supermarket
 ---

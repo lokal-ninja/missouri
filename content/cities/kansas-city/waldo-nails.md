@@ -1,5 +1,5 @@
 ---
 title: "Waldo Nails"
 url: /kansas-city/waldo-nails/
-shop: Kosmetik
+shop: beauty
 ---

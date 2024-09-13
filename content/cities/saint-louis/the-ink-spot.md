@@ -1,5 +1,5 @@
 ---
 title: "The Ink Spot"
 url: /saint-louis/the-ink-spot/
-shop: Schreibwaren
+shop: office supplies
 ---

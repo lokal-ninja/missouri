@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /festus/autozone/
-shop: Autoteile
+shop: car parts
 ---

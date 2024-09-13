@@ -1,5 +1,5 @@
 ---
 title: "L Nails"
 url: /union/l-nails/
-shop: Kosmetik
+shop: beauty
 ---

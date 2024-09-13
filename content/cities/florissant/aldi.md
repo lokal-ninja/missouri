@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /florissant/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

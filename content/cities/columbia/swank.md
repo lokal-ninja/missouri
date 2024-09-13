@@ -1,5 +1,5 @@
 ---
 title: "Swank"
 url: /columbia/swank/
-shop: Kleidung
+shop: clothes
 ---

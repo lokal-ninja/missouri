@@ -1,5 +1,5 @@
 ---
 title: "Robert Judson Lumber Company"
 url: /salem/robert-judson-lumber-company/
-shop: Eisenwaren
+shop: hardware
 ---

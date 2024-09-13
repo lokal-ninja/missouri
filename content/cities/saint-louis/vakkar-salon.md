@@ -1,5 +1,5 @@
 ---
 title: "Vakkar Salon"
 url: /saint-louis/vakkar-salon/
-shop: Friseur
+shop: hairdresser
 ---

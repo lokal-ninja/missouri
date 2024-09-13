@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /saint-charles/walgreens/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sam's Club"
 url: /independence/sams-club/
-shop: Großhandel
+shop: wholesale
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Catherines"
 url: /springfield/catherines/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /lees-summit/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Euro Car"
 url: /st-louis/euro-car/
-shop: Autowerkstatt
+shop: car repair
 ---

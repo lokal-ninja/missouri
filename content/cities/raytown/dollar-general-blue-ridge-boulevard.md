@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /raytown/dollar-general-blue-ridge-boulevard/
-shop: Kramladen
+shop: variety store
 ---

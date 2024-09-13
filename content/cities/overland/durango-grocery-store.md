@@ -1,5 +1,5 @@
 ---
 title: "Durango Grocery Store"
 url: /overland/durango-grocery-store/
-shop: Lebensmittel
+shop: convenience
 ---

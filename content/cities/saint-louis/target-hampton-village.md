@@ -1,5 +1,5 @@
 ---
 title: "Target - Hampton Village"
 url: /saint-louis/target-hampton-village/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Branson Travel Office"
 url: /branson/branson-travel-office/
-shop: Reisebüro
+shop: travel agency
 ---

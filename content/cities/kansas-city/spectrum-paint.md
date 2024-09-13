@@ -1,5 +1,5 @@
 ---
 title: "Spectrum Paint"
 url: /kansas-city/spectrum-paint/
-shop: Farben
+shop: paint
 ---

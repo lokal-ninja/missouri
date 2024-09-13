@@ -1,5 +1,5 @@
 ---
 title: "Andy's Produce"
 url: /union/andys-produce/
-shop: Hofladen
+shop: farm
 ---

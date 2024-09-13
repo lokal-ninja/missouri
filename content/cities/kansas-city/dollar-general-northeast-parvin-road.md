@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /kansas-city/dollar-general-northeast-parvin-road/
-shop: Kramladen
+shop: variety store
 ---

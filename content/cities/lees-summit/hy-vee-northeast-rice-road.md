@@ -1,5 +1,5 @@
 ---
 title: "Hy-Vee"
 url: /lees-summit/hy-vee-northeast-rice-road/
-shop: Supermarkt
+shop: supermarket
 ---

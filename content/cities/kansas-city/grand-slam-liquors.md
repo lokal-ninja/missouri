@@ -1,5 +1,5 @@
 ---
 title: "Grand Slam Liquors"
 url: /kansas-city/grand-slam-liquors/
-shop: Lebensmittel
+shop: convenience
 ---

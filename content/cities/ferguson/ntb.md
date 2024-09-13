@@ -1,5 +1,5 @@
 ---
 title: "NTB"
 url: /ferguson/ntb/
-shop: Autowerkstatt
+shop: car repair
 ---

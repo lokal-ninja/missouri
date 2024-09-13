@@ -1,5 +1,5 @@
 ---
 title: "Uppercuts"
 url: /union/uppercuts/
-shop: Friseur
+shop: hairdresser
 ---

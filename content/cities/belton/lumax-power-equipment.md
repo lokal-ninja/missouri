@@ -1,5 +1,5 @@
 ---
 title: "Lumax Power Equipment"
 url: /belton/lumax-power-equipment/
-shop: Platzpflege
+shop: groundskeeping
 ---

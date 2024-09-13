@@ -1,5 +1,5 @@
 ---
 title: "St. Louis Strings"
 url: /saint-louis/st-louis-strings/
-shop: Instrumente
+shop: musical instrument
 ---

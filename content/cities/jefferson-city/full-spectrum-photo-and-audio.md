@@ -1,5 +1,5 @@
 ---
 title: "Full Spectrum Photo and Audio"
 url: /jefferson-city/full-spectrum-photo-and-audio/
-shop: Kunst
+shop: art
 ---

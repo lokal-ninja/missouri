@@ -1,5 +1,5 @@
 ---
 title: "Polished"
 url: /kansas-city/polished/
-shop: Kosmetik
+shop: beauty
 ---

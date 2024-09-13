@@ -1,5 +1,5 @@
 ---
 title: "Precision Collision"
 url: /gladstone/precision-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

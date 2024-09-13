@@ -1,5 +1,5 @@
 ---
 title: "Sugar Shack"
 url: /kirkwood/sugar-shack/
-shop: Süßwaren
+shop: confectionery
 ---

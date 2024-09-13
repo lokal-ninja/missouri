@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /springfield/walmart-supercenter-east-independence-street/
-shop: Supermarkt
+shop: supermarket
 ---

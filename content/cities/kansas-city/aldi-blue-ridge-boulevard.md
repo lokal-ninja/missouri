@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /kansas-city/aldi-blue-ridge-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

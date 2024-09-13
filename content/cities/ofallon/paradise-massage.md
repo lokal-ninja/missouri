@@ -1,5 +1,5 @@
 ---
 title: "Paradise Massage"
 url: /ofallon/paradise-massage/
-shop: Massage
+shop: massage
 ---

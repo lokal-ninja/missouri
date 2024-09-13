@@ -1,5 +1,5 @@
 ---
 title: "Dirt Cheap"
 url: /ofallon/dirt-cheap/
-shop: Spirituosen
+shop: alcohol
 ---

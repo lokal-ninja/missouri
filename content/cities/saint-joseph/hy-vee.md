@@ -1,5 +1,5 @@
 ---
 title: "Hy-Vee"
 url: /saint-joseph/hy-vee/
-shop: Supermarkt
+shop: supermarket
 ---
