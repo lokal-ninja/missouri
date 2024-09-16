@@ -1,11 +1,11 @@
 id: 1083658636
-type: way
+type: node
 latitude: 37.29866
 longitude: -89.58666
 postcode: "63701"
 city: Cape Girardeau
-street: "Shirley Drive"
-housenumber: 232
-phone: "+1 573-334-8484"
-opening_hours: "Mo-Su 10:00-20:00"
-website: "https://www.samsclub.com/club/cape-girardeau-mo-sams-club/6479"
+street: Shirley Drive
+housenumber: "232"
+phone: +1 573-334-8484
+opening_hours: Mo-Su 10:00-20:00
+website: https://www.samsclub.com/club/cape-girardeau-mo-sams-club/6479

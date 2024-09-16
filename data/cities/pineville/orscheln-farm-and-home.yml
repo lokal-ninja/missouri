@@ -1,11 +1,11 @@
 id: 537230203
-type: way
+type: node
 latitude: 36.50927
 longitude: -94.28288
 postcode: "64856"
 city: Pineville
-street: "Gordon Hollow Road"
-housenumber: 107
-phone: "+1 417 226 0772"
-opening_hours: "Mo-Sa 08:00-20:00, Su 09:00-18:00"
+street: Gordon Hollow Road
+housenumber: "107"
+phone: +1 417 226 0772
+opening_hours: Mo-Sa 08:00-20:00, Su 09:00-18:00
 website: ""

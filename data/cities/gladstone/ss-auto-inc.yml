@@ -1,11 +1,11 @@
 id: 571827492
-type: way
+type: node
 latitude: 39.21137
 longitude: -94.57595
 postcode: "64118"
 city: Gladstone
-street: "North Oak Trafficway"
-housenumber: 6417
+street: North Oak Trafficway
+housenumber: "6417"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://www.ssautokc.com/"
+opening_hours: Mo-Sa 09:00-18:00
+website: https://www.ssautokc.com/

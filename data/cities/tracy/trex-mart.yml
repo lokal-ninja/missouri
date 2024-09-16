@@ -1,11 +1,11 @@
 id: 505450482
-type: way
+type: node
 latitude: 39.3746
 longitude: -94.79251
 postcode: "64079"
 city: Tracy
-street: "MO 92"
-housenumber: 15990
+street: MO 92
+housenumber: "15990"
 phone: ""
 opening_hours: ""
-website: "https://www.trexcon.com/locations/tracy-mo.html"
+website: https://www.trexcon.com/locations/tracy-mo.html

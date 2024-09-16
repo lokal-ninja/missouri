@@ -1,11 +1,11 @@
 id: 378179436
-type: way
+type: node
 latitude: 38.75705
 longitude: -90.42741
 postcode: "63044"
 city: Bridgeton
-street: "Natural Bridge Road"
-housenumber: 12401
-phone: "314-298-0545"
+street: Natural Bridge Road
+housenumber: "12401"
+phone: 314-298-0545
 opening_hours: ""
-website: "https://www.biggautoservice.com/"
+website: https://www.biggautoservice.com/

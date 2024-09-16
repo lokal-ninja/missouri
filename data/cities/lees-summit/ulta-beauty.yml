@@ -1,11 +1,11 @@
 id: 768476022
-type: way
+type: node
 latitude: 38.92714
 longitude: -94.40675
 postcode: "64081"
 city: Lee's Summit
-street: "Northwest Chipman Road"
-housenumber: 1664
-phone: "+1 816-524-5427"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/lees-summit-mo-553"
+street: Northwest Chipman Road
+housenumber: "1664"
+phone: +1 816-524-5427
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/lees-summit-mo-553

@@ -1,11 +1,11 @@
 id: 674580807
-type: way
+type: node
 latitude: 38.81091
 longitude: -90.866
 postcode: "63385"
 city: Wentzville
-street: "West Pearce Boulevard"
-housenumber: 851
+street: West Pearce Boulevard
+housenumber: "851"
 phone: ""
 opening_hours: ""
 website: ""

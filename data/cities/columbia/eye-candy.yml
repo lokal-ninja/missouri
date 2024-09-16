@@ -1,11 +1,11 @@
 id: 521954148
-type: way
+type: node
 latitude: 38.95251
 longitude: -92.32804
 postcode: ""
 city: Columbia
-street: "East Walnut Street"
-housenumber: 814
+street: East Walnut Street
+housenumber: "814"
 phone: ""
 opening_hours: ""
 website: ""

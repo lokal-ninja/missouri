@@ -1,11 +1,11 @@
 id: 777207473
-type: way
+type: node
 latitude: 36.67024
 longitude: -93.2267
 postcode: "65616"
 city: Branson
-street: "Branson Hills Parkway"
-housenumber: 1069
-phone: "+1 417-239-0080"
+street: Branson Hills Parkway
+housenumber: "1069"
+phone: +1 417-239-0080
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/mo/branson/072005/"
+website: https://www.mattressfirm.com/en-us/stores/mo/branson/072005/

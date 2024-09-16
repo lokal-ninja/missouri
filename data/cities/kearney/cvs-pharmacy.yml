@@ -1,11 +1,11 @@
 id: 792153230
-type: way
+type: node
 latitude: 39.36759
 longitude: -94.3613
 postcode: ""
 city: Kearney
-street: "South Jefferson Street"
-housenumber: 601
+street: South Jefferson Street
+housenumber: "601"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/kearney-mo-pharmacies/601-s-jefferson-st-kearney-mo-64060/storeid=8596"
+website: https://www.cvs.com/store-locator/kearney-mo-pharmacies/601-s-jefferson-st-kearney-mo-64060/storeid=8596

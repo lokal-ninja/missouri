@@ -1,11 +1,11 @@
 id: 621556458
-type: way
+type: node
 latitude: 38.79223
 longitude: -90.61826
 postcode: "63376"
 city: Saint Peters
-street: "Mid Rivers Center"
-housenumber: 212
-phone: "+1 636-387-7155"
-opening_hours: "Mo-Sa 10:00-19:00"
+street: Mid Rivers Center
+housenumber: "212"
+phone: +1 636-387-7155
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

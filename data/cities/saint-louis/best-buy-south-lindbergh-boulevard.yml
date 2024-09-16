@@ -1,11 +1,11 @@
 id: 914868281
-type: way
+type: node
 latitude: 38.50956
 longitude: -90.32968
 postcode: "63125"
 city: Saint Louis
-street: "South Lindbergh Boulevard"
-housenumber: 7017
-phone: "+1 314-487-4999"
+street: South Lindbergh Boulevard
+housenumber: "7017"
+phone: +1 314-487-4999
 opening_hours: ""
-website: "https://stores.bestbuy.com/mo/saint-louis/7017-s-lindbergh-blvd-30.html"
+website: https://stores.bestbuy.com/mo/saint-louis/7017-s-lindbergh-blvd-30.html

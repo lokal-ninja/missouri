@@ -1,11 +1,12 @@
 id: 642696093
-type: way
+type: node
 latitude: 38.78956
 longitude: -90.63232
 postcode: "63376"
 city: Saint Peters
-street: "Mexico Road"
-housenumber: 7338
-phone: "+1 636-970-3901"
-opening_hours: "Tu 09:00-14:00; We 09:00-15:00; Th,Fr 09:00-19:00; Sa 09:00-12:00; Su,Mo off"
+street: Mexico Road
+housenumber: "7338"
+phone: +1 636-970-3901
+opening_hours: Tu 09:00-14:00; We 09:00-15:00; Th,Fr 09:00-19:00; Sa 09:00-12:00;
+    Su,Mo off
 website: ""

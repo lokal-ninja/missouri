@@ -1,11 +1,11 @@
 id: 1197846758
-type: way
+type: node
 latitude: 38.14067
 longitude: -90.57583
 postcode: ""
 city: De Soto
-street: "Rock Road"
-housenumber: 1899
+street: Rock Road
+housenumber: "1899"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su 08:00-21:00"
-website: "https://www.autozone.com/locations/mo/de-soto/1899-rock-rd.html"
+opening_hours: Mo-Sa 07:00-21:00; Su 08:00-21:00
+website: https://www.autozone.com/locations/mo/de-soto/1899-rock-rd.html

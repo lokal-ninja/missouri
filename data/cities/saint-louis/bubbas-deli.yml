@@ -1,11 +1,11 @@
 id: 627504304
-type: way
+type: node
 latitude: 38.60439
 longitude: -90.30423
 postcode: "63139"
 city: Saint Louis
-street: "Ivanhoe Avenue"
-housenumber: 3249
+street: Ivanhoe Avenue
+housenumber: "3249"
 phone: "+13148533862"
-opening_hours: "Tu-Su 11:00-16:00"
-website: "http://bubbasdeli.com/"
+opening_hours: Tu-Su 11:00-16:00
+website: http://bubbasdeli.com/

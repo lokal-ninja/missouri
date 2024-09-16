@@ -1,11 +1,11 @@
 id: 469705432
-type: way
+type: node
 latitude: 36.73258
 longitude: -91.85707
 postcode: "65775"
 city: West Plains
-street: "Missouri Ave"
-housenumber: 502
+street: Missouri Ave
+housenumber: "502"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00, Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-17:00, Sa 08:00-12:00
 website: ""

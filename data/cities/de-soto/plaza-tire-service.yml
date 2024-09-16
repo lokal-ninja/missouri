@@ -1,11 +1,11 @@
 id: 550156791
-type: way
+type: node
 latitude: 38.13355
 longitude: -90.55632
 postcode: "63020"
 city: De Soto
-street: "South Main Street"
-housenumber: 610
-phone: "636-586-6123"
+street: South Main Street
+housenumber: "610"
+phone: 636-586-6123
 opening_hours: ""
 website: ""

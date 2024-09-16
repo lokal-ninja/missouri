@@ -1,11 +1,11 @@
 id: 387956512
-type: way
+type: node
 latitude: 38.56546
 longitude: -90.40861
 postcode: "63122"
 city: Kirkwood
-street: "South Kirkwood Road"
-housenumber: 1125
-phone: "+1 314-822-2997"
-opening_hours: "Mo, Tu, We, Th, Fr, Sa 09:00-21:00; Su 9:00-20:00"
-website: "https://stores.aldi.us/mo/kirkwood/1125-s-kirkwood-rd"
+street: South Kirkwood Road
+housenumber: "1125"
+phone: +1 314-822-2997
+opening_hours: Mo, Tu, We, Th, Fr, Sa 09:00-21:00; Su 9:00-20:00
+website: https://stores.aldi.us/mo/kirkwood/1125-s-kirkwood-rd

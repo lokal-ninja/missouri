@@ -1,11 +1,11 @@
 id: 211063083
-type: way
+type: node
 latitude: 38.93006
 longitude: -94.41236
 postcode: "64081"
 city: Lees Summit
-street: "Northwest Chipman Road"
-housenumber: 1830
-phone: "+1 816-246-2004"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/mo-lees-summit/1180"
+street: Northwest Chipman Road
+housenumber: "1830"
+phone: +1 816-246-2004
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/mo-lees-summit/1180

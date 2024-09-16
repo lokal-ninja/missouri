@@ -1,11 +1,11 @@
 id: 331314981
-type: way
+type: node
 latitude: 37.96754
 longitude: -91.76201
 postcode: "65401"
 city: Rolla
-street: "North Bishop Avenue"
-housenumber: 2300
-phone: "+1 573-364-4424"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/MO-Rolla/1083"
+street: North Bishop Avenue
+housenumber: "2300"
+phone: +1 573-364-4424
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/MO-Rolla/1083

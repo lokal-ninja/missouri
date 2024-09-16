@@ -1,11 +1,11 @@
 id: 674580813
-type: way
+type: node
 latitude: 38.81084
 longitude: -90.86419
 postcode: "63385"
 city: Wentzville
-street: "West Pearce Boulevard"
-housenumber: 715
+street: West Pearce Boulevard
+housenumber: "715"
 phone: ""
 opening_hours: ""
-website: "https://savealot.com/grocery-stores/wentzville-63385-61369/"
+website: https://savealot.com/grocery-stores/wentzville-63385-61369/

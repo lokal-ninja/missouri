@@ -1,11 +1,11 @@
 id: 573405115
-type: way
+type: node
 latitude: 39.24396
 longitude: -94.46579
 postcode: "64158"
 city: Kansas City
-street: "Northeast 83rd Terrace"
-housenumber: 9302
+street: Northeast 83rd Terrace
+housenumber: "9302"
 phone: ""
 opening_hours: ""
-website: "https://stores.kay.com/mo/kansas-city/9302-ne-83rd-terrace.html"
+website: https://stores.kay.com/mo/kansas-city/9302-ne-83rd-terrace.html

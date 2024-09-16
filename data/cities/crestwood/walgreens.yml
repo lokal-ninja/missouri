@@ -1,11 +1,11 @@
 id: 422876960
-type: way
+type: node
 latitude: 38.55741
 longitude: -90.38878
 postcode: "63126"
 city: Crestwood
-street: "Watson Road"
-housenumber: 9807
-phone: "+1-314–966–0605"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-9807-watson-rd-crestwood-mo-63126/id=9436"
+street: Watson Road
+housenumber: "9807"
+phone: +1-314–966–0605
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.walgreens.com/locator/walgreens-9807-watson-rd-crestwood-mo-63126/id=9436

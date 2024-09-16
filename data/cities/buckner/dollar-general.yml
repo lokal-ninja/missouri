@@ -1,11 +1,11 @@
 id: 543022338
-type: way
+type: node
 latitude: 39.13876
 longitude: -94.19959
 postcode: "64016"
 city: Buckner
-street: "West Monroe Street"
-housenumber: 12
+street: West Monroe Street
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/mo/buckner/1187"
+website: https://www.dollargeneral.com/store-directory/mo/buckner/1187

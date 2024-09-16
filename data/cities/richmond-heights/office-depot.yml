@@ -1,11 +1,11 @@
 id: 197251664
-type: way
+type: node
 latitude: 38.63397
 longitude: -90.31857
 postcode: "63117"
 city: Richmond Heights
-street: "South Big Bend Boulevard"
-housenumber: 1024
-phone: "+1 314-646-8100"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/mo/richmond-heights/office-depot-635"
+street: South Big Bend Boulevard
+housenumber: "1024"
+phone: +1 314-646-8100
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/mo/richmond-heights/office-depot-635

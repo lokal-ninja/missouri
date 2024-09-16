@@ -1,11 +1,11 @@
 id: 477205772
-type: way
+type: node
 latitude: 38.56045
 longitude: -91.00983
 postcode: "63090"
 city: Washington
-street: "Elbert Drive"
-housenumber: 1
+street: Elbert Drive
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

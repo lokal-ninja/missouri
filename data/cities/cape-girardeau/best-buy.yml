@@ -1,11 +1,11 @@
 id: 1308334617
-type: way
+type: node
 latitude: 37.30195
 longitude: -89.56928
 postcode: "63703"
 city: Cape Girardeau
-street: "William Street"
-housenumber: 3026
-phone: "+1 573-335-6729"
+street: William Street
+housenumber: "3026"
+phone: +1 573-335-6729
 opening_hours: ""
-website: "https://stores.bestbuy.com/mo/cape-girardeau/3026-william-st-523.html"
+website: https://stores.bestbuy.com/mo/cape-girardeau/3026-william-st-523.html

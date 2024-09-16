@@ -1,11 +1,11 @@
 id: 177237116
-type: way
+type: node
 latitude: 39.04311
 longitude: -94.41489
 postcode: "64055"
 city: Independence
-street: "South Noland Road"
-housenumber: 4243
+street: South Noland Road
+housenumber: "4243"
 phone: "+18163731710"
 opening_hours: ""
-website: "http://metrohardwoodsinc.com/"
+website: http://metrohardwoodsinc.com/

@@ -1,11 +1,11 @@
 id: 1107614216
-type: way
+type: node
 latitude: 37.06977
 longitude: -94.49589
 postcode: "64804"
 city: Joplin
-street: "East 20th Street"
-housenumber: 1801
+street: East 20th Street
+housenumber: "1801"
 phone: ""
 opening_hours: ""
 website: ""

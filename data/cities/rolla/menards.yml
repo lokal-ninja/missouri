@@ -1,11 +1,11 @@
 id: 826440304
-type: way
+type: node
 latitude: 37.94646
 longitude: -91.79843
 postcode: "65401"
 city: Rolla
-street: "Westside Drive"
-housenumber: 1601
+street: Westside Drive
+housenumber: "1601"
 phone: ""
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.menards.com/main/storeDetails.html?store=3352"
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.menards.com/main/storeDetails.html?store=3352

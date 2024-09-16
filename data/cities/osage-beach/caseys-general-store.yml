@@ -1,11 +1,11 @@
 id: 570570409
-type: way
+type: node
 latitude: 38.12051
 longitude: -92.67966
 postcode: "65065"
 city: Osage Beach
-street: "Osage Beach Parkway"
-housenumber: 5795
+street: Osage Beach Parkway
+housenumber: "5795"
 phone: ""
-opening_hours: "05:00-23:00"
+opening_hours: 05:00-23:00
 website: ""

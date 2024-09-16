@@ -1,11 +1,11 @@
 id: 700874170
-type: way
+type: node
 latitude: 37.60704
 longitude: -93.40716
 postcode: ""
 city: Bolivar
-street: "East College Street"
-housenumber: 703
+street: East College Street
+housenumber: "703"
 phone: ""
 opening_hours: ""
-website: "https://www.woodssupermarket.com/stores/bolivar"
+website: https://www.woodssupermarket.com/stores/bolivar

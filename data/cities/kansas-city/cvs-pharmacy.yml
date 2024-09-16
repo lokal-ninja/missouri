@@ -1,11 +1,11 @@
 id: 254378641
-type: way
+type: node
 latitude: 39.05619
 longitude: -94.58659
 postcode: "64111"
 city: Kansas City
-street: "Main Street"
-housenumber: 3902
+street: Main Street
+housenumber: "3902"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/kansas-city-mo-pharmacies/3902-main-st-kansas-city-mo-64111/storeid=5697"
+website: https://www.cvs.com/store-locator/kansas-city-mo-pharmacies/3902-main-st-kansas-city-mo-64111/storeid=5697

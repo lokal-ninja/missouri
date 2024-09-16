@@ -1,11 +1,11 @@
 id: 483219922
-type: way
+type: node
 latitude: 38.5406
 longitude: -90.97232
 postcode: "63090"
 city: Washington
-street: "Old Highway 100"
-housenumber: 5025
+street: Old Highway 100
+housenumber: "5025"
 phone: ""
 opening_hours: ""
 website: ""

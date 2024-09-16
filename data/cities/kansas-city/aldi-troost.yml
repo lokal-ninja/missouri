@@ -1,11 +1,11 @@
 id: 183630902
-type: way
+type: node
 latitude: 39.01047
 longitude: -94.57402
 postcode: "64131"
 city: Kansas City
-street: "Troost"
-housenumber: 6415
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/mo/kansas-city/6415-troost"
+street: Troost
+housenumber: "6415"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/mo/kansas-city/6415-troost

@@ -1,11 +1,11 @@
 id: 515330491
-type: way
+type: node
 latitude: 38.59295
 longitude: -90.49525
 postcode: "63011"
 city: Manchester
-street: "Manchester Road"
-housenumber: 14116
+street: Manchester Road
+housenumber: "14116"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1085758110
-type: way
+type: node
 latitude: 37.31822
 longitude: -89.5472
 postcode: "63701"
 city: Cape Girardeau
-street: "Clark Street"
-housenumber: 867
+street: Clark Street
+housenumber: "867"
 phone: "+15733347768"
 opening_hours: ""
-website: "http://www.mysafespot.com/"
+website: http://www.mysafespot.com/

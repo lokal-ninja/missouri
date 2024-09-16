@@ -1,11 +1,11 @@
 id: 659740124
-type: way
+type: node
 latitude: 39.18
 longitude: -94.60794
 postcode: "64151"
 city: Northmoor
-street: "Northwest Vivion Road"
-housenumber: 2310
+street: Northwest Vivion Road
+housenumber: "2310"
 phone: ""
-opening_hours: "24/7"
-website: "https://cityofnorthmoormo.com/business/vivion-west-laundry/"
+opening_hours: 24/7
+website: https://cityofnorthmoormo.com/business/vivion-west-laundry/

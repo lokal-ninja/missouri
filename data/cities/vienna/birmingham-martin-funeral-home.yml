@@ -1,11 +1,11 @@
 id: 507431588
-type: way
+type: node
 latitude: 38.18401
 longitude: -91.94655
 postcode: "65582"
 city: Vienna
-street: "South Main Street"
-housenumber: 406
+street: South Main Street
+housenumber: "406"
 phone: ""
 opening_hours: ""
 website: ""

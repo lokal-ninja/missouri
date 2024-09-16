@@ -1,11 +1,11 @@
 id: 254386750
-type: way
+type: node
 latitude: 39.05097
 longitude: -94.58702
 postcode: "64111"
 city: Kansas City
-street: "Main Street"
-housenumber: 4144
-phone: "+1 816 531 8410"
-opening_hours: "Mo-Sa 10:00-18:00; Su 12:00-17:00"
-website: "https://www.utrechtart.com/"
+street: Main Street
+housenumber: "4144"
+phone: +1 816 531 8410
+opening_hours: Mo-Sa 10:00-18:00; Su 12:00-17:00
+website: https://www.utrechtart.com/

@@ -1,11 +1,11 @@
 id: 1071677208
-type: way
+type: node
 latitude: 38.9992
 longitude: -92.39806
 postcode: "65202"
 city: columbia
-street: "State Highway E"
-housenumber: 4385
-phone: "(573) 825-0515"
+street: State Highway E
+housenumber: "4385"
+phone: (573) 825-0515
 opening_hours: ""
 website: ""

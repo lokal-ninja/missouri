@@ -1,11 +1,11 @@
 id: 208805369
-type: way
+type: node
 latitude: 36.80166
 longitude: -89.99177
 postcode: "63841"
 city: Dexter
-street: "West Business US Highway 60"
-housenumber: 2025
-phone: "+1 573-624-5514"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/30/dexter-mo/whats-new"
+street: West Business US Highway 60
+housenumber: "2025"
+phone: +1 573-624-5514
+opening_hours: 24/7
+website: https://www.walmart.com/store/30/dexter-mo/whats-new

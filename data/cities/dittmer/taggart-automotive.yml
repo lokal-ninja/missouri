@@ -1,11 +1,11 @@
 id: 1291035679
-type: way
+type: node
 latitude: 38.27798
 longitude: -90.73522
 postcode: "63023"
 city: Dittmer
-street: "Morse Mill Road"
-housenumber: 10049
-phone: "+1-636-274-6100"
+street: Morse Mill Road
+housenumber: "10049"
+phone: +1-636-274-6100
 opening_hours: ""
 website: ""

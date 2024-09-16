@@ -1,11 +1,11 @@
 id: 485156159
-type: way
+type: node
 latitude: 38.48341
 longitude: -90.74956
 postcode: "63069"
 city: Pacific
-street: "West Union Street"
-housenumber: 709
+street: West Union Street
+housenumber: "709"
 phone: ""
 opening_hours: ""
 website: ""

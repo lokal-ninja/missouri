@@ -1,11 +1,11 @@
 id: 573405117
-type: way
+type: node
 latitude: 39.24396
 longitude: -94.46588
 postcode: "64158"
 city: Kansas City
-street: "Northeast 83rd Terrace"
-housenumber: 9300
+street: Northeast 83rd Terrace
+housenumber: "9300"
 phone: ""
 opening_hours: ""
-website: "https://www.completenutrition.com/us/en/stores/6153/"
+website: https://www.completenutrition.com/us/en/stores/6153/

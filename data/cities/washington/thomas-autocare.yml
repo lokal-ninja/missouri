@@ -1,11 +1,11 @@
 id: 535701639
-type: way
+type: node
 latitude: 38.55503
 longitude: -91.03168
 postcode: "63090"
 city: Washington
-street: "West 5th Street"
-housenumber: 1320
-phone: "636-239-1417"
+street: West 5th Street
+housenumber: "1320"
+phone: 636-239-1417
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 39.08866
 longitude: -94.58235
 postcode: "64108"
 city: Kansas City
-street: "Walnut Street"
-housenumber: 2001
+street: Walnut Street
+housenumber: "2001"
 phone: ""
 opening_hours: ""
-website: "https://citydogskc.com/"
+website: https://citydogskc.com/

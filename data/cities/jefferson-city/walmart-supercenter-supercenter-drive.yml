@@ -1,11 +1,11 @@
 id: 556591173
-type: way
+type: node
 latitude: 38.54183
 longitude: -92.11937
 postcode: "65101"
 city: Jefferson City
-street: "Supercenter Drive"
-housenumber: 401
-phone: "+1 573-635-3535"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5477/jefferson-city-mo/whats-new"
+street: Supercenter Drive
+housenumber: "401"
+phone: +1 573-635-3535
+opening_hours: 24/7
+website: https://www.walmart.com/store/5477/jefferson-city-mo/whats-new

@@ -1,11 +1,11 @@
 id: 488038768
-type: way
+type: node
 latitude: 38.50697
 longitude: -90.66689
 postcode: "63025"
 city: Eureka
-street: "Workman Road"
-housenumber: 530
+street: Workman Road
+housenumber: "530"
 phone: ""
 opening_hours: ""
 website: ""

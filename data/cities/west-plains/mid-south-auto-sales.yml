@@ -1,11 +1,11 @@
 id: 597872233
-type: way
+type: node
 latitude: 36.71567
 longitude: -91.83436
 postcode: "65775"
 city: West Plains
-street: "US Hwy 63"
-housenumber: 1390
+street: US Hwy 63
+housenumber: "1390"
 phone: ""
 opening_hours: ""
 website: ""

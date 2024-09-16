@@ -4,8 +4,8 @@ latitude: 38.66621
 longitude: -90.5967
 postcode: "63005"
 city: Chesterfield
-street: "THF Boulevard"
-housenumber: 196
-phone: "+1 636-728-0359"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 10:00-18:30; Su 10:00-18:00"
-website: "https://www.samsclub.com/"
+street: THF Boulevard
+housenumber: "196"
+phone: +1 636-728-0359
+opening_hours: Mo-Fr 10:00-20:30; Sa 10:00-18:30; Su 10:00-18:00
+website: https://www.samsclub.com/

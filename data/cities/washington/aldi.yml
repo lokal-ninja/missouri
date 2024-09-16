@@ -1,11 +1,11 @@
 id: 482534611
-type: way
+type: node
 latitude: 38.54346
 longitude: -91.00746
 postcode: "63090"
 city: Washington
-street: "Heritage Hills Drive"
-housenumber: 1505
+street: Heritage Hills Drive
+housenumber: "1505"
 phone: ""
 opening_hours: ""
 website: ""

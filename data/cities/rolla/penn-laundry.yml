@@ -1,11 +1,11 @@
 id: 674174268
-type: way
+type: node
 latitude: 37.95578
 longitude: -91.76898
 postcode: "65401"
 city: Rolla
-street: "East 14th Street"
-housenumber: 103
+street: East 14th Street
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

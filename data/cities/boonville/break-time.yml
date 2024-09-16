@@ -1,11 +1,11 @@
 id: 554592227
-type: way
+type: node
 latitude: 38.96681
 longitude: -92.74147
 postcode: "65233"
 city: Boonville
-street: "Main Street"
-housenumber: 1105
+street: Main Street
+housenumber: "1105"
 phone: ""
 opening_hours: ""
 website: ""

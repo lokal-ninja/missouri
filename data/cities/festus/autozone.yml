@@ -1,11 +1,11 @@
 id: 1050894631
-type: way
+type: node
 latitude: 38.21293
 longitude: -90.39346
 postcode: ""
 city: Festus
-street: "Festus Centre Drive"
-housenumber: 333
+street: Festus Centre Drive
+housenumber: "333"
 phone: "+16369370048"
 opening_hours: ""
-website: "https://www.autozone.com/locations/mo/festus/333-festus-centre-dr.html"
+website: https://www.autozone.com/locations/mo/festus/333-festus-centre-dr.html

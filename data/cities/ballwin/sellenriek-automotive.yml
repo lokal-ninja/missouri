@@ -1,11 +1,11 @@
 id: 893406143
-type: way
+type: node
 latitude: 38.5935
 longitude: -90.52961
 postcode: "63011"
 city: Ballwin
-street: "Manchester Road"
-housenumber: 14637
+street: Manchester Road
+housenumber: "14637"
 phone: ""
 opening_hours: ""
 website: ""

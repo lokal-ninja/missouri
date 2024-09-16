@@ -1,11 +1,11 @@
 id: 523823449
-type: way
+type: node
 latitude: 36.65455
 longitude: -93.25938
 postcode: "65616"
 city: Branson
-street: "Gretna Road"
-housenumber: 3100
+street: Gretna Road
+housenumber: "3100"
 phone: ""
 opening_hours: ""
 website: ""

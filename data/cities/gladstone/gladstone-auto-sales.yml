@@ -1,11 +1,11 @@
 id: 333863071
-type: way
+type: node
 latitude: 39.22883
 longitude: -94.5764
 postcode: "64118"
 city: Gladstone
-street: "North Oak Trafficway"
-housenumber: 7406
+street: North Oak Trafficway
+housenumber: "7406"
 phone: ""
 opening_hours: ""
 website: ""

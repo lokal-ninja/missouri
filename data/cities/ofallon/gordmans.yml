@@ -1,11 +1,11 @@
 id: 613154951
-type: way
+type: node
 latitude: 38.77875
 longitude: -90.70357
 postcode: "63366"
 city: O'Fallon
-street: "Highway K"
-housenumber: 2259
-phone: "+1 636-240-3800"
-opening_hours: "Mo-Fr 09:00-21:30; Sa 08:00-21:30; Su 10:00-21:30"
-website: "https://stores.gordmans.com/mo-ofallon-6063"
+street: Highway K
+housenumber: "2259"
+phone: +1 636-240-3800
+opening_hours: Mo-Fr 09:00-21:30; Sa 08:00-21:30; Su 10:00-21:30
+website: https://stores.gordmans.com/mo-ofallon-6063

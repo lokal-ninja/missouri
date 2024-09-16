@@ -1,11 +1,11 @@
 id: 598227628
-type: way
+type: node
 latitude: 38.44535
 longitude: -91.00691
 postcode: "63084"
 city: Union
-street: "South Oak Street"
-housenumber: 3
-phone: "636-584-0110"
-opening_hours: "Tu-Fr 08:00-17:00"
-website: "creationsbylaura.net"
+street: South Oak Street
+housenumber: "3"
+phone: 636-584-0110
+opening_hours: Tu-Fr 08:00-17:00
+website: creationsbylaura.net

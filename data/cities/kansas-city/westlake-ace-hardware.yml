@@ -1,11 +1,11 @@
 id: 290619436
-type: way
+type: node
 latitude: 39.18785
 longitude: -94.52071
 postcode: "64119"
 city: Kansas City
-street: "Northeast Vivion Road"
-housenumber: 5009
-phone: "+1 816-454-1122"
-opening_hours: "Mo-Sa 07:30-20:00; Su 09:00-18:00"
+street: Northeast Vivion Road
+housenumber: "5009"
+phone: +1 816-454-1122
+opening_hours: Mo-Sa 07:30-20:00; Su 09:00-18:00
 website: ""

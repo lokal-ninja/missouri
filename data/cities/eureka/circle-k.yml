@@ -1,11 +1,11 @@
 id: 495899258
-type: way
+type: node
 latitude: 38.49943
 longitude: -90.6276
 postcode: "63025"
 city: Eureka
-street: "Old Towne Drive"
-housenumber: 100
+street: Old Towne Drive
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

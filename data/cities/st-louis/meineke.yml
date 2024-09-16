@@ -1,11 +1,11 @@
 id: 869475467
-type: way
+type: node
 latitude: 38.61202
 longitude: -90.35511
 postcode: ""
 city: St. Louis
-street: "Manchester Road"
-housenumber: 9100
+street: Manchester Road
+housenumber: "9100"
 phone: ""
 opening_hours: ""
 website: ""

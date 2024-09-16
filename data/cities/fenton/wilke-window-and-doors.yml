@@ -1,11 +1,11 @@
 id: 548369062
-type: way
+type: node
 latitude: 38.51128
 longitude: -90.4486
 postcode: "63026"
 city: Fenton
-street: "Gravois Road"
-housenumber: 737
-phone: "636-343-5400"
+street: Gravois Road
+housenumber: "737"
+phone: 636-343-5400
 opening_hours: ""
-website: "https://wilkewindow.com/"
+website: https://wilkewindow.com/

@@ -1,11 +1,11 @@
 id: 506770433
-type: way
+type: node
 latitude: 38.55773
 longitude: -91.01362
 postcode: "63090"
 city: Washington
-street: "Lafayette Street"
-housenumber: 401
+street: Lafayette Street
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

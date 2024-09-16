@@ -1,11 +1,11 @@
 id: 366127333
-type: way
+type: node
 latitude: 38.62629
 longitude: -90.51903
 postcode: "63017"
 city: Town and Country
-street: "Lamp & Lantern Village"
-housenumber: 221
-phone: "+1 636-386-7733"
-opening_hours: "Mo-Fr 07:30-20:00; Sa 07:30-19:00; Su 09:00-18:00"
-website: "https://www.acehardware.com/"
+street: Lamp & Lantern Village
+housenumber: "221"
+phone: +1 636-386-7733
+opening_hours: Mo-Fr 07:30-20:00; Sa 07:30-19:00; Su 09:00-18:00
+website: https://www.acehardware.com/

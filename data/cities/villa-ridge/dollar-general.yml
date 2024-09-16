@@ -1,11 +1,11 @@
 id: 480468539
-type: way
+type: node
 latitude: 38.47127
 longitude: -90.85786
 postcode: "63089"
 city: Villa Ridge
-street: "Highway AT"
-housenumber: 177
+street: Highway AT
+housenumber: "177"
 phone: ""
 opening_hours: ""
 website: ""

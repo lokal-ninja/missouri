@@ -1,11 +1,11 @@
 id: 931025575
-type: way
+type: node
 latitude: 38.15344
 longitude: -92.61487
 postcode: "65065"
 city: Osage Beach
-street: "Osage Beach Parkway"
-housenumber: 4169
-phone: "+1-573-348-1340"
+street: Osage Beach Parkway
+housenumber: "4169"
+phone: +1-573-348-1340
 opening_hours: ""
-website: "https://www.autozone.com/locations/mo/osage-beach/4169-hwy-54.html"
+website: https://www.autozone.com/locations/mo/osage-beach/4169-hwy-54.html

@@ -1,11 +1,11 @@
 id: 466470347
-type: way
+type: node
 latitude: 36.7306
 longitude: -91.85179
 postcode: "65775"
 city: West Plains
-street: "Cass Avenue"
-housenumber: 115
-phone: "+1-417-255-0088"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Cass Avenue
+housenumber: "115"
+phone: +1-417-255-0088
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

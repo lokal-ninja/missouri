@@ -1,11 +1,11 @@
 id: 495539904
-type: way
+type: node
 latitude: 38.51761
 longitude: -91.0078
 postcode: "63090"
 city: Washington
-street: "Highway 47"
-housenumber: 4555
+street: Highway 47
+housenumber: "4555"
 phone: ""
 opening_hours: ""
 website: ""

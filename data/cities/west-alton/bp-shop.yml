@@ -1,11 +1,11 @@
 id: 629213735
-type: way
+type: node
 latitude: 38.86198
 longitude: -90.22227
 postcode: "63386"
 city: West Alton
-street: "US-67"
-housenumber: 14010
-phone: "636-899-0008"
+street: US-67
+housenumber: "14010"
+phone: 636-899-0008
 opening_hours: ""
-website: "https://www.bp.com/en_us/united-states/home.html"
+website: https://www.bp.com/en_us/united-states/home.html

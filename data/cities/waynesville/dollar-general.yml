@@ -1,11 +1,11 @@
 id: 570841738
-type: way
+type: node
 latitude: 37.8127
 longitude: -92.22459
 postcode: "65583"
 city: Waynesville
-street: "West Historic 66"
-housenumber: 1413
+street: West Historic 66
+housenumber: "1413"
 phone: ""
-opening_hours: "08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/mo/waynesville/224"
+opening_hours: 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/mo/waynesville/224

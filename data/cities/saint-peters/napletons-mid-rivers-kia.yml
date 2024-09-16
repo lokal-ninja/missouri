@@ -1,11 +1,11 @@
 id: 547976849
-type: way
+type: node
 latitude: 38.79643
 longitude: -90.59073
 postcode: "63376"
 city: Saint Peters
-street: "Veterans Memorial Parkway"
-housenumber: 4955
-phone: "+1 855-823-8292"
-opening_hours: "Mo,We,Fr 08:30-21:00; Tu,Th,Sa 08:30-18:00; Su off"
-website: "https://www.midriverskia.com/"
+street: Veterans Memorial Parkway
+housenumber: "4955"
+phone: +1 855-823-8292
+opening_hours: Mo,We,Fr 08:30-21:00; Tu,Th,Sa 08:30-18:00; Su off
+website: https://www.midriverskia.com/

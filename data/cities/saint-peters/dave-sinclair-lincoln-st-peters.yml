@@ -1,11 +1,11 @@
 id: 547563243
-type: way
+type: node
 latitude: 38.79937
 longitude: -90.59859
 postcode: "63376"
 city: Saint Peters
-street: "North Service Road"
-housenumber: 4760
-phone: "+1 636-441-4400"
-opening_hours: "Mo,We,Fr 09:00-21:00; Tu,Th,Sa 09:00-18:00; Su off"
-website: "https://www.davesinclairlincolnstpeters.com/"
+street: North Service Road
+housenumber: "4760"
+phone: +1 636-441-4400
+opening_hours: Mo,We,Fr 09:00-21:00; Tu,Th,Sa 09:00-18:00; Su off
+website: https://www.davesinclairlincolnstpeters.com/

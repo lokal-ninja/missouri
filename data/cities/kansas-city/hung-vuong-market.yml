@@ -1,11 +1,11 @@
 id: 321745922
-type: way
+type: node
 latitude: 39.11013
 longitude: -94.58081
 postcode: ""
 city: Kansas City
-street: "Grand Boulevard"
-housenumber: 303
-phone: "+1 816 2217754"
+street: Grand Boulevard
+housenumber: "303"
+phone: +1 816 2217754
 opening_hours: ""
 website: ""

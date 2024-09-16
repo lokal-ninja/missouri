@@ -1,11 +1,11 @@
 id: 317828605
-type: way
+type: node
 latitude: 38.7884
 longitude: -90.63013
 postcode: "63376"
 city: Saint Peters
-street: "Mexico Road"
-housenumber: 7255
-phone: "+1 636-397-7721"
-opening_hours: "Mo-Sa 07:00-20:00; Su off"
-website: "https://www.americancleanersstl.com/"
+street: Mexico Road
+housenumber: "7255"
+phone: +1 636-397-7721
+opening_hours: Mo-Sa 07:00-20:00; Su off
+website: https://www.americancleanersstl.com/

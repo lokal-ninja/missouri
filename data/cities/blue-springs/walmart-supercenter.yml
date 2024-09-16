@@ -1,11 +1,11 @@
 id: 343951693
-type: way
+type: node
 latitude: 39.02471
 longitude: -94.25609
 postcode: "64014"
 city: Blue Springs
-street: "Northeast Coronado Drive"
-housenumber: 600
-phone: "+1 816-224-4800"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/184/blue-springs-mo/whats-new"
+street: Northeast Coronado Drive
+housenumber: "600"
+phone: +1 816-224-4800
+opening_hours: 24/7
+website: https://www.walmart.com/store/184/blue-springs-mo/whats-new

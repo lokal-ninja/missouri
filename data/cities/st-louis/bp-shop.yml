@@ -1,11 +1,11 @@
 id: 904763458
-type: way
+type: node
 latitude: 38.54553
 longitude: -90.28869
 postcode: "63125"
 city: St Louis
-street: "Bayless Avenue"
-housenumber: 4036
+street: Bayless Avenue
+housenumber: "4036"
 phone: ""
 opening_hours: ""
 website: ""

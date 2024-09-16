@@ -1,11 +1,11 @@
 id: 511388043
-type: way
+type: node
 latitude: 39.70515
 longitude: -91.36849
 postcode: "63401"
 city: Hannibal
-street: "Broadway"
-housenumber: 1222
+street: Broadway
+housenumber: "1222"
 phone: ""
-opening_hours: "Mo-Su 10:00-21:00"
-website: "https://savealot.com/grocery-stores/hannibal-63401-23798/"
+opening_hours: Mo-Su 10:00-21:00
+website: https://savealot.com/grocery-stores/hannibal-63401-23798/

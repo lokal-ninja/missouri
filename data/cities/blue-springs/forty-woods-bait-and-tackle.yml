@@ -1,11 +1,11 @@
 id: 1131065359
-type: way
+type: node
 latitude: 39.00953
 longitude: -94.30955
 postcode: "64015"
 city: Blue Springs
-street: "Southwest East US Highway 40"
-housenumber: 3995
-phone: "+1 816 229 6818"
+street: Southwest East US Highway 40
+housenumber: "3995"
+phone: +1 816 229 6818
 opening_hours: ""
-website: "https://fortywoods.com/"
+website: https://fortywoods.com/

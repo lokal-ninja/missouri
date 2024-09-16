@@ -1,11 +1,11 @@
 id: 654065192
-type: way
+type: node
 latitude: 38.47732
 longitude: -90.30569
-postcode: "63129-3555"
+postcode: 63129-3555
 city: Saint Louis
-street: "Telegraph Road"
-housenumber: 5405
-phone: "+1 314-894-8800"
+street: Telegraph Road
+housenumber: "5405"
+phone: +1 314-894-8800
 opening_hours: ""
-website: "http://www.handymantruevalue.com"
+website: http://www.handymantruevalue.com

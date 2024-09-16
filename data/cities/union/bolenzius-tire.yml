@@ -1,11 +1,11 @@
 id: 565492544
-type: way
+type: node
 latitude: 38.44207
 longitude: -91.00549
 postcode: "63084"
 city: Union
-street: "Pine Street"
-housenumber: 301
-phone: "636-583-5111"
+street: Pine Street
+housenumber: "301"
+phone: 636-583-5111
 opening_hours: ""
-website: "bolenziustire.com"
+website: bolenziustire.com

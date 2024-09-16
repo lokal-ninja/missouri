@@ -1,11 +1,11 @@
 id: 661881023
-type: way
+type: node
 latitude: 38.78931
 longitude: -90.55329
 postcode: "63303"
 city: Saint Charles
-street: "Spring Drive"
-housenumber: 200
+street: Spring Drive
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

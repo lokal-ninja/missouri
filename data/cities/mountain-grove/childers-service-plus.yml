@@ -1,11 +1,11 @@
 id: 1067770488
-type: way
+type: node
 latitude: 37.13085
 longitude: -92.27393
 postcode: "65711"
 city: Mountain Grove
-street: "West 3rd Street"
-housenumber: 616
+street: West 3rd Street
+housenumber: "616"
 phone: ""
 opening_hours: ""
 website: ""

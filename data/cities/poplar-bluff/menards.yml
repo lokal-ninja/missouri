@@ -1,11 +1,11 @@
 id: 590897555
-type: way
+type: node
 latitude: 36.79003
 longitude: -90.4468
 postcode: "63901"
 city: Poplar Bluff
-street: "Oak Grove Road"
-housenumber: 3105
-phone: "+1 573-686-0011"
+street: Oak Grove Road
+housenumber: "3105"
+phone: +1 573-686-0011
 opening_hours: ""
-website: "https://www.menards.com/main/storeDetails.html?store=3289"
+website: https://www.menards.com/main/storeDetails.html?store=3289

@@ -1,11 +1,11 @@
 id: 620875331
-type: way
+type: node
 latitude: 38.7878
 longitude: -90.62777
 postcode: "63376"
 city: Saint Peters
-street: "Mid Rivers Mall Drive"
-housenumber: 563
-phone: "+1 636-970-6409"
-opening_hours: "Mo-Fr 09:00-20:00; Sa,Su 09:00-17:00"
-website: "https://lookafterhairco.com/locations/st-peters-square-mo/"
+street: Mid Rivers Mall Drive
+housenumber: "563"
+phone: +1 636-970-6409
+opening_hours: Mo-Fr 09:00-20:00; Sa,Su 09:00-17:00
+website: https://lookafterhairco.com/locations/st-peters-square-mo/

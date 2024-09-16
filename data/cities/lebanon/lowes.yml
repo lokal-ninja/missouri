@@ -1,11 +1,11 @@
 id: 494913674
-type: way
+type: node
 latitude: 37.66492
 longitude: -92.64542
 postcode: "65536"
 city: Lebanon
-street: "MO 32"
-housenumber: 190
-phone: "+1 417-588-6970"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/MO-Lebanon/2565"
+street: MO 32
+housenumber: "190"
+phone: +1 417-588-6970
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/MO-Lebanon/2565

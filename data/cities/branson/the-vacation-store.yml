@@ -1,11 +1,11 @@
 id: 261632131
-type: way
+type: node
 latitude: 36.6418
 longitude: -93.25097
 postcode: "65616"
 city: Branson
-street: "West 76 Country Boulevard"
-housenumber: 1828
-phone: "417-239-3900"
+street: West 76 Country Boulevard
+housenumber: "1828"
+phone: 417-239-3900
 opening_hours: ""
 website: ""

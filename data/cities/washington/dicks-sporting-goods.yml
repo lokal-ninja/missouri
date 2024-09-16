@@ -1,11 +1,11 @@
 id: 479202972
-type: way
+type: node
 latitude: 38.5346
 longitude: -90.97983
 postcode: "63090"
 city: Washington
-street: "Phoenix Center Drive"
-housenumber: 3162
-phone: "+1 636-266-3006"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/mo/washington/1178/"
+street: Phoenix Center Drive
+housenumber: "3162"
+phone: +1 636-266-3006
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/mo/washington/1178/

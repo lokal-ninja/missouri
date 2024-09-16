@@ -1,11 +1,11 @@
 id: 556787879
-type: way
+type: node
 latitude: 38.63624
 longitude: -90.24197
 postcode: "63108"
 city: Saint Louis
-street: "Laclede Avenue"
-housenumber: 3901
+street: Laclede Avenue
+housenumber: "3901"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 330243646
-type: way
+type: node
 latitude: 38.92533
 longitude: -94.58689
 postcode: "64131"
 city: Kansas City
-street: "Locust Street"
-housenumber: 
+street: Locust Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

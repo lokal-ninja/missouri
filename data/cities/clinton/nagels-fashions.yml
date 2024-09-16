@@ -1,11 +1,11 @@
 id: 577830212
-type: way
+type: node
 latitude: 38.37032
 longitude: -93.77608
 postcode: "64735"
 city: Clinton
-street: "South Main Street"
-housenumber: 112
+street: South Main Street
+housenumber: "112"
 phone: ""
 opening_hours: ""
 website: ""

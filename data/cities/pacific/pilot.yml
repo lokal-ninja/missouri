@@ -1,11 +1,11 @@
 id: 265142464
-type: way
+type: node
 latitude: 38.48703
 longitude: -90.75845
 postcode: "63069"
 city: Pacific
-street: "Thornton Street"
-housenumber: 1475
+street: Thornton Street
+housenumber: "1475"
 phone: ""
 opening_hours: ""
 website: ""

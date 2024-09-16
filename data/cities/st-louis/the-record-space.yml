@@ -1,11 +1,11 @@
 id: 1242298655
-type: way
+type: node
 latitude: 38.55621
 longitude: -90.30975
 postcode: "63123"
 city: St. Louis
-street: "Gravois Road"
-housenumber: 8716
+street: Gravois Road
+housenumber: "8716"
 phone: ""
 opening_hours: ""
 website: ""

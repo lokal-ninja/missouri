@@ -1,11 +1,11 @@
 id: 813482300
-type: way
+type: node
 latitude: 38.25828
 longitude: -94.33167
 postcode: "64730"
 city: Butler
-street: "North Main Street"
-housenumber: 21
-phone: "660-200-2226"
+street: North Main Street
+housenumber: "21"
+phone: 660-200-2226
 opening_hours: ""
-website: "https://rcquilts.com/"
+website: https://rcquilts.com/

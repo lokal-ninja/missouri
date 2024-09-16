@@ -1,11 +1,11 @@
 id: 386000243
-type: way
+type: node
 latitude: 38.71152
 longitude: -93.27784
 postcode: "65301"
 city: Sedalia
-street: "West Broadway"
-housenumber: 3811
-phone: "+1 660-827-2330"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/mo-sedalia/1067"
+street: West Broadway
+housenumber: "3811"
+phone: +1 660-827-2330
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/mo-sedalia/1067

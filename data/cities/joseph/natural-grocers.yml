@@ -1,11 +1,11 @@
 id: 1230544373
-type: way
+type: node
 latitude: 39.78941
 longitude: -94.80896
 postcode: "64506"
 city: Joseph
-street: "North Belt Highway"
-housenumber: 2414
+street: North Belt Highway
+housenumber: "2414"
 phone: ""
 opening_hours: ""
 website: ""

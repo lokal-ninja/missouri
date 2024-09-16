@@ -1,11 +1,11 @@
 id: 242780436
-type: way
+type: node
 latitude: 38.59382
 longitude: -90.22647
 postcode: "63118"
 city: Saint Louis
-street: "Cherokee Street"
-housenumber: 2623
+street: Cherokee Street
+housenumber: "2623"
 phone: ""
-opening_hours: "By appointment only"
-website: "cheeokeeandtexas.com"
+opening_hours: '"By appointment only"'
+website: cheeokeeandtexas.com

@@ -1,11 +1,11 @@
 id: 264927682
-type: way
+type: node
 latitude: 38.6285
 longitude: -90.34288
 postcode: "63144"
 city: Brentwood
-street: "Brentwood Promenade Court"
-housenumber: 25
-phone: "+1 314-918-9500"
-opening_hours: "07:00-23:00"
-website: "https://www.target.com/sl/brentwood/1102"
+street: Brentwood Promenade Court
+housenumber: "25"
+phone: +1 314-918-9500
+opening_hours: 07:00-23:00
+website: https://www.target.com/sl/brentwood/1102

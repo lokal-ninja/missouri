@@ -1,11 +1,11 @@
 id: 1057034777
-type: way
+type: node
 latitude: 38.64262
 longitude: -90.40502
 postcode: "63131"
 city: Ladue
-street: "South Lindbergh Boulevard"
-housenumber: 814
+street: South Lindbergh Boulevard
+housenumber: "814"
 phone: ""
 opening_hours: ""
 website: ""

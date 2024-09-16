@@ -1,11 +1,11 @@
 id: 183126403
-type: way
+type: node
 latitude: 38.35572
 longitude: -90.97899
 postcode: "63077"
 city: St. Clair
-street: "Saint Clair Plaza Drive"
-housenumber: 925
-phone: "636-629-1137"
+street: Saint Clair Plaza Drive
+housenumber: "925"
+phone: 636-629-1137
 opening_hours: ""
-website: "https://stccountrymart.com/"
+website: https://stccountrymart.com/

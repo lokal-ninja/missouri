@@ -1,11 +1,11 @@
 id: 521683967
-type: way
+type: node
 latitude: 38.95102
 longitude: -92.32817
 postcode: ""
 city: Columbia
-street: "East Broadway"
-housenumber: 812
+street: East Broadway
+housenumber: "812"
 phone: ""
 opening_hours: ""
 website: ""

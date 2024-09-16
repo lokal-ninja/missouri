@@ -1,11 +1,11 @@
 id: 469705519
-type: way
+type: node
 latitude: 36.73143
 longitude: -91.85227
 postcode: "65775"
 city: West Plains
-street: "East Broadway Street"
-housenumber: 101
-phone: "+1-417-255-2452"
-opening_hours: "Mo-Fr 10:00-17:00"
-website: "dawsonautos.com"
+street: East Broadway Street
+housenumber: "101"
+phone: +1-417-255-2452
+opening_hours: Mo-Fr 10:00-17:00
+website: dawsonautos.com

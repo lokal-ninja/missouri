@@ -1,11 +1,11 @@
 id: 488494871
-type: way
+type: node
 latitude: 38.50613
 longitude: -90.63585
 postcode: "63025"
 city: Eureka
-street: "West 5th Street"
-housenumber: 555
+street: West 5th Street
+housenumber: "555"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/mo/eureka/oil-change-050060.html"
+website: https://store.vioc.com/mo/eureka/oil-change-050060.html

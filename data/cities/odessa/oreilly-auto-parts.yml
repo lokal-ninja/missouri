@@ -1,11 +1,11 @@
 id: 554989539
-type: way
+type: node
 latitude: 39.00733
 longitude: -93.95714
 postcode: "64076"
 city: Odessa
-street: "West Old U.S. 40"
-housenumber: 409
+street: West Old U.S. 40
+housenumber: "409"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/mo/odessa/autoparts-269.html"
+website: https://locations.oreillyauto.com/mo/odessa/autoparts-269.html

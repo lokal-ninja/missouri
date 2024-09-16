@@ -1,11 +1,11 @@
 id: 165334940
-type: way
+type: node
 latitude: 38.76549
 longitude: -90.28414
 postcode: "63136"
 city: Ferguson
-street: "West Florissant Avenue"
-housenumber: 10735
-phone: "+1 314-521-3422"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.walmart.com/store/1265/saint-louis-mo/whats-new"
+street: West Florissant Avenue
+housenumber: "10735"
+phone: +1 314-521-3422
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.walmart.com/store/1265/saint-louis-mo/whats-new

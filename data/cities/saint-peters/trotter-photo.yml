@@ -1,11 +1,11 @@
 id: 642319024
-type: way
+type: node
 latitude: 38.78911
 longitude: -90.64004
 postcode: "63376"
 city: Saint Peters
-street: "Mexico Road"
-housenumber: 7478
-phone: "+1 636-978-7689"
+street: Mexico Road
+housenumber: "7478"
+phone: +1 636-978-7689
 opening_hours: ""
-website: "https://www.trotterphoto.com/"
+website: https://www.trotterphoto.com/

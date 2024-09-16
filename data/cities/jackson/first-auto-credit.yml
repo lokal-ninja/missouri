@@ -1,11 +1,11 @@
 id: 1160789755
-type: way
+type: node
 latitude: 37.35431
 longitude: -89.60969
 postcode: "63755"
 city: Jackson
-street: "Old Orchard Road"
-housenumber: 2990
+street: Old Orchard Road
+housenumber: "2990"
 phone: ""
 opening_hours: ""
-website: "https://firstautocredit.com/"
+website: https://firstautocredit.com/

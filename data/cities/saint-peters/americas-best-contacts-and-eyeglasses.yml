@@ -1,11 +1,11 @@
 id: 621556490
-type: way
+type: node
 latitude: 38.79395
 longitude: -90.62155
 postcode: "63376"
 city: Saint Peters
-street: "Mid Rivers Center"
-housenumber: 304
-phone: "+1 636-278-2266"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 11:00-17:00"
-website: "https://www.americasbest.com/store-list/st-peters-mo-63376/"
+street: Mid Rivers Center
+housenumber: "304"
+phone: +1 636-278-2266
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 11:00-17:00
+website: https://www.americasbest.com/store-list/st-peters-mo-63376/

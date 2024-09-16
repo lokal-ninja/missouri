@@ -1,11 +1,11 @@
 id: 698430674
-type: way
+type: node
 latitude: 38.56273
 longitude: -90.3727
-postcode: "63126-2220"
+postcode: 63126-2220
 city: Saint Louis
-street: "Watson Road"
-housenumber: 9065
-phone: "+1 314-962-3200"
-opening_hours: "Mo-Sa 07:30-20:00; Su 09:00-18:00"
+street: Watson Road
+housenumber: "9065"
+phone: +1 314-962-3200
+opening_hours: Mo-Sa 07:30-20:00; Su 09:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 195693948
-type: way
+type: node
 latitude: 39.22366
 longitude: -94.54693
 postcode: "64119"
 city: Gladstone
-street: "North Prospect Avenue"
-housenumber: 7117
-phone: "(816) 452-6500"
-opening_hours: "24/7"
-website: "https://www.hy-vee.com/stores/detail.aspx?s=64"
+street: North Prospect Avenue
+housenumber: "7117"
+phone: (816) 452-6500
+opening_hours: 24/7
+website: https://www.hy-vee.com/stores/detail.aspx?s=64

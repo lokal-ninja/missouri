@@ -1,11 +1,11 @@
 id: 644150171
-type: way
+type: node
 latitude: 38.65389
 longitude: -92.7903
 postcode: "65081"
 city: Tipton
-street: "U.S. 50"
-housenumber: 506
+street: U.S. 50
+housenumber: "506"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00; Su 09:00-18:00"
-website: "https://locations.oreillyauto.com/mo/tipton/autoparts-4055.html"
+opening_hours: Mo-Sa 07:30-20:00; Su 09:00-18:00
+website: https://locations.oreillyauto.com/mo/tipton/autoparts-4055.html

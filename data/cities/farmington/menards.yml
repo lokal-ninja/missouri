@@ -4,8 +4,8 @@ latitude: 37.78682
 longitude: -90.44166
 postcode: "63640"
 city: Farmington
-street: "Maple Street"
-housenumber: 1280
+street: Maple Street
+housenumber: "1280"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3334"
+website: https://www.menards.com/store-details/store.html?store=3334

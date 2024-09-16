@@ -4,8 +4,8 @@ latitude: 39.09169
 longitude: -94.57565
 postcode: "64108"
 city: Kansas City
-street: "East 18th Street"
-housenumber: 640
+street: East 18th Street
+housenumber: "640"
 phone: ""
 opening_hours: ""
-website: "https://communitygroceries.com/"
+website: https://communitygroceries.com/

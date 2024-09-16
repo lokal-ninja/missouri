@@ -1,11 +1,11 @@
 id: 233672937
-type: way
+type: node
 latitude: 38.51324
 longitude: -90.44503
 postcode: "63026"
 city: Fenton
-street: "Skinker Lane"
-housenumber: 340
-phone: "636-678-7275"
+street: Skinker Lane
+housenumber: "340"
+phone: 636-678-7275
 opening_hours: ""
-website: "stellabluesvapors.com"
+website: stellabluesvapors.com

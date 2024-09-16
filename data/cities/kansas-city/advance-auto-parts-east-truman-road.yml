@@ -1,11 +1,11 @@
 id: 505971754
-type: way
+type: node
 latitude: 39.09362
 longitude: -94.53053
 postcode: "64127"
 city: Kansas City
-street: "East Truman Road"
-housenumber: 4401
+street: East Truman Road
+housenumber: "4401"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/mo/kansas-city/4401-e-truman-rd"
+website: https://stores.advanceautoparts.com/mo/kansas-city/4401-e-truman-rd

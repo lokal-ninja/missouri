@@ -1,11 +1,11 @@
 id: 512198434
-type: way
+type: node
 latitude: 39.24765
 longitude: -94.46008
 postcode: "64157"
 city: Kansas City
-street: "North Evanston Avenue"
-housenumber: 8500
-phone: "+1 816-407-9195"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/store-locator/store/?storeID=0243"
+street: North Evanston Avenue
+housenumber: "8500"
+phone: +1 816-407-9195
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/store-locator/store/?storeID=0243

@@ -1,11 +1,11 @@
 id: 513227035
-type: way
+type: node
 latitude: 39.07508
 longitude: -94.55307
 postcode: "64128"
 city: Kansas City
-street: "Prospect Avenue"
-housenumber: 2804
+street: Prospect Avenue
+housenumber: "2804"
 phone: ""
 opening_hours: ""
 website: ""

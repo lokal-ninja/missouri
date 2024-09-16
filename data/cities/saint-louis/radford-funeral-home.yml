@@ -1,11 +1,11 @@
 id: 619346346
-type: way
+type: node
 latitude: 38.64916
 longitude: -90.22506
 postcode: "63106"
 city: Saint Louis
-street: "North Grand Boulevard"
-housenumber: 1710
+street: North Grand Boulevard
+housenumber: "1710"
 phone: ""
 opening_hours: ""
 website: ""

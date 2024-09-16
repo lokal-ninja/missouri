@@ -1,11 +1,11 @@
 id: 662230555
-type: way
+type: node
 latitude: 38.74543
 longitude: -90.65242
 postcode: "63304"
 city: Cottleville
-street: "Route N"
-housenumber: 5205
+street: Route N
+housenumber: "5205"
 phone: ""
 opening_hours: ""
 website: ""

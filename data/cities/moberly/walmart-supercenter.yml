@@ -1,11 +1,11 @@
 id: 118863663
-type: way
+type: node
 latitude: 39.44718
 longitude: -92.42146
 postcode: "65270"
 city: Moberly
-street: "East Highway 24"
-housenumber: 1301
-phone: "+1 660-263-3113"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/40/moberly-mo/whats-new"
+street: East Highway 24
+housenumber: "1301"
+phone: +1 660-263-3113
+opening_hours: 24/7
+website: https://www.walmart.com/store/40/moberly-mo/whats-new

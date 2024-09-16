@@ -1,11 +1,11 @@
 id: 657652873
-type: way
+type: node
 latitude: 36.85707
 longitude: -89.5867
 postcode: "63801"
 city: Sikeston
-street: "South Main Street"
-housenumber: 1303
-phone: "+1 573-472-3020"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/9/sikeston-mo/whats-new"
+street: South Main Street
+housenumber: "1303"
+phone: +1 573-472-3020
+opening_hours: 24/7
+website: https://www.walmart.com/store/9/sikeston-mo/whats-new

@@ -1,11 +1,11 @@
 id: 669201169
-type: way
+type: node
 latitude: 38.02316
 longitude: -92.72424
 postcode: "65020"
 city: Camdenton
-street: "Cecil Street"
-housenumber: 86
+street: Cecil Street
+housenumber: "86"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00; Su 09:00-18:00"
-website: "https://www.autozone.com/locations/mo/camdenton/86-cecil-st.html"
+opening_hours: Mo-Sa 07:30-20:00; Su 09:00-18:00
+website: https://www.autozone.com/locations/mo/camdenton/86-cecil-st.html

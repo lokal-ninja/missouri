@@ -1,11 +1,11 @@
 id: 673750133
-type: way
+type: node
 latitude: 38.80178
 longitude: -90.70113
 postcode: "63366"
 city: O'Fallon
-street: "Highway K"
-housenumber: 703
-phone: "636-439-5034"
+street: Highway K
+housenumber: "703"
+phone: 636-439-5034
 opening_hours: ""
-website: "https://www.midas.com/stlouis/store.aspx?shopnum=2336&dmanum=760"
+website: https://www.midas.com/stlouis/store.aspx?shopnum=2336&dmanum=760

@@ -1,11 +1,11 @@
 id: 584651421
-type: way
+type: node
 latitude: 38.62848
 longitude: -90.33758
 postcode: "63144"
 city: Saint Louis
-street: "Eager Road"
-housenumber: 8350
-phone: "+1 314-646-1331"
+street: Eager Road
+housenumber: "8350"
+phone: +1 314-646-1331
 opening_hours: ""
-website: "https://stores.bestbuy.com/mo/saint-louis/8350-eager-rd-833.html"
+website: https://stores.bestbuy.com/mo/saint-louis/8350-eager-rd-833.html

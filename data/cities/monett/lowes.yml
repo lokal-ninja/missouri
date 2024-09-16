@@ -1,11 +1,11 @@
 id: 679353990
-type: way
+type: node
 latitude: 36.9117
 longitude: -93.89824
 postcode: "65708"
 city: Monett
-street: "East Us Highway 60"
-housenumber: 925
-phone: "+1 417-393-2000"
-opening_hours: "Mo-Sa 07:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/MO-Monett/2576"
+street: East Us Highway 60
+housenumber: "925"
+phone: +1 417-393-2000
+opening_hours: Mo-Sa 07:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/MO-Monett/2576

@@ -1,11 +1,11 @@
 id: 572529392
-type: way
+type: node
 latitude: 39.12081
 longitude: -93.19538
 postcode: "65340"
 city: Marshall
-street: "East North Street"
-housenumber: 110
+street: East North Street
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

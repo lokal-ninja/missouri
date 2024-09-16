@@ -1,11 +1,11 @@
 id: 659652781
-type: way
+type: node
 latitude: 39.18811
 longitude: -94.60673
 postcode: "64151"
 city: Northmoor
-street: "Northwest Waukomis Drive"
-housenumber: 5150
+street: Northwest Waukomis Drive
+housenumber: "5150"
 phone: ""
-opening_hours: "Mo-Fr 08:30-16:45; Sa 08:30-16:00"
-website: "https://www.uhaul.com/Locations/Truck-Rentals-near-Kansas-City-MO-64151/002101/"
+opening_hours: Mo-Fr 08:30-16:45; Sa 08:30-16:00
+website: https://www.uhaul.com/Locations/Truck-Rentals-near-Kansas-City-MO-64151/002101/

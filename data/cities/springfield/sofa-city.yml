@@ -1,11 +1,11 @@
 id: 508264606
-type: way
+type: node
 latitude: 37.14351
 longitude: -93.26511
 postcode: "65804"
 city: Springfield
-street: "East Independence Street"
-housenumber: 1645
+street: East Independence Street
+housenumber: "1645"
 phone: ""
 opening_hours: ""
 website: ""

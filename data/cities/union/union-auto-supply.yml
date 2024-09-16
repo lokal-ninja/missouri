@@ -1,11 +1,11 @@
 id: 760091598
-type: way
+type: node
 latitude: 38.44405
 longitude: -91.00602
 postcode: "63084"
 city: Union
-street: "South Church Street"
-housenumber: 201
-phone: "636-583-8140"
+street: South Church Street
+housenumber: "201"
+phone: 636-583-8140
 opening_hours: ""
 website: ""

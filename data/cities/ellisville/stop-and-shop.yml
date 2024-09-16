@@ -1,11 +1,11 @@
 id: 658369481
-type: way
+type: node
 latitude: 38.59178
 longitude: -90.56468
 postcode: "63021"
 city: Ellisville
-street: "Manchester Road"
-housenumber: 15434
+street: Manchester Road
+housenumber: "15434"
 phone: ""
 opening_hours: ""
 website: ""

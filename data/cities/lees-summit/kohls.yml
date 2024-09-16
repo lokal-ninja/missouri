@@ -1,11 +1,11 @@
 id: 211063084
-type: way
+type: node
 latitude: 38.92839
 longitude: -94.41198
 postcode: "64081"
 city: Lees Summit
-street: "Northwest Chipman Road"
-housenumber: 1820
-phone: "+1 816-246-5110"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/mo/leessummit-472.shtml"
+street: Northwest Chipman Road
+housenumber: "1820"
+phone: +1 816-246-5110
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/mo/leessummit-472.shtml

@@ -1,11 +1,11 @@
 id: 249707978
-type: way
+type: node
 latitude: 38.59539
 longitude: -90.54766
-postcode: "63011-4626"
+postcode: 63011-4626
 city: Ballwin
-street: "Manchester Road"
-housenumber: 15025
-phone: "+1-636-391-7500"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://www.target.com/sl/ballwin/26"
+street: Manchester Road
+housenumber: "15025"
+phone: +1-636-391-7500
+opening_hours: Mo-Su 08:00-20:00
+website: https://www.target.com/sl/ballwin/26

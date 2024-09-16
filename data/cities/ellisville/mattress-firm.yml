@@ -1,11 +1,11 @@
 id: 461169197
-type: way
+type: node
 latitude: 38.5925
 longitude: -90.56578
 postcode: "63011"
 city: Ellisville
-street: "Manchester Road"
-housenumber: 15464
-phone: "+1 636-386-3100"
-opening_hours: "10:00-20:00"
-website: "https://www.mattressfirm.com/en-us/stores/mo/ellisville/018005/"
+street: Manchester Road
+housenumber: "15464"
+phone: +1 636-386-3100
+opening_hours: 10:00-20:00
+website: https://www.mattressfirm.com/en-us/stores/mo/ellisville/018005/

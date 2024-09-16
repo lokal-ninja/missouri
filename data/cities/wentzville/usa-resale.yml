@@ -1,11 +1,11 @@
 id: 664063066
-type: way
+type: node
 latitude: 38.8255
 longitude: -90.86798
 postcode: "63385"
 city: Wentzville
-street: "Wentzville Parkway"
-housenumber: 1251
+street: Wentzville Parkway
+housenumber: "1251"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00"
-website: "https://www.usaresale.com/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-17:00
+website: https://www.usaresale.com/

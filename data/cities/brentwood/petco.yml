@@ -1,11 +1,11 @@
 id: 584651428
-type: way
+type: node
 latitude: 38.62894
 longitude: -90.33898
 postcode: "63144"
 city: Brentwood
-street: "Eager Road"
-housenumber: 8404
-phone: "+1 314-962-0034"
-opening_hours: "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/mo/brentwood/pet-supplies-brentwood-mo-1688.html"
+street: Eager Road
+housenumber: "8404"
+phone: +1 314-962-0034
+opening_hours: Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/mo/brentwood/pet-supplies-brentwood-mo-1688.html

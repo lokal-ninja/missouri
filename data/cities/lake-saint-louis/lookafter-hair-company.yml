@@ -1,11 +1,11 @@
 id: 903219131
-type: way
+type: node
 latitude: 38.78473
 longitude: -90.79631
 postcode: "63367"
 city: Lake Saint Louis
-street: "Civic Center Drive"
-housenumber: 111
+street: Civic Center Drive
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 518949051
-type: way
+type: node
 latitude: 38.94984
 longitude: -92.32857
 postcode: ""
 city: Columbia
-street: "South 8th Street"
-housenumber: 126
+street: South 8th Street
+housenumber: "126"
 phone: ""
-opening_hours: "Mo-Fr 07:00-06:30, Sa 08:00-04:00"
+opening_hours: Mo-Fr 07:00-06:30, Sa 08:00-04:00
 website: ""

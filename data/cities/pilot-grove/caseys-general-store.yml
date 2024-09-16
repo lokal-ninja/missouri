@@ -1,11 +1,11 @@
 id: 1261996552
-type: way
+type: node
 latitude: 38.87358
 longitude: -92.91409
 postcode: "65276"
 city: Pilot Grove
-street: "Harris Street"
-housenumber: 104
+street: Harris Street
+housenumber: "104"
 phone: ""
-opening_hours: "Mo-Su 05:00-24:00"
+opening_hours: Mo-Su 05:00-24:00
 website: ""

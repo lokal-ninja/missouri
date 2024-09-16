@@ -1,11 +1,11 @@
 id: 843227267
-type: way
+type: node
 latitude: 39.75179
 longitude: -94.23194
 postcode: "64429"
 city: Cameron
-street: "Lana Drive"
-housenumber: 610
+street: Lana Drive
+housenumber: "610"
 phone: "+18166323501"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://mwbec.com/"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://mwbec.com/

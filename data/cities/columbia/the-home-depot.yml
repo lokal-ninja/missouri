@@ -1,11 +1,11 @@
 id: 109462672
-type: way
+type: node
 latitude: 38.96676
 longitude: -92.2885
 postcode: "65202"
 city: Columbia
-street: "Clark Lane"
-housenumber: 3215
-phone: "+1 573-814-1900"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Columbia/MO/Columbia/65202/3001"
+street: Clark Lane
+housenumber: "3215"
+phone: +1 573-814-1900
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Columbia/MO/Columbia/65202/3001

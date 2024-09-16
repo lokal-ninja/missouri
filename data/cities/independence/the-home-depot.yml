@@ -1,11 +1,11 @@
 id: 261104973
-type: way
+type: node
 latitude: 39.04293
 longitude: -94.39079
 postcode: "64055"
 city: Independence
-street: "South Lees Summit Road"
-housenumber: 4210
-phone: "+1 816-478-3300"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/independence/mo/independence/64055/3006"
+street: South Lees Summit Road
+housenumber: "4210"
+phone: +1 816-478-3300
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/independence/mo/independence/64055/3006

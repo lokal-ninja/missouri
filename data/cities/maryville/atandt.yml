@@ -1,11 +1,11 @@
 id: 1103579461
-type: way
+type: node
 latitude: 40.33457
 longitude: -94.87358
 postcode: "64468"
 city: Maryville
-street: "South Main Street"
-housenumber: 1105
+street: South Main Street
+housenumber: "1105"
 phone: "+16605623369"
 opening_hours: ""
 website: ""

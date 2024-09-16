@@ -1,11 +1,11 @@
 id: 1209572860
-type: way
+type: node
 latitude: 38.94421
 longitude: -94.60721
 postcode: "64114"
 city: Kansas City
-street: "State Line Road"
-housenumber: 10117
-phone: "+1-816-942-0155"
+street: State Line Road
+housenumber: "10117"
+phone: +1-816-942-0155
 opening_hours: ""
-website: "https://www.sherwin-williams.com/store-locator/paint-store/kansas-city/mo/707206"
+website: https://www.sherwin-williams.com/store-locator/paint-store/kansas-city/mo/707206

@@ -1,11 +1,11 @@
 id: 114864079
-type: way
+type: node
 latitude: 39.76823
 longitude: -93.07341
 postcode: "64628"
 city: Brookfield
-street: "Park Circle Drive"
-housenumber: 937
-phone: "+1 660-258-7416"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/203/brookfield-mo/whats-new"
+street: Park Circle Drive
+housenumber: "937"
+phone: +1 660-258-7416
+opening_hours: 24/7
+website: https://www.walmart.com/store/203/brookfield-mo/whats-new

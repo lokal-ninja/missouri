@@ -1,11 +1,11 @@
 id: 92939811
-type: way
+type: node
 latitude: 38.96522
 longitude: -92.37411
 postcode: ""
 city: Columbia
-street: "Bernadette Dr"
-housenumber: 2300
+street: Bernadette Dr
+housenumber: "2300"
 phone: ""
 opening_hours: ""
 website: ""

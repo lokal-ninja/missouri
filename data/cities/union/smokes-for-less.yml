@@ -1,11 +1,11 @@
 id: 500998140
-type: way
+type: node
 latitude: 38.48216
 longitude: -91.00449
 postcode: "63084"
 city: Union
-street: "Clearview Road"
-housenumber: 1240
+street: Clearview Road
+housenumber: "1240"
 phone: ""
 opening_hours: ""
 website: ""

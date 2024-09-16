@@ -1,11 +1,11 @@
 id: 331993394
-type: way
+type: node
 latitude: 38.6541
 longitude: -94.35919
 postcode: "64701"
 city: Harrisonville
-street: "South Commercial Street"
-housenumber: 300
+street: South Commercial Street
+housenumber: "300"
 phone: ""
-opening_hours: "08:00-22:00"
-website: "https://www.cvs.com/store-locator/harrisonville-mo-pharmacies/300-s-commercial-st-harrisonville-mo-64701/storeid=8563"
+opening_hours: 08:00-22:00
+website: https://www.cvs.com/store-locator/harrisonville-mo-pharmacies/300-s-commercial-st-harrisonville-mo-64701/storeid=8563

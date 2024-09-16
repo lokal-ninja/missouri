@@ -1,11 +1,11 @@
 id: 530134828
-type: way
+type: node
 latitude: 38.51046
 longitude: -90.37376
 postcode: "63128"
 city: St. Louis
-street: "Mattis Road"
-housenumber: 5253
+street: Mattis Road
+housenumber: "5253"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

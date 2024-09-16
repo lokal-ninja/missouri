@@ -1,11 +1,11 @@
 id: 497341872
-type: way
+type: node
 latitude: 39.05805
 longitude: -94.59051
 postcode: "64111"
 city: Kansas City
-street: "Broadway Boulevard"
-housenumber: 3817
-phone: "+1-800-931-9520"
-opening_hours: "Mo-Sa 11:00-18:00"
-website: "https://www.bigdudes.com/"
+street: Broadway Boulevard
+housenumber: "3817"
+phone: +1-800-931-9520
+opening_hours: Mo-Sa 11:00-18:00
+website: https://www.bigdudes.com/

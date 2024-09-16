@@ -1,11 +1,11 @@
 id: 802778126
-type: way
+type: node
 latitude: 38.98035
 longitude: -92.29373
 postcode: "65202"
 city: Columbia
-street: "Paris Road"
-housenumber: 2900
+street: Paris Road
+housenumber: "2900"
 phone: ""
 opening_hours: ""
 website: ""

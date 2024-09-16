@@ -1,11 +1,11 @@
 id: 495499239
-type: way
+type: node
 latitude: 39.19658
 longitude: -94.58774
 postcode: "64118"
 city: Kansas City
-street: "Northwest Englewood Road"
-housenumber: 528
+street: Northwest Englewood Road
+housenumber: "528"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 739618975
-type: way
+type: node
 latitude: 38.59942
 longitude: -90.26994
 postcode: "63139"
 city: Saint Louis
-street: "South Kingshighway Boulevard"
-housenumber: 3300
+street: South Kingshighway Boulevard
+housenumber: "3300"
 phone: ""
 opening_hours: ""
 website: ""

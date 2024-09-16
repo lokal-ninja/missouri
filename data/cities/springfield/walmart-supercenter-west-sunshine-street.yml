@@ -1,11 +1,11 @@
 id: 503590498
-type: way
+type: node
 latitude: 37.1799
 longitude: -93.35345
 postcode: "65807"
 city: Springfield
-street: "West Sunshine Street"
-housenumber: 3520
-phone: "+1 417-862-7447"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/179/springfield-mo/whats-new"
+street: West Sunshine Street
+housenumber: "3520"
+phone: +1 417-862-7447
+opening_hours: 24/7
+website: https://www.walmart.com/store/179/springfield-mo/whats-new

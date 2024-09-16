@@ -1,11 +1,11 @@
 id: 1005721997
-type: way
+type: node
 latitude: 39.42018
 longitude: -92.43995
 postcode: "65270"
 city: Moberly
-street: "West Reed Street"
-housenumber: 317
-phone: "+1-660-263-2322"
-opening_hours: "Mo-Sa 10:00-18:30"
+street: West Reed Street
+housenumber: "317"
+phone: +1-660-263-2322
+opening_hours: Mo-Sa 10:00-18:30
 website: ""

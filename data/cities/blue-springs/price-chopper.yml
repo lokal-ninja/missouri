@@ -1,11 +1,11 @@
 id: 780972171
-type: way
+type: node
 latitude: 39.00592
 longitude: -94.27483
 postcode: "64014"
 city: Blue Springs
-street: "South MO 7 Hwy"
-housenumber: 1101
+street: South MO 7 Hwy
+housenumber: "1101"
 phone: ""
 opening_hours: ""
 website: ""

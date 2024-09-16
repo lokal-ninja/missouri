@@ -1,11 +1,11 @@
 id: 627473815
-type: way
+type: node
 latitude: 38.60472
 longitude: -90.30374
 postcode: "63139"
 city: Saint Louis
-street: "Ivanhoe Avenue"
-housenumber: 3232
+street: Ivanhoe Avenue
+housenumber: "3232"
 phone: ""
-opening_hours: "We-Fr 10:00-18:00, Sa 08:00-18:00, Su 10:00-16:00"
-website: "https://vivaciousliving.shop/"
+opening_hours: We-Fr 10:00-18:00, Sa 08:00-18:00, Su 10:00-16:00
+website: https://vivaciousliving.shop/

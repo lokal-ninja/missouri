@@ -1,11 +1,11 @@
 id: 481650243
-type: way
+type: node
 latitude: 38.53804
 longitude: -91.00273
 postcode: "63090"
 city: Washington
-street: "Washington Square Center"
-housenumber: 1107
+street: Washington Square Center
+housenumber: "1107"
 phone: ""
 opening_hours: ""
 website: ""

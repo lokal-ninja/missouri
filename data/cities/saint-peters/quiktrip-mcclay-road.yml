@@ -1,11 +1,11 @@
 id: 694136488
-type: way
+type: node
 latitude: 38.75777
 longitude: -90.58598
 postcode: "63376"
 city: Saint Peters
-street: "McClay Road"
-housenumber: 3847
+street: McClay Road
+housenumber: "3847"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

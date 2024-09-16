@@ -1,11 +1,11 @@
 id: 235734796
-type: way
+type: node
 latitude: 38.5435
 longitude: -90.44065
 postcode: "63026"
 city: Fenton
-street: "North Highway Drive"
-housenumber: 225
+street: North Highway Drive
+housenumber: "225"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1231046455
-type: way
+type: node
 latitude: 40.48682
 longitude: -94.40377
 postcode: "64456"
 city: Grant City
-street: "East 2nd Street"
-housenumber: 820
+street: East 2nd Street
+housenumber: "820"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/mo/grant-city/9131"
+website: https://www.dollargeneral.com/store-directory/mo/grant-city/9131

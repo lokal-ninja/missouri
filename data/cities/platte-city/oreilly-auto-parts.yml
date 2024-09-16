@@ -1,11 +1,11 @@
 id: 866165521
-type: way
+type: node
 latitude: 39.36541
 longitude: -94.7726
 postcode: "64079"
 city: Platte City
-street: "Branch Street"
-housenumber: 1200
+street: Branch Street
+housenumber: "1200"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/mo/plattecity/autoparts-1948.html"
+website: https://locations.oreillyauto.com/mo/plattecity/autoparts-1948.html

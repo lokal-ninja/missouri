@@ -1,11 +1,11 @@
 id: 515643649
-type: way
+type: node
 latitude: 37.16747
 longitude: -93.29475
 postcode: "65807"
 city: Springfield
-street: "South Campbell Avenue"
-housenumber: 2620
-phone: "+1 417-885-0011"
+street: South Campbell Avenue
+housenumber: "2620"
+phone: +1 417-885-0011
 opening_hours: ""
-website: "https://stores.partycity.com/us/mo/springfield/party-store-pc154.html"
+website: https://stores.partycity.com/us/mo/springfield/party-store-pc154.html

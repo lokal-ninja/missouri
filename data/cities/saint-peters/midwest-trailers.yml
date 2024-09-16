@@ -1,11 +1,11 @@
 id: 661606996
-type: way
+type: node
 latitude: 38.73948
 longitude: -90.60973
 postcode: "63304"
 city: Saint Peters
-street: "Towne Court"
-housenumber: 4545
-phone: "636-441-5524"
+street: Towne Court
+housenumber: "4545"
+phone: 636-441-5524
 opening_hours: ""
-website: "http://www.midwest-trailer.com/"
+website: http://www.midwest-trailer.com/

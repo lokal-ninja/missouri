@@ -1,11 +1,11 @@
 id: 613154952
-type: way
+type: node
 latitude: 38.77909
 longitude: -90.7027
 postcode: "63366"
 city: O'Fallon
-street: "Highway K"
-housenumber: 2235
-phone: "+1 636-385-7033"
-opening_hours: "Su-Sa 07:00-22:00"
-website: "https://freshthyme.com/weekly-ads/?ID=112"
+street: Highway K
+housenumber: "2235"
+phone: +1 636-385-7033
+opening_hours: Su-Sa 07:00-22:00
+website: https://freshthyme.com/weekly-ads/?ID=112

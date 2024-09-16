@@ -1,11 +1,11 @@
 id: 1167406319
-type: way
+type: node
 latitude: 38.6745
 longitude: -90.36649
 postcode: "63132"
 city: Olivette
-street: "Olive Boulevard"
-housenumber: 9141
+street: Olive Boulevard
+housenumber: "9141"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/olivette-mo-pharmacies/9141-olive-blvd-olivette-mo-63132/storeid=5670"
+website: https://www.cvs.com/store-locator/olivette-mo-pharmacies/9141-olive-blvd-olivette-mo-63132/storeid=5670

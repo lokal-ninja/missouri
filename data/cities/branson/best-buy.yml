@@ -1,11 +1,11 @@
 id: 777207474
-type: way
+type: node
 latitude: 36.66804
 longitude: -93.22498
 postcode: "65616"
 city: Branson
-street: "Branson Hills Parkway"
-housenumber: 977
-phone: "+1 417-336-6979"
+street: Branson Hills Parkway
+housenumber: "977"
+phone: +1 417-336-6979
 opening_hours: ""
-website: "https://stores.bestbuy.com/mo/branson/977-branson-hills-pkwy-1793.html"
+website: https://stores.bestbuy.com/mo/branson/977-branson-hills-pkwy-1793.html

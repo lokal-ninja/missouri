@@ -1,11 +1,11 @@
 id: 1068083931
-type: way
+type: node
 latitude: 37.15186
 longitude: -92.26147
-postcode: "65711-3110"
+postcode: 65711-3110
 city: Mountain Grove
-street: "23rd Street"
-housenumber: 2302
-phone: "+1 417-349-6807"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 08:00-17:00"
+street: 23rd Street
+housenumber: "2302"
+phone: +1 417-349-6807
+opening_hours: Mo-Fr 07:00-18:30; Sa 08:00-17:00
 website: ""

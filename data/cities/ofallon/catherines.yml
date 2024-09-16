@@ -1,11 +1,11 @@
 id: 613154965
-type: way
+type: node
 latitude: 38.77978
 longitude: -90.70209
 postcode: "63366"
 city: O'Fallon
-street: "Highway K"
-housenumber: 2221
-phone: "+1 636-614-3505"
-opening_hours: "Mo-Sa 10:00-20:00; Su 12:00-18:00"
-website: "https://stores.catherines.com/mo/ofallon/plus-size-clothing-ofallon-mo-5427.html"
+street: Highway K
+housenumber: "2221"
+phone: +1 636-614-3505
+opening_hours: Mo-Sa 10:00-20:00; Su 12:00-18:00
+website: https://stores.catherines.com/mo/ofallon/plus-size-clothing-ofallon-mo-5427.html

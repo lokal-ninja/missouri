@@ -1,11 +1,11 @@
 id: 170008832
-type: way
+type: node
 latitude: 39.03696
 longitude: -94.35855
 postcode: "64055"
 city: Independence
-street: "E Valley View Parkway"
-housenumber: 19040
-phone: "+1 816-200-2003"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/independence-mo-373.html"
+street: E Valley View Parkway
+housenumber: "19040"
+phone: +1 816-200-2003
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/independence-mo-373.html

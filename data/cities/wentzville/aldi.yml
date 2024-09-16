@@ -1,11 +1,11 @@
 id: 754413763
-type: way
+type: node
 latitude: 38.81118
 longitude: -90.87706
 postcode: "63385"
 city: Wentzville
-street: "Crossroads South Drive"
-housenumber: 150
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Sa 09:00-21:00,Su 09:00-20:00"
-website: "https://stores.aldi.us/mo/wentzville/150-crossroads-south-drive"
+street: Crossroads South Drive
+housenumber: "150"
+phone: +1 855-955-2534
+opening_hours: Mo-Sa 09:00-21:00,Su 09:00-20:00
+website: https://stores.aldi.us/mo/wentzville/150-crossroads-south-drive

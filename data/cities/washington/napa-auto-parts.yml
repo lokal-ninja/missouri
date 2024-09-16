@@ -1,11 +1,11 @@
 id: 477923077
-type: way
+type: node
 latitude: 38.54659
 longitude: -91.02568
 postcode: "63090"
 city: Washington
-street: "High Street"
-housenumber: 1361
+street: High Street
+housenumber: "1361"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

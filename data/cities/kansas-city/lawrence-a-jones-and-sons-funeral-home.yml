@@ -1,11 +1,11 @@
 id: 503913639
-type: way
+type: node
 latitude: 39.06888
 longitude: -94.56206
 postcode: "64109"
 city: Kansas City
-street: "East Linwood Boulevard"
-housenumber: 1800
+street: East Linwood Boulevard
+housenumber: "1800"
 phone: ""
 opening_hours: ""
 website: ""

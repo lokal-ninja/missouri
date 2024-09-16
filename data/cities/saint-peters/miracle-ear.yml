@@ -1,11 +1,11 @@
 id: 621556477
-type: way
+type: node
 latitude: 38.79373
 longitude: -90.62098
 postcode: "63376"
 city: Saint Peters
-street: "Mid Rivers Center"
-housenumber: 284
-phone: "+1 636-284-2617"
-opening_hours: "Mo-Th 09:00-17:00; Fr 09:00-15:00; Sa,Su By appointment only"
-website: "https://www.miracle-ear.com/locations/stpeters-mo/"
+street: Mid Rivers Center
+housenumber: "284"
+phone: +1 636-284-2617
+opening_hours: Mo-Th 09:00-17:00; Fr 09:00-15:00; Sa,Su "By appointment only"
+website: https://www.miracle-ear.com/locations/stpeters-mo/

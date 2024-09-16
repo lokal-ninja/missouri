@@ -1,11 +1,11 @@
 id: 1078213317
-type: way
+type: node
 latitude: 38.96212
 longitude: -92.25487
 postcode: "65202"
 city: Columbia
-street: "Clark Lane"
-housenumber: 5410
+street: Clark Lane
+housenumber: "5410"
 phone: ""
 opening_hours: ""
 website: ""

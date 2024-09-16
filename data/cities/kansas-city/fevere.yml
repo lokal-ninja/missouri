@@ -1,11 +1,11 @@
 id: 331552153
-type: way
+type: node
 latitude: 39.09286
 longitude: -94.59356
 postcode: "64108"
 city: Kansas City
-street: "Summit Street"
-housenumber: 1702
-phone: "+1.816.842.7272"
-opening_hours: "Th 11:00-19:00, Fr 11:00-19:00, Sa 09:30-14:00"
-website: "https://www.fervere.com/"
+street: Summit Street
+housenumber: "1702"
+phone: +1.816.842.7272
+opening_hours: Th 11:00-19:00, Fr 11:00-19:00, Sa 09:30-14:00
+website: https://www.fervere.com/

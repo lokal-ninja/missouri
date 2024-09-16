@@ -4,8 +4,8 @@ latitude: 38.59922
 longitude: -90.41459
 postcode: "63122"
 city: St Louis
-street: "Manchester Road"
-housenumber: 11125
+street: Manchester Road
+housenumber: "11125"
 phone: ""
 opening_hours: ""
-website: "https://stldive.com/"
+website: https://stldive.com/

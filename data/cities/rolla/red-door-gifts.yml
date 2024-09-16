@@ -1,11 +1,11 @@
 id: 674308501
-type: way
+type: node
 latitude: 37.94927
 longitude: -91.77119
 postcode: "65401"
 city: Rolla
-street: "North Pine Street"
-housenumber: 700
-phone: "+1-573-364-0016"
-opening_hours: "Mo-Fr 10:00-17:30; Sa 10:00-16:00"
-website: "https://www.reddoorgiftsrolla.com/"
+street: North Pine Street
+housenumber: "700"
+phone: +1-573-364-0016
+opening_hours: Mo-Fr 10:00-17:30; Sa 10:00-16:00
+website: https://www.reddoorgiftsrolla.com/

@@ -1,11 +1,11 @@
 id: 124905399
-type: way
+type: node
 latitude: 36.49959
 longitude: -94.2693
 postcode: "64856"
 city: Pineville
-street: "US Highway 71"
-housenumber: 22176
+street: US Highway 71
+housenumber: "22176"
 phone: ""
 opening_hours: ""
 website: ""

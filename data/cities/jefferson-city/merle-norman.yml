@@ -4,8 +4,8 @@ latitude: 38.57647
 longitude: -92.17327
 postcode: ""
 city: Jefferson City
-street: "Jefferson Street"
-housenumber: 316
-phone: "(573)635-6634"
+street: Jefferson Street
+housenumber: "316"
+phone: (573)635-6634
 opening_hours: ""
-website: "https://www.merlenorman.com/WebForms/StudioLocator.aspx?65101"
+website: https://www.merlenorman.com/WebForms/StudioLocator.aspx?65101

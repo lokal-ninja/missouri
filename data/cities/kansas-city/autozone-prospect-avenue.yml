@@ -1,11 +1,11 @@
 id: 181689247
-type: way
+type: node
 latitude: 39.06699
 longitude: -94.55354
 postcode: "64128"
 city: Kansas City
-street: "Prospect Avenue"
-housenumber: 3230
+street: Prospect Avenue
+housenumber: "3230"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/mo/kansas-city/3230-prospect-ave.html"
+website: https://www.autozone.com/locations/mo/kansas-city/3230-prospect-ave.html

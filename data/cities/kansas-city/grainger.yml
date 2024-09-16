@@ -1,11 +1,11 @@
 id: 183523888
-type: way
+type: node
 latitude: 39.09139
 longitude: -94.55549
 postcode: "64127"
 city: Kansas City
-street: "East 18th Street"
-housenumber: 2300
+street: East 18th Street
+housenumber: "2300"
 phone: ""
-opening_hours: "Mo-Fr 07:30-16:00"
-website: "https://www.grainger.com/branch/Kansas-City-Branch-408"
+opening_hours: Mo-Fr 07:30-16:00
+website: https://www.grainger.com/branch/Kansas-City-Branch-408

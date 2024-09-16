@@ -1,11 +1,11 @@
 id: 482732053
-type: way
+type: node
 latitude: 38.54351
 longitude: -90.98764
 postcode: "63090"
 city: Washington
-street: "International Avenue"
-housenumber: 679
+street: International Avenue
+housenumber: "679"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 580197143
-type: way
+type: node
 latitude: 38.5913
 longitude: -90.60915
 postcode: "63011"
 city: Ellisville
-street: "Ellisville Towne Center Drive"
-housenumber: 37
-phone: "+1 636-273-6100"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Ellisville/MO/Ellisville/63011/3018"
+street: Ellisville Towne Center Drive
+housenumber: "37"
+phone: +1 636-273-6100
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Ellisville/MO/Ellisville/63011/3018

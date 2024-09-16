@@ -1,11 +1,11 @@
 id: 552433435
-type: way
+type: node
 latitude: 38.07108
 longitude: -91.40607
 postcode: "65453"
 city: Cuba
-street: "Truman Drive"
-housenumber: 102
+street: Truman Drive
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

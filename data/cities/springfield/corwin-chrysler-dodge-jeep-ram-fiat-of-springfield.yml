@@ -1,11 +1,11 @@
 id: 1133963662
-type: way
+type: node
 latitude: 37.23799
 longitude: -93.22696
 postcode: "65803"
 city: Springfield
-street: "East Kearney Street"
-housenumber: 3306
-phone: "+1-417-862-9272"
+street: East Kearney Street
+housenumber: "3306"
+phone: +1-417-862-9272
 opening_hours: ""
 website: ""

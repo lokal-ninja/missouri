@@ -1,11 +1,11 @@
 id: 846790110
-type: way
+type: node
 latitude: 39.01254
 longitude: -94.12984
 postcode: "64075"
 city: Oak Grove
-street: "South Broadway Street"
-housenumber: 400
+street: South Broadway Street
+housenumber: "400"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-400+s+broadway-oak+grove-mo-64075/id=11925"
+website: https://www.walgreens.com/locator/walgreens-400+s+broadway-oak+grove-mo-64075/id=11925

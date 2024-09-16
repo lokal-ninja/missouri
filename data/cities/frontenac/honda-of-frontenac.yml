@@ -1,11 +1,11 @@
 id: 351709600
-type: way
+type: node
 latitude: 38.6413
 longitude: -90.40597
 postcode: "63131"
 city: Frontenac
-street: "South Lindbergh Boulevard"
-housenumber: 885
-phone: "(888) 486-7933"
+street: South Lindbergh Boulevard
+housenumber: "885"
+phone: (888) 486-7933
 opening_hours: ""
-website: "https://www.hondafrontenac.com/"
+website: https://www.hondafrontenac.com/

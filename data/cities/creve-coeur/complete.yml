@@ -1,11 +1,11 @@
 id: 591076006
-type: way
+type: node
 latitude: 38.67319
 longitude: -90.42511
 postcode: "63141"
 city: Creve Coeur
-street: "Olive Boulevard"
-housenumber: 11100
-phone: "314-991-5656"
+street: Olive Boulevard
+housenumber: "11100"
+phone: 314-991-5656
 opening_hours: ""
-website: "https://completeweddingstlouis.com/"
+website: https://completeweddingstlouis.com/

@@ -1,11 +1,11 @@
 id: 572915816
-type: way
+type: node
 latitude: 39.24354
 longitude: -94.46729
 postcode: "64158"
 city: Kansas City
-street: "Northeast 83rd Terrace"
-housenumber: 9257
+street: Northeast 83rd Terrace
+housenumber: "9257"
 phone: ""
 opening_hours: ""
-website: "https://milanlaserkc.com/"
+website: https://milanlaserkc.com/

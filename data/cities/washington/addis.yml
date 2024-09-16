@@ -1,11 +1,11 @@
 id: 494729960
-type: way
+type: node
 latitude: 38.56021
 longitude: -91.01238
 postcode: "63090"
 city: Washington
-street: "West Main Street"
-housenumber: 124
+street: West Main Street
+housenumber: "124"
 phone: ""
 opening_hours: ""
 website: ""

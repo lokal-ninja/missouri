@@ -1,11 +1,11 @@
 id: 663359172
-type: way
+type: node
 latitude: 38.78965
 longitude: -90.53016
 postcode: "63301"
 city: Saint Charles
-street: "West Clay Street"
-housenumber: 2900
-phone: "+1 636-723-2447"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/MO-Saint-Charles/1057"
+street: West Clay Street
+housenumber: "2900"
+phone: +1 636-723-2447
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/MO-Saint-Charles/1057

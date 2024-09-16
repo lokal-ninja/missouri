@@ -1,11 +1,11 @@
 id: 291233463
-type: way
+type: node
 latitude: 37.99275
 longitude: -91.1756
 postcode: "65565"
 city: Courtois
-street: "Butts Road"
-housenumber: 204
+street: Butts Road
+housenumber: "204"
 phone: ""
 opening_hours: ""
 website: ""

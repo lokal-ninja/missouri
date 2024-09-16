@@ -1,11 +1,11 @@
 id: 608116427
-type: way
+type: node
 latitude: 39.78657
 longitude: -94.84816
 postcode: "64505"
 city: Saint Joseph
-street: "5th Avenue"
-housenumber: 1004
+street: 5th Avenue
+housenumber: "1004"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 543022349
-type: way
+type: node
 latitude: 39.13846
 longitude: -94.19562
 postcode: "64016"
 city: Buckner
-street: "East Monroe Street"
-housenumber: 120
+street: East Monroe Street
+housenumber: "120"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/mo/buckner/autoparts-113.html"
+website: https://locations.oreillyauto.com/mo/buckner/autoparts-113.html

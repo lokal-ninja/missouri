@@ -1,11 +1,11 @@
 id: 805420839
-type: way
+type: node
 latitude: 37.21052
 longitude: -93.22277
 postcode: "65802"
 city: Springfield
-street: "North Eastgate Avenue"
-housenumber: 500
+street: North Eastgate Avenue
+housenumber: "500"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3344"
+website: https://www.menards.com/store-details/store.html?store=3344

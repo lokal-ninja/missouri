@@ -1,11 +1,11 @@
 id: 161815632
-type: way
+type: node
 latitude: 38.77322
 longitude: -90.78721
 postcode: "63367"
 city: Lake Saint Louis
-street: "Ronald Reagan Drive"
-housenumber: 6100
-phone: "+1 636-625-2101"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5313/lake-saint%20louis-mo/whats-new"
+street: Ronald Reagan Drive
+housenumber: "6100"
+phone: +1 636-625-2101
+opening_hours: 24/7
+website: https://www.walmart.com/store/5313/lake-saint%20louis-mo/whats-new

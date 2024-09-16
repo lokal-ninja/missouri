@@ -1,11 +1,11 @@
 id: 718248493
-type: way
+type: node
 latitude: 38.5374
 longitude: -91.00336
 postcode: "63090"
 city: Washington
-street: "Washington Square Center"
-housenumber: 1080
-phone: "+1 636-390-2411"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/mo/washington/pet-supplies-washington-mo-1682.html"
+street: Washington Square Center
+housenumber: "1080"
+phone: +1 636-390-2411
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/mo/washington/pet-supplies-washington-mo-1682.html

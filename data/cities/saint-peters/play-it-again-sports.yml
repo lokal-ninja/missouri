@@ -1,11 +1,11 @@
 id: 621556465
-type: way
+type: node
 latitude: 38.79243
 longitude: -90.61877
 postcode: "63376"
 city: Saint Peters
-street: "Mid Rivers Center"
-housenumber: 234
-phone: "+1 636-397-0100"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-19:00; Su 11:00-17:00"
-website: "https://www.playitagainsportsstpeters.com/"
+street: Mid Rivers Center
+housenumber: "234"
+phone: +1 636-397-0100
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-19:00; Su 11:00-17:00
+website: https://www.playitagainsportsstpeters.com/

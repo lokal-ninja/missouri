@@ -1,11 +1,11 @@
 id: 242781982
-type: way
+type: node
 latitude: 38.59457
 longitude: -90.23377
 postcode: "63118"
 city: Saint Louis
-street: "Cherokee Street"
-housenumber: 3001
-phone: "+1 314 772 7400"
+street: Cherokee Street
+housenumber: "3001"
+phone: +1 314 772 7400
 opening_hours: ""
 website: ""

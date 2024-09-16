@@ -1,11 +1,11 @@
 id: 497764252
-type: way
+type: node
 latitude: 38.55101
 longitude: -90.99821
 postcode: "63090"
 city: Washington
-street: "Fulton Street"
-housenumber: 351
+street: Fulton Street
+housenumber: "351"
 phone: ""
 opening_hours: ""
 website: ""

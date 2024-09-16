@@ -1,11 +1,11 @@
 id: 638937457
-type: way
+type: node
 latitude: 38.58101
 longitude: -90.40894
 postcode: "63122"
 city: Kirkwood
-street: "West Argonne Drive"
-housenumber: 200
+street: West Argonne Drive
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

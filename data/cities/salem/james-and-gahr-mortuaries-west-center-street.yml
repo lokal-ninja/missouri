@@ -1,11 +1,11 @@
 id: 611322377
-type: way
+type: node
 latitude: 37.64303
 longitude: -91.53631
 postcode: "65560"
 city: Salem
-street: "West Center Street"
-housenumber: 101
+street: West Center Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 189577696
-type: way
+type: node
 latitude: 39.18152
 longitude: -94.57397
 postcode: "64118"
 city: Kansas City
-street: "Northeast Vivion Road"
-housenumber: 600
-phone: "+1 816-459-7882"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/mo/kansascity/pet-supplies-kansascity-mo-1694.html"
+street: Northeast Vivion Road
+housenumber: "600"
+phone: +1 816-459-7882
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/mo/kansascity/pet-supplies-kansascity-mo-1694.html

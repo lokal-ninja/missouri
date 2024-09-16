@@ -1,11 +1,11 @@
 id: 571164481
-type: way
+type: node
 latitude: 38.44671
 longitude: -91.00601
 postcode: "63084"
 city: Union
-street: "North Church Street"
-housenumber: 103
-phone: "636-583-2525"
+street: North Church Street
+housenumber: "103"
+phone: 636-583-2525
 opening_hours: ""
-website: "oltmannfuneralhome.com"
+website: oltmannfuneralhome.com

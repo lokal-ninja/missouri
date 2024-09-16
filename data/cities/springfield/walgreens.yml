@@ -1,11 +1,11 @@
 id: 503620386
-type: way
+type: node
 latitude: 37.16059
 longitude: -93.29635
 postcode: "65807"
 city: Springfield
-street: "South Campbell Avenue"
-housenumber: 2951
+street: South Campbell Avenue
+housenumber: "2951"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2951+s+campbell+ave-springfield-mo-65807/id=3688"
+website: https://www.walgreens.com/locator/walgreens-2951+s+campbell+ave-springfield-mo-65807/id=3688

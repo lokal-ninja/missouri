@@ -1,11 +1,11 @@
 id: 406908653
-type: way
+type: node
 latitude: 38.6425
 longitude: -90.56909
 postcode: "63017"
 city: Chesterfield
-street: "Clarkson Road"
-housenumber: 1781
-phone: "+1 636-536-9869"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.totalwine.com/store-info/1803"
+street: Clarkson Road
+housenumber: "1781"
+phone: +1 636-536-9869
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.totalwine.com/store-info/1803

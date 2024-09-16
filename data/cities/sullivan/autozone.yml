@@ -1,11 +1,11 @@
 id: 554326388
-type: way
+type: node
 latitude: 38.22293
 longitude: -91.15542
 postcode: "63080"
 city: Sullivan
-street: "N Service Road East"
-housenumber: 464
-phone: "573-860-5055"
+street: N Service Road East
+housenumber: "464"
+phone: 573-860-5055
 opening_hours: ""
-website: "https://www.autozone.com/locations/mo/sullivan/464-s-service-rd-e.html"
+website: https://www.autozone.com/locations/mo/sullivan/464-s-service-rd-e.html

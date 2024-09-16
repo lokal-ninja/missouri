@@ -1,11 +1,11 @@
 id: 331996887
-type: way
+type: node
 latitude: 38.65197
 longitude: -94.35989
 postcode: "64701"
 city: Harrisonville
-street: "South Commercial Street"
-housenumber: 658
+street: South Commercial Street
+housenumber: "658"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 11:00-17:00"
+opening_hours: Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 11:00-17:00
 website: ""

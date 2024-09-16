@@ -1,11 +1,11 @@
 id: 450843067
-type: way
+type: node
 latitude: 39.71392
 longitude: -91.36668
 postcode: "63401"
 city: Hannibal
-street: "Mark Twain Avenue"
-housenumber: 918
+street: Mark Twain Avenue
+housenumber: "918"
 phone: ""
 opening_hours: ""
 website: ""

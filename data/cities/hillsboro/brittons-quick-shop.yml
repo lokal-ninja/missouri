@@ -1,11 +1,11 @@
 id: 1031074190
-type: way
+type: node
 latitude: 38.30683
 longitude: -90.5314
 postcode: "63050"
 city: Hillsboro
-street: "Old State Highway 21"
-housenumber: 8730
+street: Old State Highway 21
+housenumber: "8730"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

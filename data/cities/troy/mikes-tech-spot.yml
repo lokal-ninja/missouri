@@ -1,11 +1,11 @@
 id: 578242788
-type: way
+type: node
 latitude: 38.97929
 longitude: -90.98108
 postcode: "63379"
 city: Troy
-street: "Main Street"
-housenumber: 460
-phone: "+1 636-775-1677"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00"
-website: "https://www.techspottroy.com"
+street: Main Street
+housenumber: "460"
+phone: +1 636-775-1677
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00
+website: https://www.techspottroy.com

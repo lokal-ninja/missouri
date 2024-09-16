@@ -1,11 +1,11 @@
 id: 638399485
-type: way
+type: node
 latitude: 38.58706
 longitude: -93.69492
 postcode: "64761"
 city: Leeton
-street: "North Lee Street"
-housenumber: 404
+street: North Lee Street
+housenumber: "404"
 phone: ""
-opening_hours: "Mo-Su 05:30-23:00"
-website: "https://www.caseys.com/general-store/1284/mo/leeton/404-n-lee-st"
+opening_hours: Mo-Su 05:30-23:00
+website: https://www.caseys.com/general-store/1284/mo/leeton/404-n-lee-st

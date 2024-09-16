@@ -1,11 +1,11 @@
 id: 175921238
-type: way
+type: node
 latitude: 39.0872
 longitude: -94.5689
 postcode: "64108"
 city: Kansas City
-street: "Forest Avenue"
-housenumber: 2103
+street: Forest Avenue
+housenumber: "2103"
 phone: "+18164745002"
 opening_hours: ""
-website: "http://www.forkliftbatteriesandchargers.com/"
+website: http://www.forkliftbatteriesandchargers.com/

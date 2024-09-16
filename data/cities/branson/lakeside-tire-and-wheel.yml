@@ -1,11 +1,11 @@
 id: 328670340
-type: way
+type: node
 latitude: 36.64257
 longitude: -93.20396
 postcode: "65616"
 city: Branson
-street: "E. State Highway 76"
-housenumber: 947
-phone: "+1 417 334 8473"
-opening_hours: "Mo-Fr 8:00-17:00;Sa 8:00-12:00"
-website: "https://lakesidetireandwheel.com/"
+street: E. State Highway 76
+housenumber: "947"
+phone: +1 417 334 8473
+opening_hours: Mo-Fr 8:00-17:00;Sa 8:00-12:00
+website: https://lakesidetireandwheel.com/

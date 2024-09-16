@@ -1,11 +1,11 @@
 id: 532569561
-type: way
+type: node
 latitude: 38.65122
 longitude: -90.19754
 postcode: "63106"
 city: Saint Louis
-street: "14th Street"
-housenumber: 2720
+street: 14th Street
+housenumber: "2720"
 phone: ""
 opening_hours: ""
 website: ""

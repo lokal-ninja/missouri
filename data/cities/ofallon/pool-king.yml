@@ -1,11 +1,11 @@
 id: 666011837
-type: way
+type: node
 latitude: 38.80199
 longitude: -90.69794
 postcode: "63366"
 city: O'Fallon
-street: "McDonald Lane"
-housenumber: 389
-phone: "636-240-5649"
+street: McDonald Lane
+housenumber: "389"
+phone: 636-240-5649
 opening_hours: ""
-website: "https://www.poolkingrec.com/"
+website: https://www.poolkingrec.com/

@@ -1,11 +1,11 @@
 id: 481662827
-type: way
+type: node
 latitude: 38.55337
 longitude: -91.00081
 postcode: "63090"
 city: Washington
-street: "East 3rd Street"
-housenumber: 901
+street: East 3rd Street
+housenumber: "901"
 phone: ""
 opening_hours: ""
 website: ""

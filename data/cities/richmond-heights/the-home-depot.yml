@@ -1,11 +1,11 @@
 id: 374782467
-type: way
+type: node
 latitude: 38.62682
 longitude: -90.33734
 postcode: "63144"
 city: Richmond Heights
-street: "South Hanley Road"
-housenumber: 1603
-phone: "+1 314-647-6050"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/hanley-rd-40/mo/brentwood/63144/3002"
+street: South Hanley Road
+housenumber: "1603"
+phone: +1 314-647-6050
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/hanley-rd-40/mo/brentwood/63144/3002

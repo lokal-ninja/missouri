@@ -1,11 +1,11 @@
 id: 468086732
-type: way
+type: node
 latitude: 36.72909
 longitude: -91.85407
 postcode: "65775"
 city: West Plains
-street: "Jefferson Avenue"
-housenumber: 125
-phone: "+1-417-257-7729"
-opening_hours: "Mo-Fr 9:30-17:00"
-website: "https://christoshousemo.org/stores/"
+street: Jefferson Avenue
+housenumber: "125"
+phone: +1-417-257-7729
+opening_hours: Mo-Fr 9:30-17:00
+website: https://christoshousemo.org/stores/

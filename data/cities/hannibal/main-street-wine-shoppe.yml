@@ -1,11 +1,11 @@
 id: 451120780
-type: way
+type: node
 latitude: 39.71134
 longitude: -91.35699
 postcode: "63401"
 city: Hannibal
-street: "North Main Street"
-housenumber: 303
-phone: "(573) 231-1007"
+street: North Main Street
+housenumber: "303"
+phone: (573) 231-1007
 opening_hours: ""
 website: ""

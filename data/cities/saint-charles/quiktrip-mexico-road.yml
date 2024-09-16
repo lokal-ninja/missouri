@@ -1,11 +1,11 @@
 id: 588494549
-type: way
+type: node
 latitude: 38.79054
 longitude: -90.56502
 postcode: "63303"
 city: Saint Charles
-street: "Mexico Road"
-housenumber: 3889
+street: Mexico Road
+housenumber: "3889"
 phone: ""
 opening_hours: ""
 website: ""

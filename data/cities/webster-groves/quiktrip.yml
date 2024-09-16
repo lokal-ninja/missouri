@@ -1,11 +1,11 @@
 id: 698800540
-type: way
+type: node
 latitude: 38.56728
 longitude: -90.3407
 postcode: ""
 city: Webster Groves
-street: "Watson Road"
-housenumber: 8000
+street: Watson Road
+housenumber: "8000"
 phone: ""
 opening_hours: ""
 website: ""

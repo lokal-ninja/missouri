@@ -1,11 +1,11 @@
 id: 555558387
-type: way
+type: node
 latitude: 39.01511
 longitude: -94.13138
 postcode: "64075"
 city: Oak Grove
-street: "Southwest 1st Street"
-housenumber: 301
+street: Southwest 1st Street
+housenumber: "301"
 phone: ""
-opening_hours: "24/7"
-website: "https://oakgrovepetro.com/"
+opening_hours: 24/7
+website: https://oakgrovepetro.com/

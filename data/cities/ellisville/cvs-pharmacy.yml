@@ -1,11 +1,11 @@
 id: 659476516
-type: way
+type: node
 latitude: 38.59221
 longitude: -90.58497
 postcode: "63011"
 city: Ellisville
-street: "Manchester Road"
-housenumber: 15846
+street: Manchester Road
+housenumber: "15846"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/ellisville-mo-pharmacies/15846-manchester-rd-ellisville-mo-63011/storeid=5689"
+website: https://www.cvs.com/store-locator/ellisville-mo-pharmacies/15846-manchester-rd-ellisville-mo-63011/storeid=5689

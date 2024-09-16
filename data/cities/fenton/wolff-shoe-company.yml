@@ -1,11 +1,11 @@
 id: 233995918
-type: way
+type: node
 latitude: 38.54044
 longitude: -90.4478
 postcode: "63026"
 city: Fenton
-street: "Rudder Road"
-housenumber: 460
+street: Rudder Road
+housenumber: "460"
 phone: ""
 opening_hours: ""
 website: ""

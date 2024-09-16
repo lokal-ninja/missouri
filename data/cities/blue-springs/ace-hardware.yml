@@ -1,11 +1,11 @@
 id: 383475012
-type: way
+type: node
 latitude: 39.03255
 longitude: -94.273
-postcode: "64014-2281"
+postcode: 64014-2281
 city: Blue Springs
-street: "North 7 Highway"
-housenumber: 1205
-phone: "+1 816-229-1177"
-opening_hours: "Mo-Sa 07:30-20:00; Su 09:00-18:00"
+street: North 7 Highway
+housenumber: "1205"
+phone: +1 816-229-1177
+opening_hours: Mo-Sa 07:30-20:00; Su 09:00-18:00
 website: ""

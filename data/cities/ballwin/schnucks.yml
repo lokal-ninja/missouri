@@ -1,11 +1,11 @@
 id: 250453624
-type: way
+type: node
 latitude: 38.59401
 longitude: -90.56294
 postcode: "63011"
 city: Ballwin
-street: "Manchester Road"
-housenumber: 15425
-phone: "(636) 256-0644"
+street: Manchester Road
+housenumber: "15425"
+phone: (636) 256-0644
 opening_hours: ""
-website: "https://schnucks.com/"
+website: https://schnucks.com/

@@ -1,11 +1,11 @@
 id: 545500350
-type: way
+type: node
 latitude: 36.71698
 longitude: -91.8796
 postcode: "65775"
 city: West Plains
-street: "County Road 6460"
-housenumber: 1844
-phone: "(417) 255-2886"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "andrewsautomotiverepair.com"
+street: County Road 6460
+housenumber: "1844"
+phone: (417) 255-2886
+opening_hours: Mo-Fr 08:00-17:00
+website: andrewsautomotiverepair.com

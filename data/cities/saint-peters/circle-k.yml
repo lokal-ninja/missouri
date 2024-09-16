@@ -1,11 +1,11 @@
 id: 587928822
-type: way
+type: node
 latitude: 38.78963
 longitude: -90.6064
 postcode: "63376"
 city: Saint Peters
-street: "Mexico Road"
-housenumber: 6105
-phone: "+1 636-447-4360"
-opening_hours: "24/7"
-website: "https://www.circlek.com/store-locator/US/st-peters/6105-mexico-rd/m1639?language=en"
+street: Mexico Road
+housenumber: "6105"
+phone: +1 636-447-4360
+opening_hours: 24/7
+website: https://www.circlek.com/store-locator/US/st-peters/6105-mexico-rd/m1639?language=en

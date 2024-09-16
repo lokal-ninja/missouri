@@ -1,11 +1,11 @@
 id: 677191314
-type: way
+type: node
 latitude: 37.95785
 longitude: -91.77288
 postcode: "65401"
 city: Rolla
-street: "North Bishop Avenue"
-housenumber: 1710
+street: North Bishop Avenue
+housenumber: "1710"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.circlek.com/store-locator/US/rolla/1710-n-bishop-ave/2656251"
+opening_hours: 24/7
+website: https://www.circlek.com/store-locator/US/rolla/1710-n-bishop-ave/2656251

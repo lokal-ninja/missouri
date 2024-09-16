@@ -4,8 +4,8 @@ latitude: 38.60311
 longitude: -90.38785
 postcode: "63122"
 city: St. Louis
-street: "Manchester Road"
-housenumber: 10091
-phone: "+1-314-909-0123"
-opening_hours: "10:00-18:00"
-website: "https://www.missouriantiquemalls.com/warson-woods-antique-gallery/"
+street: Manchester Road
+housenumber: "10091"
+phone: +1-314-909-0123
+opening_hours: 10:00-18:00
+website: https://www.missouriantiquemalls.com/warson-woods-antique-gallery/

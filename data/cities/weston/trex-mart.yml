@@ -1,11 +1,11 @@
 id: 506125699
-type: way
+type: node
 latitude: 39.42263
 longitude: -94.90106
 postcode: "64098"
 city: Weston
-street: "MO 45"
-housenumber: 18310
+street: MO 45
+housenumber: "18310"
 phone: ""
 opening_hours: ""
-website: "https://www.trexcon.com/locations/weston-mo.html"
+website: https://www.trexcon.com/locations/weston-mo.html

@@ -1,11 +1,11 @@
 id: 437377957
-type: way
+type: node
 latitude: 39.11016
 longitude: -94.5733
 postcode: "64106"
 city: Kansas City
-street: "East 5th Street"
-housenumber: 901
+street: East 5th Street
+housenumber: "901"
 phone: ""
 opening_hours: ""
 website: ""

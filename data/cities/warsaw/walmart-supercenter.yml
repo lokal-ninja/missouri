@@ -1,11 +1,11 @@
 id: 309650767
-type: way
+type: node
 latitude: 38.26213
 longitude: -93.37197
 postcode: "65355"
 city: Warsaw
-street: "West Polk Street"
-housenumber: 103
-phone: "+1 660-438-7394"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/250/warsaw-mo/whats-new"
+street: West Polk Street
+housenumber: "103"
+phone: +1 660-438-7394
+opening_hours: 24/7
+website: https://www.walmart.com/store/250/warsaw-mo/whats-new

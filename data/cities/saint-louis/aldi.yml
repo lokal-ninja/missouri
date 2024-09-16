@@ -1,11 +1,11 @@
 id: 446427228
-type: way
+type: node
 latitude: 38.65241
 longitude: -90.26219
 postcode: "63108"
 city: Saint Louis
-street: "North Kingshighway Boulevard"
-housenumber: 702
-phone: "+1 855-955-2534"
-opening_hours: "Su-Fr 09:00-19:00"
-website: "https://stores.aldi.us/mo/st.-louis/702-n-kingshighway"
+street: North Kingshighway Boulevard
+housenumber: "702"
+phone: +1 855-955-2534
+opening_hours: Su-Fr 09:00-19:00
+website: https://stores.aldi.us/mo/st.-louis/702-n-kingshighway

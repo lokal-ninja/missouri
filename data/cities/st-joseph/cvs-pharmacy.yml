@@ -1,11 +1,11 @@
 id: 1230792216
-type: way
+type: node
 latitude: 39.80047
 longitude: -94.81598
 postcode: "64506"
 city: St. Joseph
-street: "North Belt Highway"
-housenumber: 3320
+street: North Belt Highway
+housenumber: "3320"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/saint-joseph-mo-pharmacies/3320-north-belt-highway-saint-joseph-mo-64506/storeid=10506"
+website: https://www.cvs.com/store-locator/saint-joseph-mo-pharmacies/3320-north-belt-highway-saint-joseph-mo-64506/storeid=10506

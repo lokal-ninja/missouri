@@ -1,11 +1,11 @@
 id: 203805515
-type: way
+type: node
 latitude: 39.09512
 longitude: -94.57741
 postcode: "64108"
 city: Kansas City
-street: "East Truman Road"
-housenumber: 501
+street: East Truman Road
+housenumber: "501"
 phone: ""
 opening_hours: ""
 website: ""

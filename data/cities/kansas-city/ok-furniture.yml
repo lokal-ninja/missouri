@@ -1,11 +1,11 @@
 id: 172236771
-type: way
+type: node
 latitude: 39.09488
 longitude: -94.55153
 postcode: "64127"
 city: Kansas City
-street: "East Truman Road"
-housenumber: 2600
+street: East Truman Road
+housenumber: "2600"
 phone: ""
 opening_hours: ""
 website: ""

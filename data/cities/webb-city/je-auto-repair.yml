@@ -1,11 +1,11 @@
 id: 902555005
-type: way
+type: node
 latitude: 37.14833
 longitude: -94.46342
 postcode: "64870"
 city: Webb City
-street: "North Main Street"
-housenumber: 302
-phone: "1-417-673-7328"
+street: North Main Street
+housenumber: "302"
+phone: 1-417-673-7328
 opening_hours: ""
 website: ""

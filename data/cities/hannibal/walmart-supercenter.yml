@@ -1,11 +1,11 @@
 id: 622918390
-type: way
+type: node
 latitude: 39.72558
 longitude: -91.40079
 postcode: "63401"
 city: Hannibal
-street: "Stardust Drive"
-housenumber: 3650
-phone: "+1 573-221-5610"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/609/hannibal-mo/whats-new"
+street: Stardust Drive
+housenumber: "3650"
+phone: +1 573-221-5610
+opening_hours: 24/7
+website: https://www.walmart.com/store/609/hannibal-mo/whats-new

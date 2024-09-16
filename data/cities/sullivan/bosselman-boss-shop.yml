@@ -1,11 +1,11 @@
 id: 319961506
-type: way
+type: node
 latitude: 38.22612
 longitude: -91.15991
 postcode: "63080"
 city: Sullivan
-street: "Highway AF"
-housenumber: 1496
+street: Highway AF
+housenumber: "1496"
 phone: ""
 opening_hours: ""
 website: ""

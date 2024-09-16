@@ -1,11 +1,11 @@
 id: 928260748
-type: way
+type: node
 latitude: 38.719
 longitude: -93.99266
 postcode: "64040"
 city: Holden
-street: "South Olive Street"
-housenumber: 100
+street: South Olive Street
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

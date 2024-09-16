@@ -1,11 +1,11 @@
 id: 554602288
-type: way
+type: node
 latitude: 38.93945
 longitude: -92.77404
 postcode: "65233"
 city: Boonville
-street: "West Ashley Road"
-housenumber: 1701
+street: West Ashley Road
+housenumber: "1701"
 phone: ""
 opening_hours: ""
-website: "https://pilotflyingj.com/stores/44"
+website: https://pilotflyingj.com/stores/44

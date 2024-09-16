@@ -1,11 +1,11 @@
 id: 620875336
-type: way
+type: node
 latitude: 38.78786
 longitude: -90.62776
 postcode: "63376"
 city: Saint Peters
-street: "Mid Rivers Mall Drive"
-housenumber: 561
-phone: "+1 636-279-6190"
+street: Mid Rivers Mall Drive
+housenumber: "561"
+phone: +1 636-279-6190
 opening_hours: ""
 website: ""

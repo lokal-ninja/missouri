@@ -1,11 +1,11 @@
 id: 1160766635
-type: way
+type: node
 latitude: 39.00905
 longitude: -94.20014
 postcode: "64029"
 city: Grain Valley
-street: "Southwest Rock Creek Lane"
-housenumber: 105
+street: Southwest Rock Creek Lane
+housenumber: "105"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/mo/grain-valley/9597"
+website: https://www.dollargeneral.com/store-directory/mo/grain-valley/9597

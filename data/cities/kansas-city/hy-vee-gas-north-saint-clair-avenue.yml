@@ -1,11 +1,11 @@
 id: 512741311
-type: way
+type: node
 latitude: 39.2462
 longitude: -94.64667
 postcode: "64151"
 city: Kansas City
-street: "North Saint Clair Avenue"
-housenumber: 8371
+street: North Saint Clair Avenue
+housenumber: "8371"
 phone: ""
-opening_hours: "5:00-23:00"
+opening_hours: 5:00-23:00
 website: ""

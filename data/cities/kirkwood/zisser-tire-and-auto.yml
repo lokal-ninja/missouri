@@ -1,11 +1,11 @@
 id: 380289830
-type: way
+type: node
 latitude: 38.58927
 longitude: -90.41637
 postcode: "63122"
 city: Kirkwood
-street: "West Essex Avenue"
-housenumber: 501
-phone: "+1 314 835 1800"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "http://www.zissertirekirkwood.com/"
+street: West Essex Avenue
+housenumber: "501"
+phone: +1 314 835 1800
+opening_hours: Mo-Fr 08:00-17:00
+website: http://www.zissertirekirkwood.com/

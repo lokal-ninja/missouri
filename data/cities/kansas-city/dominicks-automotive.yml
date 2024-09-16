@@ -1,11 +1,11 @@
 id: 538580018
-type: way
+type: node
 latitude: 39.09355
 longitude: -94.57415
 postcode: "64108"
 city: Kansas City
-street: "Charlotte Street"
-housenumber: 1609
+street: Charlotte Street
+housenumber: "1609"
 phone: ""
 opening_hours: ""
 website: ""

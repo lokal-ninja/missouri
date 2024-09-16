@@ -1,11 +1,11 @@
 id: 374964803
-type: way
+type: node
 latitude: 38.5911
 longitude: -90.34057
 postcode: "63119"
 city: Webster Groves
-street: "East Lockwood Avenue"
-housenumber: 625
-phone: "314-962-9157"
-opening_hours: "Mo-Sa 09:00-19:00; Su 09:00-18:00"
+street: East Lockwood Avenue
+housenumber: "625"
+phone: 314-962-9157
+opening_hours: Mo-Sa 09:00-19:00; Su 09:00-18:00
 website: ""

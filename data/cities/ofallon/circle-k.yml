@@ -1,11 +1,11 @@
 id: 618557589
-type: way
+type: node
 latitude: 38.78074
 longitude: -90.70082
 postcode: "63366"
 city: O'Fallon
-street: "Highway K"
-housenumber: 2035
+street: Highway K
+housenumber: "2035"
 phone: ""
 opening_hours: ""
 website: ""

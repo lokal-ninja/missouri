@@ -1,11 +1,11 @@
 id: 630784183
-type: way
+type: node
 latitude: 38.30971
 longitude: -90.53221
 postcode: "63050"
 city: Hillsboro
-street: "Old State Highway 21"
-housenumber: 8634
+street: Old State Highway 21
+housenumber: "8634"
 phone: ""
-opening_hours: "Su-Sa 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/mo/hillsboro/16513"
+opening_hours: Su-Sa 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/mo/hillsboro/16513

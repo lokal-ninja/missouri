@@ -1,11 +1,11 @@
 id: 554590636
-type: way
+type: node
 latitude: 38.95206
 longitude: -92.73962
 postcode: "65233"
 city: Boonville
-street: "Main Street"
-housenumber: 2150
-phone: "+1 660-882-7422"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.walmart.com/store/820/boonville-mo/whats-new"
+street: Main Street
+housenumber: "2150"
+phone: +1 660-882-7422
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.walmart.com/store/820/boonville-mo/whats-new

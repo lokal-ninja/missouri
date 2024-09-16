@@ -1,11 +1,11 @@
 id: 561314516
-type: way
+type: node
 latitude: 38.62585
 longitude: -90.33428
 postcode: "63144"
 city: Richmond Heights
-street: "South Hanley Road"
-housenumber: 1530
-phone: "+1 314-647-2332"
-opening_hours: "24/7"
-website: "https://locations.quiktrip.com/mo/richmond-heights/1530-s-hanley-rd"
+street: South Hanley Road
+housenumber: "1530"
+phone: +1 314-647-2332
+opening_hours: 24/7
+website: https://locations.quiktrip.com/mo/richmond-heights/1530-s-hanley-rd

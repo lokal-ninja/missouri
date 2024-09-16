@@ -1,11 +1,11 @@
 id: 108705187
-type: way
+type: node
 latitude: 38.62968
 longitude: -90.20911
 postcode: "63103"
 city: Saint Louis
-street: "Market Street"
-housenumber: 1820
+street: Market Street
+housenumber: "1820"
 phone: ""
 opening_hours: ""
-website: "https://www.stlouisunionstation.com/"
+website: https://www.stlouisunionstation.com/

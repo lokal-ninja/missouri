@@ -1,11 +1,11 @@
 id: 498128171
-type: way
+type: node
 latitude: 38.55979
 longitude: -91.0135
 postcode: "63090"
 city: Washington
-street: "West 2nd Street"
-housenumber: 208
+street: West 2nd Street
+housenumber: "208"
 phone: ""
 opening_hours: ""
 website: ""

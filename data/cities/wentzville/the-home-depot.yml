@@ -1,11 +1,11 @@
 id: 517764951
-type: way
+type: node
 latitude: 38.8162
 longitude: -90.87487
 postcode: "63385"
 city: Wentzville
-street: "Wentzville Parkway"
-housenumber: 1920
-phone: "+1 636-327-0897"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/wentzville/mo/wentzville/63385/3025"
+street: Wentzville Parkway
+housenumber: "1920"
+phone: +1 636-327-0897
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/wentzville/mo/wentzville/63385/3025

@@ -1,11 +1,11 @@
 id: 451770245
-type: way
+type: node
 latitude: 38.57295
 longitude: -92.16704
 postcode: "65101"
 city: Jefferson City
-street: "East High Street"
-housenumber: 504
+street: East High Street
+housenumber: "504"
 phone: ""
 opening_hours: ""
 website: ""

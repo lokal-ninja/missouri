@@ -1,11 +1,11 @@
 id: 679049209
-type: way
+type: node
 latitude: 37.00072
 longitude: -93.22731
 postcode: "65721"
 city: Ozark
-street: "West Marler Lane"
-housenumber: 2004
-phone: "+1 417-581-2761"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/379/ozark-mo/whats-new"
+street: West Marler Lane
+housenumber: "2004"
+phone: +1 417-581-2761
+opening_hours: 24/7
+website: https://www.walmart.com/store/379/ozark-mo/whats-new

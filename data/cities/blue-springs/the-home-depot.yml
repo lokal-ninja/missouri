@@ -1,11 +1,11 @@
 id: 343951690
-type: way
+type: node
 latitude: 39.02526
 longitude: -94.25251
 postcode: "64014"
 city: Blue Springs
-street: "Northeast Adams Dairy Parkway"
-housenumber: 905
-phone: "+1 816-229-2902"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Blue-Springs/MO/Blue-Springs/64014/3024"
+street: Northeast Adams Dairy Parkway
+housenumber: "905"
+phone: +1 816-229-2902
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Blue-Springs/MO/Blue-Springs/64014/3024

@@ -1,11 +1,11 @@
 id: 1100737002
-type: way
+type: node
 latitude: 38.62602
 longitude: -90.27356
 postcode: "63110"
 city: Saint Louis
-street: "Wise Avenue"
-housenumber: 5130
+street: Wise Avenue
+housenumber: "5130"
 phone: ""
 opening_hours: ""
 website: ""

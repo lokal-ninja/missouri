@@ -1,11 +1,11 @@
 id: 621381676
-type: way
+type: node
 latitude: 38.62864
 longitude: -90.29259
 postcode: "63139"
 city: Saint Louis
-street: "Clayton Avenue"
-housenumber: 6331
+street: Clayton Avenue
+housenumber: "6331"
 phone: ""
 opening_hours: ""
-website: "https://www.stlstrings.com/pages/downtown-location"
+website: https://www.stlstrings.com/pages/downtown-location

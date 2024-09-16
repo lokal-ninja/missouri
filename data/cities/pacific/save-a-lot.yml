@@ -1,11 +1,11 @@
 id: 536147193
-type: way
+type: node
 latitude: 38.48601
 longitude: -90.77694
 postcode: "63069"
 city: Pacific
-street: "West Osage Street"
-housenumber: 2700
+street: West Osage Street
+housenumber: "2700"
 phone: ""
 opening_hours: ""
-website: "https://savealot.com/grocery-stores/pacific-63069-25004/"
+website: https://savealot.com/grocery-stores/pacific-63069-25004/

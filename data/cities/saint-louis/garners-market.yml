@@ -1,11 +1,11 @@
 id: 515716147
-type: way
+type: node
 latitude: 38.55252
 longitude: -90.29051
 postcode: "63123"
 city: Saint Louis
-street: "Seibert Avenue"
-housenumber: 4301
+street: Seibert Avenue
+housenumber: "4301"
 phone: "+13146388863"
-opening_hours: "Mo-Sa 08:00-12:00,12:30-20:00; Su 09:00-12:00,12:30-19:00"
+opening_hours: Mo-Sa 08:00-12:00,12:30-20:00; Su 09:00-12:00,12:30-19:00
 website: ""

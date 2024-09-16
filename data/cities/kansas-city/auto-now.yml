@@ -1,11 +1,11 @@
 id: 1159476641
-type: way
+type: node
 latitude: 38.985
 longitude: -94.59445
 postcode: "64114"
 city: Kansas City
-street: "Wornall Road"
-housenumber: 7901
+street: Wornall Road
+housenumber: "7901"
 phone: ""
 opening_hours: ""
 website: ""

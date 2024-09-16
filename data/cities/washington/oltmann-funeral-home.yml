@@ -1,11 +1,11 @@
 id: 483315285
-type: way
+type: node
 latitude: 38.54493
 longitude: -91.00935
 postcode: "63090"
 city: Washington
-street: "East 14th Street"
-housenumber: 508
-phone: "636-239-9600"
+street: East 14th Street
+housenumber: "508"
+phone: 636-239-9600
 opening_hours: ""
-website: "oltmannfuneralhome.com"
+website: oltmannfuneralhome.com

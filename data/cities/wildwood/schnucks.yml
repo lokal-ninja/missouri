@@ -1,11 +1,11 @@
 id: 678032185
-type: way
+type: node
 latitude: 38.58042
 longitude: -90.61722
 postcode: "63040"
 city: Wildwood
-street: "Manchester Road"
-housenumber: 16580
+street: Manchester Road
+housenumber: "16580"
 phone: ""
 opening_hours: ""
 website: ""

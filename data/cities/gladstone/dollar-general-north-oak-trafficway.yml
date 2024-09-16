@@ -1,11 +1,11 @@
 id: 571829461
-type: way
+type: node
 latitude: 39.21276
 longitude: -94.57375
 postcode: "64118"
 city: Gladstone
-street: "North Oak Trafficway"
-housenumber: 6577
+street: North Oak Trafficway
+housenumber: "6577"
 phone: ""
-opening_hours: "08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/mo/gladstone/3241"
+opening_hours: 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/mo/gladstone/3241

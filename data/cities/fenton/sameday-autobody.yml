@@ -1,11 +1,11 @@
 id: 233417918
-type: way
+type: node
 latitude: 38.53378
 longitude: -90.49423
 postcode: "63026"
 city: Fenton
-street: "Valley Park Road"
-housenumber: 3
+street: Valley Park Road
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

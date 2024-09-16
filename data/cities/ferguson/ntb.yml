@@ -1,11 +1,11 @@
 id: 298497403
-type: way
+type: node
 latitude: 38.76687
 longitude: -90.28095
 postcode: "63136"
 city: Ferguson
-street: "West Florissant Avenue"
-housenumber: 10801
+street: West Florissant Avenue
+housenumber: "10801"
 phone: ""
 opening_hours: ""
-website: "https://www.ntb.com/store/mo/saint-louis/10801-w-florissant-ave-63136/4281"
+website: https://www.ntb.com/store/mo/saint-louis/10801-w-florissant-ave-63136/4281

@@ -1,11 +1,11 @@
 id: 1207816428
-type: way
+type: node
 latitude: 38.46292
 longitude: -90.52923
 postcode: "63049"
 city: High Ridge
-street: "Crossroads Place"
-housenumber: 1025
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/mo/high-ridge/1025-crossroads-place"
+street: Crossroads Place
+housenumber: "1025"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/mo/high-ridge/1025-crossroads-place

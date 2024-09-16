@@ -1,11 +1,11 @@
 id: 457548576
-type: way
+type: node
 latitude: 38.77874
 longitude: -90.70271
 postcode: "63366"
 city: O'Fallon
-street: "Highway K"
-housenumber: 2241
-phone: "+1 636-272-6013"
-opening_hours: "Mo-Th 09:30-22:00; Fr,Sa 09:00-22:30; Su 09:30-21:30"
-website: "https://www.rossstores.com/"
+street: Highway K
+housenumber: "2241"
+phone: +1 636-272-6013
+opening_hours: Mo-Th 09:30-22:00; Fr,Sa 09:00-22:30; Su 09:30-21:30
+website: https://www.rossstores.com/

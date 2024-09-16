@@ -1,11 +1,11 @@
 id: 222839297
-type: way
+type: node
 latitude: 39.80819
 longitude: -94.81717
 postcode: "64506"
 city: Saint Joseph
-street: "North Belt Highway"
-housenumber: 4204
-phone: "+1 816-390-8088"
-opening_hours: "Mo-Fr 09:30-21:00; Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/mo/st.-joseph/1029/"
+street: North Belt Highway
+housenumber: "4204"
+phone: +1 816-390-8088
+opening_hours: Mo-Fr 09:30-21:00; Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/mo/st.-joseph/1029/

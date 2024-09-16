@@ -1,11 +1,11 @@
 id: 504900330
-type: way
+type: node
 latitude: 38.94353
 longitude: -94.60598
 postcode: "64114"
 city: Kansas City
-street: "West 103rd Street"
-housenumber: 1030
-phone: "+1-816-942-4200"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.mypricechopper.com/store-details?storeId=73"
+street: West 103rd Street
+housenumber: "1030"
+phone: +1-816-942-4200
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.mypricechopper.com/store-details?storeId=73

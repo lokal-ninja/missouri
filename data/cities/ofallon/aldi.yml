@@ -1,11 +1,11 @@
 id: 666567989
-type: way
+type: node
 latitude: 38.80126
 longitude: -90.69752
 postcode: "63366"
 city: O'Fallon
-street: "Veterans Memorial Parkway"
-housenumber: 8615
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/mo/o-39-fallon/8615-veteran-39-s-memorial-dr"
+street: Veterans Memorial Parkway
+housenumber: "8615"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/mo/o-39-fallon/8615-veteran-39-s-memorial-dr

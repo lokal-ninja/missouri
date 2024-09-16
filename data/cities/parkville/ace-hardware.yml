@@ -1,11 +1,11 @@
 id: 841063289
-type: way
+type: node
 latitude: 39.21177
 longitude: -94.6879
 postcode: "64152"
 city: Parkville
-street: "Northwest Highway 45"
-housenumber: 9200
-phone: "+1 816-330-6301"
-opening_hours: "Mo-Sa 07:30-20:00; Su 09:00-18:00"
+street: Northwest Highway 45
+housenumber: "9200"
+phone: +1 816-330-6301
+opening_hours: Mo-Sa 07:30-20:00; Su 09:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 118869730
-type: way
+type: node
 latitude: 39.44373
 longitude: -92.41913
 postcode: "65270"
 city: Moberly
-street: "East Outer Road"
-housenumber: 1800
-phone: "+1 660-269-4210"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com"
+street: East Outer Road
+housenumber: "1800"
+phone: +1 660-269-4210
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com

@@ -1,11 +1,11 @@
 id: 133109861
-type: way
+type: node
 latitude: 38.95119
 longitude: -92.33463
 postcode: "65203"
 city: Columbia
-street: "East Broadway"
-housenumber: 222
+street: East Broadway
+housenumber: "222"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.walgreens.com/locator/walgreens-222+e+broadway-columbia-mo-65203/id=5145"
+opening_hours: 24/7
+website: https://www.walgreens.com/locator/walgreens-222+e+broadway-columbia-mo-65203/id=5145

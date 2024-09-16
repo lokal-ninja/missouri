@@ -1,11 +1,11 @@
 id: 312531976
-type: way
+type: node
 latitude: 39.05499
 longitude: -94.59544
 postcode: "64111"
 city: Kansas City
-street: "Mill Street"
-housenumber: 4001
+street: Mill Street
+housenumber: "4001"
 phone: ""
 opening_hours: ""
 website: ""

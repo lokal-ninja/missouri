@@ -1,11 +1,11 @@
 id: 529534505
-type: way
+type: node
 latitude: 38.46615
 longitude: -90.64696
 postcode: "63025"
 city: Eureka
-street: "Route FF"
-housenumber: 2800
+street: Route FF
+housenumber: "2800"
 phone: ""
 opening_hours: ""
 website: ""

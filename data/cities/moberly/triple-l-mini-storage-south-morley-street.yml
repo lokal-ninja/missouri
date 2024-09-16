@@ -1,11 +1,11 @@
 id: 1059931471
-type: way
+type: node
 latitude: 39.40329
 longitude: -92.43567
 postcode: "65270"
 city: Moberly
-street: "South Morley Street"
-housenumber: 1349
-phone: "+1-888-427-2577"
-opening_hours: "24/7"
-website: "https://triplelministoragellc.com"
+street: South Morley Street
+housenumber: "1349"
+phone: +1-888-427-2577
+opening_hours: 24/7
+website: https://triplelministoragellc.com

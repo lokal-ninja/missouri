@@ -1,11 +1,11 @@
 id: 596248800
-type: way
+type: node
 latitude: 38.44362
 longitude: -91.00639
 postcode: "63084"
 city: Union
-street: "South Oak Street"
-housenumber: 220
+street: South Oak Street
+housenumber: "220"
 phone: ""
 opening_hours: ""
 website: ""

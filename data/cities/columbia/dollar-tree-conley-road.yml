@@ -1,11 +1,11 @@
 id: 160122404
-type: way
+type: node
 latitude: 38.9507
 longitude: -92.29629
 postcode: "65201"
 city: Columbia
-street: "Conley Road"
-housenumber: 27
+street: Conley Road
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Sa 9:00-21:00, Su 10:00-20:00"
-website: "https://www.dollartree.com/locations/mo/columbia/907/"
+opening_hours: Mo-Sa 9:00-21:00, Su 10:00-20:00
+website: https://www.dollartree.com/locations/mo/columbia/907/

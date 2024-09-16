@@ -1,11 +1,11 @@
 id: 506149217
-type: way
+type: node
 latitude: 39.11276
 longitude: -94.51896
 postcode: "64123"
 city: Kansas City
-street: "Saint John Avenue"
-housenumber: 5244
+street: Saint John Avenue
+housenumber: "5244"
 phone: ""
 opening_hours: ""
 website: ""

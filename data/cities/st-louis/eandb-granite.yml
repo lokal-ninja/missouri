@@ -1,11 +1,11 @@
 id: 855199933
-type: way
+type: node
 latitude: 38.62245
 longitude: -90.28994
 postcode: "63139"
 city: St. Louis
-street: "Manchester Avenue"
-housenumber: 6135
+street: Manchester Avenue
+housenumber: "6135"
 phone: "+13146459300"
-opening_hours: "Mo-Th 09:00-18:00, Fr 08:30-17:00, Sa 09:00-13:00"
-website: "https://ebgranite.com/"
+opening_hours: Mo-Th 09:00-18:00, Fr 08:30-17:00, Sa 09:00-13:00
+website: https://ebgranite.com/

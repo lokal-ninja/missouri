@@ -1,11 +1,11 @@
 id: 264986553
-type: way
+type: node
 latitude: 38.62758
 longitude: -90.34147
 postcode: "63144"
 city: Brentwood
-street: "Brentwood Promenade Court"
-housenumber: 24
+street: Brentwood Promenade Court
+housenumber: "24"
 phone: "+13149187800"
-opening_hours: "Mo-Sa 11:00-19:00, Su 12:00-17:00"
-website: "https://stores.worldmarket.com/mo/brentwood/24-brentwood-promenade-ct.html"
+opening_hours: Mo-Sa 11:00-19:00, Su 12:00-17:00
+website: https://stores.worldmarket.com/mo/brentwood/24-brentwood-promenade-ct.html

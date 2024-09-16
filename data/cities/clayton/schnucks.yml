@@ -1,11 +1,11 @@
 id: 431245488
-type: way
+type: node
 latitude: 38.63301
 longitude: -90.31558
 postcode: "63117"
 city: Clayton
-street: "Clayton Road"
-housenumber: 6600
+street: Clayton Road
+housenumber: "6600"
 phone: ""
 opening_hours: ""
 website: ""

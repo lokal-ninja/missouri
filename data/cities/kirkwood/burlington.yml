@@ -1,11 +1,11 @@
 id: 387956519
-type: way
+type: node
 latitude: 38.56336
 longitude: -90.40906
 postcode: "63122"
 city: Kirkwood
-street: "South Kirkwood Road"
-housenumber: 1225
-phone: "+1 314-965-5775"
-opening_hours: "Mo-Th 09:00-22:00; Fr-Sa 09:00-22:30; Su 09:00-22:00"
-website: "https://stores.burlington.com/mo/kirkwood/823"
+street: South Kirkwood Road
+housenumber: "1225"
+phone: +1 314-965-5775
+opening_hours: Mo-Th 09:00-22:00; Fr-Sa 09:00-22:30; Su 09:00-22:00
+website: https://stores.burlington.com/mo/kirkwood/823

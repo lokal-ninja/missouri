@@ -1,11 +1,11 @@
 id: 613154964
-type: way
+type: node
 latitude: 38.78
 longitude: -90.70209
 postcode: "63366"
 city: O'Fallon
-street: "Highway K"
-housenumber: 2225
-phone: "+1 636-272-0840"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://stores.shopjustice.com/mo/ofallon/girls-clothing-store-ofallon-mo-673.html"
+street: Highway K
+housenumber: "2225"
+phone: +1 636-272-0840
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
+website: https://stores.shopjustice.com/mo/ofallon/girls-clothing-store-ofallon-mo-673.html

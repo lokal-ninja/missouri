@@ -1,11 +1,11 @@
 id: 808206816
-type: way
+type: node
 latitude: 40.13467
 longitude: -95.23426
 postcode: "64470"
 city: Mound City
-street: "State Street"
-housenumber: 908
+street: State Street
+housenumber: "908"
 phone: ""
 opening_hours: ""
 website: ""

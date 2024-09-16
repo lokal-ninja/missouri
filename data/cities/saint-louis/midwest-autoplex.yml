@@ -1,11 +1,11 @@
 id: 855226454
-type: way
+type: node
 latitude: 38.60895
 longitude: -90.3053
 postcode: "63139"
 city: Saint Louis
-street: "Arsenal Street"
-housenumber: 6759
+street: Arsenal Street
+housenumber: "6759"
 phone: "+13146474351"
-opening_hours: "Mo-Tu 11:00-18:00, Th 11:00-17:00, Fr 11:00-18:00, Sa 09:30-13:00"
-website: "https://www.midwestautoplex.com/"
+opening_hours: Mo-Tu 11:00-18:00, Th 11:00-17:00, Fr 11:00-18:00, Sa 09:30-13:00
+website: https://www.midwestautoplex.com/

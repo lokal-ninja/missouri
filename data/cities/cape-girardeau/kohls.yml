@@ -1,11 +1,11 @@
 id: 1083850380
-type: way
+type: node
 latitude: 37.29541
 longitude: -89.58477
 postcode: "63701"
 city: Cape Girardeau
-street: "Shirley Drive"
-housenumber: 315
-phone: "+1 573-332-0549"
-opening_hours: "Mo-Fr 10:00-21:00, Su 10:00-20:00"
-website: "https://www.kohls.com/stores/mo/capegirardeau-154.shtml"
+street: Shirley Drive
+housenumber: "315"
+phone: +1 573-332-0549
+opening_hours: Mo-Fr 10:00-21:00, Su 10:00-20:00
+website: https://www.kohls.com/stores/mo/capegirardeau-154.shtml

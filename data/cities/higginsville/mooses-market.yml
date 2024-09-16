@@ -1,11 +1,11 @@
 id: 571916595
-type: way
+type: node
 latitude: 39.07825
 longitude: -93.71664
 postcode: "64037"
 city: Higginsville
-street: "Main Street"
-housenumber: 1601
+street: Main Street
+housenumber: "1601"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 558462764
-type: way
+type: node
 latitude: 38.79525
 longitude: -90.56716
 postcode: "63301"
 city: St. Charles
-street: "West Clay Street"
-housenumber: 3950
-phone: "+1 636-946-7811"
+street: West Clay Street
+housenumber: "3950"
+phone: +1 636-946-7811
 opening_hours: ""
-website: "https://www.baue.com/cave-springs/"
+website: https://www.baue.com/cave-springs/

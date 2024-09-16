@@ -1,11 +1,11 @@
 id: 533589784
-type: way
+type: node
 latitude: 38.48943
 longitude: -90.79239
 postcode: "63069"
 city: Pacific
-street: "Pacific West Drive"
-housenumber: 105
+street: Pacific West Drive
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 598153475
-type: way
+type: node
 latitude: 36.67104
 longitude: -91.91288
 postcode: "65775"
 city: West Plains
-street: "US 160"
-housenumber: 4504
-phone: "(417) 255-0963"
+street: US 160
+housenumber: "4504"
+phone: (417) 255-0963
 opening_hours: ""
-website: "https://westplainsmarine.net/"
+website: https://westplainsmarine.net/

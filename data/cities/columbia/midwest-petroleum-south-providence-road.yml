@@ -1,11 +1,11 @@
 id: 192582512
-type: way
+type: node
 latitude: 38.9501
 longitude: -92.33395
 postcode: "65203"
 city: Columbia
-street: "South Providence Road"
-housenumber: 126
+street: South Providence Road
+housenumber: "126"
 phone: ""
-opening_hours: "Mo-Su 00:00-24:00"
+opening_hours: Mo-Su 00:00-24:00
 website: ""

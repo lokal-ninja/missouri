@@ -1,11 +1,11 @@
 id: 867140126
-type: way
+type: node
 latitude: 38.1858
 longitude: -92.63948
 postcode: "65049"
 city: Lake Ozark
-street: "Bagnell Dam Boulevard"
-housenumber: 2380
+street: Bagnell Dam Boulevard
+housenumber: "2380"
 phone: ""
-opening_hours: "Mo-Fr 09:30-17:30; Sa 10:00-15:00"
+opening_hours: Mo-Fr 09:30-17:30; Sa 10:00-15:00
 website: ""

@@ -1,11 +1,11 @@
 id: 468094355
-type: way
+type: node
 latitude: 36.73048
 longitude: -91.85437
 postcode: "65775"
 city: West Plains
-street: "Jefferson Avenue"
-housenumber: 405
-phone: "+1-417-256-4681"
-opening_hours: "Mo-Fr 08:30-18:00, Sa 08:30-17:00"
-website: "https://www.brownfurniturewestplains.com/"
+street: Jefferson Avenue
+housenumber: "405"
+phone: +1-417-256-4681
+opening_hours: Mo-Fr 08:30-18:00, Sa 08:30-17:00
+website: https://www.brownfurniturewestplains.com/

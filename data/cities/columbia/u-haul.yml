@@ -1,11 +1,11 @@
 id: 557159753
-type: way
+type: node
 latitude: 38.96556
 longitude: -92.34934
 postcode: "65203"
 city: Columbia
-street: "Business Loop 70 West"
-housenumber: 800
-phone: "(573) 449-3094"
+street: Business Loop 70 West
+housenumber: "800"
+phone: (573) 449-3094
 opening_hours: ""
 website: ""

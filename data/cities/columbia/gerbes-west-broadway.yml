@@ -1,11 +1,11 @@
 id: 518940822
-type: way
+type: node
 latitude: 38.95655
 longitude: -92.3647
 postcode: "65203"
 city: Columbia
-street: "West Broadway"
-housenumber: 1729
+street: West Broadway
+housenumber: "1729"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1071708771
-type: way
+type: node
 latitude: 39.37839
 longitude: -94.58543
 postcode: "64089"
 city: Smithville
-street: "US 169"
-housenumber: 15700
-phone: "+1-816-532-0883"
-opening_hours: "Mo-Su 06:00-20:00"
+street: US 169
+housenumber: "15700"
+phone: +1-816-532-0883
+opening_hours: Mo-Su 06:00-20:00
 website: ""

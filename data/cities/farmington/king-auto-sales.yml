@@ -1,11 +1,11 @@
 id: 667060359
-type: way
+type: node
 latitude: 37.77157
 longitude: -90.44733
 postcode: "63640"
 city: Farmington
-street: "West Columbia Street"
-housenumber: 1705
+street: West Columbia Street
+housenumber: "1705"
 phone: ""
 opening_hours: ""
-website: "https://www.kingautomo.com/"
+website: https://www.kingautomo.com/

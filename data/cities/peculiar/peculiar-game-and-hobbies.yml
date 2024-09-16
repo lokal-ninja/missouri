@@ -4,8 +4,8 @@ latitude: 38.72185
 longitude: -94.45667
 postcode: "64078"
 city: Peculiar
-street: "Legend Lane"
-housenumber: 361
+street: Legend Lane
+housenumber: "361"
 phone: ""
-opening_hours: "Th,Su-Tu 12:00-20:00; Fr 12:00-22:00; Sa 11:00-22:00"
-website: "https://www.peculiargamesandhobbies.com/"
+opening_hours: Th,Su-Tu 12:00-20:00; Fr 12:00-22:00; Sa 11:00-22:00
+website: https://www.peculiargamesandhobbies.com/

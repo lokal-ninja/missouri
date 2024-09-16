@@ -4,8 +4,8 @@ latitude: 37.20345
 longitude: -93.26995
 postcode: "65802"
 city: Springfield
-street: "South Pickwick Avenue"
-housenumber: 607
-phone: "(417) 868-7004"
-opening_hours: "Tu-Su 10:00-19:00"
-website: "http://homegrownfoodstore.com"
+street: South Pickwick Avenue
+housenumber: "607"
+phone: (417) 868-7004
+opening_hours: Tu-Su 10:00-19:00
+website: http://homegrownfoodstore.com

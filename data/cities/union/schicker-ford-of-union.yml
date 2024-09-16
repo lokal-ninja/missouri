@@ -1,11 +1,11 @@
 id: 545294313
-type: way
+type: node
 latitude: 38.44121
 longitude: -90.98988
 postcode: "63084"
 city: Union
-street: "S Highway 47"
-housenumber: 560
-phone: "636-583-9700"
+street: S Highway 47
+housenumber: "560"
+phone: 636-583-9700
 opening_hours: ""
-website: "https://www.schickerfordunion.com/"
+website: https://www.schickerfordunion.com/

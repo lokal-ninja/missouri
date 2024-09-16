@@ -1,11 +1,11 @@
 id: 289676417
-type: way
+type: node
 latitude: 39.25062
 longitude: -94.59561
 postcode: "64155"
 city: Kansas City
-street: "North Madison Avenue"
-housenumber: 8500
-phone: "+1 816-468-8855"
-opening_hours: "Mo-Sa 09:00-22:00,Su 09:00-21:00"
-website: "https://www.kohls.com/stores/mo/kansascity-233.shtml"
+street: North Madison Avenue
+housenumber: "8500"
+phone: +1 816-468-8855
+opening_hours: Mo-Sa 09:00-22:00,Su 09:00-21:00
+website: https://www.kohls.com/stores/mo/kansascity-233.shtml

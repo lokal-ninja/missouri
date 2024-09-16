@@ -1,11 +1,11 @@
 id: 577926273
-type: way
+type: node
 latitude: 38.98904
 longitude: -90.98284
 postcode: "63379"
 city: Troy
-street: "Highway 47 East"
-housenumber: 101
-phone: "+1 636-528-8901"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/60/troy-mo/whats-new"
+street: Highway 47 East
+housenumber: "101"
+phone: +1 636-528-8901
+opening_hours: 24/7
+website: https://www.walmart.com/store/60/troy-mo/whats-new

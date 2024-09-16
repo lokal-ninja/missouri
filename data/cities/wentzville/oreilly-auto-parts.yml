@@ -1,11 +1,11 @@
 id: 674555653
-type: way
+type: node
 latitude: 38.81682
 longitude: -90.87629
 postcode: "63385"
 city: Wentzville
-street: "Wentzville Parkway"
-housenumber: 1906
-phone: "636-327-4141"
+street: Wentzville Parkway
+housenumber: "1906"
+phone: 636-327-4141
 opening_hours: ""
-website: "https://locations.oreillyauto.com/mo/wentzville/autoparts-1763.html"
+website: https://locations.oreillyauto.com/mo/wentzville/autoparts-1763.html

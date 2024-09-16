@@ -1,11 +1,11 @@
 id: 604021027
-type: way
+type: node
 latitude: 39.27035
 longitude: -93.96588
 postcode: "64085"
 city: Richmond
-street: "East South Street"
-housenumber: 609
+street: East South Street
+housenumber: "609"
 phone: ""
 opening_hours: ""
 website: ""

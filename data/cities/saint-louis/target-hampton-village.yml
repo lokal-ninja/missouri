@@ -1,11 +1,11 @@
 id: 254431342
-type: way
+type: node
 latitude: 38.59347
 longitude: -90.29601
-postcode: "63109-2120"
+postcode: 63109-2120
 city: Saint Louis
-street: "Hampton Avenue"
-housenumber: 4255
-phone: "+1 314-802-0122"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/hampton-village/1515"
+street: Hampton Avenue
+housenumber: "4255"
+phone: +1 314-802-0122
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/hampton-village/1515

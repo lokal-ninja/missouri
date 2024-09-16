@@ -1,11 +1,11 @@
 id: 672587388
-type: way
+type: node
 latitude: 38.74166
 longitude: -90.63483
 postcode: "63304"
 city: Saint Peters
-street: "Mid Rivers Mall Drive"
-housenumber: 6183
-phone: "636-926-7888"
+street: Mid Rivers Mall Drive
+housenumber: "6183"
+phone: 636-926-7888
 opening_hours: ""
-website: "https://www.beautybrands.com/home.do"
+website: https://www.beautybrands.com/home.do

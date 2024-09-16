@@ -1,11 +1,11 @@
 id: 855227199
-type: way
+type: node
 latitude: 38.60968
 longitude: -90.30574
 postcode: "63139"
 city: Saint Louis
-street: "Hoffman Avenue"
-housenumber: 6801
+street: Hoffman Avenue
+housenumber: "6801"
 phone: "+13146459000"
-opening_hours: "Mo-Fr 07:00-17:00, Sa 08:00-12:00"
-website: "https://www.metroelectricsupply.com/"
+opening_hours: Mo-Fr 07:00-17:00, Sa 08:00-12:00
+website: https://www.metroelectricsupply.com/

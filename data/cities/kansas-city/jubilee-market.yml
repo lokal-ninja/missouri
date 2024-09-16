@@ -1,11 +1,11 @@
 id: 525729734
-type: way
+type: node
 latitude: 39.08091
 longitude: -94.52062
 postcode: "64127"
 city: Kansas City
-street: "Hardesty Avenue"
-housenumber: 2410
+street: Hardesty Avenue
+housenumber: "2410"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 298342556
-type: way
+type: node
 latitude: 38.74681
 longitude: -90.30635
 postcode: "63135"
 city: Ferguson
-street: "New Florissant Road"
-housenumber: 49
-phone: "314-521-1854"
+street: New Florissant Road
+housenumber: "49"
+phone: 314-521-1854
 opening_hours: ""
-website: "https://locations.schnucks.com/mo-ferguson-233"
+website: https://locations.schnucks.com/mo-ferguson-233

@@ -1,11 +1,11 @@
 id: 669256594
-type: way
+type: node
 latitude: 37.65219
 longitude: -92.66337
 postcode: "65536"
 city: Lebanon
-street: "Evergreen Parkway"
-housenumber: 2300
+street: Evergreen Parkway
+housenumber: "2300"
 phone: ""
 opening_hours: ""
-website: "https://www.ozarkharley-davidson.com/"
+website: https://www.ozarkharley-davidson.com/

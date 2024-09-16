@@ -1,11 +1,11 @@
 id: 386000237
-type: way
+type: node
 latitude: 38.71821
 longitude: -93.28552
 postcode: "65301"
 city: Sedalia
-street: "Wisconsin Avenue"
-housenumber: 4400
+street: Wisconsin Avenue
+housenumber: "4400"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3264"
+website: https://www.menards.com/store-details/store.html?store=3264

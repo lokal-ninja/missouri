@@ -1,11 +1,11 @@
 id: 195217210
-type: way
+type: node
 latitude: 39.2462
 longitude: -94.44743
 postcode: "64068"
 city: Liberty
-street: "North Blue Jay Drive"
-housenumber: 109
-phone: "(816) 792-3210"
-opening_hours: "Mo-Su 08:00+"
-website: "https://www.hy-vee.com/stores/detail.aspx?s=89"
+street: North Blue Jay Drive
+housenumber: "109"
+phone: (816) 792-3210
+opening_hours: Mo-Su 08:00+
+website: https://www.hy-vee.com/stores/detail.aspx?s=89

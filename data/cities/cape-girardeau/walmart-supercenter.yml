@@ -1,11 +1,11 @@
 id: 669748754
-type: way
+type: node
 latitude: 37.30014
 longitude: -89.58531
 postcode: "63701"
 city: Cape Girardeau
-street: "William Street"
-housenumber: 3439
-phone: "+1 573-335-4600"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/188/cape-girardeau-mo/whats-new"
+street: William Street
+housenumber: "3439"
+phone: +1 573-335-4600
+opening_hours: 24/7
+website: https://www.walmart.com/store/188/cape-girardeau-mo/whats-new

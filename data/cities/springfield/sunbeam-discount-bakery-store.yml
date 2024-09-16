@@ -1,11 +1,11 @@
 id: 569110650
-type: way
+type: node
 latitude: 37.21191
 longitude: -93.35394
 postcode: "65802"
 city: Springfield
-street: "West Chestnut Expressway"
-housenumber: 3720
+street: West Chestnut Expressway
+housenumber: "3720"
 phone: ""
 opening_hours: ""
 website: ""

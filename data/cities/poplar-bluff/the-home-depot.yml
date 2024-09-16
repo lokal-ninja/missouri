@@ -1,11 +1,11 @@
 id: 288983792
-type: way
+type: node
 latitude: 36.74918
 longitude: -90.41313
 postcode: "63901"
 city: Poplar Bluff
-street: "South Westwood Boulevard"
-housenumber: 639
-phone: "+1 573-686-1729"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/poplar-bluff/mo/poplar-bluff/63901/3033"
+street: South Westwood Boulevard
+housenumber: "639"
+phone: +1 573-686-1729
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/poplar-bluff/mo/poplar-bluff/63901/3033

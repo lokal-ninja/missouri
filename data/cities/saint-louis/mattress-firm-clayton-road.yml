@@ -1,11 +1,11 @@
 id: 272659570
-type: way
+type: node
 latitude: 38.63833
 longitude: -90.34507
 postcode: "63117"
 city: Saint Louis
-street: "Clayton Road"
-housenumber: 8069
-phone: "+1 314-721-2988"
+street: Clayton Road
+housenumber: "8069"
+phone: +1 314-721-2988
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/mo/st-louis/018011/"
+website: https://www.mattressfirm.com/en-us/stores/mo/st-louis/018011/

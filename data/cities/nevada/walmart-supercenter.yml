@@ -1,11 +1,11 @@
 id: 679623167
-type: way
+type: node
 latitude: 37.83196
 longitude: -94.32738
 postcode: "64772"
 city: Nevada
-street: "Lincoln Avenue"
-housenumber: 2250
-phone: "+1 417-667-3630"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/34/nevada-mo/whats-new"
+street: Lincoln Avenue
+housenumber: "2250"
+phone: +1 417-667-3630
+opening_hours: 24/7
+website: https://www.walmart.com/store/34/nevada-mo/whats-new

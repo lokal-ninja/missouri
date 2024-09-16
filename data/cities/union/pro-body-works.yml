@@ -1,11 +1,11 @@
 id: 545321454
-type: way
+type: node
 latitude: 38.4361
 longitude: -90.98314
 postcode: "63084"
 city: Union
-street: "Halligan Estate"
-housenumber: 1028
-phone: "636-583-3368"
+street: Halligan Estate
+housenumber: "1028"
+phone: 636-583-3368
 opening_hours: ""
-website: "https://probodyworks.com/"
+website: https://probodyworks.com/

@@ -1,11 +1,11 @@
 id: 379492417
-type: way
+type: node
 latitude: 38.58318
 longitude: -90.35888
 postcode: "63119"
 city: Webster Groves
-street: "Big Bend Boulevard"
-housenumber: 8705
-phone: "+1 314 961 2207"
+street: Big Bend Boulevard
+housenumber: "8705"
+phone: +1 314 961 2207
 opening_hours: ""
-website: "https://www.ppgpaints.com/"
+website: https://www.ppgpaints.com/

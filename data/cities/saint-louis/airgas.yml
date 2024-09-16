@@ -1,11 +1,11 @@
 id: 621874179
-type: way
+type: node
 latitude: 38.62958
 longitude: -90.2338
 postcode: "63103"
 city: Saint Louis
-street: "Bernard Street"
-housenumber: 3500
+street: Bernard Street
+housenumber: "3500"
 phone: ""
 opening_hours: ""
 website: ""

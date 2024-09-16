@@ -1,11 +1,11 @@
 id: 543433099
-type: way
+type: node
 latitude: 38.43905
 longitude: -91.01464
 postcode: "63084"
 city: Union
-street: "W Highway 50"
-housenumber: 510
-phone: "636-583-2581"
+street: W Highway 50
+housenumber: "510"
+phone: 636-583-2581
 opening_hours: ""
 website: ""

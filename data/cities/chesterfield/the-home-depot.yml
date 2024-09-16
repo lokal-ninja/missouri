@@ -1,11 +1,11 @@
 id: 374979356
-type: way
+type: node
 latitude: 38.6662
 longitude: -90.60537
 postcode: "63005"
 city: Chesterfield
-street: "THF Boulevard"
-housenumber: 390
-phone: "+1 636-536-0675"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-19:00"
-website: "https://www.homedepot.com/l/chesterfield-mo/mo/chesterfield/63005/8994"
+street: THF Boulevard
+housenumber: "390"
+phone: +1 636-536-0675
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-19:00
+website: https://www.homedepot.com/l/chesterfield-mo/mo/chesterfield/63005/8994

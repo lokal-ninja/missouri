@@ -1,11 +1,11 @@
 id: 490714926
-type: way
+type: node
 latitude: 38.50288
 longitude: -90.60754
 postcode: "63025"
 city: Eureka
-street: "South Outer Road East"
-housenumber: 1400
+street: South Outer Road East
+housenumber: "1400"
 phone: ""
 opening_hours: ""
 website: ""

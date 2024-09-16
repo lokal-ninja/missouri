@@ -1,11 +1,11 @@
 id: 622801349
-type: way
+type: node
 latitude: 39.72139
 longitude: -91.39859
 postcode: "63401"
 city: Hannibal
-street: "Stardust Drive"
-housenumber: 3651
-phone: "+1 573-248-8170"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/mo-hannibal/2991"
+street: Stardust Drive
+housenumber: "3651"
+phone: +1 573-248-8170
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.lowes.com/store/mo-hannibal/2991

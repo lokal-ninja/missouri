@@ -1,11 +1,11 @@
 id: 841504950
-type: way
+type: node
 latitude: 39.18954
 longitude: -94.68394
 postcode: "64152"
 city: Parkville
-street: "Main Street"
-housenumber: 106
+street: Main Street
+housenumber: "106"
 phone: ""
-opening_hours: "Mo-Sa 09:30-17:30"
+opening_hours: Mo-Sa 09:30-17:30
 website: ""

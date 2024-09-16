@@ -1,11 +1,11 @@
 id: 466682814
-type: way
+type: node
 latitude: 36.72776
 longitude: -91.8521
 postcode: "65775"
 city: West Plains
-street: "Court Square"
-housenumber: 6
-phone: "+1-417-255-0257"
+street: Court Square
+housenumber: "6"
+phone: +1-417-255-0257
 opening_hours: ""
-website: "https://www.facebook.com/CraftersontheSquare"
+website: https://www.facebook.com/CraftersontheSquare

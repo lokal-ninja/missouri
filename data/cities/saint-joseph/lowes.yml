@@ -1,11 +1,11 @@
 id: 343634348
-type: way
+type: node
 latitude: 39.80514
 longitude: -94.81259
 postcode: "64506"
 city: Saint Joseph
-street: "North Belt Highway"
-housenumber: 3901
-phone: "+1 816-364-4880"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.lowes.com/store/mo-saint-joseph/0305"
+street: North Belt Highway
+housenumber: "3901"
+phone: +1 816-364-4880
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.lowes.com/store/mo-saint-joseph/0305

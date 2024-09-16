@@ -1,11 +1,11 @@
 id: 551181936
-type: way
+type: node
 latitude: 40.22641
 longitude: -92.58424
 postcode: "65301"
 city: Kirksville
-street: "North Baltimore Street"
-housenumber: 3015
-phone: "+1 660-627-2777"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-19:00"
-website: "https://www.homedepot.com/l/Kirksville/MO/Kirksville/63501/3036"
+street: North Baltimore Street
+housenumber: "3015"
+phone: +1 660-627-2777
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-19:00
+website: https://www.homedepot.com/l/Kirksville/MO/Kirksville/63501/3036

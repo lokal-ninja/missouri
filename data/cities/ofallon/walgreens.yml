@@ -1,11 +1,11 @@
 id: 457548583
-type: way
+type: node
 latitude: 38.78998
 longitude: -90.69813
 postcode: "63366"
 city: O'Fallon
-street: "Mexico Loop Road East"
-housenumber: 1490
+street: Mexico Loop Road East
+housenumber: "1490"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1490+mexico+loop+rd+e-o+fallon-mo-63366/id=5748"
+website: https://www.walgreens.com/locator/walgreens-1490+mexico+loop+rd+e-o+fallon-mo-63366/id=5748

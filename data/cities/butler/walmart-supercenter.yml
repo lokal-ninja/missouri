@@ -1,11 +1,11 @@
 id: 679623587
-type: way
+type: node
 latitude: 38.25412
 longitude: -94.35592
 postcode: "64730"
 city: Butler
-street: "South Fran Avenue"
-housenumber: 400
-phone: "+1 660-679-3151"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/888/butler-mo/whats-new"
+street: South Fran Avenue
+housenumber: "400"
+phone: +1 660-679-3151
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/888/butler-mo/whats-new

@@ -1,11 +1,11 @@
 id: 511863452
-type: way
+type: node
 latitude: 39.25072
 longitude: -94.66154
 postcode: "64153"
 city: Kansas City
-street: "Northwest Prairie View Road"
-housenumber: 8625
+street: Northwest Prairie View Road
+housenumber: "8625"
 phone: "+18165053355"
 opening_hours: ""
-website: "https://stores.barnesandnoble.com/store/2184"
+website: https://stores.barnesandnoble.com/store/2184

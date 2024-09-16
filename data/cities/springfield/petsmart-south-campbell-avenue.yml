@@ -1,11 +1,11 @@
 id: 515643648
-type: way
+type: node
 latitude: 37.16712
 longitude: -93.29471
 postcode: "65807"
 city: Springfield
-street: "South Campbell Avenue"
-housenumber: 2640
-phone: "+1 417-520-1179"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/mo/springfield-store3051.html"
+street: South Campbell Avenue
+housenumber: "2640"
+phone: +1 417-520-1179
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/mo/springfield-store3051.html

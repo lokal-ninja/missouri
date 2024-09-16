@@ -1,11 +1,11 @@
 id: 1289001955
-type: way
+type: node
 latitude: 39.03285
 longitude: -94.35704
 postcode: "64055"
 city: Independence
-street: "East Valley View Parkway"
-housenumber: 18817
-phone: "+1-816-683-8600"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
-website: "https://www.expressoil.com/stores/independence/mo/3077"
+street: East Valley View Parkway
+housenumber: "18817"
+phone: +1-816-683-8600
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
+website: https://www.expressoil.com/stores/independence/mo/3077

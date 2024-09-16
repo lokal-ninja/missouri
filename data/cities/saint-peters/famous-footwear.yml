@@ -1,11 +1,11 @@
 id: 620875340
-type: way
+type: node
 latitude: 38.78792
 longitude: -90.62775
 postcode: "63376"
 city: Saint Peters
-street: "Mid Rivers Mall Drive"
-housenumber: 555
-phone: "+1 636-697-1117"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.famousfootwear.com/"
+street: Mid Rivers Mall Drive
+housenumber: "555"
+phone: +1 636-697-1117
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.famousfootwear.com/

@@ -1,11 +1,11 @@
 id: 616049318
-type: way
+type: node
 latitude: 37.08579
 longitude: -94.47666
 postcode: "64801"
 city: Joplin
-street: "South Range Line Road"
-housenumber: 423
+street: South Range Line Road
+housenumber: "423"
 phone: ""
-opening_hours: "Mo-Th 09:30-21:00; Fr-Sa 09:30-21:30; Su 11:00-19:00"
-website: "https://stores.shoecarnival.com/mo/joplin/shoe-store-joplin-mo-238.html"
+opening_hours: Mo-Th 09:30-21:00; Fr-Sa 09:30-21:30; Su 11:00-19:00
+website: https://stores.shoecarnival.com/mo/joplin/shoe-store-joplin-mo-238.html

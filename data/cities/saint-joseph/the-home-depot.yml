@@ -1,11 +1,11 @@
 id: 343612544
-type: way
+type: node
 latitude: 39.81322
 longitude: -94.81217
 postcode: "64506"
 city: Saint Joseph
-street: "North Belt Highway"
-housenumber: 5201
-phone: "+1 816-232-2053"
-opening_hours: "Mo-Sa 07:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/st-joseph/mo/saint-joseph/64506/8984"
+street: North Belt Highway
+housenumber: "5201"
+phone: +1 816-232-2053
+opening_hours: Mo-Sa 07:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/st-joseph/mo/saint-joseph/64506/8984

@@ -1,11 +1,11 @@
 id: 669235393
-type: way
+type: node
 latitude: 38.02093
 longitude: -92.73018
 postcode: "65020"
 city: Camdenton
-street: "US 54"
-housenumber: 1159
+street: US 54
+housenumber: "1159"
 phone: ""
-opening_hours: "07:00-22:00"
-website: "https://www.gerbes.com/stores/details/615/00119"
+opening_hours: 07:00-22:00
+website: https://www.gerbes.com/stores/details/615/00119

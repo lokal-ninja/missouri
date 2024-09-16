@@ -1,11 +1,11 @@
 id: 256811013
-type: way
+type: node
 latitude: 39.09166
 longitude: -94.58461
 postcode: "64108"
 city: Kansas City
-street: "West 18th Street"
-housenumber: 1803
+street: West 18th Street
+housenumber: "1803"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 152941213
-type: way
+type: node
 latitude: 38.97457
 longitude: -92.28782
 postcode: "65202"
 city: Columbia
-street: "Vandiver Drive"
-housenumber: 3340
+street: Vandiver Drive
+housenumber: "3340"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3263"
+website: https://www.menards.com/store-details/store.html?store=3263

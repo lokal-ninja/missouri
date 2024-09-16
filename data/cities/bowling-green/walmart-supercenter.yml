@@ -1,11 +1,11 @@
 id: 676044206
-type: way
+type: node
 latitude: 39.33007
 longitude: -91.18219
 postcode: "63334"
 city: Bowling Green
-street: "Town Center Drive"
-housenumber: 3
-phone: "+1 573-324-0040"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/145/bowling-green-mo/whats-new"
+street: Town Center Drive
+housenumber: "3"
+phone: +1 573-324-0040
+opening_hours: 24/7
+website: https://www.walmart.com/store/145/bowling-green-mo/whats-new

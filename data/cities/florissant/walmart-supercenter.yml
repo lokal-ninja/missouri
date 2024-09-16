@@ -1,11 +1,11 @@
 id: 485031414
-type: way
+type: node
 latitude: 38.8116
 longitude: -90.29335
 postcode: "63033"
 city: Florissant
-street: "North Highway 67"
-housenumber: 3390
-phone: "+1 314-824-0023"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.walmart.com/store/5927/florissant-mo/whats-new"
+street: North Highway 67
+housenumber: "3390"
+phone: +1 314-824-0023
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.walmart.com/store/5927/florissant-mo/whats-new

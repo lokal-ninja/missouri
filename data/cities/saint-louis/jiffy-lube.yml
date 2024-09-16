@@ -1,11 +1,11 @@
 id: 526470601
-type: way
+type: node
 latitude: 38.62564
 longitude: -90.26462
 postcode: "63110"
 city: Saint Louis
-street: "Manchester Avenue"
-housenumber: 4592
+street: Manchester Avenue
+housenumber: "4592"
 phone: ""
 opening_hours: ""
 website: ""

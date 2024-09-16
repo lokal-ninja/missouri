@@ -1,11 +1,11 @@
 id: 1057042051
-type: way
+type: node
 latitude: 38.68967
 longitude: -90.38287
 postcode: "63132"
 city: St. Louis
-street: "Lotsie Boulevard"
-housenumber: 1665
-phone: "+1 314-428-1111"
+street: Lotsie Boulevard
+housenumber: "1665"
+phone: +1 314-428-1111
 opening_hours: ""
-website: "https://www.stlouisclosetandshower.com/"
+website: https://www.stlouisclosetandshower.com/

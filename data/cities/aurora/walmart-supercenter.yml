@@ -1,11 +1,11 @@
 id: 679362409
-type: way
+type: node
 latitude: 36.94697
 longitude: -93.71439
 postcode: "65605"
 city: Aurora
-street: "South Elliott Avenue"
-housenumber: 3020
-phone: "+1 417-678-5800"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/92/aurora-mo/whats-new"
+street: South Elliott Avenue
+housenumber: "3020"
+phone: +1 417-678-5800
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/92/aurora-mo/whats-new

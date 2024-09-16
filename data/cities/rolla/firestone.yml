@@ -1,11 +1,11 @@
 id: 727316976
-type: way
+type: node
 latitude: 37.95114
 longitude: -91.77225
 postcode: "65401"
 city: Rolla
-street: "West 10th Street"
-housenumber: 205
-phone: "+1-573-364-4815"
-opening_hours: "Mo-Fr 08:00-17:30"
-website: "https://johnsfirestone.com/"
+street: West 10th Street
+housenumber: "205"
+phone: +1-573-364-4815
+opening_hours: Mo-Fr 08:00-17:30
+website: https://johnsfirestone.com/

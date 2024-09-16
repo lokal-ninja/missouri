@@ -1,11 +1,11 @@
 id: 374465464
-type: way
+type: node
 latitude: 37.59253
 longitude: -93.40469
 postcode: "65613"
 city: Bolivar
-street: "South Springfield Avenue"
-housenumber: 2451
-phone: "+1 417-326-8424"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/46/bolivar-mo/whats-new"
+street: South Springfield Avenue
+housenumber: "2451"
+phone: +1 417-326-8424
+opening_hours: 24/7
+website: https://www.walmart.com/store/46/bolivar-mo/whats-new

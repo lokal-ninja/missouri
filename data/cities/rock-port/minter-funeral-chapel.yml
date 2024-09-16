@@ -1,11 +1,11 @@
 id: 687902846
-type: way
+type: node
 latitude: 40.41598
 longitude: -95.51448
 postcode: "64482"
 city: Rock Port
-street: "North Main Street"
-housenumber: 217
-phone: "+1-660-744-2323"
+street: North Main Street
+housenumber: "217"
+phone: +1-660-744-2323
 opening_hours: ""
 website: ""

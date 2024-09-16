@@ -1,11 +1,11 @@
 id: 635124804
-type: way
+type: node
 latitude: 38.663
 longitude: -90.32116
 postcode: "63130"
 city: University City
-street: "Vernon Avenue"
-housenumber: 7170
+street: Vernon Avenue
+housenumber: "7170"
 phone: ""
 opening_hours: ""
-website: "https://www.millerbrothersautoservice.com/"
+website: https://www.millerbrothersautoservice.com/

@@ -1,11 +1,11 @@
 id: 503847855
-type: way
+type: node
 latitude: 38.45946
 longitude: -91.00512
 postcode: "63084"
 city: Union
-street: "North Church Street"
-housenumber: 1399
+street: North Church Street
+housenumber: "1399"
 phone: ""
 opening_hours: ""
 website: ""

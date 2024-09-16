@@ -1,11 +1,11 @@
 id: 570827549
-type: way
+type: node
 latitude: 38.48773
 longitude: -90.81894
 postcode: "63039"
 city: Gray Summit
-street: "Highway 100"
-housenumber: 2716
-phone: "636-266-0097"
+street: Highway 100
+housenumber: "2716"
+phone: 636-266-0097
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/mo/gray-summit/16864"
+website: https://www.dollargeneral.com/store-directory/mo/gray-summit/16864

@@ -4,8 +4,8 @@ latitude: 39.21297
 longitude: -94.53202
 postcode: "64119"
 city: Gladstone
-street: "Northeast Pleasant Valley Road"
-housenumber: 4109
-phone: "816-914-0076"
-opening_hours: "May-Oct: Sa 08:00-13:00; Nov-Apr: off"
-website: "https://www.gladstone.mo.us/farmersmarket/"
+street: Northeast Pleasant Valley Road
+housenumber: "4109"
+phone: 816-914-0076
+opening_hours: 'May-Oct: Sa 08:00-13:00; Nov-Apr: off'
+website: https://www.gladstone.mo.us/farmersmarket/

@@ -1,11 +1,11 @@
 id: 616049314
-type: way
+type: node
 latitude: 37.0922
 longitude: -94.47799
 postcode: "64801"
 city: Joplin
-street: "North Range Line Road"
-housenumber: 120
+street: North Range Line Road
+housenumber: "120"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00
 website: ""

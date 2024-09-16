@@ -1,11 +1,11 @@
 id: 556351971
-type: way
+type: node
 latitude: 39.10687
 longitude: -93.21464
 postcode: "65340"
 city: Marshall
-street: "South Cherokee Drive"
-housenumber: 1251
+street: South Cherokee Drive
+housenumber: "1251"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; Su 11:00-18:00"
-website: "https://www.att.com/stores/missouri/marshall/122334"
+opening_hours: Mo-Sa 09:00-19:00; Su 11:00-18:00
+website: https://www.att.com/stores/missouri/marshall/122334

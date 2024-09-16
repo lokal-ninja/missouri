@@ -1,11 +1,11 @@
 id: 573341634
-type: way
+type: node
 latitude: 38.70824
 longitude: -93.22862
 postcode: "65301"
 city: Sedalia
-street: "South Ohio Avenue"
-housenumber: 310
+street: South Ohio Avenue
+housenumber: "310"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1034859564
-type: way
+type: node
 latitude: 39.0618
 longitude: -93.73289
 postcode: "64037"
 city: Higginsville
-street: "Highway 13"
-housenumber: 3401
+street: Highway 13
+housenumber: "3401"
 phone: "+18667590621"
 opening_hours: ""
-website: "https://www.bannercoulson.com/"
+website: https://www.bannercoulson.com/

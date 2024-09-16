@@ -1,11 +1,11 @@
 id: 258992258
-type: way
+type: node
 latitude: 39.25891
 longitude: -94.65737
 postcode: "64154"
 city: Kansas City
-street: "Northwest Skyview Avenue"
-housenumber: 9120
-phone: "+1 816-741-8779"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/kansas-city-mo-343"
+street: Northwest Skyview Avenue
+housenumber: "9120"
+phone: +1 816-741-8779
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/kansas-city-mo-343

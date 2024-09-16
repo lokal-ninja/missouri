@@ -1,11 +1,11 @@
 id: 621556485
-type: way
+type: node
 latitude: 38.79377
 longitude: -90.62109
 postcode: "63376"
 city: Saint Peters
-street: "Mid Rivers Center"
-housenumber: 290
-phone: "+1 636-278-2214"
-opening_hours: "Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 10:00-20:00"
-website: "https://stores.dsw.com/us/mo/st.-peters/dsw-designer-shoe-warehouse-mid-rivers-center.html"
+street: Mid Rivers Center
+housenumber: "290"
+phone: +1 636-278-2214
+opening_hours: Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 10:00-20:00
+website: https://stores.dsw.com/us/mo/st.-peters/dsw-designer-shoe-warehouse-mid-rivers-center.html

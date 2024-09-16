@@ -1,11 +1,11 @@
 id: 158533844
-type: way
+type: node
 latitude: 38.95385
 longitude: -92.29707
 postcode: "65201"
 city: Columbia
-street: "Conley Road"
-housenumber: 201
-phone: "+1 573-499-6767"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/mo-columbia/0008"
+street: Conley Road
+housenumber: "201"
+phone: +1 573-499-6767
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/mo-columbia/0008

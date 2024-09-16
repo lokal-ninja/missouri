@@ -1,11 +1,11 @@
 id: 172361325
-type: way
+type: node
 latitude: 39.04871
 longitude: -94.4158
 postcode: "64055"
 city: Independence
-street: "South Noland Road"
-housenumber: 4024
+street: South Noland Road
+housenumber: "4024"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

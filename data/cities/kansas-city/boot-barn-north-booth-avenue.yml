@@ -1,11 +1,11 @@
 id: 573371902
-type: way
+type: node
 latitude: 39.24379
 longitude: -94.4756
 postcode: "64158"
 city: Kansas City
-street: "North Booth Avenue"
-housenumber: 8353
+street: North Booth Avenue
+housenumber: "8353"
 phone: ""
 opening_hours: ""
-website: "https://www.bootbarn.com/stores?StoreID=0210"
+website: https://www.bootbarn.com/stores?StoreID=0210

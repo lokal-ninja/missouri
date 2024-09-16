@@ -1,11 +1,11 @@
 id: 533656776
-type: way
+type: node
 latitude: 38.48669
 longitude: -90.80321
 postcode: "63069"
 city: Pacific
-street: "West Osage Street"
-housenumber: 3201
+street: West Osage Street
+housenumber: "3201"
 phone: ""
 opening_hours: ""
 website: ""

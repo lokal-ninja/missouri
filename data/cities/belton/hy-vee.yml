@@ -1,11 +1,11 @@
 id: 534715781
-type: way
+type: node
 latitude: 38.81228
 longitude: -94.51407
 postcode: "64012"
 city: Belton
-street: "East North Avenue"
-housenumber: 307
-phone: "(816) 318-0400"
+street: East North Avenue
+housenumber: "307"
+phone: (816) 318-0400
 opening_hours: ""
 website: ""

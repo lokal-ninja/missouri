@@ -1,11 +1,11 @@
 id: 448972717
-type: way
+type: node
 latitude: 37.4972
 longitude: -94.30188
 postcode: "64759"
 city: Lamar
-street: "Southwest 1st Lane"
-housenumber: 29
-phone: "+1 417-682-5516"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/338/lamar-mo/whats-new"
+street: Southwest 1st Lane
+housenumber: "29"
+phone: +1 417-682-5516
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/338/lamar-mo/whats-new

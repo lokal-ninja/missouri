@@ -1,11 +1,11 @@
 id: 507862629
-type: way
+type: node
 latitude: 38.78089
 longitude: -93.73656
 postcode: "64093"
 city: Warrensburg
-street: "East Cooper Street"
-housenumber: 301
-phone: "+1 660-747-1505"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/61/warrensburg-mo/whats-new"
+street: East Cooper Street
+housenumber: "301"
+phone: +1 660-747-1505
+opening_hours: 24/7
+website: https://www.walmart.com/store/61/warrensburg-mo/whats-new

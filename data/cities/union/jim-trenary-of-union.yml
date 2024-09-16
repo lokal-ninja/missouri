@@ -1,11 +1,11 @@
 id: 503847852
-type: way
+type: node
 latitude: 38.45542
 longitude: -91.00423
 postcode: "63084"
 city: Union
-street: "Route 47"
-housenumber: 1001
-phone: "636-234-3002"
+street: Route 47
+housenumber: "1001"
+phone: 636-234-3002
 opening_hours: ""
-website: "jimtrenaryunion.com"
+website: jimtrenaryunion.com

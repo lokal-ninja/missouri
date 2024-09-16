@@ -1,11 +1,11 @@
 id: 623292052
-type: way
+type: node
 latitude: 38.65861
 longitude: -90.22621
 postcode: "63107"
 city: Saint Louis
-street: "North Vandeventer Avenue"
-housenumber: 2918
+street: North Vandeventer Avenue
+housenumber: "2918"
 phone: ""
 opening_hours: ""
 website: ""

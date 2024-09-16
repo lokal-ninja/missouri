@@ -1,11 +1,11 @@
 id: 582255111
-type: way
+type: node
 latitude: 37.88457
 longitude: -90.5141
 postcode: "63601"
 city: Desloge
-street: "North State Street"
-housenumber: 407
-phone: "+1 573-431-5094"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/95/desloge-mo/whats-new"
+street: North State Street
+housenumber: "407"
+phone: +1 573-431-5094
+opening_hours: 24/7
+website: https://www.walmart.com/store/95/desloge-mo/whats-new

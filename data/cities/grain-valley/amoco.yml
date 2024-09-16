@@ -1,11 +1,11 @@
 id: 815950260
-type: way
+type: node
 latitude: 39.01994
 longitude: -94.1969
 postcode: "64029"
 city: Grain Valley
-street: "North Main Street"
-housenumber: 723
+street: North Main Street
+housenumber: "723"
 phone: ""
 opening_hours: ""
-website: "https://www.bp.com/en_us/united-states/home.html"
+website: https://www.bp.com/en_us/united-states/home.html

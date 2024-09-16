@@ -1,11 +1,11 @@
 id: 621556449
-type: way
+type: node
 latitude: 38.79268
 longitude: -90.61667
 postcode: "63376"
 city: Saint Peters
-street: "Mid Rivers Center"
-housenumber: 186
-phone: "+1 636-978-5712"
-opening_hours: "We-Sa 10:00-19:00"
-website: "https://habitatstcharles.org/restore/"
+street: Mid Rivers Center
+housenumber: "186"
+phone: +1 636-978-5712
+opening_hours: We-Sa 10:00-19:00
+website: https://habitatstcharles.org/restore/

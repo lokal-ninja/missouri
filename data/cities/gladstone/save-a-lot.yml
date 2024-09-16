@@ -1,11 +1,11 @@
 id: 571829460
-type: way
+type: node
 latitude: 39.21303
 longitude: -94.5749
 postcode: "64118"
 city: Gladstone
-street: "North Oak Trafficway"
-housenumber: 6599
+street: North Oak Trafficway
+housenumber: "6599"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00"
-website: "https://savealot.com/grocery-stores/gladstone-64118-60055/"
+opening_hours: Mo-Sa 08:00-22:00
+website: https://savealot.com/grocery-stores/gladstone-64118-60055/

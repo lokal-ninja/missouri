@@ -1,11 +1,11 @@
 id: 508502000
-type: way
+type: node
 latitude: 39.31118
 longitude: -94.66528
 postcode: "64163"
 city: Ferrelview
-street: "1st Street"
-housenumber: 218
+street: 1st Street
+housenumber: "218"
 phone: ""
 opening_hours: ""
 website: ""

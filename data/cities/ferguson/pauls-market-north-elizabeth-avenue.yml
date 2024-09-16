@@ -1,11 +1,11 @@
 id: 1037712947
-type: way
+type: node
 latitude: 38.75859
 longitude: -90.29897
 postcode: "63135"
 city: Ferguson
-street: "North Elizabeth Avenue"
-housenumber: 1020
+street: North Elizabeth Avenue
+housenumber: "1020"
 phone: ""
 opening_hours: ""
-website: "https://paulsmarketstl.com/"
+website: https://paulsmarketstl.com/

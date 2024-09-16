@@ -1,11 +1,11 @@
 id: 387949462
-type: way
+type: node
 latitude: 38.57459
 longitude: -90.42039
 postcode: "63122"
 city: Kirkwood
-street: "West Woodbine Avenue"
-housenumber: 647
-phone: "+1 314 821 3382"
+street: West Woodbine Avenue
+housenumber: "647"
+phone: +1 314 821 3382
 opening_hours: ""
 website: ""

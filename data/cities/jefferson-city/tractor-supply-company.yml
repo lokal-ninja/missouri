@@ -1,11 +1,11 @@
 id: 1259565224
-type: way
+type: node
 latitude: 38.52892
 longitude: -92.22298
 postcode: "65109"
 city: Jefferson City
-street: "Cody Drive"
-housenumber: 3714
-phone: "+1 573-635-0206"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Cody Drive
+housenumber: "3714"
+phone: +1 573-635-0206
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

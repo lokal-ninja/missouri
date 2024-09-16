@@ -1,11 +1,11 @@
 id: 741819476
-type: way
+type: node
 latitude: 39.37182
 longitude: -94.58267
 postcode: "64089"
 city: Smithville
-street: "US-169"
-housenumber: 1099
+street: US-169
+housenumber: "1099"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/mo/smithville/autoparts-2024.html"
+website: https://locations.oreillyauto.com/mo/smithville/autoparts-2024.html

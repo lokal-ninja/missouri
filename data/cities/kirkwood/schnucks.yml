@@ -1,11 +1,11 @@
 id: 379497302
-type: way
+type: node
 latitude: 38.60247
 longitude: -90.39665
 postcode: "63122"
 city: Kirkwood
-street: "Manchester Road"
-housenumber: 10233
-phone: "+1 314 965 7310"
-opening_hours: "06:00-24:00"
-website: "https://schnucks.com"
+street: Manchester Road
+housenumber: "10233"
+phone: +1 314 965 7310
+opening_hours: 06:00-24:00
+website: https://schnucks.com

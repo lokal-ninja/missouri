@@ -1,11 +1,11 @@
 id: 478324151
-type: way
+type: node
 latitude: 38.55661
 longitude: -91.02389
 postcode: "63090"
 city: Washington
-street: "West 5th Street"
-housenumber: 830
+street: West 5th Street
+housenumber: "830"
 phone: ""
 opening_hours: ""
 website: ""

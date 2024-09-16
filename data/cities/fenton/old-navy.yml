@@ -1,11 +1,11 @@
 id: 39416708
-type: way
+type: node
 latitude: 38.51152
 longitude: -90.44777
 postcode: "63026"
 city: Fenton
-street: "Gravois Road"
-housenumber: 725
-phone: "1-636-326-6301"
+street: Gravois Road
+housenumber: "725"
+phone: 1-636-326-6301
 opening_hours: ""
-website: "https://oldnavy.gap.com/"
+website: https://oldnavy.gap.com/

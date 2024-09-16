@@ -1,11 +1,11 @@
 id: 1009668917
-type: way
+type: node
 latitude: 37.12179
 longitude: -93.4684
 postcode: "65738"
 city: Republic
-street: "US Hwy 60 East"
-housenumber: 769
-phone: "+1 417 233 0206"
+street: US Hwy 60 East
+housenumber: "769"
+phone: +1 417 233 0206
 opening_hours: ""
 website: ""

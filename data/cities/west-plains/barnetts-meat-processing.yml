@@ -1,11 +1,11 @@
 id: 469705505
-type: way
+type: node
 latitude: 36.73278
 longitude: -91.85065
 postcode: "65775"
 city: West Plains
-street: "Saint Louis Street"
-housenumber: 611
-phone: "+1-417-256-3261"
+street: Saint Louis Street
+housenumber: "611"
+phone: +1-417-256-3261
 opening_hours: ""
 website: ""

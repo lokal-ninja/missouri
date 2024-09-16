@@ -1,11 +1,11 @@
 id: 629213734
-type: way
+type: node
 latitude: 38.86114
 longitude: -90.22273
 postcode: "63386"
 city: West Alton
-street: "US-67"
-housenumber: 14000
-phone: "636-753-2054"
+street: US-67
+housenumber: "14000"
+phone: 636-753-2054
 opening_hours: ""
-website: "https://www.exxon.com/en/find-station/200314908"
+website: https://www.exxon.com/en/find-station/200314908

@@ -1,11 +1,11 @@
 id: 661606995
-type: way
+type: node
 latitude: 38.80425
 longitude: -90.7236
 postcode: "63366"
 city: O'Fallon
-street: "Elaine Drive"
-housenumber: 10
-phone: "636-798-8038"
+street: Elaine Drive
+housenumber: "10"
+phone: 636-798-8038
 opening_hours: ""
-website: "https://autotech.pro"
+website: https://autotech.pro

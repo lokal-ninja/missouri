@@ -1,11 +1,11 @@
 id: 510009451
-type: way
+type: node
 latitude: 38.4346
 longitude: -90.97092
 postcode: "63084"
 city: Union
-street: "East Central Court"
-housenumber: 1445
-phone: "+1 636-583-2355"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/99/union-mo/whats-new"
+street: East Central Court
+housenumber: "1445"
+phone: +1 636-583-2355
+opening_hours: 24/7
+website: https://www.walmart.com/store/99/union-mo/whats-new

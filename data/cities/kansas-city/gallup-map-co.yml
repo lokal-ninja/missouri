@@ -4,8 +4,8 @@ latitude: 39.09221
 longitude: -94.5834
 postcode: "64108"
 city: Kansas City
-street: "Main Street"
-housenumber: 1733
-phone: "+1 816 842-1994"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 10:00-12:00; Su off"
-website: "https://gallupmap.com/"
+street: Main Street
+housenumber: "1733"
+phone: +1 816 842-1994
+opening_hours: Mo-Fr 09:00-17:00; Sa 10:00-12:00; Su off
+website: https://gallupmap.com/

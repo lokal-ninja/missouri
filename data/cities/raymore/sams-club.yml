@@ -1,11 +1,11 @@
 id: 565575195
-type: way
+type: node
 latitude: 38.80891
 longitude: -94.49204
 postcode: "64083"
 city: Raymore
-street: "North Dean Avenue"
-housenumber: 141
-phone: "+1 816-765-0600"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/raymore-mo-sams-club/8243"
+street: North Dean Avenue
+housenumber: "141"
+phone: +1 816-765-0600
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/raymore-mo-sams-club/8243

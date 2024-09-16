@@ -1,11 +1,11 @@
 id: 388940009
-type: way
+type: node
 latitude: 38.60145
 longitude: -90.43541
 postcode: "63131"
 city: Des Peres
-street: "Manchester Road"
-housenumber: 12006
+street: Manchester Road
+housenumber: "12006"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-12006+manchester+rd-des+peres-mo-63131/id=5120"
+website: https://www.walgreens.com/locator/walgreens-12006+manchester+rd-des+peres-mo-63131/id=5120

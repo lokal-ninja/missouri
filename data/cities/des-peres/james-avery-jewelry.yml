@@ -4,8 +4,8 @@ latitude: 38.60152
 longitude: -90.44658
 postcode: "63131"
 city: Des Peres
-street: "West County Center #2085"
-housenumber: 80
+street: 'West County Center #2085'
+housenumber: "80"
 phone: "3149091068"
 opening_hours: ""
-website: "https://www.jamesavery.com/custserv/store_details.jsp?storeId=732"
+website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=732

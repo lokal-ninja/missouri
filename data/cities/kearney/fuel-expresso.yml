@@ -1,11 +1,11 @@
 id: 589553392
-type: way
+type: node
 latitude: 39.3677
 longitude: -94.36817
 postcode: "64060"
 city: Kearney
-street: "Missouri Route 92"
-housenumber: 405
+street: Missouri Route 92
+housenumber: "405"
 phone: ""
 opening_hours: ""
 website: ""

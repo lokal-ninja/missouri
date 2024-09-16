@@ -1,11 +1,11 @@
 id: 866165546
-type: way
+type: node
 latitude: 39.36511
 longitude: -94.77442
 postcode: "64079"
 city: Platte City
-street: "Branch Street"
-housenumber: 1106
-phone: "+1 816 858 2129"
+street: Branch Street
+housenumber: "1106"
+phone: +1 816 858 2129
 opening_hours: ""
-website: "https://vaughnfuneralhomes.com/obituaries.html"
+website: https://vaughnfuneralhomes.com/obituaries.html

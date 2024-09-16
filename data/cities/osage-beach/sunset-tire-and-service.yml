@@ -1,11 +1,11 @@
 id: 913872022
-type: way
+type: node
 latitude: 38.15475
 longitude: -92.60351
 postcode: "65065"
 city: Osage Beach
-street: "State Highway 42"
-housenumber: 955
-phone: "+1-573-557-5070"
+street: State Highway 42
+housenumber: "955"
+phone: +1-573-557-5070
 opening_hours: ""
 website: ""

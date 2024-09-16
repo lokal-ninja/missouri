@@ -1,11 +1,11 @@
 id: 346410600
-type: way
+type: node
 latitude: 38.74877
 longitude: -90.25311
 postcode: "63136"
 city: Moline Acres
-street: "Chambers Road"
-housenumber: 2202
+street: Chambers Road
+housenumber: "2202"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2202+chambers+rd-saint+louis-mo-63136/id=5047"
+website: https://www.walgreens.com/locator/walgreens-2202+chambers+rd-saint+louis-mo-63136/id=5047

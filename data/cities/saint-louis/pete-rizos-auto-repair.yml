@@ -1,11 +1,11 @@
 id: 855223524
-type: way
+type: node
 latitude: 38.60756
 longitude: -90.2961
 postcode: "63139"
 city: Saint Louis
-street: "Arsenal Street"
-housenumber: 6332
+street: Arsenal Street
+housenumber: "6332"
 phone: "+13146453444"
 opening_hours: ""
 website: ""

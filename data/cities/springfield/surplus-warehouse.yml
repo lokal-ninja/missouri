@@ -1,11 +1,11 @@
 id: 543780848
-type: way
+type: node
 latitude: 37.22736
 longitude: -93.3112
 postcode: "65802"
 city: Springfield
-street: "West Division Street"
-housenumber: 1515
+street: West Division Street
+housenumber: "1515"
 phone: ""
 opening_hours: ""
 website: ""

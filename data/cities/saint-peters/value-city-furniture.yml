@@ -1,11 +1,11 @@
 id: 548454175
-type: way
+type: node
 latitude: 38.79293
 longitude: -90.61731
 postcode: "63376"
 city: Saint Peters
-street: "Mid Rivers Center"
-housenumber: 202
-phone: "+1 636-397-9002"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-19:00"
-website: "https://www.valuecityfurniture.com/store-locator/mo/st-peters/202-mid-rivers-mall-drive"
+street: Mid Rivers Center
+housenumber: "202"
+phone: +1 636-397-9002
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-19:00
+website: https://www.valuecityfurniture.com/store-locator/mo/st-peters/202-mid-rivers-mall-drive

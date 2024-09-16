@@ -1,11 +1,11 @@
 id: 618126712
-type: way
+type: node
 latitude: 38.63503
 longitude: -90.31594
 postcode: "63117"
 city: Clayton
-street: "Clayton Road"
-housenumber: 6633
-phone: "+1-314-863-1300"
+street: Clayton Road
+housenumber: "6633"
+phone: +1-314-863-1300
 opening_hours: ""
-website: "https://www.ambrusterchapel.com"
+website: https://www.ambrusterchapel.com

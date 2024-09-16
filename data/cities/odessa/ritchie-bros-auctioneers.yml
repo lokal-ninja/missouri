@@ -1,11 +1,11 @@
 id: 666407760
-type: way
+type: node
 latitude: 39.00819
 longitude: -93.99351
 postcode: "64076"
 city: Odessa
-street: "W Old Highway 40"
-housenumber: 1800
+street: W Old Highway 40
+housenumber: "1800"
 phone: ""
 opening_hours: ""
 website: ""

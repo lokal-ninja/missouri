@@ -1,11 +1,11 @@
 id: 553869008
-type: way
+type: node
 latitude: 38.94082
 longitude: -94.59969
 postcode: "64114"
 city: Kansas City
-street: "West 103rd Street"
-housenumber: 555
-phone: "888-732-8581"
+street: West 103rd Street
+housenumber: "555"
+phone: 888-732-8581
 opening_hours: ""
-website: "https://www.cabledahmerkc.com/"
+website: https://www.cabledahmerkc.com/

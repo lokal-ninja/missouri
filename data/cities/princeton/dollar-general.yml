@@ -1,11 +1,11 @@
 id: 1231049228
-type: way
+type: node
 latitude: 40.40117
 longitude: -93.58855
 postcode: "64673"
 city: Princeton
-street: "Prichard Street"
-housenumber: 800
+street: Prichard Street
+housenumber: "800"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/mo/princeton/8096"
+website: https://www.dollargeneral.com/store-directory/mo/princeton/8096

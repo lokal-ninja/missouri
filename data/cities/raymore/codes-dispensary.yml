@@ -1,11 +1,11 @@
 id: 565575198
-type: way
+type: node
 latitude: 38.8121
 longitude: -94.49027
 postcode: ""
 city: Raymore
-street: "West Foxwood Drive"
-housenumber: 1905
+street: West Foxwood Drive
+housenumber: "1905"
 phone: ""
 opening_hours: ""
 website: ""

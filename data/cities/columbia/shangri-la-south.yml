@@ -1,11 +1,11 @@
 id: 1241117472
-type: way
+type: node
 latitude: 38.90621
 longitude: -92.33607
 postcode: "65203"
 city: Columbia
-street: "Peachtree Drive"
-housenumber: 3919
+street: Peachtree Drive
+housenumber: "3919"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 681759942
-type: way
+type: node
 latitude: 39.21045
 longitude: -94.61267
 postcode: "64151"
 city: Kansas City
-street: "Northwest Waukomis Drive"
-housenumber: 6400
-phone: "+1-816-587-1200"
+street: Northwest Waukomis Drive
+housenumber: "6400"
+phone: +1-816-587-1200
 opening_hours: ""
-website: "https://www.priceritemarketdeli.com/"
+website: https://www.priceritemarketdeli.com/

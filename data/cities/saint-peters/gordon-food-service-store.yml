@@ -1,11 +1,11 @@
 id: 317609912
-type: way
+type: node
 latitude: 38.79395
 longitude: -90.62473
 postcode: "63376"
 city: Saint Peters
-street: "Mid Rivers Mall Drive"
-housenumber: 311
-phone: "+1 636-279-1360"
-opening_hours: "Mo-Sa 07:00-20:00; Su 12:00-17:00; Sep Mo[1] 07:00-17:00"
-website: "https://gfsstore.com/locations/st-peters/"
+street: Mid Rivers Mall Drive
+housenumber: "311"
+phone: +1 636-279-1360
+opening_hours: Mo-Sa 07:00-20:00; Su 12:00-17:00; Sep Mo[1] 07:00-17:00
+website: https://gfsstore.com/locations/st-peters/

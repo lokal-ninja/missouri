@@ -4,8 +4,8 @@ latitude: 38.69282
 longitude: -90.39941
 postcode: "63132"
 city: St. Louis
-street: "Page Avenue"
-housenumber: 10765
-phone: "+1-314-427-5120"
-opening_hours: "Mo-Fr 07:30-18:00"
-website: "https://eurocarstl.net"
+street: Page Avenue
+housenumber: "10765"
+phone: +1-314-427-5120
+opening_hours: Mo-Fr 07:30-18:00
+website: https://eurocarstl.net

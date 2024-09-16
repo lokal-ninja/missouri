@@ -1,11 +1,11 @@
 id: 624361033
-type: way
+type: node
 latitude: 38.56929
 longitude: -90.28514
 postcode: ""
 city: Saint Louis
-street: "Gravois Avenue"
-housenumber: 6900
+street: Gravois Avenue
+housenumber: "6900"
 phone: ""
-opening_hours: "PH,Mo-Su 00:00-23:59"
+opening_hours: PH,Mo-Su 00:00-23:59
 website: ""

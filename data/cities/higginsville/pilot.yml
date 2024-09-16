@@ -1,11 +1,11 @@
 id: 555000319
-type: way
+type: node
 latitude: 39.0033
 longitude: -93.73434
 postcode: "64037"
 city: Higginsville
-street: "Missouri Route 13"
-housenumber: 6676
+street: Missouri Route 13
+housenumber: "6676"
 phone: ""
 opening_hours: ""
-website: "https://pilotflyingj.com/stores/443"
+website: https://pilotflyingj.com/stores/443

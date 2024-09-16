@@ -1,11 +1,11 @@
 id: 997055430
-type: way
+type: node
 latitude: 38.90964
 longitude: -91.54087
 postcode: "63361"
 city: Danville
-street: "Highway 161"
-housenumber: 2249
-phone: "+1-573-564-8109"
+street: Highway 161
+housenumber: "2249"
+phone: +1-573-564-8109
 opening_hours: ""
 website: ""

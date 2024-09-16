@@ -1,11 +1,11 @@
 id: 495060854
-type: way
+type: node
 latitude: 38.54447
 longitude: -90.98517
 postcode: "63090"
 city: Washington
-street: "Alberta Lane"
-housenumber: 602
+street: Alberta Lane
+housenumber: "602"
 phone: ""
 opening_hours: ""
 website: ""

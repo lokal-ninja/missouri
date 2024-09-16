@@ -4,8 +4,8 @@ latitude: 37.95621
 longitude: -91.77814
 postcode: "65401"
 city: Rolla
-street: "Watts Drive"
-housenumber: 1575
+street: Watts Drive
+housenumber: "1575"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.dineoncampus.com/mst"
+opening_hours: 24/7
+website: https://www.dineoncampus.com/mst

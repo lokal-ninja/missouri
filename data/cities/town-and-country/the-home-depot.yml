@@ -1,11 +1,11 @@
 id: 657861957
-type: way
+type: node
 latitude: 38.5997
 longitude: -90.48682
 postcode: "63011"
 city: Town and Country
-street: "Manchester Road"
-housenumber: 13929
-phone: "+1 636-207-8875"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/manchester-road/mo/ballwin/63011/3004"
+street: Manchester Road
+housenumber: "13929"
+phone: +1 636-207-8875
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/manchester-road/mo/ballwin/63011/3004

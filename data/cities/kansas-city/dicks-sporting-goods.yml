@@ -1,11 +1,11 @@
 id: 52091221
-type: way
+type: node
 latitude: 39.25111
 longitude: -94.66109
 postcode: "64153"
 city: Kansas City
-street: "Northwest Prairie View Road"
-housenumber: 8665
-phone: "+1 816-436-3524"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/mo/kansas-city/118/"
+street: Northwest Prairie View Road
+housenumber: "8665"
+phone: +1 816-436-3524
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/mo/kansas-city/118/

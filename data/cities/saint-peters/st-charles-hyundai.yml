@@ -1,11 +1,11 @@
 id: 547577814
-type: way
+type: node
 latitude: 38.79715
 longitude: -90.60112
 postcode: "63376"
 city: Saint Peters
-street: "Veterans Memorial Parkway"
-housenumber: 5701
-phone: "+1 888-404-3103"
-opening_hours: "Mo,We,Fr 09:00-21:00; Tu,Th,Sa 09:00-18:00; Su off"
-website: "https://www.stcharleshyundai.com/"
+street: Veterans Memorial Parkway
+housenumber: "5701"
+phone: +1 888-404-3103
+opening_hours: Mo,We,Fr 09:00-21:00; Tu,Th,Sa 09:00-18:00; Su off
+website: https://www.stcharleshyundai.com/

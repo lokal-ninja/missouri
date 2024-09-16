@@ -1,11 +1,11 @@
 id: 383995805
-type: way
+type: node
 latitude: 38.89959
 longitude: -94.36207
 postcode: "64081"
 city: Lees Summit
-street: "Southeast Oldham Parkway"
-housenumber: 651
-phone: "+1 816-525-3498"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/lees-summit/mo/lees-summit/64081/3026"
+street: Southeast Oldham Parkway
+housenumber: "651"
+phone: +1 816-525-3498
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/lees-summit/mo/lees-summit/64081/3026

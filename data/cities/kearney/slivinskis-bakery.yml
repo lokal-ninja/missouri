@@ -1,11 +1,11 @@
 id: 720099129
-type: way
+type: node
 latitude: 39.36882
 longitude: -94.36395
 postcode: "64060"
 city: Kearney
-street: "MO-92"
-housenumber: 178
-phone: "816-903-2245"
-opening_hours: "Tu-Su 05:00-13:00; Mo closed"
+street: MO-92
+housenumber: "178"
+phone: 816-903-2245
+opening_hours: Tu-Su 05:00-13:00; Mo closed
 website: ""

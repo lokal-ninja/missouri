@@ -1,11 +1,11 @@
 id: 331582902
-type: way
+type: node
 latitude: 39.20321
 longitude: -94.54816
 postcode: "64119"
 city: Gladstone
-street: "North Antioch Road"
-housenumber: 6003
+street: North Antioch Road
+housenumber: "6003"
 phone: ""
 opening_hours: ""
 website: ""

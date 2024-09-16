@@ -1,11 +1,11 @@
 id: 490714908
-type: way
+type: node
 latitude: 38.50652
 longitude: -90.64223
 postcode: "63025"
 city: Eureka
-street: "Hilltop Village Center Drive"
-housenumber: 100
+street: Hilltop Village Center Drive
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

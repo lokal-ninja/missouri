@@ -1,11 +1,11 @@
 id: 543020753
-type: way
+type: node
 latitude: 39.1374
 longitude: -94.20175
 postcode: "64016"
 city: Buckner
-street: "South Osage Street"
-housenumber: 2
+street: South Osage Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

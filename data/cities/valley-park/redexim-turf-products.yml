@@ -1,11 +1,11 @@
 id: 501735845
-type: way
+type: node
 latitude: 38.5381
 longitude: -90.51025
 postcode: "63088"
 city: Valley Park
-street: "Outer Road West"
-housenumber: 427
+street: Outer Road West
+housenumber: "427"
 phone: ""
 opening_hours: ""
 website: ""

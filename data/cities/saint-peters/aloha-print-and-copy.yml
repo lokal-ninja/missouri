@@ -1,11 +1,11 @@
 id: 621283860
-type: way
+type: node
 latitude: 38.79401
 longitude: -90.62467
 postcode: "63376"
 city: Saint Peters
-street: "McMenamy Road"
-housenumber: 212
-phone: "+1 636-397-8558"
+street: McMenamy Road
+housenumber: "212"
+phone: +1 636-397-8558
 opening_hours: ""
-website: "https://www.aloha4print.com/"
+website: https://www.aloha4print.com/

@@ -1,11 +1,11 @@
 id: 554592934
-type: way
+type: node
 latitude: 38.93482
 longitude: -92.74267
 postcode: "65233"
 city: Boonville
-street: "Main Street"
-housenumber: 2500
+street: Main Street
+housenumber: "2500"
 phone: ""
 opening_hours: ""
-website: "https://www.rickballautomall.com/"
+website: https://www.rickballautomall.com/

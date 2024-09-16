@@ -1,11 +1,11 @@
 id: 332223635
-type: way
+type: node
 latitude: 39.04269
 longitude: -94.57276
 postcode: "64110"
 city: Kansas City
-street: "Troost Avenue"
-housenumber: 4627
+street: Troost Avenue
+housenumber: "4627"
 phone: ""
 opening_hours: ""
 website: ""

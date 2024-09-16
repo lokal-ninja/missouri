@@ -1,11 +1,11 @@
 id: 999917668
-type: way
+type: node
 latitude: 38.91229
 longitude: -94.37729
 postcode: "64063"
 city: Lee's Summit
-street: "Southeast Main Street"
-housenumber: 247
+street: Southeast Main Street
+housenumber: "247"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 826440300
-type: way
+type: node
 latitude: 37.947
 longitude: -91.79448
 postcode: "65401"
 city: Rolla
-street: "Westside Drive"
-housenumber: 1525
+street: Westside Drive
+housenumber: "1525"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-19:00"
-website: "https://tjmaxx.tjx.com/store/stores/Rolla-MO-65401/1523/aboutstore/"
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-19:00
+website: https://tjmaxx.tjx.com/store/stores/Rolla-MO-65401/1523/aboutstore/

@@ -1,11 +1,11 @@
 id: 1066549205
-type: way
+type: node
 latitude: 38.5238
 longitude: -90.35113
 postcode: "63123"
 city: Saint Louis
-street: "Lin Ferry Drive"
-housenumber: 9931
+street: Lin Ferry Drive
+housenumber: "9931"
 phone: "+13142708558"
-opening_hours: "Mo-Th 07:00-17:00,Fr-Su closed"
-website: "https://www.314shirts.com/"
+opening_hours: Mo-Th 07:00-17:00,Fr-Su closed
+website: https://www.314shirts.com/

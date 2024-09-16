@@ -1,11 +1,11 @@
 id: 392297508
-type: way
+type: node
 latitude: 38.43385
 longitude: -92.8582
 postcode: "65084"
 city: Versailles
-street: "West Newton Street"
-housenumber: 1003
-phone: "+1 573-378-4668"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/357/versailles-mo/whats-new"
+street: West Newton Street
+housenumber: "1003"
+phone: +1 573-378-4668
+opening_hours: 24/7
+website: https://www.walmart.com/store/357/versailles-mo/whats-new

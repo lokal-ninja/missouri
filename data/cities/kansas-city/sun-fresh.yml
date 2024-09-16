@@ -1,11 +1,11 @@
 id: 330241343
-type: way
+type: node
 latitude: 38.92389
 longitude: -94.58576
 postcode: "64131"
 city: Kansas City
-street: "Holmes Road"
-housenumber: 11212
-phone: "816-942-0202"
-opening_hours: "Mo-Sa 7:00-22:00, Su 8:00-21:00"
+street: Holmes Road
+housenumber: "11212"
+phone: 816-942-0202
+opening_hours: Mo-Sa 7:00-22:00, Su 8:00-21:00
 website: ""

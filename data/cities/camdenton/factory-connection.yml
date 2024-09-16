@@ -1,11 +1,11 @@
 id: 669219524
-type: way
+type: node
 latitude: 38.02376
 longitude: -92.7245
 postcode: "65020"
 city: Camdenton
-street: "Cecil Street"
-housenumber: 108
+street: Cecil Street
+housenumber: "108"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su 13:00-18:00"
-website: "https://www.factory-connection.com/find-a-store/546/store-detail"
+opening_hours: Mo-Sa 10:00-19:00; Su 13:00-18:00
+website: https://www.factory-connection.com/find-a-store/546/store-detail

@@ -1,11 +1,11 @@
 id: 869475468
-type: way
+type: node
 latitude: 38.61228
 longitude: -90.3547
 postcode: "63144"
 city: St. Louis
-street: "Manchester Road"
-housenumber: 9040
-phone: "+1-314-942-3535"
+street: Manchester Road
+housenumber: "9040"
+phone: +1-314-942-3535
 opening_hours: ""
 website: ""

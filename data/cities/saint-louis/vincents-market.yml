@@ -1,11 +1,11 @@
 id: 559565951
-type: way
+type: node
 latitude: 38.60387
 longitude: -90.21127
 postcode: "63104"
 city: Saint Louis
-street: "South 12th Street"
-housenumber: 2400
-phone: "+1 314-772-4710"
-opening_hours: "Mo-Sa 09:00-20:00, Su 09:00-17:30"
+street: South 12th Street
+housenumber: "2400"
+phone: +1 314-772-4710
+opening_hours: Mo-Sa 09:00-20:00, Su 09:00-17:30
 website: ""

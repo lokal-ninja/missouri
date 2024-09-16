@@ -1,11 +1,11 @@
 id: 674348560
-type: way
+type: node
 latitude: 37.94895
 longitude: -91.77129
 postcode: "65401"
 city: Rolla
-street: "West 7th Street"
-housenumber: 113
+street: West 7th Street
+housenumber: "113"
 phone: ""
-opening_hours: "closed"
+opening_hours: closed
 website: ""

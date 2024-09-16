@@ -1,11 +1,11 @@
 id: 496339147
-type: way
+type: node
 latitude: 38.81526
 longitude: -94.26346
 postcode: "64080"
 city: Pleasant Hill
-street: "MO 7"
-housenumber: 2102
-phone: "(816) 987-6272"
-opening_hours: "Mo-Sa 7:30-22:00, Su 8:00-20:00"
-website: "https://locations.oreillyauto.com/mo/pleasanthill/autoparts-851.html"
+street: MO 7
+housenumber: "2102"
+phone: (816) 987-6272
+opening_hours: Mo-Sa 7:30-22:00, Su 8:00-20:00
+website: https://locations.oreillyauto.com/mo/pleasanthill/autoparts-851.html

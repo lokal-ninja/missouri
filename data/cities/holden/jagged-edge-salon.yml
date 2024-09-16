@@ -1,11 +1,11 @@
 id: 856525766
-type: way
+type: node
 latitude: 38.71732
 longitude: -93.99092
 postcode: "64040"
 city: Holden
-street: "South Market Street"
-housenumber: 211
+street: South Market Street
+housenumber: "211"
 phone: ""
 opening_hours: ""
 website: ""

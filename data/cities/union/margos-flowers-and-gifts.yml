@@ -1,11 +1,11 @@
 id: 565492491
-type: way
+type: node
 latitude: 38.44191
 longitude: -91.00706
 postcode: "63084"
 city: Union
-street: "South Oak Street"
-housenumber: 403
-phone: "636-583-2111"
+street: South Oak Street
+housenumber: "403"
+phone: 636-583-2111
 opening_hours: ""
 website: ""

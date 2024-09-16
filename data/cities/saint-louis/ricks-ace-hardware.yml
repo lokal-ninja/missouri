@@ -2,10 +2,10 @@ id: 12091051820
 type: node
 latitude: 38.61053
 longitude: -90.27976
-postcode: "63139-1465"
+postcode: 63139-1465
 city: Saint Louis
-street: "Southwest Avenue"
-housenumber: 5437
-phone: "+1 314-966-2589"
-opening_hours: "Mo-Fr 07:30-20:00; Sa 07:30-19:00; Su 09:00-18:00"
+street: Southwest Avenue
+housenumber: "5437"
+phone: +1 314-966-2589
+opening_hours: Mo-Fr 07:30-20:00; Sa 07:30-19:00; Su 09:00-18:00
 website: ""

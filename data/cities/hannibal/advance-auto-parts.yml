@@ -1,11 +1,11 @@
 id: 451170457
-type: way
+type: node
 latitude: 39.71083
 longitude: -91.35729
 postcode: "63401"
 city: Hannibal
-street: "North 3rd Street"
-housenumber: 212
-phone: "(573) 221-0007"
+street: North 3rd Street
+housenumber: "212"
+phone: (573) 221-0007
 opening_hours: ""
 website: ""

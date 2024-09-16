@@ -1,11 +1,11 @@
 id: 543906877
-type: way
+type: node
 latitude: 38.82495
 longitude: -91.13817
 postcode: "63383"
 city: Warrenton
-street: "Anwijo Way"
-housenumber: 531
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/mo/warrenton/531-anwijo-way"
+street: Anwijo Way
+housenumber: "531"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/mo/warrenton/531-anwijo-way

@@ -1,11 +1,11 @@
 id: 457501770
-type: way
+type: node
 latitude: 38.74597
 longitude: -90.58915
 postcode: "63304"
 city: Saint Peters
-street: "Jungermann Road"
-housenumber: 1661
-phone: "+1-636-447-4450"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/648/saint-peters-mo/whats-new"
+street: Jungermann Road
+housenumber: "1661"
+phone: +1-636-447-4450
+opening_hours: 24/7
+website: https://www.walmart.com/store/648/saint-peters-mo/whats-new

@@ -1,11 +1,11 @@
 id: 517764940
-type: way
+type: node
 latitude: 38.81863
 longitude: -90.88137
 postcode: "63385"
 city: Wentzville
-street: "Wentzville Parkway"
-housenumber: 1889
-phone: "+1 636-327-4711"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/mo-wentzville/2761"
+street: Wentzville Parkway
+housenumber: "1889"
+phone: +1 636-327-4711
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/mo-wentzville/2761

@@ -4,8 +4,8 @@ latitude: 37.08414
 longitude: -94.49526
 postcode: "64801"
 city: Joplin
-street: "East 7th Street"
-housenumber: 1729
-phone: "+1 417-512-8606"
-opening_hours: "Su-Th 09:00-21:00; Fr-Sa 08:00-22:00"
-website: "https://greenlightdispensary.com/joplin"
+street: East 7th Street
+housenumber: "1729"
+phone: +1 417-512-8606
+opening_hours: Su-Th 09:00-21:00; Fr-Sa 08:00-22:00
+website: https://greenlightdispensary.com/joplin

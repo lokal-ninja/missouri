@@ -1,11 +1,11 @@
 id: 916299516
-type: way
+type: node
 latitude: 38.14107
 longitude: -92.63316
 postcode: "65065"
 city: Osage Beach
-street: "Osage Beach Parkway"
-housenumber: 5795
-phone: "+1-573-348-3504"
-opening_hours: "24/7"
-website: "https://www.caseys.com"
+street: Osage Beach Parkway
+housenumber: "5795"
+phone: +1-573-348-3504
+opening_hours: 24/7
+website: https://www.caseys.com

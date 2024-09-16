@@ -1,11 +1,11 @@
 id: 542356087
-type: way
+type: node
 latitude: 38.44315
 longitude: -91.00307
 postcode: "63084"
 city: Union
-street: "E Highway 50"
-housenumber: 602
-phone: "636-584-8926"
+street: E Highway 50
+housenumber: "602"
+phone: 636-584-8926
 opening_hours: ""
-website: "https://www.autozone.com/locations/mo/union/602-hwy-50-e.html"
+website: https://www.autozone.com/locations/mo/union/602-hwy-50-e.html

@@ -1,11 +1,11 @@
 id: 672435281
-type: way
+type: node
 latitude: 38.74742
 longitude: -90.63468
 postcode: "63304"
 city: Saint Peters
-street: "Mid Rivers Mall Drive"
-housenumber: 6064
-phone: "636-922-5197"
+street: Mid Rivers Mall Drive
+housenumber: "6064"
+phone: 636-922-5197
 opening_hours: ""
-website: "https://www.autozone.com/locations/mo/saint-peters/6064-mid-rivers-mall-dr.html"
+website: https://www.autozone.com/locations/mo/saint-peters/6064-mid-rivers-mall-dr.html

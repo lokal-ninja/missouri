@@ -1,11 +1,11 @@
 id: 1298826830
-type: way
+type: node
 latitude: 40.20408
 longitude: -95.07405
 postcode: "64466"
 city: Maitland
-street: "North 2nd Street"
-housenumber: 214
-phone: "(660) 935-2244"
+street: North 2nd Street
+housenumber: "214"
+phone: (660) 935-2244
 opening_hours: ""
 website: ""

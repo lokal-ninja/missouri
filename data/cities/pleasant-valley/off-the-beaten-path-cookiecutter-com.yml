@@ -1,11 +1,11 @@
 id: 299504425
-type: way
+type: node
 latitude: 39.21375
 longitude: -94.48102
 postcode: "64068"
 city: Pleasant Valley
-street: "Royal Street"
-housenumber: 6601
+street: Royal Street
+housenumber: "6601"
 phone: "+18164158827"
 opening_hours: ""
-website: "https://www.cookiecutter.com/"
+website: https://www.cookiecutter.com/

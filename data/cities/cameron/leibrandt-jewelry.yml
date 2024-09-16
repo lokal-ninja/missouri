@@ -1,11 +1,11 @@
 id: 890917603
-type: way
+type: node
 latitude: 39.74143
 longitude: -94.23571
 postcode: "64429"
 city: Cameron
-street: "North Walnut Street"
-housenumber: 306
+street: North Walnut Street
+housenumber: "306"
 phone: ""
 opening_hours: ""
 website: ""

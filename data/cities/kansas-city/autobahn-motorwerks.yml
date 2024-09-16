@@ -1,11 +1,11 @@
 id: 256811003
-type: way
+type: node
 latitude: 39.08961
 longitude: -94.5869
 postcode: "64108"
 city: Kansas City
-street: "West 20th Street"
-housenumber: 216
+street: West 20th Street
+housenumber: "216"
 phone: ""
 opening_hours: ""
 website: ""

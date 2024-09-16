@@ -1,11 +1,11 @@
 id: 575686853
-type: way
+type: node
 latitude: 38.45336
 longitude: -91.01029
 postcode: "63084"
 city: Union
-street: "North Washington Avenue"
-housenumber: 820
-phone: "636-744-1350"
+street: North Washington Avenue
+housenumber: "820"
+phone: 636-744-1350
 opening_hours: ""
 website: ""

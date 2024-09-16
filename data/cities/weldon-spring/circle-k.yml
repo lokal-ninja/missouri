@@ -1,11 +1,11 @@
 id: 904606114
-type: way
+type: node
 latitude: 38.71343
 longitude: -90.67743
 postcode: "63304"
 city: Weldon Spring
-street: "Highway 94"
-housenumber: 5952
+street: Highway 94
+housenumber: "5952"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

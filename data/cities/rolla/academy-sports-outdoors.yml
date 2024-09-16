@@ -1,11 +1,11 @@
 id: 826440303
-type: way
+type: node
 latitude: 37.94692
 longitude: -91.79588
 postcode: "65401"
 city: Rolla
-street: "Westside Drive"
-housenumber: 1575
+street: Westside Drive
+housenumber: "1575"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-20:00"
-website: "https://www.academy.com/shop/storelocator/MO/Rolla/store-0298"
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-20:00
+website: https://www.academy.com/shop/storelocator/MO/Rolla/store-0298

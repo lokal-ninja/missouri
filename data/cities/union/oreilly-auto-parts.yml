@@ -1,11 +1,11 @@
 id: 540269056
-type: way
+type: node
 latitude: 38.43903
 longitude: -91.01914
 postcode: "63084"
 city: Union
-street: "W Highway 50"
-housenumber: 804
-phone: "636-583-3366"
+street: W Highway 50
+housenumber: "804"
+phone: 636-583-3366
 opening_hours: ""
-website: "https://locations.oreillyauto.com/mo/union/autoparts-744.html"
+website: https://locations.oreillyauto.com/mo/union/autoparts-744.html

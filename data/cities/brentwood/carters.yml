@@ -1,11 +1,11 @@
 id: 466572594
-type: way
+type: node
 latitude: 38.62833
 longitude: -90.34108
 postcode: "63144"
 city: Brentwood
-street: "Brentwood Promenade Court"
-housenumber: 6
+street: Brentwood Promenade Court
+housenumber: "6"
 phone: "+13149683563"
-opening_hours: "Mo-Sa 11:00-19:00, Su 12:00-18:00"
-website: "https://www.carters.com"
+opening_hours: Mo-Sa 11:00-19:00, Su 12:00-18:00
+website: https://www.carters.com

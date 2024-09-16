@@ -1,11 +1,11 @@
 id: 573379517
-type: way
+type: node
 latitude: 39.24345
 longitude: -94.47639
 postcode: "64158"
 city: Kansas City
-street: "North Booth Avenue"
-housenumber: 8301
+street: North Booth Avenue
+housenumber: "8301"
 phone: ""
 opening_hours: ""
-website: "https://www.gelnailspa.com/"
+website: https://www.gelnailspa.com/

@@ -1,11 +1,11 @@
 id: 605102203
-type: way
+type: node
 latitude: 39.76792
 longitude: -94.80128
 postcode: "64506"
 city: Saint Joseph
-street: "North Belt Highway"
-housenumber: 201
-phone: "(816) 232-9750"
-opening_hours: "Mo-Su 06:00-22:00"
+street: North Belt Highway
+housenumber: "201"
+phone: (816) 232-9750
+opening_hours: Mo-Su 06:00-22:00
 website: ""

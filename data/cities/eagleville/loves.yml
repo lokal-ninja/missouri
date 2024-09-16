@@ -1,11 +1,11 @@
 id: 959688143
-type: way
+type: node
 latitude: 40.46604
 longitude: -93.9795
 postcode: "64442"
 city: Eagleville
-street: "MO N"
-housenumber: 21022
+street: MO N
+housenumber: "21022"
 phone: "+16608675300"
-opening_hours: "24/7"
-website: "https://www.loves.com/locations/500"
+opening_hours: 24/7
+website: https://www.loves.com/locations/500

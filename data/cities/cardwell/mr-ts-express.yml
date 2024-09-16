@@ -1,11 +1,11 @@
 id: 1184671413
-type: way
+type: node
 latitude: 35.99634
 longitude: -90.34239
 postcode: "63829"
 city: Cardwell
-street: "State Highway F"
-housenumber: 525
+street: State Highway F
+housenumber: "525"
 phone: ""
 opening_hours: ""
 website: ""

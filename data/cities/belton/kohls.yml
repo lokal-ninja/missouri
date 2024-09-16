@@ -1,11 +1,11 @@
 id: 564797520
-type: way
+type: node
 latitude: 38.81697
 longitude: -94.51865
 postcode: "64012"
 city: Belton
-street: "East North Avenue"
-housenumber: 914
-phone: "+1 816-331-3190"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/mo/belton-742.shtml"
+street: East North Avenue
+housenumber: "914"
+phone: +1 816-331-3190
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/mo/belton-742.shtml

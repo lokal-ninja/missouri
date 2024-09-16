@@ -1,11 +1,11 @@
 id: 610606980
-type: way
+type: node
 latitude: 37.63452
 longitude: -91.54669
 postcode: "65560"
 city: Salem
-street: "West Highway 32"
-housenumber: 1101
-phone: "+1 573-729-6151"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/27/salem-mo/whats-new"
+street: West Highway 32
+housenumber: "1101"
+phone: +1 573-729-6151
+opening_hours: 24/7
+website: https://www.walmart.com/store/27/salem-mo/whats-new

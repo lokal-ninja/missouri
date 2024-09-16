@@ -1,11 +1,11 @@
 id: 386093959
-type: way
+type: node
 latitude: 38.71024
 longitude: -93.27267
 postcode: "65301"
 city: Sedalia
-street: "West Boadway"
-housenumber: 3601
+street: West Boadway
+housenumber: "3601"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-17:00; Su 11:00-18:00"
-website: "https://stores.staples.com/mo/sedalia/3601-west-boadway"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-17:00; Su 11:00-18:00
+website: https://stores.staples.com/mo/sedalia/3601-west-boadway

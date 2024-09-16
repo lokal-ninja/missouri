@@ -1,11 +1,11 @@
 id: 543022350
-type: way
+type: node
 latitude: 39.13839
 longitude: -94.19509
 postcode: "64016"
 city: Buckner
-street: "East Monroe Street"
-housenumber: 200
+street: East Monroe Street
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

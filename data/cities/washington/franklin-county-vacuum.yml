@@ -1,11 +1,11 @@
 id: 506770404
-type: way
+type: node
 latitude: 38.55628
 longitude: -91.01365
 postcode: "63090"
 city: Washington
-street: "Jefferson Street"
-housenumber: 513
+street: Jefferson Street
+housenumber: "513"
 phone: ""
 opening_hours: ""
 website: ""

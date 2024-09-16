@@ -1,11 +1,11 @@
 id: 936516623
-type: way
+type: node
 latitude: 37.6568
 longitude: -93.10361
 postcode: "65622"
 city: Buffalo
-street: "N Ash St"
-housenumber: 1518
+street: N Ash St
+housenumber: "1518"
 phone: ""
 opening_hours: ""
 website: ""

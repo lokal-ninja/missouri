@@ -1,11 +1,11 @@
 id: 1311797919
-type: way
+type: node
 latitude: 38.51017
 longitude: -90.43998
 postcode: "63026"
 city: Fenton
-street: "Gravois Bluffs Boulevard"
-housenumber: 665
+street: Gravois Bluffs Boulevard
+housenumber: "665"
 phone: ""
 opening_hours: ""
-website: "https://www.athome.com/"
+website: https://www.athome.com/

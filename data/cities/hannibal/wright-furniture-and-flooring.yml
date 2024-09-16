@@ -1,11 +1,11 @@
 id: 386274902
-type: way
+type: node
 latitude: 39.66389
 longitude: -91.41838
 postcode: "63401"
 city: Hannibal
-street: "Highway 61"
-housenumber: 11323
-phone: "+1 573 221 5008"
+street: Highway 61
+housenumber: "11323"
+phone: +1 573 221 5008
 opening_hours: ""
-website: "https://www.wrightfurnitureandflooring.com/"
+website: https://www.wrightfurnitureandflooring.com/

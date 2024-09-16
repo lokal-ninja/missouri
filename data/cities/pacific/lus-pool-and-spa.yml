@@ -1,11 +1,11 @@
 id: 525710546
-type: way
+type: node
 latitude: 38.48398
 longitude: -90.74038
 postcode: "63069"
 city: Pacific
-street: "East Osage Street"
-housenumber: 120
+street: East Osage Street
+housenumber: "120"
 phone: ""
 opening_hours: ""
-website: "https://luspoolandspa.com/"
+website: https://luspoolandspa.com/

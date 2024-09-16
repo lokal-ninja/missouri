@@ -1,11 +1,11 @@
 id: 642319054
-type: way
+type: node
 latitude: 38.78945
 longitude: -90.63778
 postcode: "63376"
 city: Saint Peters
-street: "Mexico Road"
-housenumber: 7423
-phone: "+1 636-970-1180"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.bluechipexterminating.com/st-charles-mo-pest-control/"
+street: Mexico Road
+housenumber: "7423"
+phone: +1 636-970-1180
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.bluechipexterminating.com/st-charles-mo-pest-control/

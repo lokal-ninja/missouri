@@ -1,11 +1,11 @@
 id: 510319381
-type: way
+type: node
 latitude: 37.72599
 longitude: -92.85607
 postcode: "65536"
 city: Lebanon
-street: "MO 64A"
-housenumber: 
+street: MO 64A
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://mostateparks.com/location/56464/store"
+website: https://mostateparks.com/location/56464/store

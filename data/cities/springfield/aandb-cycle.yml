@@ -1,11 +1,11 @@
 id: 514880153
-type: way
+type: node
 latitude: 37.14823
 longitude: -93.27756
 postcode: ""
 city: Springfield
-street: "South National Avenue"
-housenumber: 3620
+street: South National Avenue
+housenumber: "3620"
 phone: ""
 opening_hours: ""
 website: ""

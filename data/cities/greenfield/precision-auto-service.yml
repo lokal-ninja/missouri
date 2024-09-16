@@ -1,11 +1,11 @@
 id: 907194376
-type: way
+type: node
 latitude: 37.42268
 longitude: -93.84044
 postcode: ""
 city: Greenfield
-street: "N Grand Street"
-housenumber: 309
+street: N Grand Street
+housenumber: "309"
 phone: ""
 opening_hours: ""
 website: ""

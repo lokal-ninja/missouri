@@ -1,11 +1,11 @@
 id: 148589344
-type: way
+type: node
 latitude: 38.96706
 longitude: -92.34912
 postcode: "65203"
 city: Columbia
-street: "Business Loop 70 West"
-housenumber: 807
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Sa 09:00-20:00, Su 10:00-19:00"
-website: "https://stores.aldi.us/mo/columbia/807-business-loop-70-west"
+street: Business Loop 70 West
+housenumber: "807"
+phone: +1 855-955-2534
+opening_hours: Mo-Sa 09:00-20:00, Su 10:00-19:00
+website: https://stores.aldi.us/mo/columbia/807-business-loop-70-west

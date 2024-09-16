@@ -1,11 +1,11 @@
 id: 343825839
-type: way
+type: node
 latitude: 39.04237
 longitude: -94.37335
 postcode: "64055"
 city: Independence
-street: "South Bass Pro Drive"
-housenumber: 4300
+street: South Bass Pro Drive
+housenumber: "4300"
 phone: ""
 opening_hours: ""
 website: ""

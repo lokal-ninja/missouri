@@ -1,11 +1,11 @@
 id: 551160036
-type: way
+type: node
 latitude: 40.18137
 longitude: -92.57152
 postcode: "63501"
 city: Kirksville
-street: "South Baltimore Street"
-housenumber: 1615
+street: South Baltimore Street
+housenumber: "1615"
 phone: ""
-opening_hours: "08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/mo/kirksville/2886"
+opening_hours: 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/mo/kirksville/2886

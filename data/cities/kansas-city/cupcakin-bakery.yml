@@ -1,11 +1,11 @@
 id: 498636082
-type: way
+type: node
 latitude: 39.09874
 longitude: -94.55437
 postcode: "64127"
 city: Kansas City
-street: "East 12th Street"
-housenumber: 2313
+street: East 12th Street
+housenumber: "2313"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 677186080
-type: way
+type: node
 latitude: 37.95996
 longitude: -91.76637
 postcode: "65401"
 city: Rolla
-street: "North Bishop Avenue"
-housenumber: 1906
+street: North Bishop Avenue
+housenumber: "1906"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

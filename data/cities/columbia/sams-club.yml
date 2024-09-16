@@ -1,11 +1,11 @@
 id: 158533845
-type: way
+type: node
 latitude: 38.95205
 longitude: -92.29595
 postcode: "65201"
 city: Columbia
-street: "Conley Road"
-housenumber: 101
-phone: "+1 573-875-2979"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/columbia-mo-sams-club/8163"
+street: Conley Road
+housenumber: "101"
+phone: +1 573-875-2979
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/columbia-mo-sams-club/8163

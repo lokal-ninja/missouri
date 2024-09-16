@@ -1,11 +1,11 @@
 id: 297261496
-type: way
+type: node
 latitude: 39.21713
 longitude: -94.47683
 postcode: "64068"
 city: Pleasant Valley
-street: "Northeast Pleasant Valley Road"
-housenumber: 8600
-phone: "+1-816-415-2279"
-opening_hours: "24/7"
-website: "https://locations.quiktrip.com/mo/pleasant-valley/8600-pleasant-valley-rd"
+street: Northeast Pleasant Valley Road
+housenumber: "8600"
+phone: +1-816-415-2279
+opening_hours: 24/7
+website: https://locations.quiktrip.com/mo/pleasant-valley/8600-pleasant-valley-rd

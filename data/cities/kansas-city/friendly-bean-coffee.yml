@@ -1,11 +1,11 @@
 id: 195527084
-type: way
+type: node
 latitude: 39.24676
 longitude: -94.57484
 postcode: "64155"
 city: Kansas City
-street: "Northeast Barry Road"
-housenumber: 420
+street: Northeast Barry Road
+housenumber: "420"
 phone: ""
 opening_hours: ""
 website: ""

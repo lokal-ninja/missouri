@@ -1,11 +1,11 @@
 id: 593197919
-type: way
+type: node
 latitude: 38.96316
 longitude: -92.30977
-postcode: "65201-5559"
+postcode: 65201-5559
 city: Columbia
-street: "Business Loop 70 East"
-housenumber: 1900
-phone: "+1 573-449-7277"
-opening_hours: "Mo-Sa 07:30-20:00; Su 09:00-18:00"
+street: Business Loop 70 East
+housenumber: "1900"
+phone: +1 573-449-7277
+opening_hours: Mo-Sa 07:30-20:00; Su 09:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 733691868
-type: way
+type: node
 latitude: 38.51429
 longitude: -90.33941
 postcode: "63123"
 city: Saint Louis
-street: "South Towne Square"
-housenumber: 11185
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/mo/st.-louis/11185-s-towne-square"
+street: South Towne Square
+housenumber: "11185"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/mo/st.-louis/11185-s-towne-square

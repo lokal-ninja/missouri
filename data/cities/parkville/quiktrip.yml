@@ -1,11 +1,11 @@
 id: 512155038
-type: way
+type: node
 latitude: 39.20982
 longitude: -94.68032
 postcode: "64152"
 city: Parkville
-street: "MO 45"
-housenumber: 8601
+street: MO 45
+housenumber: "8601"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

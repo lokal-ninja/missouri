@@ -4,8 +4,8 @@ latitude: 37.20722
 longitude: -93.29201
 postcode: "65806"
 city: Springfield
-street: "East Walnut Street"
-housenumber: 205
-phone: "+1-417-831-3570"
-opening_hours: "Tu-Fr 07:00-17:00; Sa 07:30-16:00"
+street: East Walnut Street
+housenumber: "205"
+phone: +1-417-831-3570
+opening_hours: Tu-Fr 07:00-17:00; Sa 07:30-16:00
 website: ""

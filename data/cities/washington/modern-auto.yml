@@ -1,11 +1,11 @@
 id: 477416949
-type: way
+type: node
 latitude: 38.54287
 longitude: -91.02349
 postcode: "63090"
 city: Washington
-street: "Highway 100"
-housenumber: 6224
+street: Highway 100
+housenumber: "6224"
 phone: ""
 opening_hours: ""
 website: ""

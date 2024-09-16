@@ -1,11 +1,11 @@
 id: 245885687
-type: way
+type: node
 latitude: 38.43751
 longitude: -90.37859
 postcode: "63010"
 city: Arnold
-street: "Michigan Avenue"
-housenumber: 2201
-phone: "+1 636-282-0297"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1514/arnold-mo/whats-new"
+street: Michigan Avenue
+housenumber: "2201"
+phone: +1 636-282-0297
+opening_hours: 24/7
+website: https://www.walmart.com/store/1514/arnold-mo/whats-new

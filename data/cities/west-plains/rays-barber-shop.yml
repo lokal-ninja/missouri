@@ -1,11 +1,11 @@
 id: 470806082
-type: way
+type: node
 latitude: 36.73064
 longitude: -91.86065
 postcode: "65775"
 city: West Plains
-street: "North Minnesota Avenue"
-housenumber: 301
-phone: "+1-417-256-7847"
-opening_hours: "Mo-Fr 09:00-17:00"
+street: North Minnesota Avenue
+housenumber: "301"
+phone: +1-417-256-7847
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 556376171
-type: way
+type: node
 latitude: 39.12335
 longitude: -93.19488
 postcode: "65340"
 city: Marshall
-street: "East Eastwood Street"
-housenumber: 121
+street: East Eastwood Street
+housenumber: "121"
 phone: ""
-opening_hours: "06:00-23:00"
+opening_hours: 06:00-23:00
 website: ""

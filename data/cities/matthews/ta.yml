@@ -1,11 +1,11 @@
 id: 226181185
-type: way
+type: node
 latitude: 36.75794
 longitude: -89.53487
 postcode: "63867"
 city: Matthews
-street: "State Highway 80"
-housenumber: 854
+street: State Highway 80
+housenumber: "854"
 phone: ""
 opening_hours: ""
 website: ""

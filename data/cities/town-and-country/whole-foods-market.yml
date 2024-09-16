@@ -1,11 +1,11 @@
 id: 365922270
-type: way
+type: node
 latitude: 38.62177
 longitude: -90.51575
 postcode: "63017"
 city: Town and Country
-street: "Town & Country Crossing Drive"
-housenumber: 1160
-phone: "+1 636-527-1160"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/townandcountry"
+street: Town & Country Crossing Drive
+housenumber: "1160"
+phone: +1 636-527-1160
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.wholefoodsmarket.com/stores/townandcountry

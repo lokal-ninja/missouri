@@ -1,11 +1,11 @@
 id: 192382538
-type: way
+type: node
 latitude: 39.08985
 longitude: -94.57284
 postcode: "64108"
 city: Kansas City
-street: "East 19th Street"
-housenumber: 901
+street: East 19th Street
+housenumber: "901"
 phone: ""
 opening_hours: ""
 website: ""

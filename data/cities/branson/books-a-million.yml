@@ -1,11 +1,11 @@
 id: 777207475
-type: way
+type: node
 latitude: 36.66822
 longitude: -93.22523
 postcode: "65616"
 city: Branson
-street: "Branson Hills Parkway"
-housenumber: 985
+street: Branson Hills Parkway
+housenumber: "985"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 469420695
-type: way
+type: node
 latitude: 36.7318
 longitude: -91.86311
 postcode: "65775"
 city: West Plains
-street: "West Broadway Street"
-housenumber: 1017
-phone: "+1-417-256-9582"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: West Broadway Street
+housenumber: "1017"
+phone: +1-417-256-9582
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

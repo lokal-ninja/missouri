@@ -1,11 +1,11 @@
 id: 263694681
-type: way
+type: node
 latitude: 36.64438
 longitude: -93.21592
 postcode: "65616"
 city: Branson
-street: "East Main Street"
-housenumber: 123
-phone: "+1 417 337 7586"
+street: East Main Street
+housenumber: "123"
+phone: +1 417 337 7586
 opening_hours: ""
-website: "http://plumbazaarbeads.com/branson.html"
+website: http://plumbazaarbeads.com/branson.html

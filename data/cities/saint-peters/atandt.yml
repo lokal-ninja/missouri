@@ -1,11 +1,11 @@
 id: 548454122
-type: way
+type: node
 latitude: 38.79194
 longitude: -90.62418
 postcode: "63376"
 city: Saint Peters
-street: "Mid Rivers Mall Drive"
-housenumber: 324
-phone: "+1 636-387-7080"
-opening_hours: "Mo-Sa 09:00-20:00; Su 11:00-18:00"
-website: "https://www.att.com/stores/missouri/st-peters/122337"
+street: Mid Rivers Mall Drive
+housenumber: "324"
+phone: +1 636-387-7080
+opening_hours: Mo-Sa 09:00-20:00; Su 11:00-18:00
+website: https://www.att.com/stores/missouri/st-peters/122337

@@ -1,11 +1,11 @@
 id: 672500704
-type: way
+type: node
 latitude: 39.24166
 longitude: -94.45406
 postcode: "64068"
 city: Liberty
-street: "South Stewart Road"
-housenumber: 257
-phone: "+1 816-415-3900"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
+street: South Stewart Road
+housenumber: "257"
+phone: +1 816-415-3900
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
 website: ""

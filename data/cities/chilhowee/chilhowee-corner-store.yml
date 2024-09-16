@@ -1,11 +1,11 @@
 id: 755570409
-type: way
+type: node
 latitude: 38.58888
 longitude: -93.85539
 postcode: "64733"
 city: Chilhowee
-street: "East Walnut Street"
-housenumber: 100
-phone: "+1-660-678-2018"
-opening_hours: "Mo-Sa 07:30-19:30; Su 09:00-17:00"
-website: "https://www.facebook.com/chilhoweecornerstore/"
+street: East Walnut Street
+housenumber: "100"
+phone: +1-660-678-2018
+opening_hours: Mo-Sa 07:30-19:30; Su 09:00-17:00
+website: https://www.facebook.com/chilhoweecornerstore/

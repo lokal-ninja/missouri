@@ -1,11 +1,11 @@
 id: 504843750
-type: way
+type: node
 latitude: 38.55287
 longitude: -91.0113
 postcode: "63090"
 city: Washington
-street: "East 8th Street"
-housenumber: 305
+street: East 8th Street
+housenumber: "305"
 phone: ""
 opening_hours: ""
 website: ""

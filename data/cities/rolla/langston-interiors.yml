@@ -1,11 +1,11 @@
 id: 674181638
-type: way
+type: node
 latitude: 37.94954
 longitude: -91.77169
 postcode: "65401"
 city: Rolla
-street: "North Pine Street"
-housenumber: 713
+street: North Pine Street
+housenumber: "713"
 phone: ""
 opening_hours: ""
-website: "https://www.facebook.com/LangstonInteriorsIncRedDoor2/"
+website: https://www.facebook.com/LangstonInteriorsIncRedDoor2/

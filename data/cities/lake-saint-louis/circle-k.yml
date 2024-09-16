@@ -1,11 +1,11 @@
 id: 681227487
-type: way
+type: node
 latitude: 38.80279
 longitude: -90.76915
 postcode: "63367"
 city: Lake Saint Louis
-street: "Lake Saint Louis Boulevard"
-housenumber: 1001
+street: Lake Saint Louis Boulevard
+housenumber: "1001"
 phone: ""
 opening_hours: ""
 website: ""

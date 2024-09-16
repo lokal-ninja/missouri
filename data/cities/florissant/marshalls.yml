@@ -1,11 +1,11 @@
 id: 313031407
-type: way
+type: node
 latitude: 38.80586
 longitude: -90.30161
 postcode: "63033"
 city: Florissant
-street: "New Halls Ferry Road"
-housenumber: 13955
+street: New Halls Ferry Road
+housenumber: "13955"
 phone: ""
-opening_hours: "Mo-Th 09:30-21:30; Fr,Sa 09:30-22:00; Su 10:00-20:00"
+opening_hours: Mo-Th 09:30-21:30; Fr,Sa 09:30-22:00; Su 10:00-20:00
 website: ""

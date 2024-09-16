@@ -1,11 +1,11 @@
 id: 488038771
-type: way
+type: node
 latitude: 38.50465
 longitude: -90.66167
 postcode: "63025"
 city: Eureka
-street: "West 5th Street"
-housenumber: 1699
+street: West 5th Street
+housenumber: "1699"
 phone: ""
 opening_hours: ""
 website: ""

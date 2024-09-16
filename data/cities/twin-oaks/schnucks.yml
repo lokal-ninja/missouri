@@ -1,11 +1,11 @@
 id: 552405559
-type: way
+type: node
 latitude: 38.56946
 longitude: -90.49804
 postcode: "63021"
 city: Twin Oaks
-street: "Big Bend Road"
-housenumber: 1393
-phone: "636-225-3777"
-opening_hours: "24/7"
-website: "https://www.schnucks.com/stores/store.asp?store=173"
+street: Big Bend Road
+housenumber: "1393"
+phone: 636-225-3777
+opening_hours: 24/7
+website: https://www.schnucks.com/stores/store.asp?store=173

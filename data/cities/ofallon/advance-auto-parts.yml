@@ -1,11 +1,11 @@
 id: 666011795
-type: way
+type: node
 latitude: 38.79326
 longitude: -90.69906
 postcode: "63366"
 city: O'Fallon
-street: "Highway K"
-housenumber: 1371
-phone: "636-379-1505"
+street: Highway K
+housenumber: "1371"
+phone: 636-379-1505
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/mo/o-fallon/1371-highway-k"
+website: https://stores.advanceautoparts.com/mo/o-fallon/1371-highway-k

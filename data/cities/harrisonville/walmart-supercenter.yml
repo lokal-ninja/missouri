@@ -1,11 +1,11 @@
 id: 531130284
-type: way
+type: node
 latitude: 38.66685
 longitude: -94.3688
 postcode: "64701"
 city: Harrisonville
-street: "Missouri 291"
-housenumber: 1700
-phone: "+1 816-884-5635"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/96/harrisonville-mo/whats-new"
+street: Missouri 291
+housenumber: "1700"
+phone: +1 816-884-5635
+opening_hours: 24/7
+website: https://www.walmart.com/store/96/harrisonville-mo/whats-new

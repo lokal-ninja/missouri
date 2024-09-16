@@ -1,11 +1,11 @@
 id: 525018372
-type: way
+type: node
 latitude: 38.55103
 longitude: -90.49565
 postcode: "63088"
 city: Valley Park
-street: "Vance Road"
-housenumber: 7
+street: Vance Road
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://benchmarkautorepair.com/"
+website: https://benchmarkautorepair.com/

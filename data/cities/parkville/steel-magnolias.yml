@@ -1,11 +1,11 @@
 id: 370818317
-type: way
+type: node
 latitude: 39.18983
 longitude: -94.68709
 postcode: "64152"
 city: Parkville
-street: "W Mill Street"
-housenumber: 106
+street: W Mill Street
+housenumber: "106"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 604019916
-type: way
+type: node
 latitude: 39.27282
 longitude: -93.97049
 postcode: "64085"
 city: Richmond
-street: "Johnny Walker Lane"
-housenumber: 513
+street: Johnny Walker Lane
+housenumber: "513"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/mo/richmond/7219/"
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/mo/richmond/7219/

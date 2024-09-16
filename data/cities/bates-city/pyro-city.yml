@@ -1,11 +1,11 @@
 id: 755570229
-type: way
+type: node
 latitude: 39.01065
 longitude: -94.07287
 postcode: ""
 city: Bates City
-street: "East Old US 40 Highway"
-housenumber: 102
+street: East Old US 40 Highway
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 542192574
-type: way
+type: node
 latitude: 38.43102
 longitude: -90.97036
 postcode: "63084"
 city: Union
-street: "Denmark Road"
-housenumber: 1550
-phone: "+1 636-744-1094"
-opening_hours: "Mo-Sa 07:30-19:30; Su 09:00-17:00"
+street: Denmark Road
+housenumber: "1550"
+phone: +1 636-744-1094
+opening_hours: Mo-Sa 07:30-19:30; Su 09:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1231048085
-type: way
+type: node
 latitude: 40.48688
 longitude: -94.40985
 postcode: "64456"
 city: Grant City
-street: "East 2nd Street"
-housenumber: 400
+street: East 2nd Street
+housenumber: "400"
 phone: ""
 opening_hours: ""
 website: ""

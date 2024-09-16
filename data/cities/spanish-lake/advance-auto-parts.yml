@@ -1,11 +1,11 @@
 id: 345402004
-type: way
+type: node
 latitude: 38.77146
 longitude: -90.22003
 postcode: "63138"
 city: Spanish Lake
-street: "Bellefontaine Road"
-housenumber: 11050
-phone: "(314) 867-4264"
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:00-21:00"
-website: "https://stores.advanceautoparts.com/mo/saint-louis/11050-bellefontaine-rd"
+street: Bellefontaine Road
+housenumber: "11050"
+phone: (314) 867-4264
+opening_hours: Mo-Sa 07:30-21:00; Su 08:00-21:00
+website: https://stores.advanceautoparts.com/mo/saint-louis/11050-bellefontaine-rd

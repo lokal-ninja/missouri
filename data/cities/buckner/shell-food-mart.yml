@@ -1,11 +1,11 @@
 id: 543020806
-type: way
+type: node
 latitude: 39.13762
 longitude: -94.20039
 postcode: "64016"
 city: Buckner
-street: "South Central Street"
-housenumber: 10
+street: South Central Street
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

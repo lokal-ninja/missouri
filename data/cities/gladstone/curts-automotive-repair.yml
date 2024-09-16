@@ -1,11 +1,11 @@
 id: 330173508
-type: way
+type: node
 latitude: 39.22378
 longitude: -94.57478
 postcode: "64118"
 city: Gladstone
-street: "North Locust Street"
-housenumber: 7101
+street: North Locust Street
+housenumber: "7101"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 38.59307
 longitude: -90.22477
 postcode: "63118"
 city: St. Louis
-street: "2310 Cherokee Street"
-housenumber: 
-phone: "(314) 339-5809"
+street: 2310 Cherokee Street
+housenumber: ""
+phone: (314) 339-5809
 opening_hours: ""
-website: "http://www.ruby-francis.com/"
+website: http://www.ruby-francis.com/

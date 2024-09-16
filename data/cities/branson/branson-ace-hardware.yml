@@ -1,11 +1,11 @@
 id: 522593297
-type: way
+type: node
 latitude: 36.64288
 longitude: -93.18993
 postcode: "65616"
 city: Branson
-street: "Cross Creek Boulevard"
-housenumber: 190
-phone: "+1 417-320-6218"
-opening_hours: "Mo-Sa 07:00-19:00; Su 09:00-17:00"
+street: Cross Creek Boulevard
+housenumber: "190"
+phone: +1 417-320-6218
+opening_hours: Mo-Sa 07:00-19:00; Su 09:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 538351520
-type: way
+type: node
 latitude: 39.10821
 longitude: -94.58067
 postcode: "64106"
 city: Kansas City
-street: "Grand Boulevard"
-housenumber: 516
-phone: "+1-816-997-9797"
+street: Grand Boulevard
+housenumber: "516"
+phone: +1-816-997-9797
 opening_hours: ""
-website: "https://www.vagaro.com/thebarrelhousebarberlouge"
+website: https://www.vagaro.com/thebarrelhousebarberlouge

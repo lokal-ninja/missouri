@@ -1,11 +1,11 @@
 id: 724636946
-type: way
+type: node
 latitude: 38.62801
 longitude: -90.25682
 postcode: "63110"
 city: St. Louis
-street: "Arco Avenue"
-housenumber: 4301
+street: Arco Avenue
+housenumber: "4301"
 phone: ""
 opening_hours: ""
 website: ""

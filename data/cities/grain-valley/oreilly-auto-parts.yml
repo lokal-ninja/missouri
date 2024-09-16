@@ -1,11 +1,11 @@
 id: 1160766634
-type: way
+type: node
 latitude: 39.00962
 longitude: -94.1979
 postcode: "64029"
 city: Grain Valley
-street: "South Buckner Tarsney Road /Missouri BB Highway"
-housenumber: 115
+street: South Buckner Tarsney Road /Missouri BB Highway
+housenumber: "115"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/mo/grainvalley/autoparts-4640.html"
+website: https://locations.oreillyauto.com/mo/grainvalley/autoparts-4640.html

@@ -1,11 +1,11 @@
 id: 1227597610
-type: way
+type: node
 latitude: 38.65824
 longitude: -90.55354
 postcode: "63017"
 city: Chesterfield
-street: "Hilltown Village Center"
-housenumber: 177
-phone: "+1-636-778-1369"
-opening_hours: "Mo-We 10:00-18:00, Th 10:00-19:00, Fr 10:00-18:00, Sa open by appointment"
-website: "https://www.primeaestheticstl.com/"
+street: Hilltown Village Center
+housenumber: "177"
+phone: +1-636-778-1369
+opening_hours: Mo-We 10:00-18:00, Th 10:00-19:00, Fr 10:00-18:00, Sa open "by appointment"
+website: https://www.primeaestheticstl.com/

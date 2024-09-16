@@ -1,11 +1,11 @@
 id: 500186860
-type: way
+type: node
 latitude: 38.54986
 longitude: -90.49302
 postcode: "63088"
 city: Valley Park
-street: "Marshall Road"
-housenumber: 38
+street: Marshall Road
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

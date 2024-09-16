@@ -1,11 +1,11 @@
 id: 564806211
-type: way
+type: node
 latitude: 38.81329
 longitude: -94.51798
 postcode: "64012"
 city: Belton
-street: "East North Avenue"
-housenumber: 1011
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/mo/belton/1011-e-north-avenue"
+street: East North Avenue
+housenumber: "1011"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/mo/belton/1011-e-north-avenue

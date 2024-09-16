@@ -1,11 +1,11 @@
 id: 918034580
-type: way
+type: node
 latitude: 38.15998
 longitude: -92.68902
 postcode: "65079"
 city: Sunrise Beach
-street: "Shawnee Court"
-housenumber: 35
-phone: "+1-573-374-7606"
-opening_hours: "Su-Th 06:00-21:00; Fr-Sa 06:00-23:00"
+street: Shawnee Court
+housenumber: "35"
+phone: +1-573-374-7606
+opening_hours: Su-Th 06:00-21:00; Fr-Sa 06:00-23:00
 website: ""

@@ -1,11 +1,11 @@
 id: 451190700
-type: way
+type: node
 latitude: 39.71013
 longitude: -91.35682
 postcode: "63401"
 city: Hannibal
-street: "Center Street"
-housenumber: 219
-phone: "(573) 248-8272"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-13:00; Su closed"
-website: "https://ragstorichespawnshop.com/"
+street: Center Street
+housenumber: "219"
+phone: (573) 248-8272
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-13:00; Su closed
+website: https://ragstorichespawnshop.com/

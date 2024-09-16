@@ -4,8 +4,9 @@ latitude: 39.36877
 longitude: -94.36458
 postcode: "64060"
 city: Kearney
-street: "W 92Hwy"
-housenumber: 194
-phone: "816-628-4827"
-opening_hours: "Mo-We 08:00-17:00; Th 07:30-20:00; Fr 07:30-17:00; Sa 06:30-12:00; Su off"
+street: W 92Hwy
+housenumber: "194"
+phone: 816-628-4827
+opening_hours: Mo-We 08:00-17:00; Th 07:30-20:00; Fr 07:30-17:00; Sa 06:30-12:00;
+    Su off
 website: ""

@@ -1,11 +1,11 @@
 id: 546163652
-type: way
+type: node
 latitude: 38.15066
 longitude: -90.575
 postcode: "63020"
 city: De Soto
-street: "State Route 21"
-housenumber: 12862
-phone: "+1 636-586-6878"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/152/de-soto-mo/whats-new"
+street: State Route 21
+housenumber: "12862"
+phone: +1 636-586-6878
+opening_hours: 24/7
+website: https://www.walmart.com/store/152/de-soto-mo/whats-new

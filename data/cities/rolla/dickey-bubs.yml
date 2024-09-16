@@ -1,11 +1,11 @@
 id: 508257916
-type: way
+type: node
 latitude: 37.95231
 longitude: -91.75101
 postcode: "65401"
 city: Rolla
-street: "Forum Drive"
-housenumber: 1040
-phone: "+1-573-426-3900"
-opening_hours: "Mo-Sa 08:00-20:00; Su 9:00-18:00"
-website: "https://dickeybub.net/"
+street: Forum Drive
+housenumber: "1040"
+phone: +1-573-426-3900
+opening_hours: Mo-Sa 08:00-20:00; Su 9:00-18:00
+website: https://dickeybub.net/

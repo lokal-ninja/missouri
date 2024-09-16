@@ -1,11 +1,11 @@
 id: 525710557
-type: way
+type: node
 latitude: 38.48384
 longitude: -90.73666
 postcode: "63069"
 city: Pacific
-street: "East Osage Street"
-housenumber: 410
+street: East Osage Street
+housenumber: "410"
 phone: ""
 opening_hours: ""
 website: ""

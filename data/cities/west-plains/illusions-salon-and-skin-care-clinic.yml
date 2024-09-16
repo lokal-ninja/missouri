@@ -1,11 +1,11 @@
 id: 467463328
-type: way
+type: node
 latitude: 36.72897
 longitude: -91.85289
 postcode: "65775"
 city: West Plains
-street: "Washington Avenue"
-housenumber: 114
+street: Washington Avenue
+housenumber: "114"
 phone: ""
 opening_hours: ""
 website: ""

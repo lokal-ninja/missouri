@@ -1,11 +1,11 @@
 id: 906017520
-type: way
+type: node
 latitude: 38.89067
 longitude: -94.47719
 postcode: "64149"
 city: Kansas City
-street: "Raytown Road"
-housenumber: 12700
+street: Raytown Road
+housenumber: "12700"
 phone: ""
 opening_hours: ""
 website: ""

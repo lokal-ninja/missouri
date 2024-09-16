@@ -1,11 +1,11 @@
 id: 635115769
-type: way
+type: node
 latitude: 37.03237
 longitude: -94.5162
 postcode: "64804"
 city: Joplin
-street: "Hearnes Boulevard"
-housenumber: 5014
+street: Hearnes Boulevard
+housenumber: "5014"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00"
+opening_hours: Mo-Sa 09:00-18:00
 website: ""

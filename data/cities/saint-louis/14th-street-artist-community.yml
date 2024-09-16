@@ -4,8 +4,8 @@ latitude: 38.65056
 longitude: -90.19749
 postcode: "63106"
 city: Saint Louis
-street: "14th Street"
-housenumber: 2701
+street: 14th Street
+housenumber: "2701"
 phone: ""
-opening_hours: "We 12:00-16:00; Fr,Sa 12:00-20:00"
+opening_hours: We 12:00-16:00; Fr,Sa 12:00-20:00
 website: ""

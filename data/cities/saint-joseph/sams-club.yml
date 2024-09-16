@@ -1,11 +1,11 @@
 id: 343612545
-type: way
+type: node
 latitude: 39.81111
 longitude: -94.8127
 postcode: "64506"
 city: Saint Joseph
-street: "North Belt Highway"
-housenumber: 5201
-phone: "+1 816-279-2192"
-opening_hours: "Su-Fr 10:00-20:00; Sa 09:00-20:00"
-website: "https://www.samsclub.com/club/st-joseph-mo-sams-club/4920"
+street: North Belt Highway
+housenumber: "5201"
+phone: +1 816-279-2192
+opening_hours: Su-Fr 10:00-20:00; Sa 09:00-20:00
+website: https://www.samsclub.com/club/st-joseph-mo-sams-club/4920

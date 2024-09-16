@@ -1,11 +1,11 @@
 id: 510029163
-type: way
+type: node
 latitude: 37.64475
 longitude: -92.66858
 postcode: "65536"
 city: Lebanon
-street: "Morgan Road"
-housenumber: 
+street: Morgan Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 296539778
-type: way
+type: node
 latitude: 38.56915
 longitude: -90.49545
 postcode: "63021"
 city: Twin Oaks
-street: "Meramec Station Road"
-housenumber: 1144
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/mo/twin-oaks/1144-meramec-station-road"
+street: Meramec Station Road
+housenumber: "1144"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/mo/twin-oaks/1144-meramec-station-road

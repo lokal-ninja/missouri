@@ -1,11 +1,11 @@
 id: 669256595
-type: way
+type: node
 latitude: 37.64947
 longitude: -92.66614
 postcode: "65536"
 city: Lebanon
-street: "Evergreen Parkway"
-housenumber: 2400
+street: Evergreen Parkway
+housenumber: "2400"
 phone: ""
 opening_hours: ""
-website: "https://www.sakelarisbuickgmcoflebanon.com/"
+website: https://www.sakelarisbuickgmcoflebanon.com/

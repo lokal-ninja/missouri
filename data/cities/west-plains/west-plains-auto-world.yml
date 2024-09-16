@@ -1,11 +1,11 @@
 id: 473600288
-type: way
+type: node
 latitude: 36.71843
 longitude: -91.8719
 postcode: "65775"
 city: West Plains
-street: "Preacher Roe Boulevard"
-housenumber: 1252
-phone: "(417) 256-0605"
+street: Preacher Roe Boulevard
+housenumber: "1252"
+phone: (417) 256-0605
 opening_hours: ""
-website: "https://westplainsautoworld.com/"
+website: https://westplainsautoworld.com/

@@ -1,11 +1,11 @@
 id: 1011316885
-type: way
+type: node
 latitude: 39.01383
 longitude: -94.58985
 postcode: "64113"
 city: Kansas City
-street: "West 63rd Street"
-housenumber: 105
+street: West 63rd Street
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 486024085
-type: way
+type: node
 latitude: 38.78952
 longitude: -94.26132
 postcode: "64080"
 city: Pleasant Hill
-street: "North 7 Highway"
-housenumber: 310
-phone: "(816) 987-5317"
-opening_hours: "24/7"
-website: "https://www.caseys.com/general-store/1785/mo/pleasant-hill/310-n-hwy-7"
+street: North 7 Highway
+housenumber: "310"
+phone: (816) 987-5317
+opening_hours: 24/7
+website: https://www.caseys.com/general-store/1785/mo/pleasant-hill/310-n-hwy-7

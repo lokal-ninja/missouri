@@ -1,11 +1,11 @@
 id: 621556466
-type: way
+type: node
 latitude: 38.79265
 longitude: -90.61877
 postcode: "63376"
 city: Saint Peters
-street: "Mid Rivers Center"
-housenumber: 236
-phone: "+1 636-397-8336"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.platosclosetstpeters.com/"
+street: Mid Rivers Center
+housenumber: "236"
+phone: +1 636-397-8336
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.platosclosetstpeters.com/

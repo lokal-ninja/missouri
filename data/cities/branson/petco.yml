@@ -1,11 +1,11 @@
 id: 777207476
-type: way
+type: node
 latitude: 36.66801
 longitude: -93.22591
 postcode: "65616"
 city: Branson
-street: "Branson Hills Parkway"
-housenumber: 993
-phone: "+1 417-334-7143"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/mo/branson/pet-supplies-branson-mo-1669.html"
+street: Branson Hills Parkway
+housenumber: "993"
+phone: +1 417-334-7143
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/mo/branson/pet-supplies-branson-mo-1669.html

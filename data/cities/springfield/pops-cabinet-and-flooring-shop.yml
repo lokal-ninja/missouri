@@ -4,8 +4,8 @@ latitude: 37.22652
 longitude: -93.31214
 postcode: "65802"
 city: Springfield
-street: "West Division Street"
-housenumber: 1601
-phone: "+1 417-655-1563"
-opening_hours: "Mo-Fr 09:00-17:30 || Sa 09:00-12:00 || Su closed"
-website: "https://www.shopwithpops.com"
+street: West Division Street
+housenumber: "1601"
+phone: +1 417-655-1563
+opening_hours: Mo-Fr 09:00-17:30 || Sa 09:00-12:00 || Su closed
+website: https://www.shopwithpops.com

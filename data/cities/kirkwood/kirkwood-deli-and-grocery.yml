@@ -1,11 +1,11 @@
 id: 380290479
-type: way
+type: node
 latitude: 38.58863
 longitude: -90.4157
 postcode: "63122"
 city: Kirkwood
-street: "West Essex Avenue"
-housenumber: 500
-phone: "+1 314 966 6699"
+street: West Essex Avenue
+housenumber: "500"
+phone: +1 314 966 6699
 opening_hours: ""
-website: "http://www.kirkwood-deli.com/"
+website: http://www.kirkwood-deli.com/

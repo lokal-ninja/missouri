@@ -1,11 +1,11 @@
 id: 160365941
-type: way
+type: node
 latitude: 38.79928
 longitude: -90.62616
 postcode: "63376"
 city: Saint Peters
-street: "Suemandy Drive"
-housenumber: 5881
-phone: "+1 636-397-2280"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://local.biglots.com/mo/saint-peters/1970"
+street: Suemandy Drive
+housenumber: "5881"
+phone: +1 636-397-2280
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://local.biglots.com/mo/saint-peters/1970

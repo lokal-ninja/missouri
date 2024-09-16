@@ -1,11 +1,11 @@
 id: 547563189
-type: way
+type: node
 latitude: 38.79951
 longitude: -90.59518
 postcode: "63376"
 city: Saint Peters
-street: "North Service Road"
-housenumber: 4740
-phone: "+1 636-939-1600"
-opening_hours: "Mo,We 09:00-21:00; Tu,Th,Sa 09:00-19:00; Fr 09:00-20:30; Su off"
-website: "https://www.carnection.com/"
+street: North Service Road
+housenumber: "4740"
+phone: +1 636-939-1600
+opening_hours: Mo,We 09:00-21:00; Tu,Th,Sa 09:00-19:00; Fr 09:00-20:30; Su off
+website: https://www.carnection.com/

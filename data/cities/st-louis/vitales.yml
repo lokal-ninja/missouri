@@ -1,11 +1,11 @@
 id: 924577130
-type: way
+type: node
 latitude: 38.61482
 longitude: -90.27297
 postcode: "63110"
 city: St. Louis
-street: "Marconi Avenue"
-housenumber: 2130
-phone: "+1-314-664-6665"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 08:00-16:00; Su closed"
-website: "http://vitalesbakery.com/"
+street: Marconi Avenue
+housenumber: "2130"
+phone: +1-314-664-6665
+opening_hours: Mo-Fr 09:00-17:00; Sa 08:00-16:00; Su closed
+website: http://vitalesbakery.com/

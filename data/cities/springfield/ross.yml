@@ -4,8 +4,8 @@ latitude: 37.15371
 longitude: -93.26072
 postcode: "65804"
 city: Springfield
-street: "South Glenstone Avenue"
-housenumber: 3300
-phone: "+1 417-877-0666"
-opening_hours: "Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-22:30"
+street: South Glenstone Avenue
+housenumber: "3300"
+phone: +1 417-877-0666
+opening_hours: Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-22:30
 website: ""

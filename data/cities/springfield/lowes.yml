@@ -1,11 +1,11 @@
 id: 161787380
-type: way
+type: node
 latitude: 37.25228
 longitude: -93.3144
 postcode: "65803"
 city: Springfield
-street: "West Norton Road"
-housenumber: 1707
-phone: "+1 417-833-2000"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/mo-springfield/0733"
+street: West Norton Road
+housenumber: "1707"
+phone: +1 417-833-2000
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/mo-springfield/0733

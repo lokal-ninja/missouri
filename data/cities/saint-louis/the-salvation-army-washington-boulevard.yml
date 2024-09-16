@@ -1,11 +1,11 @@
 id: 662707080
-type: way
+type: node
 latitude: 38.6361
 longitude: -90.22023
 postcode: "63103"
 city: Saint Louis
-street: "Washington Boulevard"
-housenumber: 2900
+street: Washington Boulevard
+housenumber: "2900"
 phone: ""
 opening_hours: ""
 website: ""

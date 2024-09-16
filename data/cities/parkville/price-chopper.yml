@@ -1,11 +1,11 @@
 id: 195465409
-type: way
+type: node
 latitude: 39.20959
 longitude: -94.68644
 postcode: "64152"
 city: Parkville
-street: "Tom Watson Parkway"
-housenumber: 9107
+street: Tom Watson Parkway
+housenumber: "9107"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 564797521
-type: way
+type: node
 latitude: 38.81656
 longitude: -94.51645
-postcode: "64012-5104"
+postcode: 64012-5104
 city: Belton
-street: "East North Avenue"
-housenumber: 1106
-phone: "+1 816-331-3516"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/belton/1538"
+street: East North Avenue
+housenumber: "1106"
+phone: +1 816-331-3516
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/belton/1538

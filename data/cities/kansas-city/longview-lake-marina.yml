@@ -1,11 +1,11 @@
 id: 906962801
-type: way
+type: node
 latitude: 38.91819
 longitude: -94.47503
 postcode: "64134"
 city: Kansas City
-street: "Longview Road"
-housenumber: 9898
+street: Longview Road
+housenumber: "9898"
 phone: ""
 opening_hours: ""
 website: ""

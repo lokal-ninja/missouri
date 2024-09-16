@@ -1,11 +1,11 @@
 id: 264236459
-type: way
+type: node
 latitude: 36.67102
 longitude: -93.23021
 postcode: "65616"
 city: Branson
-street: "Branson Hills Parkway"
-housenumber: 1101
-phone: "+1 417-334-2137"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/4381/branson-mo/whats-new"
+street: Branson Hills Parkway
+housenumber: "1101"
+phone: +1 417-334-2137
+opening_hours: 24/7
+website: https://www.walmart.com/store/4381/branson-mo/whats-new

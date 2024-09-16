@@ -1,11 +1,11 @@
 id: 674181633
-type: way
+type: node
 latitude: 37.94927
 longitude: -91.77192
 postcode: "65401"
 city: Rolla
-street: "North Pine Street"
-housenumber: 701
+street: North Pine Street
+housenumber: "701"
 phone: ""
 opening_hours: ""
-website: "http://www.bobbysportraits.com/"
+website: http://www.bobbysportraits.com/

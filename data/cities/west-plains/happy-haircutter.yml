@@ -1,11 +1,11 @@
 id: 597935391
-type: way
+type: node
 latitude: 36.71491
 longitude: -91.8725
 postcode: "65775"
 city: West Plains
-street: "Southern Hills Center"
-housenumber: 1323
-phone: "(417) 256-3805"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://thehappyhaircutter.com/"
+street: Southern Hills Center
+housenumber: "1323"
+phone: (417) 256-3805
+opening_hours: Mo-Fr 09:00-17:00
+website: https://thehappyhaircutter.com/

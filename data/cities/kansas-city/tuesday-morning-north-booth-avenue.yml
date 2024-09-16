@@ -1,11 +1,11 @@
 id: 573371903
-type: way
+type: node
 latitude: 39.24379
 longitude: -94.4756
 postcode: "64158"
 city: Kansas City
-street: "North Booth Avenue"
-housenumber: 8365
+street: North Booth Avenue
+housenumber: "8365"
 phone: ""
 opening_hours: ""
-website: "https://www.tuesdaymorning.com/stores/mo/kansas-city/8365-n-booth-ave.html"
+website: https://www.tuesdaymorning.com/stores/mo/kansas-city/8365-n-booth-ave.html

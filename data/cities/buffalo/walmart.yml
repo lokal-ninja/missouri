@@ -1,11 +1,11 @@
 id: 679150250
-type: way
+type: node
 latitude: 37.6394
 longitude: -93.10646
 postcode: "65622"
 city: Buffalo
-street: "West Dallas Street"
-housenumber: 1250
-phone: "+1 417-345-6166"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://www.walmart.com/store/845/buffalo-mo/whats-new"
+street: West Dallas Street
+housenumber: "1250"
+phone: +1 417-345-6166
+opening_hours: Mo-Su 07:00-21:00
+website: https://www.walmart.com/store/845/buffalo-mo/whats-new

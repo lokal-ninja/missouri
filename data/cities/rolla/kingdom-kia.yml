@@ -1,11 +1,11 @@
 id: 507146290
-type: way
+type: node
 latitude: 37.97065
 longitude: -91.75998
 postcode: "65401"
 city: Rolla
-street: "North Bishop Avenue"
-housenumber: 2600
+street: North Bishop Avenue
+housenumber: "2600"
 phone: ""
 opening_hours: ""
-website: "http://www.kingdomkia.com/"
+website: http://www.kingdomkia.com/

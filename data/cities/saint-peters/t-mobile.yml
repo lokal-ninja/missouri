@@ -1,11 +1,11 @@
 id: 317828607
-type: way
+type: node
 latitude: 38.79166
 longitude: -90.62388
 postcode: "63376"
 city: Saint Peters
-street: "Mid Rivers Mall Drive"
-housenumber: 330
-phone: "+1 636-922-7566"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://www.t-mobile.com/store-locator/mo/saint-peters/mexico-mid-rivers"
+street: Mid Rivers Mall Drive
+housenumber: "330"
+phone: +1 636-922-7566
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
+website: https://www.t-mobile.com/store-locator/mo/saint-peters/mexico-mid-rivers

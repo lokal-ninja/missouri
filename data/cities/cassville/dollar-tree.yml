@@ -1,11 +1,11 @@
 id: 1095750412
-type: way
+type: node
 latitude: 36.67743
 longitude: -93.88663
 postcode: "65625"
 city: Cassville
-street: "Old Exeter Road"
-housenumber: 1015
+street: Old Exeter Road
+housenumber: "1015"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 10:00-20:00"
-website: "https://www.dollartree.com/locations/mo/cassville/6069/"
+opening_hours: Mo-Sa 08:00-21:00; Su 10:00-20:00
+website: https://www.dollartree.com/locations/mo/cassville/6069/

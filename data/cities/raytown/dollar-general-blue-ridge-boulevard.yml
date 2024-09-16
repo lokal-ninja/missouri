@@ -1,11 +1,11 @@
 id: 1229523620
-type: way
+type: node
 latitude: 39.029
 longitude: -94.43881
 postcode: ""
 city: Raytown
-street: "Blue Ridge Boulevard"
-housenumber: 5105
+street: Blue Ridge Boulevard
+housenumber: "5105"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/mo/raytown/16790"
+website: https://www.dollargeneral.com/store-directory/mo/raytown/16790

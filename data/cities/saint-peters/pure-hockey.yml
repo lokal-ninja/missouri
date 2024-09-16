@@ -1,11 +1,11 @@
 id: 621757060
-type: way
+type: node
 latitude: 38.79758
 longitude: -90.62497
 postcode: "63376"
 city: Saint Peters
-street: "Suemandy Drive"
-housenumber: 5833
-phone: "+1 636-397-6370"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-18:00; Su 10:00-17:00"
-website: "https://www.purehockey.com/store.aspx?CDT=636713877546725742&loc_id=53"
+street: Suemandy Drive
+housenumber: "5833"
+phone: +1 636-397-6370
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-18:00; Su 10:00-17:00
+website: https://www.purehockey.com/store.aspx?CDT=636713877546725742&loc_id=53

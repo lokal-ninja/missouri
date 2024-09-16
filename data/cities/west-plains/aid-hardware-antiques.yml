@@ -1,11 +1,11 @@
 id: 466682821
-type: way
+type: node
 latitude: 36.72775
 longitude: -91.85249
 postcode: "65775"
 city: West Plains
-street: "Court Square"
-housenumber: 1
-phone: "+1-417-256-6487"
-opening_hours: "Mo-Sa 08:00-17:30; Su unknown"
-website: "http://www.dtantiques.com/"
+street: Court Square
+housenumber: "1"
+phone: +1-417-256-6487
+opening_hours: Mo-Sa 08:00-17:30; Su unknown
+website: http://www.dtantiques.com/

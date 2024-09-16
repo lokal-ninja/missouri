@@ -1,11 +1,11 @@
 id: 1253644349
-type: way
+type: node
 latitude: 38.66615
 longitude: -90.60405
 postcode: "63005"
 city: Chesterfield
-street: "THF Boulevard"
-housenumber: 300
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/mo/chesterfield/300-thf-blvd"
+street: THF Boulevard
+housenumber: "300"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/mo/chesterfield/300-thf-blvd

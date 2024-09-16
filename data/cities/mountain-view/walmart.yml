@@ -1,11 +1,11 @@
 id: 601161475
-type: way
+type: node
 latitude: 37.00284
 longitude: -91.70659
 postcode: "65548"
 city: Mountain View
-street: "West Us Highway 60"
-housenumber: 101
-phone: "+1 417-934-6000"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.walmart.com/store/871/mountain-view-mo/whats-new"
+street: West Us Highway 60
+housenumber: "101"
+phone: +1 417-934-6000
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.walmart.com/store/871/mountain-view-mo/whats-new

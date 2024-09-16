@@ -1,11 +1,11 @@
 id: 298497377
-type: way
+type: node
 latitude: 38.73482
 longitude: -90.27682
 postcode: "63136"
 city: Ferguson
-street: "West Florissant Avenue"
-housenumber: 9070
+street: West Florissant Avenue
+housenumber: "9070"
 phone: ""
 opening_hours: ""
 website: ""

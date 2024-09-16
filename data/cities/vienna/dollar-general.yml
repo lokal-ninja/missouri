@@ -1,11 +1,11 @@
 id: 507425863
-type: way
+type: node
 latitude: 38.17589
 longitude: -91.94774
 postcode: "65582"
 city: Vienna
-street: "US 63"
-housenumber: 1807
+street: US 63
+housenumber: "1807"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/mo/vienna/3571"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/mo/vienna/3571

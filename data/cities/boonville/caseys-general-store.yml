@@ -1,11 +1,11 @@
 id: 554591577
-type: way
+type: node
 latitude: 38.93773
 longitude: -92.74291
 postcode: "65233"
 city: Boonville
-street: "Main Street"
-housenumber: 2450
+street: Main Street
+housenumber: "2450"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.caseys.com/general-store/3281/mo/boonville/2450-main-st"
+opening_hours: 24/7
+website: https://www.caseys.com/general-store/3281/mo/boonville/2450-main-st

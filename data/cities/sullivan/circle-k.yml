@@ -1,11 +1,11 @@
 id: 555530157
-type: way
+type: node
 latitude: 38.2237
 longitude: -91.15255
 postcode: "63080"
 city: Sullivan
-street: "S Highway 185"
-housenumber: 408
-phone: "573-468-5246"
+street: S Highway 185
+housenumber: "408"
+phone: 573-468-5246
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 563090963
-type: way
+type: node
 latitude: 38.60999
 longitude: -90.20373
 postcode: "63104"
 city: Saint Louis
-street: "South 9th Street"
-housenumber: 1801
+street: South 9th Street
+housenumber: "1801"
 phone: ""
 opening_hours: ""
 website: ""

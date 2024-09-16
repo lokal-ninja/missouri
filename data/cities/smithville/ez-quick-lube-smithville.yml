@@ -1,11 +1,11 @@
 id: 904600125
-type: way
+type: node
 latitude: 39.36916
 longitude: -94.58121
 postcode: "64089"
 city: Smithville
-street: "State Highway 92"
-housenumber: 106
+street: State Highway 92
+housenumber: "106"
 phone: "+18163432100"
 opening_hours: ""
-website: "https://www.ezquicklube.com/"
+website: https://www.ezquicklube.com/

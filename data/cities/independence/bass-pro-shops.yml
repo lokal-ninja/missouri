@@ -1,11 +1,11 @@
 id: 169488542
-type: way
+type: node
 latitude: 39.04021
 longitude: -94.37123
 postcode: "64055"
 city: Independence
-street: "Bass Pro Drive"
-housenumber: 18001
+street: Bass Pro Drive
+housenumber: "18001"
 phone: ""
 opening_hours: ""
-website: "https://www.basspro.com/webapp/wcs/stores/servlet/CFPageC?storeId=10151&catalogId=10051&langId=-1&appID=94&storeID=41&tab=3"
+website: https://www.basspro.com/webapp/wcs/stores/servlet/CFPageC?storeId=10151&catalogId=10051&langId=-1&appID=94&storeID=41&tab=3

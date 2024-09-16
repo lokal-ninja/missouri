@@ -1,11 +1,11 @@
 id: 489240831
-type: way
+type: node
 latitude: 38.8144
 longitude: -94.26535
 postcode: "64080"
 city: Pleasant Hill
-street: "North 7 Highway"
-housenumber: 2101
+street: North 7 Highway
+housenumber: "2101"
 phone: ""
 opening_hours: ""
 website: ""

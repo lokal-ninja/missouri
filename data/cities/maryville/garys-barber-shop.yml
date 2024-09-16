@@ -1,11 +1,11 @@
 id: 1103579455
-type: way
+type: node
 latitude: 40.34874
 longitude: -94.87492
 postcode: "64468"
 city: Maryville
-street: "West 4th Street"
-housenumber: 216
+street: West 4th Street
+housenumber: "216"
 phone: "+16605822432"
 opening_hours: ""
 website: ""

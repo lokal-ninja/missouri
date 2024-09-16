@@ -1,11 +1,11 @@
 id: 556351980
-type: way
+type: node
 latitude: 39.10793
 longitude: -93.21461
 postcode: "65340"
 city: Marshall
-street: "West College Street"
-housenumber: 1350
+street: West College Street
+housenumber: "1350"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 619601873
-type: way
+type: node
 latitude: 38.6571
 longitude: -90.2484
 postcode: "63113"
 city: Saint Louis
-street: "North Taylor Avenue"
-housenumber: 1416
+street: North Taylor Avenue
+housenumber: "1416"
 phone: ""
 opening_hours: ""
 website: ""

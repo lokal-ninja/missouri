@@ -1,11 +1,11 @@
 id: 1167297728
-type: way
+type: node
 latitude: 38.67471
 longitude: -90.37573
 postcode: "63132"
 city: Saint Louis
-street: "Olive Boulevard"
-housenumber: 9395
+street: Olive Boulevard
+housenumber: "9395"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-9395+OLIVE+BLVD-Olivette-MO-63132/id=6350"
+website: https://www.walgreens.com/locator/walgreens-9395+OLIVE+BLVD-Olivette-MO-63132/id=6350

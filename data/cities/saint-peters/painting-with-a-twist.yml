@@ -1,11 +1,11 @@
 id: 621757057
-type: way
+type: node
 latitude: 38.79766
 longitude: -90.62501
 postcode: "63376"
 city: Saint Peters
-street: "Suemandy Drive"
-housenumber: 5837
-phone: "+1 636-851-9463"
-opening_hours: "Tu-Sa 12:00-16:00; Su,Mo off"
-website: "https://www.paintingwithatwist.com/studio/st-peters"
+street: Suemandy Drive
+housenumber: "5837"
+phone: +1 636-851-9463
+opening_hours: Tu-Sa 12:00-16:00; Su,Mo off
+website: https://www.paintingwithatwist.com/studio/st-peters

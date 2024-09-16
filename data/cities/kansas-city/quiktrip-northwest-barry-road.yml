@@ -1,11 +1,11 @@
 id: 195123314
-type: way
+type: node
 latitude: 39.24634
 longitude: -94.66324
 postcode: ""
 city: Kansas City
-street: "Northwest Barry Road"
-housenumber: 7133
+street: Northwest Barry Road
+housenumber: "7133"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 478138663
-type: way
+type: node
 latitude: 38.52572
 longitude: -90.94621
 postcode: "63090"
 city: Washington
-street: "George Hildner Drive"
-housenumber: 215
+street: George Hildner Drive
+housenumber: "215"
 phone: ""
 opening_hours: ""
 website: ""

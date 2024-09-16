@@ -1,11 +1,11 @@
 id: 264986535
-type: way
+type: node
 latitude: 38.62723
 longitude: -90.34148
 postcode: "63144"
 city: Brentwood
-street: "Brentwood Promenade Court"
-housenumber: 48
-phone: "+1 314-963-0253"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/mo/brentwood/692/"
+street: Brentwood Promenade Court
+housenumber: "48"
+phone: +1 314-963-0253
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/mo/brentwood/692/

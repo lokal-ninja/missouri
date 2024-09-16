@@ -1,11 +1,11 @@
 id: 170014069
-type: way
+type: node
 latitude: 39.05785
 longitude: -94.41339
 postcode: "64055"
 city: Independence
-street: "South Noland Road"
-housenumber: 3411
-phone: "+1 816-252-0065"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/6500/independence-mo/whats-new"
+street: South Noland Road
+housenumber: "3411"
+phone: +1 816-252-0065
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/6500/independence-mo/whats-new

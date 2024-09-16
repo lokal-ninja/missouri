@@ -1,11 +1,11 @@
 id: 940555021
-type: way
+type: node
 latitude: 36.64623
 longitude: -90.78336
 postcode: "63935"
 city: Doniphan
-street: "Wright Park Drive"
-housenumber: 111
+street: Wright Park Drive
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

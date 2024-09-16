@@ -1,11 +1,11 @@
 id: 450843066
-type: way
+type: node
 latitude: 39.71385
 longitude: -91.36587
 postcode: "63401"
 city: Hannibal
-street: "Mark Twain Avenue"
-housenumber: 804
-phone: "(573) 221-4290"
+street: Mark Twain Avenue
+housenumber: "804"
+phone: (573) 221-4290
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 866070273
-type: way
+type: node
 latitude: 39.36775
 longitude: -94.78345
 postcode: "64079"
 city: Platte City
-street: "Branch Street"
-housenumber: 112
+street: Branch Street
+housenumber: "112"
 phone: ""
 opening_hours: ""
 website: ""

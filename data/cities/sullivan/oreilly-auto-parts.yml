@@ -1,11 +1,11 @@
 id: 554515564
-type: way
+type: node
 latitude: 38.21962
 longitude: -91.15835
 postcode: "63080"
 city: Sullivan
-street: "Cumberland Way"
-housenumber: 664
-phone: "573-468-3293"
+street: Cumberland Way
+housenumber: "664"
+phone: 573-468-3293
 opening_hours: ""
-website: "https://locations.oreillyauto.com/mo/sullivan/autoparts-820.html"
+website: https://locations.oreillyauto.com/mo/sullivan/autoparts-820.html

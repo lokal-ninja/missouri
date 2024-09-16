@@ -1,11 +1,11 @@
 id: 677689638
-type: way
+type: node
 latitude: 37.78862
 longitude: -90.43509
 postcode: "63640"
 city: Farmington
-street: "Walton Drive"
-housenumber: 707
-phone: "+1 573-756-8448"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/37/farmington-mo/whats-new"
+street: Walton Drive
+housenumber: "707"
+phone: +1 573-756-8448
+opening_hours: 24/7
+website: https://www.walmart.com/store/37/farmington-mo/whats-new

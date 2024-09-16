@@ -1,11 +1,11 @@
 id: 511376730
-type: way
+type: node
 latitude: 39.2887
 longitude: -94.57462
 postcode: "64155"
 city: Kansas City
-street: "North Oak Trafficway"
-housenumber: 10751
+street: North Oak Trafficway
+housenumber: "10751"
 phone: ""
 opening_hours: ""
 website: ""

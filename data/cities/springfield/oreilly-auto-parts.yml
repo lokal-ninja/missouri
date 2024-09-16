@@ -1,11 +1,11 @@
 id: 503620377
-type: way
+type: node
 latitude: 37.14293
 longitude: -93.29562
 postcode: "65807"
 city: Springfield
-street: "South Campbell Avenue"
-housenumber: 3930
-phone: "+1 417-881-0992"
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:00-19:00"
-website: "https://locations.oreillyauto.com/mo/springfield/autoparts-4048.html"
+street: South Campbell Avenue
+housenumber: "3930"
+phone: +1 417-881-0992
+opening_hours: Mo-Sa 07:30-21:00; Su 08:00-19:00
+website: https://locations.oreillyauto.com/mo/springfield/autoparts-4048.html

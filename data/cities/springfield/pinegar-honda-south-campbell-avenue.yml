@@ -1,11 +1,11 @@
 id: 508284913
-type: way
+type: node
 latitude: 37.1507
 longitude: -93.29489
 postcode: "65807"
 city: Springfield
-street: "South Campbell Avenue"
-housenumber: 3520
+street: South Campbell Avenue
+housenumber: "3520"
 phone: ""
 opening_hours: ""
 website: ""

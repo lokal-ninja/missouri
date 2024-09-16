@@ -1,11 +1,11 @@
 id: 543014893
-type: way
+type: node
 latitude: 39.13296
 longitude: -94.19867
 postcode: "64016"
 city: Buckner
-street: "South Hudson Street"
-housenumber: 327
+street: South Hudson Street
+housenumber: "327"
 phone: ""
 opening_hours: ""
 website: ""

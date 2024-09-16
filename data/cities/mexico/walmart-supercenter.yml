@@ -1,11 +1,11 @@
 id: 146304808
-type: way
+type: node
 latitude: 39.12123
 longitude: -91.89107
 postcode: "65265"
 city: Mexico
-street: "South Clark Street"
-housenumber: 4820
-phone: "+1 573-581-4500"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/25/mexico-mo/whats-new"
+street: South Clark Street
+housenumber: "4820"
+phone: +1 573-581-4500
+opening_hours: 24/7
+website: https://www.walmart.com/store/25/mexico-mo/whats-new

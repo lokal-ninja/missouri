@@ -1,11 +1,11 @@
 id: 543323462
-type: way
+type: node
 latitude: 38.43904
 longitude: -91.01703
 postcode: "63084"
 city: Union
-street: "W Highway 50"
-housenumber: 650
-phone: "636-584-8080"
+street: W Highway 50
+housenumber: "650"
+phone: 636-584-8080
 opening_hours: ""
-website: "scsplashpools.com"
+website: scsplashpools.com

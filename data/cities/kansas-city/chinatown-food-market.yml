@@ -1,11 +1,11 @@
 id: 310602797
-type: way
+type: node
 latitude: 39.11091
 longitude: -94.58123
 postcode: "64106"
 city: Kansas City
-street: "Grand Boulevard"
-housenumber: 202
+street: Grand Boulevard
+housenumber: "202"
 phone: ""
 opening_hours: ""
 website: ""

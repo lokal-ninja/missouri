@@ -1,11 +1,11 @@
 id: 675763573
-type: way
+type: node
 latitude: 37.94395
 longitude: -91.78994
 postcode: "65401"
 city: Rolla
-street: "H-J Drive"
-housenumber: 119
+street: H-J Drive
+housenumber: "119"
 phone: ""
-opening_hours: "24/7"
-website: "https://mymotomart.com/"
+opening_hours: 24/7
+website: https://mymotomart.com/

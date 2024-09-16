@@ -1,11 +1,11 @@
 id: 633140150
-type: way
+type: node
 latitude: 39.80827
 longitude: -94.81653
 postcode: "64506"
 city: Saint Joseph
-street: "North Belt Highway"
-housenumber: 4226
-phone: "+1 816-385-5438"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/mo/st-joseph-store2309.html"
+street: North Belt Highway
+housenumber: "4226"
+phone: +1 816-385-5438
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/mo/st-joseph-store2309.html

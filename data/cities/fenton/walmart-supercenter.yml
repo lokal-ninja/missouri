@@ -1,11 +1,11 @@
 id: 234502443
-type: way
+type: node
 latitude: 38.50975
 longitude: -90.43966
 postcode: "63026"
 city: Fenton
-street: "Gravois Bluffs Boulevard"
-housenumber: 653
-phone: "+1 636-349-3116"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/805-fenton-mo"
+street: Gravois Bluffs Boulevard
+housenumber: "653"
+phone: +1 636-349-3116
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/805-fenton-mo

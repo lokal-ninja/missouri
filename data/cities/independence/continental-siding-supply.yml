@@ -1,11 +1,11 @@
 id: 233925601
-type: way
+type: node
 latitude: 39.04565
 longitude: -94.41985
 postcode: "64055"
 city: Independence
-street: "East 42nd Terrace South"
-housenumber: 13714
+street: East 42nd Terrace South
+housenumber: "13714"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 705842104
-type: way
+type: node
 latitude: 38.15916
 longitude: -92.60202
 postcode: "65065"
 city: Osage Beach
-street: "Jr Prewitt Parkway"
-housenumber: 3936
-phone: "+1 573-302-4982"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/mo/osagebeach/pet-supplies-osagebeach-mo-1649.html"
+street: Jr Prewitt Parkway
+housenumber: "3936"
+phone: +1 573-302-4982
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/mo/osagebeach/pet-supplies-osagebeach-mo-1649.html

@@ -1,11 +1,11 @@
 id: 741805091
-type: way
+type: node
 latitude: 39.36488
 longitude: -94.58279
 postcode: "64089"
 city: Smithville
-street: "South 169 Highway"
-housenumber: 1407
+street: South 169 Highway
+housenumber: "1407"
 phone: ""
 opening_hours: ""
 website: ""

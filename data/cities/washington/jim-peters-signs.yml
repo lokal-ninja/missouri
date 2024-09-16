@@ -1,11 +1,11 @@
 id: 481610235
-type: way
+type: node
 latitude: 38.5334
 longitude: -90.97399
 postcode: "63090"
 city: Washington
-street: "South Point Road"
-housenumber: 4836
+street: South Point Road
+housenumber: "4836"
 phone: ""
 opening_hours: ""
 website: ""

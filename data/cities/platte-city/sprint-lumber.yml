@@ -1,11 +1,11 @@
 id: 1034694273
-type: way
+type: node
 latitude: 39.371
 longitude: -94.77844
 postcode: "64079"
 city: Platte City
-street: "Main Street"
-housenumber: 420
+street: Main Street
+housenumber: "420"
 phone: "8168582151"
-opening_hours: "Mo-Fr 07:30-16:30"
-website: "https://sprintlumber.com/"
+opening_hours: Mo-Fr 07:30-16:30
+website: https://sprintlumber.com/

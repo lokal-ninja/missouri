@@ -1,11 +1,11 @@
 id: 1089560207
-type: way
+type: node
 latitude: 38.8112
 longitude: -94.47516
 postcode: "64083"
 city: Raymore
-street: "West Foxwood Drive"
-housenumber: 2007
+street: West Foxwood Drive
+housenumber: "2007"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/raymore-mo-pharmacies/1215-west-foxwood-dr-raymore-mo-64083/storeid=8595"
+website: https://www.cvs.com/store-locator/raymore-mo-pharmacies/1215-west-foxwood-dr-raymore-mo-64083/storeid=8595

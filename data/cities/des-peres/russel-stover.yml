@@ -1,11 +1,11 @@
 id: 388940010
-type: way
+type: node
 latitude: 38.60038
 longitude: -90.42745
 postcode: "63131"
 city: Des Peres
-street: "Manchester Road"
-housenumber: 11697
+street: Manchester Road
+housenumber: "11697"
 phone: ""
-opening_hours: "Mo - Sa 10:00- 21:00; Su 11:00 - 18:00"
+opening_hours: Mo - Sa 10:00- 21:00; Su 11:00 - 18:00
 website: ""

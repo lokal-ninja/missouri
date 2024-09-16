@@ -1,11 +1,11 @@
 id: 479971977
-type: way
+type: node
 latitude: 38.55099
 longitude: -91.00257
 postcode: "63090"
 city: Washington
-street: "East 6th Street"
-housenumber: 902
+street: East 6th Street
+housenumber: "902"
 phone: ""
 opening_hours: ""
 website: ""

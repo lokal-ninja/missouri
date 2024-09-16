@@ -1,11 +1,11 @@
 id: 317828579
-type: way
+type: node
 latitude: 38.79161
 longitude: -90.62439
 postcode: "63376"
 city: Saint Peters
-street: "Mid Rivers Mall Drive"
-housenumber: 336
-phone: "+1 636-323-3044"
-opening_hours: "Tu-Fr 07:30-18:00; Sa 07:30-16:00; Su,Mo off"
-website: "https://www.midas.com/stlouis/store.aspx?shopnum=2190&dmanum=760"
+street: Mid Rivers Mall Drive
+housenumber: "336"
+phone: +1 636-323-3044
+opening_hours: Tu-Fr 07:30-18:00; Sa 07:30-16:00; Su,Mo off
+website: https://www.midas.com/stlouis/store.aspx?shopnum=2190&dmanum=760

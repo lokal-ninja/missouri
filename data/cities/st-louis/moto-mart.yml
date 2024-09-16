@@ -1,11 +1,11 @@
 id: 313133903
-type: way
+type: node
 latitude: 38.76939
 longitude: -90.1828
 postcode: "63138"
 city: St. Louis
-street: "Riverview Drive"
-housenumber: 11005
+street: Riverview Drive
+housenumber: "11005"
 phone: ""
 opening_hours: ""
 website: ""

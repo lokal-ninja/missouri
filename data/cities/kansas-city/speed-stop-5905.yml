@@ -1,11 +1,11 @@
 id: 504494281
-type: way
+type: node
 latitude: 39.22491
 longitude: -94.64835
 postcode: "64151"
 city: Kansas City
-street: "Northwest 72nd Street"
-housenumber: 5905
-phone: "1+816-200-0478"
+street: Northwest 72nd Street
+housenumber: "5905"
+phone: 1+816-200-0478
 opening_hours: ""
 website: ""

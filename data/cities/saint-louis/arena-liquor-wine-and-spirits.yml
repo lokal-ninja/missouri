@@ -1,11 +1,11 @@
 id: 564435514
-type: way
+type: node
 latitude: 38.62773
 longitude: -90.28788
 postcode: "63139"
 city: Saint Louis
-street: "Hampton Avenue"
-housenumber: 1217
+street: Hampton Avenue
+housenumber: "1217"
 phone: "+13146456644"
-opening_hours: "Mo-Sa 10:00-21:00, Su 11:00-20:00"
+opening_hours: Mo-Sa 10:00-21:00, Su 11:00-20:00
 website: ""

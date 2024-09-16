@@ -1,11 +1,11 @@
 id: 612825547
-type: way
+type: node
 latitude: 38.7784
 longitude: -90.69611
 postcode: "63368"
 city: O'Fallon
-street: "Highway K"
-housenumber: 2220
-phone: "+1 636-379-9429"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/mo/o-fallon/2027"
+street: Highway K
+housenumber: "2220"
+phone: +1 636-379-9429
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/mo/o-fallon/2027

@@ -1,11 +1,11 @@
 id: 575686852
-type: way
+type: node
 latitude: 38.45243
 longitude: -91.01101
 postcode: "63084"
 city: Union
-street: "North Washington Avenue"
-housenumber: 801
-phone: "636-582-4252"
+street: North Washington Avenue
+housenumber: "801"
+phone: 636-582-4252
 opening_hours: ""
-website: "https://fatboyzautosales.com/"
+website: https://fatboyzautosales.com/

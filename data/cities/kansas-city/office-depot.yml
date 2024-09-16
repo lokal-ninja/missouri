@@ -1,11 +1,11 @@
 id: 253822466
-type: way
+type: node
 latitude: 39.05073
 longitude: -94.58568
 postcode: "64111"
 city: Kansas City
-street: "Main Street"
-housenumber: 4201
-phone: "+1 816-531-5770"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://www.officedepot.com/storelocator/mo/kansas-city/office-depot-239"
+street: Main Street
+housenumber: "4201"
+phone: +1 816-531-5770
+opening_hours: Mo-Fr 08:00-19:00; Sa 10:00-19:00; Su 11:00-18:00
+website: https://www.officedepot.com/storelocator/mo/kansas-city/office-depot-239

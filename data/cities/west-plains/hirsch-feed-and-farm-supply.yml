@@ -1,11 +1,11 @@
 id: 533187918
-type: way
+type: node
 latitude: 36.72195
 longitude: -91.88065
 postcode: "65775"
 city: West Plains
-street: "Worley Drive"
-housenumber: 789
-phone: "(417) 256-3749"
-opening_hours: "Mo-Sa 07:00-19:00"
+street: Worley Drive
+housenumber: "789"
+phone: (417) 256-3749
+opening_hours: Mo-Sa 07:00-19:00
 website: ""

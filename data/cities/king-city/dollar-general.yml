@@ -1,11 +1,11 @@
 id: 371489235
-type: way
+type: node
 latitude: 40.05496
 longitude: -94.52436
 postcode: "64463"
 city: King City
-street: "North Connecticut Street"
-housenumber: 401
+street: North Connecticut Street
+housenumber: "401"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/mo/king-city/12230"
+website: https://www.dollargeneral.com/store-directory/mo/king-city/12230

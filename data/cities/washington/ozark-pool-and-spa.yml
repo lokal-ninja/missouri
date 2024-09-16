@@ -1,11 +1,11 @@
 id: 479410592
-type: way
+type: node
 latitude: 38.52916
 longitude: -90.95749
 postcode: "63090"
 city: Washington
-street: "MO-100"
-housenumber: 5475
+street: MO-100
+housenumber: "5475"
 phone: ""
 opening_hours: ""
 website: ""

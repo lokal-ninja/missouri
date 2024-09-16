@@ -1,11 +1,11 @@
 id: 549812745
-type: way
+type: node
 latitude: 38.14479
 longitude: -90.5519
 postcode: "63020"
 city: De Soto
-street: "North Main Street"
-housenumber: 614
+street: North Main Street
+housenumber: "614"
 phone: ""
 opening_hours: ""
 website: ""

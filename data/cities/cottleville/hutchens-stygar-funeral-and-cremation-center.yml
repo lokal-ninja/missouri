@@ -1,11 +1,11 @@
 id: 457539174
-type: way
+type: node
 latitude: 38.75106
 longitude: -90.63671
 postcode: "63304"
 city: Cottleville
-street: "Mid Rivers Mall Drive"
-housenumber: 5987
-phone: "636-442-0454"
+street: Mid Rivers Mall Drive
+housenumber: "5987"
+phone: 636-442-0454
 opening_hours: ""
-website: "https://hutchensfuneralhomes.com/locations/"
+website: https://hutchensfuneralhomes.com/locations/

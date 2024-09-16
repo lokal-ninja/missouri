@@ -1,11 +1,11 @@
 id: 506603761
-type: way
+type: node
 latitude: 37.95411
 longitude: -91.75123
 postcode: "65401"
 city: Rolla
-street: "Forum Drive"
-housenumber: 1360
+street: Forum Drive
+housenumber: "1360"
 phone: ""
 opening_hours: ""
-website: "https://www.tcmarkets.com/store-finder/rolla/"
+website: https://www.tcmarkets.com/store-finder/rolla/

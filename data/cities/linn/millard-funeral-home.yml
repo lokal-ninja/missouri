@@ -1,11 +1,11 @@
 id: 667066659
-type: way
+type: node
 latitude: 38.48123
 longitude: -91.844
 postcode: "65051"
 city: Linn
-street: "East Main Street"
-housenumber: 919
+street: East Main Street
+housenumber: "919"
 phone: ""
 opening_hours: ""
 website: ""

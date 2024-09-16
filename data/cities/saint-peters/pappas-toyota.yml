@@ -1,11 +1,11 @@
 id: 160362881
-type: way
+type: node
 latitude: 38.80062
 longitude: -90.60232
 postcode: "63376"
 city: Saint Peters
-street: "Spencer Road"
-housenumber: 10011
-phone: "+1 877-467-5156"
-opening_hours: "Mo,We,Fr 09:00-21:00; Tu,Th 09:00-18:00; Sa 09:00-17:00; Su off"
-website: "https://www.pappastoyota.com/"
+street: Spencer Road
+housenumber: "10011"
+phone: +1 877-467-5156
+opening_hours: Mo,We,Fr 09:00-21:00; Tu,Th 09:00-18:00; Sa 09:00-17:00; Su off
+website: https://www.pappastoyota.com/

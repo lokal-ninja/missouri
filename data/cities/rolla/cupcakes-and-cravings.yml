@@ -1,11 +1,11 @@
 id: 674308504
-type: way
+type: node
 latitude: 37.94949
 longitude: -91.77148
 postcode: "65401"
 city: Rolla
-street: "North Pine Street"
-housenumber: 708
+street: North Pine Street
+housenumber: "708"
 phone: ""
-opening_hours: "Mo-Fr 10:00-17:00; Sa 10:00-16:00"
-website: "http://cupcakesandcravings.com/"
+opening_hours: Mo-Fr 10:00-17:00; Sa 10:00-16:00
+website: http://cupcakesandcravings.com/

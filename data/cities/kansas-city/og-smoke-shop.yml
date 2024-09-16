@@ -1,11 +1,11 @@
 id: 253822478
-type: way
+type: node
 latitude: 39.06269
 longitude: -94.58542
 postcode: "64111"
 city: Kansas City
-street: "Main Street"
-housenumber: 3527
+street: Main Street
+housenumber: "3527"
 phone: ""
-opening_hours: "Mo-We,Su 09:00-21:00; Th-Sa 09:00-22:00"
+opening_hours: Mo-We,Su 09:00-21:00; Th-Sa 09:00-22:00
 website: ""

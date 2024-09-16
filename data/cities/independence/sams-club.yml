@@ -1,11 +1,11 @@
 id: 384538726
-type: way
+type: node
 latitude: 39.04494
 longitude: -94.36648
 postcode: "64055"
 city: Independence
-street: "Bolger Road"
-housenumber: 4100
-phone: "+1 816-350-1687"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/independence-mo-sams-club/8293"
+street: Bolger Road
+housenumber: "4100"
+phone: +1 816-350-1687
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/independence-mo-sams-club/8293

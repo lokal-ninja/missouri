@@ -1,11 +1,11 @@
 id: 461163464
-type: way
+type: node
 latitude: 38.59321
 longitude: -90.57497
 postcode: ""
 city: Ellisville
-street: "Manchester Rd"
-housenumber: 15655
+street: Manchester Rd
+housenumber: "15655"
 phone: ""
-opening_hours: "07:30-20:00"
-website: "https://www.ntb.com/store/mo/ballwin/15655-manchester-rd-63011/4278"
+opening_hours: 07:30-20:00
+website: https://www.ntb.com/store/mo/ballwin/15655-manchester-rd-63011/4278

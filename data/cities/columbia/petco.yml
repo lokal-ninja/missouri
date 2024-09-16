@@ -1,11 +1,11 @@
 id: 522324347
-type: way
+type: node
 latitude: 38.96053
 longitude: -92.37086
 postcode: "65203"
 city: Columbia
-street: "North Stadium Boulevard"
-housenumber: 400
-phone: "+1 573-514-6404"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/mo/columbia/pet-supplies-columbia-mo-2636.html"
+street: North Stadium Boulevard
+housenumber: "400"
+phone: +1 573-514-6404
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/mo/columbia/pet-supplies-columbia-mo-2636.html

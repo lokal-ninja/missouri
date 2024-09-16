@@ -1,11 +1,11 @@
 id: 496731569
-type: way
+type: node
 latitude: 39.06607
 longitude: -94.57987
 postcode: "64109"
 city: Kansas City
-street: "Gillham Plaza"
-housenumber: 3301
+street: Gillham Plaza
+housenumber: "3301"
 phone: ""
 opening_hours: ""
 website: ""

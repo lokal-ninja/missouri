@@ -1,11 +1,11 @@
 id: 41877125
-type: way
+type: node
 latitude: 38.51231
 longitude: -90.44228
 postcode: "63026"
 city: Fenton
-street: "Fenton Plaza"
-housenumber: 95
+street: Fenton Plaza
+housenumber: "95"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 477978375
-type: way
+type: node
 latitude: 38.45616
 longitude: -91.00521
 postcode: "63084"
 city: Union
-street: "Central Avenue"
-housenumber: 401
-phone: "636-583-2181"
+street: Central Avenue
+housenumber: "401"
+phone: 636-583-2181
 opening_hours: ""
-website: "fricksmarketonline.com"
+website: fricksmarketonline.com

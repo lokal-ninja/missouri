@@ -1,11 +1,11 @@
 id: 380940987
-type: way
+type: node
 latitude: 38.98405
 longitude: -94.45991
 postcode: "64138"
 city: Raytown
-street: "East Highway 350"
-housenumber: 10300
-phone: "+1 816-358-7790"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1094/raytown-mo/whats-new"
+street: East Highway 350
+housenumber: "10300"
+phone: +1 816-358-7790
+opening_hours: 24/7
+website: https://www.walmart.com/store/1094/raytown-mo/whats-new

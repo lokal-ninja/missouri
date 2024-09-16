@@ -1,11 +1,11 @@
 id: 587793718
-type: way
+type: node
 latitude: 37.09544
 longitude: -94.47537
 postcode: "64801"
 city: Joplin
-street: "Turkey Creek Road"
-housenumber: 3015
+street: Turkey Creek Road
+housenumber: "3015"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-19:00"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 38.78905
 longitude: -90.6277
 postcode: "63376"
 city: Saint Peters
-street: "Mexico Road"
-housenumber: 7120
-phone: "+1 636-970-7005"
-opening_hours: "Mo-Fr 07:00-22:00; Sa 08:00-20:00; Su 10:00-20:00"
-website: "https://local.fedex.com/mo/st-peters/office-4702/"
+street: Mexico Road
+housenumber: "7120"
+phone: +1 636-970-7005
+opening_hours: Mo-Fr 07:00-22:00; Sa 08:00-20:00; Su 10:00-20:00
+website: https://local.fedex.com/mo/st-peters/office-4702/

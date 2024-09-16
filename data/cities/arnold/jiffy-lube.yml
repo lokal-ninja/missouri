@@ -1,11 +1,11 @@
 id: 515705114
-type: way
+type: node
 latitude: 38.44523
 longitude: -90.37296
 postcode: "63010"
 city: Arnold
-street: "Jeffco Boulevard"
-housenumber: 966
+street: Jeffco Boulevard
+housenumber: "966"
 phone: ""
 opening_hours: ""
 website: ""

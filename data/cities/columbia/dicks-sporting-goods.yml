@@ -1,11 +1,11 @@
 id: 518931619
-type: way
+type: node
 latitude: 38.96106
 longitude: -92.37479
 postcode: "65203"
 city: Columbia
-street: "North Stadium"
-housenumber: 227
-phone: "+1 573-447-1001"
-opening_hours: "Mo-Th 09:00-21:00; Fr 09:00-22:00; Sa 08:00-22:00; Su 09:00-21:00"
-website: "https://stores.dickssportinggoods.com/mo/columbia/783/"
+street: North Stadium
+housenumber: "227"
+phone: +1 573-447-1001
+opening_hours: Mo-Th 09:00-21:00; Fr 09:00-22:00; Sa 08:00-22:00; Su 09:00-21:00
+website: https://stores.dickssportinggoods.com/mo/columbia/783/

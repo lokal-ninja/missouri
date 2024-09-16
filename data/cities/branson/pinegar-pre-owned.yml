@@ -1,11 +1,11 @@
 id: 777200803
-type: way
+type: node
 latitude: 36.71525
 longitude: -93.22212
 postcode: "65616"
 city: Branson
-street: "Adair Road"
-housenumber: 181
+street: Adair Road
+housenumber: "181"
 phone: ""
 opening_hours: ""
 website: ""

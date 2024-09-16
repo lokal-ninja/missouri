@@ -4,8 +4,8 @@ latitude: 38.51195
 longitude: -90.33851
 postcode: "63123"
 city: Saint Louis
-street: "Elm Park Drive"
-housenumber: 4120
-phone: "+1 314-892-8879"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/st-louis-mo-1375"
+street: Elm Park Drive
+housenumber: "4120"
+phone: +1 314-892-8879
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/st-louis-mo-1375

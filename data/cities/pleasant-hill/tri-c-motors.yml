@@ -1,11 +1,11 @@
 id: 496065308
-type: way
+type: node
 latitude: 38.82778
 longitude: -94.26328
 postcode: "64080"
 city: Pleasant Hill
-street: "MO 7"
-housenumber: 15825
-phone: "(816) 540-2323"
-opening_hours: "Mo-Fr 10:00-18:00, Sa 10:00-14:00"
-website: "http://www.tricmotors.com"
+street: MO 7
+housenumber: "15825"
+phone: (816) 540-2323
+opening_hours: Mo-Fr 10:00-18:00, Sa 10:00-14:00
+website: http://www.tricmotors.com

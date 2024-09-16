@@ -1,11 +1,11 @@
 id: 289676414
-type: way
+type: node
 latitude: 39.2518
 longitude: -94.59462
 postcode: "64155"
 city: Kansas City
-street: "North Madison Avenue"
-housenumber: 8640
+street: North Madison Avenue
+housenumber: "8640"
 phone: ""
 opening_hours: ""
 website: ""

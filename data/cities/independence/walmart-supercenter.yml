@@ -1,11 +1,11 @@
 id: 384538725
-type: way
+type: node
 latitude: 39.04571
 longitude: -94.36646
 postcode: "64055"
 city: Independence
-street: "South Bolger Road"
-housenumber: 4000
-phone: "+1 816-478-4090"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1014-independence-mo"
+street: South Bolger Road
+housenumber: "4000"
+phone: +1 816-478-4090
+opening_hours: 24/7
+website: https://www.walmart.com/store/1014-independence-mo

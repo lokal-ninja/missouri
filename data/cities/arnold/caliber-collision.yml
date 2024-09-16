@@ -1,11 +1,11 @@
 id: 1136340690
-type: way
+type: node
 latitude: 38.44075
 longitude: -90.38422
 postcode: "63010"
 city: Arnold
-street: "Big Bill Road"
-housenumber: 1535
+street: Big Bill Road
+housenumber: "1535"
 phone: ""
 opening_hours: ""
-website: "https://www.caliber.com/find-a-location/arnold"
+website: https://www.caliber.com/find-a-location/arnold

@@ -1,11 +1,11 @@
 id: 679364557
-type: way
+type: node
 latitude: 37.09171
 longitude: -93.82612
 postcode: "65712"
 city: Mount Vernon
-street: "West Mount Vernon Boulevard"
-housenumber: 500
-phone: "+1 417-461-7005"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/7249/mount-vernon-mo/whats-new"
+street: West Mount Vernon Boulevard
+housenumber: "500"
+phone: +1 417-461-7005
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/7249/mount-vernon-mo/whats-new

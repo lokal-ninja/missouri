@@ -1,11 +1,11 @@
 id: 1209572863
-type: way
+type: node
 latitude: 38.94381
 longitude: -94.60758
 postcode: "64114"
 city: Kansas City
-street: "State Line Road"
-housenumber: 10127
-phone: "+1-816-765-2500"
+street: State Line Road
+housenumber: "10127"
+phone: +1-816-765-2500
 opening_hours: ""
-website: "https://www.americasbest.com/location/mo/kansas-city/state-line-shopping-center"
+website: https://www.americasbest.com/location/mo/kansas-city/state-line-shopping-center

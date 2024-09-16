@@ -1,11 +1,11 @@
 id: 687175676
-type: way
+type: node
 latitude: 38.74231
 longitude: -90.63626
 postcode: "63304"
 city: Saint Peters
-street: "Mid Rivers Mall Drive"
-housenumber: 6137
-phone: "+1 636-447-0600"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/mo/stcharles/pet-supplies-stcharles-mo-1605.html"
+street: Mid Rivers Mall Drive
+housenumber: "6137"
+phone: +1 636-447-0600
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/mo/stcharles/pet-supplies-stcharles-mo-1605.html

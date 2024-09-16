@@ -1,11 +1,11 @@
 id: 991375148
-type: way
+type: node
 latitude: 38.94444
 longitude: -94.43652
 postcode: "64138"
 city: Kansas City
-street: "East 98th Street"
-housenumber: 12600
+street: East 98th Street
+housenumber: "12600"
 phone: ""
 opening_hours: ""
 website: ""

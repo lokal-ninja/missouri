@@ -1,11 +1,11 @@
 id: 907194363
-type: way
+type: node
 latitude: 37.42212
 longitude: -93.83689
 postcode: "65661"
 city: Greenfield
-street: "State Street"
-housenumber: 228
+street: State Street
+housenumber: "228"
 phone: ""
 opening_hours: ""
 website: ""

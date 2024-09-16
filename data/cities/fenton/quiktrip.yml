@@ -1,11 +1,11 @@
 id: 42235702
-type: way
+type: node
 latitude: 38.5412
 longitude: -90.47023
 postcode: "63026"
 city: Fenton
-street: "Bowles Avenue"
-housenumber: 1913
+street: Bowles Avenue
+housenumber: "1913"
 phone: ""
 opening_hours: ""
 website: ""

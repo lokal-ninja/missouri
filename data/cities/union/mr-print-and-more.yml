@@ -1,11 +1,11 @@
 id: 571164505
-type: way
+type: node
 latitude: 38.4447
 longitude: -91.00626
 postcode: "63084"
 city: Union
-street: "East Locust Street"
-housenumber: 302
+street: East Locust Street
+housenumber: "302"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 624581218
-type: way
+type: node
 latitude: 38.57643
 longitude: -90.23235
 postcode: "63111"
 city: Saint Louis
-street: "South Broadway"
-housenumber: 4330
+street: South Broadway
+housenumber: "4330"
 phone: ""
 opening_hours: ""
 website: ""

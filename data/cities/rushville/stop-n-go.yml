@@ -1,11 +1,11 @@
 id: 506135241
-type: way
+type: node
 latitude: 39.55844
 longitude: -95.10396
 postcode: "64484"
 city: Rushville
-street: "US 59"
-housenumber: 13460
+street: US 59
+housenumber: "13460"
 phone: ""
 opening_hours: ""
 website: ""

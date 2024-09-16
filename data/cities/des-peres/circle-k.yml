@@ -1,11 +1,11 @@
 id: 375424528
-type: way
+type: node
 latitude: 38.60089
 longitude: -90.45402
 postcode: "63131"
 city: Des Peres
-street: "Manchester Road"
-housenumber: 12804
+street: Manchester Road
+housenumber: "12804"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.circlek.com/store-locator/US/des-peres/12804-manchester-rd/4701649"
+opening_hours: 24/7
+website: https://www.circlek.com/store-locator/US/des-peres/12804-manchester-rd/4701649

@@ -1,11 +1,11 @@
 id: 501658400
-type: way
+type: node
 latitude: 39.10653
 longitude: -94.54745
 postcode: "64124"
 city: Kansas City
-street: "Independence Avenue"
-housenumber: 2820
+street: Independence Avenue
+housenumber: "2820"
 phone: ""
 opening_hours: ""
 website: ""

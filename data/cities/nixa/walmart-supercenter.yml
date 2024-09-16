@@ -1,11 +1,11 @@
 id: 679051324
-type: way
+type: node
 latitude: 37.06065
 longitude: -93.29862
 postcode: "65714"
 city: Nixa
-street: "North Massey Boulevard"
-housenumber: 1102
-phone: "+1 417-724-1097"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2702-nixa-mo"
+street: North Massey Boulevard
+housenumber: "1102"
+phone: +1 417-724-1097
+opening_hours: 24/7
+website: https://www.walmart.com/store/2702-nixa-mo

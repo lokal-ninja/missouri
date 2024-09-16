@@ -1,11 +1,11 @@
 id: 547976848
-type: way
+type: node
 latitude: 38.79639
 longitude: -90.58979
 postcode: "63376"
 city: Saint Peters
-street: "Veterans Memorial Parkway"
-housenumber: 4951
-phone: "+1 888-472-2059"
-opening_hours: "Mo,We,Fr 08:30-21:00; Tu,Th,Sa 08:30-18:00; Su off"
-website: "https://www.napletonsmidriverscdjr.com/"
+street: Veterans Memorial Parkway
+housenumber: "4951"
+phone: +1 888-472-2059
+opening_hours: Mo,We,Fr 08:30-21:00; Tu,Th,Sa 08:30-18:00; Su off
+website: https://www.napletonsmidriverscdjr.com/

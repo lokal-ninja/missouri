@@ -1,11 +1,11 @@
 id: 638844248
-type: way
+type: node
 latitude: 38.58182
 longitude: -90.40626
 postcode: "63122"
 city: Kirkwood
-street: "North Kirkwood Road"
-housenumber: 112
+street: North Kirkwood Road
+housenumber: "112"
 phone: ""
 opening_hours: ""
 website: ""

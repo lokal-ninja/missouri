@@ -1,11 +1,11 @@
 id: 573771740
-type: way
+type: node
 latitude: 38.81592
 longitude: -94.53554
 postcode: ""
 city: Belton
-street: "North Scott Avenue"
-housenumber: 106
+street: North Scott Avenue
+housenumber: "106"
 phone: ""
 opening_hours: ""
 website: ""

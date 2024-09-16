@@ -1,11 +1,11 @@
 id: 560240323
-type: way
+type: node
 latitude: 38.8062
 longitude: -90.60727
 postcode: "63376"
 city: Saint Peters
-street: "Ecology Drive"
-housenumber: 137
-phone: "+1 636-970-7040"
-opening_hours: "Mo-Fr 07:00-16:00"
-website: "https://www.gclumber.com/"
+street: Ecology Drive
+housenumber: "137"
+phone: +1 636-970-7040
+opening_hours: Mo-Fr 07:00-16:00
+website: https://www.gclumber.com/

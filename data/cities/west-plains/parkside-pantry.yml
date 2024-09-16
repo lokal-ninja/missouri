@@ -1,11 +1,11 @@
 id: 469492582
-type: way
+type: node
 latitude: 36.73085
 longitude: -91.86369
 postcode: "65775"
 city: West Plains
-street: "Porter Wagoner Boulevard"
-housenumber: 312
-phone: "+1-417-256-2899"
+street: Porter Wagoner Boulevard
+housenumber: "312"
+phone: +1-417-256-2899
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1167406329
-type: way
+type: node
 latitude: 38.67443
 longitude: -90.37678
 postcode: "63132"
 city: Saint Louis
-street: "Olive Boulevard"
-housenumber: 9405
+street: Olive Boulevard
+housenumber: "9405"
 phone: ""
 opening_hours: ""
 website: ""

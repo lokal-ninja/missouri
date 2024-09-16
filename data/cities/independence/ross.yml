@@ -1,11 +1,11 @@
 id: 384542120
-type: way
+type: node
 latitude: 39.04954
 longitude: -94.35717
-postcode: "64057-2313"
+postcode: 64057-2313
 city: Independence
-street: "East 39th Street South"
-housenumber: 18910
-phone: "+1 816-795-1075"
-opening_hours: "Mo-Th 09:30-22:00; Fr-Sa 09:00-23:00; Su 09:30-22:00"
+street: East 39th Street South
+housenumber: "18910"
+phone: +1 816-795-1075
+opening_hours: Mo-Th 09:30-22:00; Fr-Sa 09:00-23:00; Su 09:30-22:00
 website: ""

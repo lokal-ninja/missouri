@@ -1,11 +1,11 @@
 id: 374828086
-type: way
+type: node
 latitude: 38.59184
 longitude: -90.30254
 postcode: "63109"
 city: Saint Louis
-street: "Chippewa Street"
-housenumber: 6520
+street: Chippewa Street
+housenumber: "6520"
 phone: "+13148322922"
-opening_hours: "Mo-Fr 07:00-17:00, Sa 07:00-13:00"
+opening_hours: Mo-Fr 07:00-17:00, Sa 07:00-13:00
 website: ""

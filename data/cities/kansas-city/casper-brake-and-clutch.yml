@@ -1,11 +1,11 @@
 id: 192382642
-type: way
+type: node
 latitude: 39.09324
 longitude: -94.57381
 postcode: "64108"
 city: Kansas City
-street: "East 17th Street"
-housenumber: 800
+street: East 17th Street
+housenumber: "800"
 phone: ""
 opening_hours: ""
 website: ""

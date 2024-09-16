@@ -1,11 +1,11 @@
 id: 469568342
-type: way
+type: node
 latitude: 36.73106
 longitude: -91.86156
 postcode: "65775"
 city: West Plains
-street: "West Broadway Street"
-housenumber: 902
-phone: "+1-417-256-9677"
+street: West Broadway Street
+housenumber: "902"
+phone: +1-417-256-9677
 opening_hours: ""
-website: "https://www.facebook.com/ParcelExpress/"
+website: https://www.facebook.com/ParcelExpress/

@@ -1,11 +1,11 @@
 id: 1252099910
-type: way
+type: node
 latitude: 36.49944
 longitude: -94.11182
 postcode: "65745"
 city: Seligman
-street: "State Highway KK"
-housenumber: 6111
+street: State Highway KK
+housenumber: "6111"
 phone: ""
 opening_hours: ""
 website: ""

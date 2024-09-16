@@ -1,11 +1,11 @@
 id: 457508052
-type: way
+type: node
 latitude: 38.74982
 longitude: -90.56537
 postcode: "63303"
 city: Saint Peters
-street: "South Paint Peters Parkway"
-housenumber: 3030
-phone: "636-441-0100"
+street: South Paint Peters Parkway
+housenumber: "3030"
+phone: 636-441-0100
 opening_hours: ""
-website: "https://www.hackmannstl.com/locations.html"
+website: https://www.hackmannstl.com/locations.html

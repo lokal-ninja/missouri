@@ -1,11 +1,11 @@
 id: 815800641
-type: way
+type: node
 latitude: 39.0079
 longitude: -94.27235
 postcode: "64014"
 city: Blue Springs
-street: "Southwest MO-7 HWY"
-housenumber: 914
+street: Southwest MO-7 HWY
+housenumber: "914"
 phone: ""
 opening_hours: ""
-website: "https://www.discounttire.com/store/mo/blue-springs/s/2033"
+website: https://www.discounttire.com/store/mo/blue-springs/s/2033

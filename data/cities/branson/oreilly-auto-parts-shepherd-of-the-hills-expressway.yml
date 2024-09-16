@@ -1,11 +1,11 @@
 id: 1245601076
-type: way
+type: node
 latitude: 36.66504
 longitude: -93.24702
 postcode: "65616"
 city: Branson
-street: "Shepherd of the Hills Expressway"
-housenumber: 1650
+street: Shepherd of the Hills Expressway
+housenumber: "1650"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/mo/branson/autoparts-4064.html"
+website: https://locations.oreillyauto.com/mo/branson/autoparts-4064.html

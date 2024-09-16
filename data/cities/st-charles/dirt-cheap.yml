@@ -1,11 +1,11 @@
 id: 588455963
-type: way
+type: node
 latitude: 38.79311
 longitude: -90.56276
 postcode: "63301"
 city: St. Charles
-street: "West Clay Street"
-housenumber: 3840
+street: West Clay Street
+housenumber: "3840"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 914046589
-type: way
+type: node
 latitude: 36.49996
 longitude: -93.3978
 postcode: "65611"
 city: Blue Eye
-street: "MO 13"
-housenumber: 183
+street: MO 13
+housenumber: "183"
 phone: ""
 opening_hours: ""
 website: ""

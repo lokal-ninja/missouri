@@ -1,11 +1,11 @@
 id: 856999122
-type: way
+type: node
 latitude: 38.61093
 longitude: -90.27673
 postcode: "63139"
 city: Saint Louis
-street: "Southwest Avenue"
-housenumber: 5335
+street: Southwest Avenue
+housenumber: "5335"
 phone: "+13148651372"
-opening_hours: "Mo-Fr 07:30-17:30"
-website: "https://www.columbiaautorepairstl.com/"
+opening_hours: Mo-Fr 07:30-17:30
+website: https://www.columbiaautorepairstl.com/

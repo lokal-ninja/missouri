@@ -1,11 +1,11 @@
 id: 502975073
-type: way
+type: node
 latitude: 37.24114
 longitude: -93.26354
 postcode: "65803"
 city: Springfield
-street: "East Kearney"
-housenumber: 1645
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/mo/springfield/1645-e-kearney"
+street: East Kearney
+housenumber: "1645"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/mo/springfield/1645-e-kearney

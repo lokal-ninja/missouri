@@ -1,11 +1,11 @@
 id: 679010263
-type: way
+type: node
 latitude: 37.14933
 longitude: -92.25916
 postcode: "65711"
 city: Mountain Grove
-street: "North Main Avenue"
-housenumber: 2100
-phone: "+1 417-926-5107"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/88/mountain-grove-mo/whats-new"
+street: North Main Avenue
+housenumber: "2100"
+phone: +1 417-926-5107
+opening_hours: 24/7
+website: https://www.walmart.com/store/88/mountain-grove-mo/whats-new

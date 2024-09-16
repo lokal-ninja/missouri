@@ -1,11 +1,11 @@
 id: 283883142
-type: way
+type: node
 latitude: 39.21107
 longitude: -94.54955
 postcode: "64118"
 city: Gladstone
-street: "North Prospect Avenue"
-housenumber: 6450
+street: North Prospect Avenue
+housenumber: "6450"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/mo/kansas-city/6450-n-prospect-ave.html"
+website: https://www.autozone.com/locations/mo/kansas-city/6450-n-prospect-ave.html

@@ -1,11 +1,11 @@
 id: 1070092189
-type: way
+type: node
 latitude: 39.06457
 longitude: -94.41583
 postcode: "64055"
 city: Independence
-street: "East 31st Street South"
-housenumber: 109
+street: East 31st Street South
+housenumber: "109"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1201415873
-type: way
+type: node
 latitude: 36.50796
 longitude: -94.28312
 postcode: "64856"
 city: Pineville
-street: "Gordon Hollow Road"
-housenumber: 110
+street: Gordon Hollow Road
+housenumber: "110"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/mo/jane/7403/"
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/mo/jane/7403/

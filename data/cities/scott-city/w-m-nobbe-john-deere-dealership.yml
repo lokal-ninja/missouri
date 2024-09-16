@@ -1,11 +1,11 @@
 id: 316542472
-type: way
+type: node
 latitude: 37.22493
 longitude: -89.55463
 postcode: "63780"
 city: Scott City
-street: "East Outer Road"
-housenumber: 1400
+street: East Outer Road
+housenumber: "1400"
 phone: ""
 opening_hours: ""
 website: ""

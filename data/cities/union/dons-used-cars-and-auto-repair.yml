@@ -1,11 +1,11 @@
 id: 540442030
-type: way
+type: node
 latitude: 38.43985
 longitude: -91.03521
 postcode: "63084"
 city: Union
-street: "Highway 50"
-housenumber: 1520
-phone: "636-583-3100"
+street: Highway 50
+housenumber: "1520"
+phone: 636-583-3100
 opening_hours: ""
-website: "https://donsusedcarsonline.com/"
+website: https://donsusedcarsonline.com/

@@ -1,11 +1,11 @@
 id: 182593381
-type: way
+type: node
 latitude: 39.09696
 longitude: -94.5686
 postcode: "64106"
 city: Kansas City
-street: "East 13th Street"
-housenumber: 1221
+street: East 13th Street
+housenumber: "1221"
 phone: ""
 opening_hours: ""
 website: ""

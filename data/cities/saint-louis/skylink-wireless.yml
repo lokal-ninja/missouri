@@ -1,11 +1,11 @@
 id: 621899961
-type: way
+type: node
 latitude: 38.6694
 longitude: -90.23647
 postcode: "63115"
 city: Saint Louis
-street: "Natural Bridge Avenue"
-housenumber: 4346
+street: Natural Bridge Avenue
+housenumber: "4346"
 phone: ""
 opening_hours: ""
 website: ""

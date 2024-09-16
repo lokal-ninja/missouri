@@ -1,11 +1,11 @@
 id: 234502937
-type: way
+type: node
 latitude: 38.51145
 longitude: -90.4344
 postcode: "63026"
 city: Fenton
-street: "Gravois Road"
-housenumber: 65
+street: Gravois Road
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

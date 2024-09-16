@@ -1,11 +1,11 @@
 id: 813092954
-type: way
+type: node
 latitude: 38.39889
 longitude: -94.34354
 postcode: "64720"
 city: Adrian
-street: "Old US Highway 71"
-housenumber: 
-phone: "(816) 297-4120"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://www.yossthriftway.com/"
+street: Old US Highway 71
+housenumber: ""
+phone: (816) 297-4120
+opening_hours: Mo-Su 08:00-20:00
+website: https://www.yossthriftway.com/

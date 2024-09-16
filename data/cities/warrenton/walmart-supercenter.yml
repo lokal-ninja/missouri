@@ -1,11 +1,11 @@
 id: 543906873
-type: way
+type: node
 latitude: 38.82262
 longitude: -91.14289
 postcode: "63383"
 city: Warrenton
-street: "Warren County Center"
-housenumber: 500
-phone: "+1 636-456-4600"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1021/warrenton-mo/whats-new"
+street: Warren County Center
+housenumber: "500"
+phone: +1 636-456-4600
+opening_hours: 24/7
+website: https://www.walmart.com/store/1021/warrenton-mo/whats-new

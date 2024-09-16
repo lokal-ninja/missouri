@@ -1,11 +1,11 @@
 id: 1103561841
-type: way
+type: node
 latitude: 39.41534
 longitude: -92.43473
 postcode: "65270"
 city: Moberly
-street: "South Morley Street"
-housenumber: 301
-phone: "+1 660 263 7790"
+street: South Morley Street
+housenumber: "301"
+phone: +1 660 263 7790
 opening_hours: ""
-website: "https://www.bratchersmarket.com/"
+website: https://www.bratchersmarket.com/

@@ -1,11 +1,11 @@
 id: 506125701
-type: way
+type: node
 latitude: 39.42112
 longitude: -94.89364
 postcode: "64098"
 city: Weston
-street: "MO 45"
-housenumber: 18145
+street: MO 45
+housenumber: "18145"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/mo/weston/13822"
+website: https://www.dollargeneral.com/store-directory/mo/weston/13822

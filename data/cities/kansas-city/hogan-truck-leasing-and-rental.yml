@@ -1,11 +1,11 @@
 id: 503017241
-type: way
+type: node
 latitude: 39.05616
 longitude: -94.49607
 postcode: "64129"
 city: Kansas City
-street: "East Stadium Drive"
-housenumber: 7501
+street: East Stadium Drive
+housenumber: "7501"
 phone: ""
 opening_hours: ""
 website: ""

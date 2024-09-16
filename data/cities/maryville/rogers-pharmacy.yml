@@ -1,11 +1,11 @@
 id: 1103579460
-type: way
+type: node
 latitude: 40.33507
 longitude: -94.87277
 postcode: "64468"
 city: Maryville
-street: "East South Avenue"
-housenumber: 125
+street: East South Avenue
+housenumber: "125"
 phone: "+16605622300"
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://www.rogersrxmv.com/"
+opening_hours: Mo-Sa 08:00-18:00
+website: https://www.rogersrxmv.com/

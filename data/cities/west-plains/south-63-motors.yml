@@ -1,11 +1,11 @@
 id: 469705458
-type: way
+type: node
 latitude: 36.73161
 longitude: -91.85529
 postcode: "65775"
 city: West Plains
-street: "West Broadway Street"
-housenumber: 301
-phone: "+1-417-256-2600"
-opening_hours: "Mo-Fr 08:00-17:00, Sa 9:00-15:00"
-website: "https://south63motors.com/"
+street: West Broadway Street
+housenumber: "301"
+phone: +1-417-256-2600
+opening_hours: Mo-Fr 08:00-17:00, Sa 9:00-15:00
+website: https://south63motors.com/

@@ -1,11 +1,11 @@
 id: 677460760
-type: way
+type: node
 latitude: 38.49387
 longitude: -90.29573
 postcode: "63125"
 city: Saint Louis
-street: "Telegraph Road"
-housenumber: 3270
-phone: "+1 314-845-8544"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2213/saint-louis-mo/whats-new"
+street: Telegraph Road
+housenumber: "3270"
+phone: +1 314-845-8544
+opening_hours: 24/7
+website: https://www.walmart.com/store/2213/saint-louis-mo/whats-new

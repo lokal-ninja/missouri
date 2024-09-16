@@ -1,11 +1,11 @@
 id: 651854722
-type: way
+type: node
 latitude: 39.55799
 longitude: -94.32165
 postcode: "64465"
 city: Lathrop
-street: "North Street"
-housenumber: 104
+street: North Street
+housenumber: "104"
 phone: ""
-opening_hours: "08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/mo/lathrop/9367"
+opening_hours: 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/mo/lathrop/9367

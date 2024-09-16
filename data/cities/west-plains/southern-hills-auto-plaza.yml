@@ -1,11 +1,11 @@
 id: 468839580
-type: way
+type: node
 latitude: 36.71675
 longitude: -91.87288
 postcode: "65775"
 city: West Plains
-street: "Southern Hills Center"
-housenumber: 1343
-phone: "(417) 257-7531"
+street: Southern Hills Center
+housenumber: "1343"
+phone: (417) 257-7531
 opening_hours: ""
-website: "https://www.southernhillsautoplaza.com/"
+website: https://www.southernhillsautoplaza.com/

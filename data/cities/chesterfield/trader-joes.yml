@@ -1,11 +1,11 @@
 id: 548010086
-type: way
+type: node
 latitude: 38.64517
 longitude: -90.56647
 postcode: "63017"
 city: Chesterfield
-street: "Clarkson Road"
-housenumber: 1679
-phone: "+1 636-536-7846"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://locations.traderjoes.com/mo/chesterfield/693/"
+street: Clarkson Road
+housenumber: "1679"
+phone: +1 636-536-7846
+opening_hours: Mo-Su 09:00-21:00
+website: https://locations.traderjoes.com/mo/chesterfield/693/

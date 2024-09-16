@@ -1,11 +1,11 @@
 id: 506870669
-type: way
+type: node
 latitude: 37.93485
 longitude: -91.74726
 postcode: "65401"
 city: Rolla
-street: "MO 72"
-housenumber: 1400
+street: MO 72
+housenumber: "1400"
 phone: ""
 opening_hours: ""
 website: ""

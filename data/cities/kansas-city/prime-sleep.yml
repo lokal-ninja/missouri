@@ -1,11 +1,11 @@
 id: 573379511
-type: way
+type: node
 latitude: 39.24355
 longitude: -94.47607
 postcode: "64158"
 city: Kansas City
-street: "North Booth Avenue"
-housenumber: 8311
+street: North Booth Avenue
+housenumber: "8311"
 phone: ""
 opening_hours: ""
-website: "https://primesleep.com/"
+website: https://primesleep.com/

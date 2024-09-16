@@ -4,8 +4,8 @@ latitude: 38.76722
 longitude: -90.7866
 postcode: "63367"
 city: Lake Saint Louis
-street: "Ronald Reagan Drive"
-housenumber: 6302
-phone: "+1 636-561-5914"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/mo-lake-saint-louis/2311"
+street: Ronald Reagan Drive
+housenumber: "6302"
+phone: +1 636-561-5914
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/mo-lake-saint-louis/2311

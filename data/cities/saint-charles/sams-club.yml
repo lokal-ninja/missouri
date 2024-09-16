@@ -1,11 +1,11 @@
 id: 653198832
-type: way
+type: node
 latitude: 38.78093
 longitude: -90.527
 postcode: "63303"
 city: Saint Charles
-street: "Veterans Memorial Parkway"
-housenumber: 2855
-phone: "+1 636-946-7002"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/st-charles-mo-sams-club/8251"
+street: Veterans Memorial Parkway
+housenumber: "2855"
+phone: +1 636-946-7002
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/st-charles-mo-sams-club/8251

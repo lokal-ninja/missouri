@@ -1,11 +1,11 @@
 id: 331134149
-type: way
+type: node
 latitude: 37.94691
 longitude: -91.77656
 postcode: "65401"
 city: Rolla
-street: "West 4th Street"
-housenumber: 605
-phone: "+1 573-364-2721"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/mo/rolla/rolla/021/00537"
+street: West 4th Street
+housenumber: "605"
+phone: +1 573-364-2721
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/mo/rolla/rolla/021/00537

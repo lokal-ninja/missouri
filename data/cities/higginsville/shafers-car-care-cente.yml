@@ -1,11 +1,11 @@
 id: 1028115552
-type: way
+type: node
 latitude: 39.07191
 longitude: -93.71843
 postcode: "64037"
 city: Higginsville
-street: "Fairground Avenue"
-housenumber: 101
+street: Fairground Avenue
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

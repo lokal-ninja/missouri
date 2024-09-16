@@ -1,11 +1,11 @@
 id: 543323516
-type: way
+type: node
 latitude: 38.43879
 longitude: -91.01603
 postcode: "63084"
 city: Union
-street: "Youngridge Drive"
-housenumber: 1
-phone: "636-744-1441"
+street: Youngridge Drive
+housenumber: "1"
+phone: 636-744-1441
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 894432981
-type: way
+type: node
 latitude: 39.42734
 longitude: -94.51445
 postcode: "64089"
 city: Smithville
-street: "Collins Road"
-housenumber: 18419
+street: Collins Road
+housenumber: "18419"
 phone: ""
 opening_hours: ""
 website: ""

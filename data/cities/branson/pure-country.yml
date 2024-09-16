@@ -1,11 +1,11 @@
 id: 777207481
-type: way
+type: node
 latitude: 36.65951
 longitude: -93.22354
 postcode: "65616"
 city: Branson
-street: "Shepherd of the Hills Expressway"
-housenumber: 432
+street: Shepherd of the Hills Expressway
+housenumber: "432"
 phone: ""
 opening_hours: ""
 website: ""

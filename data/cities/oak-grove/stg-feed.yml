@@ -1,11 +1,11 @@
 id: 1137688111
-type: way
+type: node
 latitude: 39.01018
 longitude: -94.12839
 postcode: "64075"
 city: Oak Grove
-street: "South Broadway Street"
-housenumber: 605
-phone: "(816) 625-1018"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-15:00; Su closed"
+street: South Broadway Street
+housenumber: "605"
+phone: (816) 625-1018
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-15:00; Su closed
 website: ""

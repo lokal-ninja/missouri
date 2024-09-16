@@ -1,11 +1,11 @@
 id: 543018080
-type: way
+type: node
 latitude: 39.13405
 longitude: -94.19934
 postcode: "64016"
 city: Buckner
-street: "Adams Street"
-housenumber: 230
+street: Adams Street
+housenumber: "230"
 phone: ""
 opening_hours: ""
 website: ""

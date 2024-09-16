@@ -1,11 +1,11 @@
 id: 570338766
-type: way
+type: node
 latitude: 38.54988
 longitude: -90.49178
 postcode: "63088"
 city: Valley Park
-street: "Front Street"
-housenumber: 24
-phone: "636-529-1660"
+street: Front Street
+housenumber: "24"
+phone: 636-529-1660
 opening_hours: ""
-website: "https://friscotrainstore.com/"
+website: https://friscotrainstore.com/

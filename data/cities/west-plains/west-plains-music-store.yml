@@ -1,11 +1,11 @@
 id: 467271137
-type: way
+type: node
 latitude: 36.72878
 longitude: -91.85215
 postcode: "65775"
 city: West Plains
-street: "Court Square"
-housenumber: 18
-phone: "+1-417-256-2216"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 9:00-16:00"
-website: "http://westplainsmusic.com/"
+street: Court Square
+housenumber: "18"
+phone: +1-417-256-2216
+opening_hours: Mo-Fr 09:00-18:00, Sa 9:00-16:00
+website: http://westplainsmusic.com/

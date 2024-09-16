@@ -1,11 +1,11 @@
 id: 467469786
-type: way
+type: node
 latitude: 36.72808
 longitude: -91.85372
 postcode: "65775"
 city: West Plains
-street: "West Main Street"
-housenumber: 202
-phone: "+1-417-256-6808"
-opening_hours: "Mo-Fr 10:00-17:00"
-website: "https://thinkburo.com/"
+street: West Main Street
+housenumber: "202"
+phone: +1-417-256-6808
+opening_hours: Mo-Fr 10:00-17:00
+website: https://thinkburo.com/

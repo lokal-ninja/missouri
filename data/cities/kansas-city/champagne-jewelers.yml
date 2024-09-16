@@ -1,11 +1,11 @@
 id: 572922380
-type: way
+type: node
 latitude: 39.24411
 longitude: -94.46867
 postcode: "64158"
 city: Kansas City
-street: "Missouri Route 152"
-housenumber: 9201
+street: Missouri Route 152
+housenumber: "9201"
 phone: ""
 opening_hours: ""
-website: "https://champagne-jewelers.com/"
+website: https://champagne-jewelers.com/

@@ -1,11 +1,11 @@
 id: 741044411
-type: way
+type: node
 latitude: 40.24184
 longitude: -94.68461
 postcode: "64433"
 city: Conception
-street: "Missouri Route VV"
-housenumber: 37112
-phone: "+1-800-322-2737"
-opening_hours: "Mo-Fr 08:00-16:30"
-website: "https://www.printeryhouse.org/"
+street: Missouri Route VV
+housenumber: "37112"
+phone: +1-800-322-2737
+opening_hours: Mo-Fr 08:00-16:30
+website: https://www.printeryhouse.org/

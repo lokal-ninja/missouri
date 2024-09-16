@@ -1,11 +1,11 @@
 id: 777200807
-type: way
+type: node
 latitude: 36.70699
 longitude: -93.21924
 postcode: "65616"
 city: Branson
-street: "Southeast Outer Road"
-housenumber: 180
+street: Southeast Outer Road
+housenumber: "180"
 phone: ""
 opening_hours: ""
 website: ""

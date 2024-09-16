@@ -1,11 +1,11 @@
 id: 1190496002
-type: way
+type: node
 latitude: 38.70608
 longitude: -90.4069
 postcode: "63114"
 city: St. Louis
-street: "Midland Boulevard"
-housenumber: 11210
+street: Midland Boulevard
+housenumber: "11210"
 phone: ""
 opening_hours: ""
 website: ""

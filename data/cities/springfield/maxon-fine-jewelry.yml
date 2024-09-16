@@ -1,11 +1,11 @@
 id: 1097063379
-type: way
+type: node
 latitude: 37.15802
 longitude: -93.2387
 postcode: "65804"
 city: Springfield
-street: "East Battlefield Road"
-housenumber: 2850
+street: East Battlefield Road
+housenumber: "2850"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 621353853
-type: way
+type: node
 latitude: 38.66049
 longitude: -90.28568
 postcode: "63112"
 city: Saint Louis
-street: "Goodfellow Boulevard"
-housenumber: 954
+street: Goodfellow Boulevard
+housenumber: "954"
 phone: ""
 opening_hours: ""
 website: ""

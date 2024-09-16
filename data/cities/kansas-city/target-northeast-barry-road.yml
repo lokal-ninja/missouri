@@ -1,11 +1,11 @@
 id: 512198427
-type: way
+type: node
 latitude: 39.24741
 longitude: -94.46474
 postcode: "64157"
 city: Kansas City
-street: "Northeast Barry Road"
-housenumber: 9220
-phone: "+1 816-781-4238"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/liberty/1455"
+street: Northeast Barry Road
+housenumber: "9220"
+phone: +1 816-781-4238
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/liberty/1455

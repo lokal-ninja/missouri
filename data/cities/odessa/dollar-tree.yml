@@ -1,11 +1,11 @@
 id: 554982995
-type: way
+type: node
 latitude: 39.00547
 longitude: -93.9529
 postcode: "64076"
 city: Odessa
-street: "North 2nd Street"
-housenumber: 412
+street: North 2nd Street
+housenumber: "412"
 phone: ""
 opening_hours: ""
 website: ""

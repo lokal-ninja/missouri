@@ -1,11 +1,11 @@
 id: 518943333
-type: way
+type: node
 latitude: 39.00356
 longitude: -93.73608
 postcode: "64037"
 city: Higginsville
-street: "Missouri Route 13"
-housenumber: 6685
+street: Missouri Route 13
+housenumber: "6685"
 phone: ""
 opening_hours: ""
 website: ""

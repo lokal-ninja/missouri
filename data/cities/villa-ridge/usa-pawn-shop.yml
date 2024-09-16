@@ -1,11 +1,11 @@
 id: 481051610
-type: way
+type: node
 latitude: 38.47664
 longitude: -90.85233
 postcode: "63089"
 city: Villa Ridge
-street: "Highway 100"
-housenumber: 3319
+street: Highway 100
+housenumber: "3319"
 phone: ""
 opening_hours: ""
 website: ""

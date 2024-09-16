@@ -1,11 +1,11 @@
 id: 548010035
-type: way
+type: node
 latitude: 38.64244
 longitude: -90.5679
 postcode: "63017"
 city: Chesterfield
-street: "Clarkson Road"
-housenumber: 1789
+street: Clarkson Road
+housenumber: "1789"
 phone: ""
 opening_hours: ""
 website: ""

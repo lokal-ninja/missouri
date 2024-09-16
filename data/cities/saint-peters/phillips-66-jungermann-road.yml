@@ -1,11 +1,11 @@
 id: 588813018
-type: way
+type: node
 latitude: 38.77746
 longitude: -90.57927
 postcode: "63376"
 city: Saint Peters
-street: "Jungermann Road"
-housenumber: 664
+street: Jungermann Road
+housenumber: "664"
 phone: ""
 opening_hours: ""
 website: ""

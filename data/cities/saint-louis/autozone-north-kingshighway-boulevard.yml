@@ -1,11 +1,11 @@
 id: 620501189
-type: way
+type: node
 latitude: 38.65851
 longitude: -90.2632
 postcode: "63113"
 city: Saint Louis
-street: "North Kingshighway Boulevard"
-housenumber: 1211
+street: North Kingshighway Boulevard
+housenumber: "1211"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/mo/saint-louis/1215-n-kingshighway-blvd.html"
+website: https://www.autozone.com/locations/mo/saint-louis/1215-n-kingshighway-blvd.html

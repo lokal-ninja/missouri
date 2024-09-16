@@ -1,11 +1,11 @@
 id: 331695364
-type: way
+type: node
 latitude: 38.98874
 longitude: -94.57567
 postcode: "64131"
 city: Kansas City
-street: "Troost Avenue"
-housenumber: 7621
-phone: "(816) 361-9555"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
+street: Troost Avenue
+housenumber: "7621"
+phone: (816) 361-9555
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
 website: ""

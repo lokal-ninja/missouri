@@ -1,11 +1,11 @@
 id: 569436291
-type: way
+type: node
 latitude: 38.81107
 longitude: -94.53185
 postcode: ""
 city: Belton
-street: "Main Street"
-housenumber: 420
+street: Main Street
+housenumber: "420"
 phone: ""
 opening_hours: ""
 website: ""

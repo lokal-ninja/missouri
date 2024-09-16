@@ -1,11 +1,11 @@
 id: 1009668908
-type: way
+type: node
 latitude: 37.12398
 longitude: -93.46493
 postcode: "65738"
 city: Republic
-street: "US Hwy 60 East"
-housenumber: 906
-phone: "+1 417 732 6430"
+street: US Hwy 60 East
+housenumber: "906"
+phone: +1 417 732 6430
 opening_hours: ""
-website: "https://yocumautomotive.com/"
+website: https://yocumautomotive.com/

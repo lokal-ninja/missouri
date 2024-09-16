@@ -1,11 +1,11 @@
 id: 183323608
-type: way
+type: node
 latitude: 38.41261
 longitude: -90.39568
 postcode: "63010"
 city: Arnold
-street: "Vogel Road"
-housenumber: 3865
-phone: "+1-636-287-1111"
+street: Vogel Road
+housenumber: "3865"
+phone: +1-636-287-1111
 opening_hours: ""
-website: "https://www.homedepot.com/l/Arnold/MO/Arnold/63010/3014"
+website: https://www.homedepot.com/l/Arnold/MO/Arnold/63010/3014

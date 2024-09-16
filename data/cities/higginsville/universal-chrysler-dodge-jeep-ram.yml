@@ -1,11 +1,11 @@
 id: 1034859563
-type: way
+type: node
 latitude: 39.06523
 longitude: -93.73336
 postcode: "64037"
 city: Higginsville
-street: "Highway 13"
-housenumber: 3006
+street: Highway 13
+housenumber: "3006"
 phone: "+16605845000"
 opening_hours: ""
-website: "https://www.universalcdjr.com/"
+website: https://www.universalcdjr.com/

@@ -1,11 +1,11 @@
 id: 736935826
-type: way
+type: node
 latitude: 40.32971
 longitude: -94.87089
 postcode: "64468"
 city: Maryville
-street: "South Main"
-housenumber: 1605
-phone: "+1 660-562-2994"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/801/maryville-mo"
+street: South Main
+housenumber: "1605"
+phone: +1 660-562-2994
+opening_hours: 24/7
+website: https://www.walmart.com/store/801/maryville-mo

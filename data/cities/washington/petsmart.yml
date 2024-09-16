@@ -1,11 +1,11 @@
 id: 479202974
-type: way
+type: node
 latitude: 38.53481
 longitude: -90.98047
 postcode: "63090"
 city: Washington
-street: "Phoenix Center Drive"
-housenumber: 3152
-phone: "+1 636-392-5135"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/mo/washington-store2765.html"
+street: Phoenix Center Drive
+housenumber: "3152"
+phone: +1 636-392-5135
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/mo/washington-store2765.html

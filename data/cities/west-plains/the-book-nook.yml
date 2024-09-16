@@ -1,11 +1,11 @@
 id: 466682829
-type: way
+type: node
 latitude: 36.72924
 longitude: -91.85298
 postcode: "65775"
 city: West Plains
-street: "Washington Avenue"
-housenumber: 203
-phone: "+1-417-257-7962"
-opening_hours: "Tu-Sa 09:00-17:00"
-website: "https://sites.google.com/site/booknookinwestplains/home"
+street: Washington Avenue
+housenumber: "203"
+phone: +1-417-257-7962
+opening_hours: Tu-Sa 09:00-17:00
+website: https://sites.google.com/site/booknookinwestplains/home

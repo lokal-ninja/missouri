@@ -1,11 +1,11 @@
 id: 779436757
-type: way
+type: node
 latitude: 36.87025
 longitude: -94.37057
 postcode: "64850"
 city: Neosho
-street: "North College Street"
-housenumber: 115
+street: North College Street
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

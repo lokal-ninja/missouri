@@ -1,11 +1,11 @@
 id: 674181635
-type: way
+type: node
 latitude: 37.94936
 longitude: -91.77169
 postcode: "65401"
 city: Rolla
-street: "North Pine Street"
-housenumber: 705
+street: North Pine Street
+housenumber: "705"
 phone: ""
 opening_hours: ""
 website: ""

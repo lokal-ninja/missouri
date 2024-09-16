@@ -1,11 +1,11 @@
 id: 1215652587
-type: way
+type: node
 latitude: 39.37405
 longitude: -94.77329
 postcode: "64079"
 city: Platte City
-street: "Knighton Lane"
-housenumber: 15475
+street: Knighton Lane
+housenumber: "15475"
 phone: ""
 opening_hours: ""
 website: ""

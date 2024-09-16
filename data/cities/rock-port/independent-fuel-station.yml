@@ -1,11 +1,11 @@
 id: 544891135
-type: way
+type: node
 latitude: 40.40418
 longitude: -95.5571
 postcode: "64482"
 city: Rock Port
-street: "US Highway 136"
-housenumber: 1306
+street: US Highway 136
+housenumber: "1306"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

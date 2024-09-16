@@ -1,11 +1,11 @@
 id: 330174735
-type: way
+type: node
 latitude: 39.22191
 longitude: -94.57678
 postcode: "64118"
 city: Gladstone
-street: "North Oak Trafficway"
-housenumber: 7012
-phone: "+1-816-436-3532"
-opening_hours: "Mo-Fr 08:00-17:30"
-website: "https://www.tmsauto.com/"
+street: North Oak Trafficway
+housenumber: "7012"
+phone: +1-816-436-3532
+opening_hours: Mo-Fr 08:00-17:30
+website: https://www.tmsauto.com/

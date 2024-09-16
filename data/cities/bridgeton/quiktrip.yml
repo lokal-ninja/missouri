@@ -1,11 +1,11 @@
 id: 776639427
-type: way
+type: node
 latitude: 38.75997
 longitude: -90.43634
 postcode: "63044"
 city: Bridgeton
-street: "Saint Charles Rock Road"
-housenumber: 12700
+street: Saint Charles Rock Road
+housenumber: "12700"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

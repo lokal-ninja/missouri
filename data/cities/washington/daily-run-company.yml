@@ -1,11 +1,11 @@
 id: 494729869
-type: way
+type: node
 latitude: 38.56085
 longitude: -91.01158
 postcode: "63090"
 city: Washington
-street: "West Front Street"
-housenumber: 116
+street: West Front Street
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

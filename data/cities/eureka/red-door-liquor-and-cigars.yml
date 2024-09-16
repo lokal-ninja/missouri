@@ -1,11 +1,11 @@
 id: 404986351
-type: way
+type: node
 latitude: 38.50183
 longitude: -90.6284
 postcode: "63025"
 city: Eureka
-street: "South Central Avenue"
-housenumber: 115
+street: South Central Avenue
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

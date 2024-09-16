@@ -1,11 +1,11 @@
 id: 552413364
-type: way
+type: node
 latitude: 38.06237
 longitude: -91.40723
 postcode: "65453"
 city: Cuba
-street: "West Washington Boulevard"
-housenumber: 511
-phone: "573-885-3641"
+street: West Washington Boulevard
+housenumber: "511"
+phone: 573-885-3641
 opening_hours: ""
 website: ""

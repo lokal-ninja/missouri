@@ -1,11 +1,11 @@
 id: 1095486794
-type: way
+type: node
 latitude: 39.74218
 longitude: -92.46098
 postcode: "63552"
 city: Macon
-street: "Walnut Street"
-housenumber: 818
+street: Walnut Street
+housenumber: "818"
 phone: ""
 opening_hours: ""
 website: ""

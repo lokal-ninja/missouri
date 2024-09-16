@@ -1,11 +1,11 @@
 id: 616049313
-type: way
+type: node
 latitude: 37.09287
 longitude: -94.47526
 postcode: "64801"
 city: Joplin
-street: "North Rangleline Rd"
-housenumber: 101
+street: North Rangleline Rd
+housenumber: "101"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-18:00"
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-18:00
 website: ""

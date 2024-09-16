@@ -1,11 +1,11 @@
 id: 1150884703
-type: way
+type: node
 latitude: 38.28731
 longitude: -90.40601
 postcode: ""
 city: Pevely
-street: "Highway Z"
-housenumber: 1707
+street: Highway Z
+housenumber: "1707"
 phone: ""
 opening_hours: ""
 website: ""

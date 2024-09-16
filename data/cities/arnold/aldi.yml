@@ -1,11 +1,11 @@
 id: 245885197
-type: way
+type: node
 latitude: 38.43978
 longitude: -90.38001
 postcode: "63010"
 city: Arnold
-street: "Michigan Avenue"
-housenumber: 2154
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/mo/arnold/2154-michigan-avenue"
+street: Michigan Avenue
+housenumber: "2154"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/mo/arnold/2154-michigan-avenue

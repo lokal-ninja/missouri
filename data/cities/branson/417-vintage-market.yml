@@ -1,11 +1,11 @@
 id: 263823653
-type: way
+type: node
 latitude: 36.64477
 longitude: -93.21688
 postcode: "65616"
 city: Branson
-street: "North Commercial Street"
-housenumber: 114
+street: North Commercial Street
+housenumber: "114"
 phone: ""
 opening_hours: ""
 website: ""

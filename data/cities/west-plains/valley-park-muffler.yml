@@ -1,11 +1,11 @@
 id: 543925975
-type: way
+type: node
 latitude: 36.71764
 longitude: -91.87668
 postcode: "65775"
 city: West Plains
-street: "County Road 6460"
-housenumber: 1763
-phone: "(417) 257-2012"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: County Road 6460
+housenumber: "1763"
+phone: (417) 257-2012
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

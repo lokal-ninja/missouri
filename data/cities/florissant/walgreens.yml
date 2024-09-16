@@ -1,11 +1,11 @@
 id: 615921313
-type: way
+type: node
 latitude: 38.8042
 longitude: -90.3628
 postcode: "63031"
 city: Florissant
-street: "Howdershell Road"
-housenumber: 500
+street: Howdershell Road
+housenumber: "500"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-500+howdershell+rd-florissant-mo-63031/id=5749"
+website: https://www.walgreens.com/locator/walgreens-500+howdershell+rd-florissant-mo-63031/id=5749

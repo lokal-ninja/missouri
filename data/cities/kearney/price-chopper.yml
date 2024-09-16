@@ -1,11 +1,11 @@
 id: 589553390
-type: way
+type: node
 latitude: 39.36526
 longitude: -94.369
 postcode: "64060"
 city: Kearney
-street: "Watson Drive"
-housenumber: 701
+street: Watson Drive
+housenumber: "701"
 phone: ""
-opening_hours: "06:00-23:00"
-website: "https://www.mypricechopper.com/?PreferredStoreId=109"
+opening_hours: 06:00-23:00
+website: https://www.mypricechopper.com/?PreferredStoreId=109

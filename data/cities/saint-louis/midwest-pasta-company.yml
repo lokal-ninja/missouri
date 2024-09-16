@@ -1,11 +1,11 @@
 id: 451783052
-type: way
+type: node
 latitude: 38.593
 longitude: -90.2217
 postcode: "63118"
 city: Saint Louis
-street: "Cherokee Street"
-housenumber: 2023
-phone: "+1 (314) 772-7560"
-opening_hours: "Mo-Sa 10:00-15:00"
-website: "https://www.midwestpastaco.com"
+street: Cherokee Street
+housenumber: "2023"
+phone: +1 (314) 772-7560
+opening_hours: Mo-Sa 10:00-15:00
+website: https://www.midwestpastaco.com

@@ -1,11 +1,11 @@
 id: 351154844
-type: way
+type: node
 latitude: 38.78292
 longitude: -90.48039
 postcode: "63301"
 city: Saint Charles
-street: "North Main Street"
-housenumber: 230
+street: North Main Street
+housenumber: "230"
 phone: ""
 opening_hours: ""
 website: ""

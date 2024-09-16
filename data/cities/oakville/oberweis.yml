@@ -1,11 +1,11 @@
 id: 924600681
-type: way
+type: node
 latitude: 38.47825
 longitude: -90.30401
 postcode: "63129"
 city: Oakville
-street: "Telegraph Road"
-housenumber: 4590
-phone: "+1 314 416 9600"
-opening_hours: "Su-Th 09:00-22:00; Fr-Sa 09:00-23:00"
-website: "https://www.oberweis.com/ice-cream-and-dairy-stores/Oakville"
+street: Telegraph Road
+housenumber: "4590"
+phone: +1 314 416 9600
+opening_hours: Su-Th 09:00-22:00; Fr-Sa 09:00-23:00
+website: https://www.oberweis.com/ice-cream-and-dairy-stores/Oakville

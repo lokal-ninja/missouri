@@ -1,11 +1,11 @@
 id: 253752739
-type: way
+type: node
 latitude: 38.57555
 longitude: -92.17064
 postcode: ""
 city: Jefferson City
-street: "East High Street"
-housenumber: 218
-phone: "573 635-0250"
+street: East High Street
+housenumber: "218"
+phone: 573 635-0250
 opening_hours: ""
-website: "https://www.fullspectrumphotoaudio.com/"
+website: https://www.fullspectrumphotoaudio.com/

@@ -1,11 +1,11 @@
 id: 561109376
-type: way
+type: node
 latitude: 38.62865
 longitude: -90.3396
 postcode: "63144"
 city: Brentwood
-street: "Eager Road"
-housenumber: 8404
-phone: "+1 314-963-3247"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
+street: Eager Road
+housenumber: "8404"
+phone: +1 314-963-3247
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
 website: ""

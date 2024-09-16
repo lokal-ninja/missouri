@@ -1,11 +1,11 @@
 id: 556375484
-type: way
+type: node
 latitude: 39.10753
 longitude: -93.19535
 postcode: "65340"
 city: Marshall
-street: "South Odell Avenue"
-housenumber: 1267
+street: South Odell Avenue
+housenumber: "1267"
 phone: ""
-opening_hours: "06:00-23:00"
+opening_hours: 06:00-23:00
 website: ""

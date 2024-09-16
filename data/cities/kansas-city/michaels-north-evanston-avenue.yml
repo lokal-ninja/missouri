@@ -1,11 +1,11 @@
 id: 512196565
-type: way
+type: node
 latitude: 39.24764
 longitude: -94.45889
 postcode: "64157"
 city: Kansas City
-street: "North Evanston Avenue"
-housenumber: 8531
-phone: "+1 816-407-9249"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/mo/kansas-city/2748/"
+street: North Evanston Avenue
+housenumber: "8531"
+phone: +1 816-407-9249
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/mo/kansas-city/2748/

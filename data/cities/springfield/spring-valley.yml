@@ -1,11 +1,11 @@
 id: 502973958
-type: way
+type: node
 latitude: 37.18321
 longitude: -93.26191
 postcode: "65804"
 city: Springfield
-street: "South Glenstone Avenue"
-housenumber: 1738
+street: South Glenstone Avenue
+housenumber: "1738"
 phone: ""
 opening_hours: ""
 website: ""

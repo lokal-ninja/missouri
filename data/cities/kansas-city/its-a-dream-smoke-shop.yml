@@ -1,11 +1,11 @@
 id: 444305795
-type: way
+type: node
 latitude: 39.05511
 longitude: -94.59135
 postcode: "64111"
 city: Kansas City
-street: "Broadway Boulevard"
-housenumber: 3942
+street: Broadway Boulevard
+housenumber: "3942"
 phone: ""
-opening_hours: "Mo-Th 09:30-23:00; Fr,Sa 09:30-24:00; Su 10:00-22:00"
+opening_hours: Mo-Th 09:30-23:00; Fr,Sa 09:30-24:00; Su 10:00-22:00
 website: ""

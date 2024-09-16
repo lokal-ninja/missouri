@@ -1,11 +1,11 @@
 id: 488038830
-type: way
+type: node
 latitude: 38.50487
 longitude: -90.6492
 postcode: "63025"
 city: Eureka
-street: "West 5th Street"
-housenumber: 1321
+street: West 5th Street
+housenumber: "1321"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/mo/eureka/autoparts-2028.html"
+website: https://locations.oreillyauto.com/mo/eureka/autoparts-2028.html

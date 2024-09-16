@@ -1,11 +1,11 @@
 id: 619100997
-type: way
+type: node
 latitude: 38.58925
 longitude: -90.24416
 postcode: "63118"
 city: Saint Louis
-street: "South Grand Boulevard"
-housenumber: 3722
+street: South Grand Boulevard
+housenumber: "3722"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 559286604
-type: way
+type: node
 latitude: 36.61803
 longitude: -93.22909
 postcode: "65672"
 city: Hollister
-street: "South Business 65"
-housenumber: 2949
-phone: "+1 417-334-4428"
-opening_hours: "Mo-Sa 08:00-20:00, Su 09:00 - 19:00"
-website: "https://www.tractorsupply.com"
+street: South Business 65
+housenumber: "2949"
+phone: +1 417-334-4428
+opening_hours: Mo-Sa 08:00-20:00, Su 09:00 - 19:00
+website: https://www.tractorsupply.com

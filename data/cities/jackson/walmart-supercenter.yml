@@ -1,11 +1,11 @@
 id: 669863558
-type: way
+type: node
 latitude: 37.36257
 longitude: -89.63529
 postcode: "63755"
 city: Jackson
-street: "East Jackson Boulevard"
-housenumber: 3051
-phone: "+1 573-243-3909"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/122/jackson-mo/whats-new"
+street: East Jackson Boulevard
+housenumber: "3051"
+phone: +1 573-243-3909
+opening_hours: 24/7
+website: https://www.walmart.com/store/122/jackson-mo/whats-new

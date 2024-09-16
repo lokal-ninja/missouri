@@ -1,11 +1,11 @@
 id: 1110333700
-type: way
+type: node
 latitude: 38.07919
 longitude: -92.69162
 postcode: "65052"
 city: Linn Creek
-street: "North Frontage Road"
-housenumber: 140
+street: North Frontage Road
+housenumber: "140"
 phone: ""
 opening_hours: ""
 website: ""

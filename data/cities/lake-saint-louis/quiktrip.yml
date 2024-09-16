@@ -1,11 +1,11 @@
 id: 682301024
-type: way
+type: node
 latitude: 38.7622
 longitude: -90.78595
 postcode: "63367"
 city: Lake Saint Louis
-street: "Route N"
-housenumber: 8334
+street: Route N
+housenumber: "8334"
 phone: ""
 opening_hours: ""
 website: ""

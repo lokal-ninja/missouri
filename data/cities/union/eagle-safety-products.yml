@@ -1,11 +1,11 @@
 id: 659091101
-type: way
+type: node
 latitude: 38.43432
 longitude: -90.97785
 postcode: "63084"
 city: Union
-street: "Old Hwy 50 East"
-housenumber: 1315
+street: Old Hwy 50 East
+housenumber: "1315"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 303122923
-type: way
+type: node
 latitude: 38.53715
 longitude: -91.0015
 postcode: "63090"
 city: Washington
-street: "Route 100"
-housenumber: 5886
+street: Route 100
+housenumber: "5886"
 phone: ""
 opening_hours: ""
 website: ""

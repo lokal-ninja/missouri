@@ -1,11 +1,11 @@
 id: 467271131
-type: way
+type: node
 latitude: 36.72906
 longitude: -91.85246
 postcode: "65775"
 city: West Plains
-street: "Washington Avenue"
-housenumber: 114
-phone: "+1-417-256-7464"
-opening_hours: "Mo-Fr 10:00-18:00, Sa 10:00-15:00"
-website: "jewelershowcase.com"
+street: Washington Avenue
+housenumber: "114"
+phone: +1-417-256-7464
+opening_hours: Mo-Fr 10:00-18:00, Sa 10:00-15:00
+website: jewelershowcase.com

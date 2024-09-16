@@ -1,11 +1,11 @@
 id: 861150355
-type: way
+type: node
 latitude: 38.47657
 longitude: -91.83795
 postcode: "65051"
 city: Linn
-street: "East Main Street"
-housenumber: 1205
+street: East Main Street
+housenumber: "1205"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-20:00"
-website: "https://www.dollartree.com/locations/mo/linn/8025/"
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-20:00
+website: https://www.dollartree.com/locations/mo/linn/8025/

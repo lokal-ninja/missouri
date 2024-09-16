@@ -1,11 +1,11 @@
 id: 1017854971
-type: way
+type: node
 latitude: 39.07565
 longitude: -94.60603
 postcode: "64108"
 city: Kansas City
-street: "West 29th Street"
-housenumber: 1700
-phone: "+1-800-333-4554"
+street: West 29th Street
+housenumber: "1700"
+phone: +1-800-333-4554
 opening_hours: ""
-website: "https://www.carvana.com/cars/in-kansas-city-ks"
+website: https://www.carvana.com/cars/in-kansas-city-ks

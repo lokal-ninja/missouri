@@ -1,11 +1,11 @@
 id: 682454700
-type: way
+type: node
 latitude: 38.73491
 longitude: -90.6907
 postcode: "63368"
 city: O'Fallon
-street: "O'Fallon Road"
-housenumber: 1750
+street: O'Fallon Road
+housenumber: "1750"
 phone: ""
 opening_hours: ""
 website: ""

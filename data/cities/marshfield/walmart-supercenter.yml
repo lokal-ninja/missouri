@@ -1,11 +1,11 @@
 id: 450284738
-type: way
+type: node
 latitude: 37.33738
 longitude: -92.93912
 postcode: "65706"
 city: Marshfield
-street: "State Highway 38"
-housenumber: 14740
-phone: "+1 417-468-6116"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/78/marshfield-mo/whats-new"
+street: State Highway 38
+housenumber: "14740"
+phone: +1 417-468-6116
+opening_hours: 24/7
+website: https://www.walmart.com/store/78/marshfield-mo/whats-new

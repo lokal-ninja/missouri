@@ -1,11 +1,11 @@
 id: 573396532
-type: way
+type: node
 latitude: 39.24272
 longitude: -94.47853
 postcode: "64158"
 city: Kansas City
-street: "North Booth Avenue"
-housenumber: 8250
+street: North Booth Avenue
+housenumber: "8250"
 phone: ""
 opening_hours: ""
-website: "https://aspensalonandspa.com/newsite/locations/sc.html"
+website: https://aspensalonandspa.com/newsite/locations/sc.html

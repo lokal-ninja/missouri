@@ -1,11 +1,11 @@
 id: 273307164
-type: way
+type: node
 latitude: 38.78467
 longitude: -90.50231
 postcode: "63301"
 city: Saint Charles
-street: "First Capitol Drive"
-housenumber: 1813
+street: First Capitol Drive
+housenumber: "1813"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/mo/saint-charles/1813-1st-capitol-dr.html"
+website: https://www.autozone.com/locations/mo/saint-charles/1813-1st-capitol-dr.html

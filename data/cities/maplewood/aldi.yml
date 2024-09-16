@@ -1,11 +1,11 @@
 id: 374780967
-type: way
+type: node
 latitude: 38.61372
 longitude: -90.32773
 postcode: "63143"
 city: Maplewood
-street: "Manchester Road"
-housenumber: 7725
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/mo/maplewood/7725-manchester-road"
+street: Manchester Road
+housenumber: "7725"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/mo/maplewood/7725-manchester-road

@@ -1,11 +1,11 @@
 id: 512198433
-type: way
+type: node
 latitude: 39.24759
 longitude: -94.46057
 postcode: "64157"
 city: Kansas City
-street: "North Evanston Avenue"
-housenumber: 8510
+street: North Evanston Avenue
+housenumber: "8510"
 phone: ""
 opening_hours: ""
 website: ""

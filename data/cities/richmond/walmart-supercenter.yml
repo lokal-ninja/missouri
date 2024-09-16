@@ -1,11 +1,11 @@
 id: 544945760
-type: way
+type: node
 latitude: 39.26288
 longitude: -93.96291
 postcode: "64085"
 city: Richmond
-street: "Walton Way"
-housenumber: 908
-phone: "+1 816-776-5834"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/325/richmond-mo/whats-new"
+street: Walton Way
+housenumber: "908"
+phone: +1 816-776-5834
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/325/richmond-mo/whats-new

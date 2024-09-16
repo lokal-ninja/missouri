@@ -1,11 +1,11 @@
 id: 660879669
-type: way
+type: node
 latitude: 38.60394
 longitude: -90.58439
 postcode: "63011"
 city: Ellisville
-street: "Clayton Road"
-housenumber: 15892
+street: Clayton Road
+housenumber: "15892"
 phone: ""
 opening_hours: ""
 website: ""

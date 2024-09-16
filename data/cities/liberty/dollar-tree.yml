@@ -1,11 +1,11 @@
 id: 512696246
-type: way
+type: node
 latitude: 39.23597
 longitude: -94.43587
 postcode: "64068"
 city: Liberty
-street: "MO 291"
-housenumber: 894
+street: MO 291
+housenumber: "894"
 phone: ""
 opening_hours: ""
-website: "https://www.dollartree.com/locations/mo/liberty/3796/"
+website: https://www.dollartree.com/locations/mo/liberty/3796/

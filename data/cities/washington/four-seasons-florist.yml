@@ -1,11 +1,11 @@
 id: 496767218
-type: way
+type: node
 latitude: 38.56002
 longitude: -91.01451
 postcode: "63090"
 city: Washington
-street: "Elm Street"
-housenumber: 211
+street: Elm Street
+housenumber: "211"
 phone: ""
 opening_hours: ""
 website: ""

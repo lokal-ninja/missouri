@@ -1,11 +1,11 @@
 id: 1014587303
-type: way
+type: node
 latitude: 37.05799
 longitude: -94.51448
 postcode: "64804"
 city: Joplin
-street: "South Main Street"
-housenumber: 2917
-phone: "+1-417-621-0901"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-16:00"
-website: "https://vbarbershop.com/locations/joplin/"
+street: South Main Street
+housenumber: "2917"
+phone: +1-417-621-0901
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-16:00
+website: https://vbarbershop.com/locations/joplin/

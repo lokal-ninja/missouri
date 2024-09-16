@@ -1,11 +1,11 @@
 id: 584661271
-type: way
+type: node
 latitude: 38.68875
 longitude: -90.35503
 postcode: "63114"
 city: Overland
-street: "Page Avenue"
-housenumber: 8901
-phone: "+1 314-733-1534"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/overland/mo/overland/63114/3037"
+street: Page Avenue
+housenumber: "8901"
+phone: +1 314-733-1534
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/overland/mo/overland/63114/3037

@@ -1,11 +1,11 @@
 id: 547976847
-type: way
+type: node
 latitude: 38.79686
 longitude: -90.58972
 postcode: "63376"
 city: Saint Peters
-street: "Veterans Memorial Parkway"
-housenumber: 4953
-phone: "+1 888-389-6560"
-opening_hours: "Mo,We,Fr 08:30-21:00; Tu,Th,Sa 08:30-18:00; Su off"
-website: "https://www.maseratistl.com/"
+street: Veterans Memorial Parkway
+housenumber: "4953"
+phone: +1 888-389-6560
+opening_hours: Mo,We,Fr 08:30-21:00; Tu,Th,Sa 08:30-18:00; Su off
+website: https://www.maseratistl.com/

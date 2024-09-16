@@ -1,11 +1,11 @@
 id: 510787585
-type: way
+type: node
 latitude: 37.21204
 longitude: -93.2367
 postcode: "65802"
 city: Springfield
-street: "North Prince Lane"
-housenumber: 525
-phone: "417-831-7222"
+street: North Prince Lane
+housenumber: "525"
+phone: 417-831-7222
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1009668890
-type: way
+type: node
 latitude: 37.12588
 longitude: -93.46517
 postcode: "65738"
 city: Republic
-street: "US Hwy 60 East"
-housenumber: 1013
-phone: "+1 417 732 4212"
+street: US Hwy 60 East
+housenumber: "1013"
+phone: +1 417 732 4212
 opening_hours: ""
-website: "https://www.pricecutteronline.com/"
+website: https://www.pricecutteronline.com/

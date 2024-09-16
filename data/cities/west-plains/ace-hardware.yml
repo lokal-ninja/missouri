@@ -4,8 +4,8 @@ latitude: 36.7123
 longitude: -91.87771
 postcode: "65775"
 city: West Plains
-street: "Mitchell Road"
-housenumber: 1401
-phone: "+1 417-256-3303"
-opening_hours: "Mo-Sa 07:30-20:00; Su 09:00-18:00"
-website: "https://www.acehardware.com/mystore/index.jsp"
+street: Mitchell Road
+housenumber: "1401"
+phone: +1 417-256-3303
+opening_hours: Mo-Sa 07:30-20:00; Su 09:00-18:00
+website: https://www.acehardware.com/mystore/index.jsp

@@ -1,11 +1,11 @@
 id: 503620367
-type: way
+type: node
 latitude: 37.13189
 longitude: -93.30045
 postcode: "65810"
 city: Springfield
-street: "West El Camino Alto Drive"
-housenumber: 610
+street: West El Camino Alto Drive
+housenumber: "610"
 phone: ""
 opening_hours: ""
-website: "https://www.academy.com/storelocator/missouri/springfield/store-0117"
+website: https://www.academy.com/storelocator/missouri/springfield/store-0117

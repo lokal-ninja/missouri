@@ -1,11 +1,11 @@
 id: 526261015
-type: way
+type: node
 latitude: 38.67396
 longitude: -90.38863
 postcode: "63132"
 city: Olivette
-street: "Olive Boulevard"
-housenumber: 9643
+street: Olive Boulevard
+housenumber: "9643"
 phone: ""
 opening_hours: ""
-website: "https://shaneco.com/"
+website: https://shaneco.com/

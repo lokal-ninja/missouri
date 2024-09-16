@@ -1,11 +1,11 @@
 id: 669201172
-type: way
+type: node
 latitude: 38.02503
 longitude: -92.72258
 postcode: "65020"
 city: Camdenton
-street: "Cecil Street"
-housenumber: 94
+street: Cecil Street
+housenumber: "94"
 phone: ""
 opening_hours: ""
 website: ""

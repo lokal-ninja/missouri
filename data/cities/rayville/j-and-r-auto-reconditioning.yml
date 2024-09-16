@@ -1,11 +1,11 @@
 id: 1307409342
-type: way
+type: node
 latitude: 39.40719
 longitude: -94.09007
 postcode: "64084"
 city: Rayville
-street: "West 174th Street"
-housenumber: 35902
+street: West 174th Street
+housenumber: "35902"
 phone: ""
 opening_hours: ""
 website: ""

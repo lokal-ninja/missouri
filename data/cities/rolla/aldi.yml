@@ -1,11 +1,11 @@
 id: 507061220
-type: way
+type: node
 latitude: 37.93122
 longitude: -91.78
 postcode: "65401"
 city: Rolla
-street: "Aldi Drive"
-housenumber: 700
+street: Aldi Drive
+housenumber: "700"
 phone: ""
 opening_hours: ""
 website: ""

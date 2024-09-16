@@ -1,11 +1,11 @@
 id: 681705543
-type: way
+type: node
 latitude: 38.79847
 longitude: -90.65569
 postcode: "63376"
 city: Saint Peters
-street: "Salt Lick Road"
-housenumber: 299
+street: Salt Lick Road
+housenumber: "299"
 phone: ""
 opening_hours: ""
 website: ""

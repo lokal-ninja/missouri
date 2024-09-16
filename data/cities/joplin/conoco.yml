@@ -1,11 +1,11 @@
 id: 1014270167
-type: way
+type: node
 latitude: 37.06086
 longitude: -94.51508
 postcode: "64804"
 city: Joplin
-street: "South Main Street"
-housenumber: 2702
+street: South Main Street
+housenumber: "2702"
 phone: ""
 opening_hours: ""
 website: ""

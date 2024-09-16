@@ -1,11 +1,11 @@
 id: 611327556
-type: way
+type: node
 latitude: 37.63667
 longitude: -91.52054
 postcode: "65560"
 city: Salem
-street: "MO 32"
-housenumber: 1204
+street: MO 32
+housenumber: "1204"
 phone: ""
 opening_hours: ""
 website: ""

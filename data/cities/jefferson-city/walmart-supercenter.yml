@@ -1,11 +1,11 @@
 id: 204895647
-type: way
+type: node
 latitude: 38.58077
 longitude: -92.22069
 postcode: "65109"
 city: Jefferson City
-street: "Stadium West Boulevard"
-housenumber: 724
-phone: "+1 573-635-8283"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/29-jefferson-city-mo"
+street: Stadium West Boulevard
+housenumber: "724"
+phone: +1 573-635-8283
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/29-jefferson-city-mo

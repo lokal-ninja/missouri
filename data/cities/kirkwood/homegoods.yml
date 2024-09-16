@@ -1,11 +1,11 @@
 id: 388119017
-type: way
+type: node
 latitude: 38.56609
 longitude: -90.40455
 postcode: "63122"
 city: Kirkwood
-street: "South Kirkwood Road"
-housenumber: 1040
-phone: "+1 314-965-5290"
-opening_hours: "09:00-22:00"
-website: "https://www.homegoods.com/tjx/store.aspx?id=228"
+street: South Kirkwood Road
+housenumber: "1040"
+phone: +1 314-965-5290
+opening_hours: 09:00-22:00
+website: https://www.homegoods.com/tjx/store.aspx?id=228

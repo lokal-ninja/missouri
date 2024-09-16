@@ -1,11 +1,11 @@
 id: 679036649
-type: way
+type: node
 latitude: 38.14957
 longitude: -92.61671
 postcode: "65065"
 city: Osage Beach
-street: "Osage Beach Parkway"
-housenumber: 4252
-phone: "+1 573-348-6445"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/815/osage-beach-mo/whats-new"
+street: Osage Beach Parkway
+housenumber: "4252"
+phone: +1 573-348-6445
+opening_hours: 24/7
+website: https://www.walmart.com/store/815/osage-beach-mo/whats-new

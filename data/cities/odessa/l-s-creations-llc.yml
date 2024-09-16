@@ -1,11 +1,11 @@
 id: 1214591920
-type: way
+type: node
 latitude: 38.94151
 longitude: -93.93293
 postcode: "64076"
 city: Odessa
-street: "Mount Tabor Road"
-housenumber: 9761
-phone: "+1-816-698-9440"
+street: Mount Tabor Road
+housenumber: "9761"
+phone: +1-816-698-9440
 opening_hours: ""
 website: ""

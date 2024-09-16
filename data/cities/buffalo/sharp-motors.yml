@@ -1,11 +1,11 @@
 id: 925273127
-type: way
+type: node
 latitude: 37.63559
 longitude: -93.10405
 postcode: "65622"
 city: Buffalo
-street: "S Ash"
-housenumber: 846
+street: S Ash
+housenumber: "846"
 phone: ""
 opening_hours: ""
 website: ""

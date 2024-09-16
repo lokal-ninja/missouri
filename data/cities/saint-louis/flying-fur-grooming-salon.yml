@@ -1,11 +1,11 @@
 id: 1155872880
-type: way
+type: node
 latitude: 38.60874
 longitude: -90.22951
 postcode: "63104"
 city: Saint Louis
-street: "Nebraska Avenue"
-housenumber: 2249
+street: Nebraska Avenue
+housenumber: "2249"
 phone: ""
 opening_hours: ""
 website: ""

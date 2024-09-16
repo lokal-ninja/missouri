@@ -1,11 +1,11 @@
 id: 510890638
-type: way
+type: node
 latitude: 39.22496
 longitude: -94.54929
 postcode: "64118"
 city: Gladstone
-street: "Northeast 72nd Street"
-housenumber: 2590
+street: Northeast 72nd Street
+housenumber: "2590"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 674566068
-type: way
+type: node
 latitude: 38.81288
 longitude: -90.87283
 postcode: "63385"
 city: Wentzville
-street: "Jiffy Street"
-housenumber: 11
-phone: "636-332-9671"
+street: Jiffy Street
+housenumber: "11"
+phone: 636-332-9671
 opening_hours: ""
-website: "https://www.jiffylube.com/locations/mo/wentzville/2918"
+website: https://www.jiffylube.com/locations/mo/wentzville/2918

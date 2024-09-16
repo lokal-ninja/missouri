@@ -1,11 +1,11 @@
 id: 157097221
-type: way
+type: node
 latitude: 38.71557
 longitude: -90.45617
 postcode: "63043"
 city: Maryland Heights
-street: "Dorsett Road"
-housenumber: 2030
-phone: "314-434-3147"
-opening_hours: "24/7"
+street: Dorsett Road
+housenumber: "2030"
+phone: 314-434-3147
+opening_hours: 24/7
 website: ""

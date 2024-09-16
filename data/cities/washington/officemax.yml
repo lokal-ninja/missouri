@@ -1,11 +1,11 @@
 id: 477416951
-type: way
+type: node
 latitude: 38.53797
 longitude: -90.99939
 postcode: "63090"
 city: Washington
-street: "Washington Heights Drive"
-housenumber: 93
+street: Washington Heights Drive
+housenumber: "93"
 phone: ""
 opening_hours: ""
 website: ""

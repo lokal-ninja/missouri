@@ -1,11 +1,11 @@
 id: 253793915
-type: way
+type: node
 latitude: 39.07442
 longitude: -94.60529
 postcode: "64108"
 city: Kansas City
-street: "Southwest Boulevard"
-housenumber: 3000
+street: Southwest Boulevard
+housenumber: "3000"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 501126982
-type: way
+type: node
 latitude: 39.06535
 longitude: -94.59008
 postcode: "64111"
 city: Kansas City
-street: "Broadway Boulevard"
-housenumber: 3400
+street: Broadway Boulevard
+housenumber: "3400"
 phone: ""
 opening_hours: ""
 website: ""

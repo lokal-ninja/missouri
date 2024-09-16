@@ -1,11 +1,11 @@
 id: 677336595
-type: way
+type: node
 latitude: 37.9816
 longitude: -91.71949
 postcode: "65401"
 city: Rolla
-street: "Hy Point Industrial Park Drive"
-housenumber: 3500
+street: Hy Point Industrial Park Drive
+housenumber: "3500"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.loves.com/locations/341"
+opening_hours: 24/7
+website: https://www.loves.com/locations/341

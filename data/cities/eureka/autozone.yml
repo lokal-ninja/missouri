@@ -1,11 +1,11 @@
 id: 488038827
-type: way
+type: node
 latitude: 38.50497
 longitude: -90.65399
 postcode: "63025"
 city: Eureka
-street: "West 5th Street"
-housenumber: 1443
+street: West 5th Street
+housenumber: "1443"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/mo/eureka/1443-w-5th-st.html"
+website: https://www.autozone.com/locations/mo/eureka/1443-w-5th-st.html

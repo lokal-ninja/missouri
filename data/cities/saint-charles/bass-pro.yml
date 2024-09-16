@@ -1,11 +1,11 @@
 id: 417357648
-type: way
+type: node
 latitude: 38.77111
 longitude: -90.49804
 postcode: "63301"
 city: Saint Charles
-street: "South 5th Street"
-housenumber: 1365
-phone: "636-688-2500"
+street: South 5th Street
+housenumber: "1365"
+phone: 636-688-2500
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 857004033
-type: way
+type: node
 latitude: 38.61096
 longitude: -90.27311
 postcode: "63110"
 city: Saint Louis
-street: "Southwest Avenue"
-housenumber: 5136
+street: Southwest Avenue
+housenumber: "5136"
 phone: "+13142410700"
-opening_hours: "Mo-Fr 07:00-17:00"
-website: "https://www.coderedsafety.com/"
+opening_hours: Mo-Fr 07:00-17:00
+website: https://www.coderedsafety.com/

@@ -1,11 +1,11 @@
 id: 512196564
-type: way
+type: node
 latitude: 39.24764
 longitude: -94.45932
 postcode: "64157"
 city: Kansas City
-street: "North Evanston Avenue"
-housenumber: 8501
-phone: "+1 816-415-0627"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://www.officedepot.com/storelocator/mo/kansas-city/office-depot-2167"
+street: North Evanston Avenue
+housenumber: "8501"
+phone: +1 816-415-0627
+opening_hours: Mo-Fr 08:00-20:00; Sa 10:00-19:00; Su 11:00-18:00
+website: https://www.officedepot.com/storelocator/mo/kansas-city/office-depot-2167

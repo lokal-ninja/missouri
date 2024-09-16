@@ -1,11 +1,11 @@
 id: 245685047
-type: way
+type: node
 latitude: 38.5032
 longitude: -90.45534
 postcode: "63026"
 city: Fenton
-street: "Gravois Bluffs Boulevard"
-housenumber: 798
+street: Gravois Bluffs Boulevard
+housenumber: "798"
 phone: "+16362039338"
 opening_hours: ""
-website: "http://www.jcp.com/"
+website: http://www.jcp.com/

@@ -1,11 +1,11 @@
 id: 195650498
-type: way
+type: node
 latitude: 39.0519
 longitude: -94.41619
 postcode: "64055"
 city: Independence
-street: "South Noland Road"
-housenumber: 3750
+street: South Noland Road
+housenumber: "3750"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-18:00"
-website: "https://stores.advanceautoparts.com/mo/independence/3750-s-noland-rd"
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-18:00
+website: https://stores.advanceautoparts.com/mo/independence/3750-s-noland-rd

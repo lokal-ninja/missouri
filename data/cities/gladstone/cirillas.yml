@@ -1,11 +1,11 @@
 id: 334582235
-type: way
+type: node
 latitude: 39.20496
 longitude: -94.57685
 postcode: "64118"
 city: Gladstone
-street: "North Oak Trafficway"
-housenumber: 6100
-phone: "+1-816-453-6887"
-opening_hours: "Su 12:00-22:00; Mo-Sa 10:00-22:00"
-website: "https://www.cirillas.com/store/#gladstone-mo-9120"
+street: North Oak Trafficway
+housenumber: "6100"
+phone: +1-816-453-6887
+opening_hours: Su 12:00-22:00; Mo-Sa 10:00-22:00
+website: https://www.cirillas.com/store/#gladstone-mo-9120

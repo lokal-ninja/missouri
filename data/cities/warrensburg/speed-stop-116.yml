@@ -1,11 +1,11 @@
 id: 718041307
-type: way
+type: node
 latitude: 38.76305
 longitude: -93.74122
 postcode: "64093"
 city: Warrensburg
-street: "West Pine Street"
-housenumber: 116
+street: West Pine Street
+housenumber: "116"
 phone: ""
 opening_hours: ""
-website: "https://facebook.com/speedstop116"
+website: https://facebook.com/speedstop116

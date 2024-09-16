@@ -1,11 +1,11 @@
 id: 1137615403
-type: way
+type: node
 latitude: 39.01238
 longitude: -94.12371
 postcode: "64075"
 city: Oak Grove
-street: "Southeast 4th Street"
-housenumber: 501
+street: Southeast 4th Street
+housenumber: "501"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.dollartree.com/locations/mo/oak-grove/7624/"
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.dollartree.com/locations/mo/oak-grove/7624/

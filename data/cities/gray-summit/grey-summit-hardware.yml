@@ -1,11 +1,11 @@
 id: 570823910
-type: way
+type: node
 latitude: 38.49161
 longitude: -90.81546
 postcode: "63039"
 city: Gray Summit
-street: "Highway 100"
-housenumber: 2625
+street: Highway 100
+housenumber: "2625"
 phone: ""
 opening_hours: ""
 website: ""

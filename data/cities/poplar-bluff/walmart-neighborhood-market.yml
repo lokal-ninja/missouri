@@ -1,11 +1,11 @@
 id: 590897568
-type: way
+type: node
 latitude: 36.78997
 longitude: -90.44015
 postcode: "63901"
 city: Poplar Bluff
-street: "Oak Grove Road"
-housenumber: 3001
-phone: "+1 573-772-7164"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/7127/poplar-bluff-mo/whats-new"
+street: Oak Grove Road
+housenumber: "3001"
+phone: +1 573-772-7164
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/7127/poplar-bluff-mo/whats-new

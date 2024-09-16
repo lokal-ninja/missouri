@@ -1,11 +1,11 @@
 id: 490620227
-type: way
+type: node
 latitude: 38.54618
 longitude: -90.98837
 postcode: "63090"
 city: Washington
-street: "East 5th Street"
-housenumber: 1800
+street: East 5th Street
+housenumber: "1800"
 phone: ""
 opening_hours: ""
 website: ""

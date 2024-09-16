@@ -1,11 +1,11 @@
 id: 587783992
-type: way
+type: node
 latitude: 37.2103
 longitude: -93.34633
 postcode: "65802"
 city: Springfield
-street: "North Nolting Avenue"
-housenumber: 335
+street: North Nolting Avenue
+housenumber: "335"
 phone: ""
 opening_hours: ""
 website: ""

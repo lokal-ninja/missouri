@@ -1,11 +1,11 @@
 id: 496544536
-type: way
+type: node
 latitude: 38.5513
 longitude: -90.99907
 postcode: "63090"
 city: Washington
-street: "Washington Avenue"
-housenumber: 320
+street: Washington Avenue
+housenumber: "320"
 phone: ""
 opening_hours: ""
 website: ""

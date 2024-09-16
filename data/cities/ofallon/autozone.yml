@@ -1,11 +1,11 @@
 id: 666011812
-type: way
+type: node
 latitude: 38.79647
 longitude: -90.69939
 postcode: "63366"
 city: O'Fallon
-street: "Highway K"
-housenumber: 1104
-phone: "636-980-1756"
+street: Highway K
+housenumber: "1104"
+phone: 636-980-1756
 opening_hours: ""
-website: "https://www.autozone.com/locations/mo/o-fallon/1104-hwy-k.html"
+website: https://www.autozone.com/locations/mo/o-fallon/1104-hwy-k.html

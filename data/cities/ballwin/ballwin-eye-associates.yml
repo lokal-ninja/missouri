@@ -1,11 +1,11 @@
 id: 461179665
-type: way
+type: node
 latitude: 38.59222
 longitude: -90.54906
 postcode: ""
 city: Ballwin
-street: "Ramsey Ln"
-housenumber: 118
+street: Ramsey Ln
+housenumber: "118"
 phone: ""
-opening_hours: "09:00-17:30"
+opening_hours: 09:00-17:30
 website: ""

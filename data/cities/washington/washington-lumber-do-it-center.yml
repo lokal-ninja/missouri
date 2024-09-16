@@ -1,11 +1,11 @@
 id: 495992903
-type: way
+type: node
 latitude: 38.55436
 longitude: -91.01341
 postcode: "63090"
 city: Washington
-street: "Market Street"
-housenumber: 620
+street: Market Street
+housenumber: "620"
 phone: ""
 opening_hours: ""
 website: ""

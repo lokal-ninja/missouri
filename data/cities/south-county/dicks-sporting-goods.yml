@@ -1,11 +1,11 @@
 id: 914868291
-type: way
+type: node
 latitude: 38.50442
 longitude: -90.33427
 postcode: "63129"
 city: South County
-street: "South County Center Way"
-housenumber: 590
-phone: "+1 314-416-1905"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/mo/south-county/1086/"
+street: South County Center Way
+housenumber: "590"
+phone: +1 314-416-1905
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/mo/south-county/1086/

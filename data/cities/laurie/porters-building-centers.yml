@@ -1,11 +1,11 @@
 id: 771553719
-type: way
+type: node
 latitude: 38.20073
 longitude: -92.83704
 postcode: "65038"
 city: Laurie
-street: "North Main Street"
-housenumber: 223
-phone: "+1 573-374-7277"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-18:00; Su 08:00-14:00"
-website: "https://www.portersbuildingcenters.com/locations/laurie-2/"
+street: North Main Street
+housenumber: "223"
+phone: +1 573-374-7277
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-18:00; Su 08:00-14:00
+website: https://www.portersbuildingcenters.com/locations/laurie-2/

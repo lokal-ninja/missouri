@@ -1,11 +1,11 @@
 id: 498714034
-type: way
+type: node
 latitude: 39.10586
 longitude: -94.54077
 postcode: "64124"
 city: Kansas City
-street: "Independence Avenue"
-housenumber: 3435
+street: Independence Avenue
+housenumber: "3435"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/mo/kansas-city/3435-independence-ave.html"
+website: https://www.autozone.com/locations/mo/kansas-city/3435-independence-ave.html

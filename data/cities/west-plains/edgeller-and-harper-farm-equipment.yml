@@ -1,11 +1,11 @@
 id: 598114234
-type: way
+type: node
 latitude: 36.6887
 longitude: -91.89115
 postcode: "65775"
 city: West Plains
-street: "US 160"
-housenumber: 4973
-phone: "(417) 256-0420"
+street: US 160
+housenumber: "4973"
+phone: (417) 256-0420
 opening_hours: ""
-website: "https://edgellerandharper.net/"
+website: https://edgellerandharper.net/

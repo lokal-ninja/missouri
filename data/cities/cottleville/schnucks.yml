@@ -1,11 +1,11 @@
 id: 761125228
-type: way
+type: node
 latitude: 38.74482
 longitude: -90.6367
 postcode: "63304"
 city: Cottleville
-street: "Mid Rivers Mall Drive"
-housenumber: 6083
-phone: "+1 636-498-0108"
-opening_hours: "Su-Sa 06:00-24:00"
-website: "https://locations.schnucks.com/mo-cottleville-124"
+street: Mid Rivers Mall Drive
+housenumber: "6083"
+phone: +1 636-498-0108
+opening_hours: Su-Sa 06:00-24:00
+website: https://locations.schnucks.com/mo-cottleville-124

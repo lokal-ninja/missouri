@@ -4,8 +4,8 @@ latitude: 38.6163
 longitude: -90.25372
 postcode: "63110"
 city: St. Louis
-street: "Shaw Boulevard"
-housenumber: 4200
-phone: "(314) 771-3544"
-opening_hours: "Mo-Su 07:00-20:00"
-website: "https://www.facebook.com/ShawMarket"
+street: Shaw Boulevard
+housenumber: "4200"
+phone: (314) 771-3544
+opening_hours: Mo-Su 07:00-20:00
+website: https://www.facebook.com/ShawMarket

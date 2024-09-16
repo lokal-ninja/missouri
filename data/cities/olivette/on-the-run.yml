@@ -1,11 +1,11 @@
 id: 1167851747
-type: way
+type: node
 latitude: 38.6749
 longitude: -90.37386
 postcode: "63132"
 city: Olivette
-street: "Olive Boulevard"
-housenumber: 9371
+street: Olive Boulevard
+housenumber: "9371"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

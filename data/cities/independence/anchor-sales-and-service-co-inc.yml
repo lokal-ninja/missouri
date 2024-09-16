@@ -1,11 +1,11 @@
 id: 1070092164
-type: way
+type: node
 latitude: 39.06479
 longitude: -94.41703
 postcode: "64055"
 city: Independence
-street: "West 31st Street"
-housenumber: 106
+street: West 31st Street
+housenumber: "106"
 phone: ""
 opening_hours: ""
 website: ""

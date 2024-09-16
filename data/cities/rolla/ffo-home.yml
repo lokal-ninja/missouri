@@ -1,11 +1,11 @@
 id: 675761055
-type: way
+type: node
 latitude: 37.94135
 longitude: -91.80218
 postcode: "65401"
 city: Rolla
-street: "Old Wire Outer Road"
-housenumber: 1690
+street: Old Wire Outer Road
+housenumber: "1690"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-17:00"
-website: "https://ffohome.com/mattress-and-furniture-store-in-rolla-missouri"
+opening_hours: Mo-Sa 10:00-19:00; Su 12:00-17:00
+website: https://ffohome.com/mattress-and-furniture-store-in-rolla-missouri

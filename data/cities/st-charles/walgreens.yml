@@ -1,11 +1,11 @@
 id: 307770028
-type: way
+type: node
 latitude: 38.82174
 longitude: -90.51598
 postcode: "63301"
 city: St. Charles
-street: "Elm Street"
-housenumber: 3800
+street: Elm Street
+housenumber: "3800"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-3800+elm+st-saint+charles-mo-63301/id=11627"
+website: https://www.walgreens.com/locator/walgreens-3800+elm+st-saint+charles-mo-63301/id=11627

@@ -1,11 +1,11 @@
 id: 657467002
-type: way
+type: node
 latitude: 39.23242
 longitude: -94.57729
 postcode: "64118"
 city: Gladstone
-street: "North Oak Trafficway"
-housenumber: 7604
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/mo/gladstone/7604-n-oak"
+street: North Oak Trafficway
+housenumber: "7604"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/mo/gladstone/7604-n-oak

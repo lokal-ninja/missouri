@@ -1,11 +1,11 @@
 id: 664051755
-type: way
+type: node
 latitude: 39.04647
 longitude: -94.43792
 postcode: "64055"
 city: Independence
-street: "East US 40"
-housenumber: 11910
-phone: "+1 816-373-0775"
-opening_hours: "Mo-Sa 09:00-23:00; Su 09:00-22:00"
-website: "https://stores.burlington.com/mo/independence/867"
+street: East US 40
+housenumber: "11910"
+phone: +1 816-373-0775
+opening_hours: Mo-Sa 09:00-23:00; Su 09:00-22:00
+website: https://stores.burlington.com/mo/independence/867

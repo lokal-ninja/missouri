@@ -1,11 +1,11 @@
 id: 483099459
-type: way
+type: node
 latitude: 38.4839
 longitude: -90.76886
 postcode: "63069"
 city: Pacific
-street: "West Osage Street"
-housenumber: 2120
-phone: "636-257-4660"
+street: West Osage Street
+housenumber: "2120"
+phone: 636-257-4660
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/pacific-mo-pharmacies/2120-west-osage-st-pacific-mo-63069/storeid=10773"
+website: https://www.cvs.com/store-locator/pacific-mo-pharmacies/2120-west-osage-st-pacific-mo-63069/storeid=10773

@@ -1,11 +1,11 @@
 id: 512696248
-type: way
+type: node
 latitude: 39.2355
 longitude: -94.43462
 postcode: "64068"
 city: Liberty
-street: "MO 291"
-housenumber: 901
+street: MO 291
+housenumber: "901"
 phone: ""
 opening_hours: ""
 website: ""

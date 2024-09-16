@@ -1,11 +1,11 @@
 id: 573371901
-type: way
+type: node
 latitude: 39.24394
 longitude: -94.47509
 postcode: "64158"
 city: Kansas City
-street: "North Booth Avenue"
-housenumber: 8373
-phone: "+1 816-298-8346"
+street: North Booth Avenue
+housenumber: "8373"
+phone: +1 816-298-8346
 opening_hours: ""
-website: "https://stores.partycity.com/mo/shoalcreek/party-store-pc1119.html"
+website: https://stores.partycity.com/mo/shoalcreek/party-store-pc1119.html

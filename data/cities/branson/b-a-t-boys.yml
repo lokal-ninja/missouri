@@ -1,11 +1,11 @@
 id: 785963697
-type: way
+type: node
 latitude: 36.64545
 longitude: -93.2724
 postcode: "65616"
 city: Branson
-street: "Gretna Rd"
-housenumber: 570
-phone: "+1 417-339-2697"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.batboysbranson.com/"
+street: Gretna Rd
+housenumber: "570"
+phone: +1 417-339-2697
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.batboysbranson.com/

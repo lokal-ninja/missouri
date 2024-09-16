@@ -1,11 +1,11 @@
 id: 754785623
-type: way
+type: node
 latitude: 36.86462
 longitude: -94.38194
 postcode: "64850"
 city: Neosho
-street: "South Neosho Boulevard"
-housenumber: 520
+street: South Neosho Boulevard
+housenumber: "520"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 518033698
-type: way
+type: node
 latitude: 38.73486
 longitude: -90.39279
 postcode: "63074"
 city: St. Ann
-street: "Saint Charles Rock Road"
-housenumber: 10897
-phone: "314-298-7222"
+street: Saint Charles Rock Road
+housenumber: "10897"
+phone: 314-298-7222
 opening_hours: ""
-website: "https://www.cyclegear.com/"
+website: https://www.cyclegear.com/

@@ -1,11 +1,11 @@
 id: 891019096
-type: way
+type: node
 latitude: 39.75757
 longitude: -94.23207
 postcode: "64429"
 city: Cameron
-street: "North Walnut Street"
-housenumber: 2000
-phone: "+1 816-632-9900"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/109-cameron-mo"
+street: North Walnut Street
+housenumber: "2000"
+phone: +1 816-632-9900
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/109-cameron-mo

@@ -1,11 +1,11 @@
 id: 725128498
-type: way
+type: node
 latitude: 39.31391
 longitude: -94.71736
 postcode: "64153"
 city: Kansas City
-street: "North Mexico City Avenue"
-housenumber: 880
+street: North Mexico City Avenue
+housenumber: "880"
 phone: ""
 opening_hours: ""
-website: "https://www.signatureflight.com/locations/mci"
+website: https://www.signatureflight.com/locations/mci

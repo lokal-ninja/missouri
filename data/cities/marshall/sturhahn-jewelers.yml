@@ -1,11 +1,11 @@
 id: 572529383
-type: way
+type: node
 latitude: 39.12084
 longitude: -93.19584
 postcode: "65340"
 city: Marshall
-street: "North Jefferson Street"
-housenumber: 16
+street: North Jefferson Street
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

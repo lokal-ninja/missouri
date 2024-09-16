@@ -1,11 +1,11 @@
 id: 1209859039
-type: way
+type: node
 latitude: 38.94242
 longitude: -94.60634
 postcode: "64114"
 city: Kansas City
-street: "West 103rd Street"
-housenumber: 1128
-phone: "+1-816-942-4415"
+street: West 103rd Street
+housenumber: "1128"
+phone: +1-816-942-4415
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 506871873
-type: way
+type: node
 latitude: 37.94493
 longitude: -91.78453
 postcode: "65401"
 city: Rolla
-street: "Kingshighway"
-housenumber: 1044
+street: Kingshighway
+housenumber: "1044"
 phone: ""
 opening_hours: ""
 website: ""

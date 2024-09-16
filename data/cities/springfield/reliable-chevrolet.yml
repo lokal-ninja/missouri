@@ -1,11 +1,11 @@
 id: 508284909
-type: way
+type: node
 latitude: 37.14749
 longitude: -93.29758
 postcode: "65807"
 city: Springfield
-street: "South Campbell Avenue"
-housenumber: 3655
-phone: "+1-417-708-8088"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-19:00"
-website: "https://www.reliablechevy.com/"
+street: South Campbell Avenue
+housenumber: "3655"
+phone: +1-417-708-8088
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-19:00
+website: https://www.reliablechevy.com/

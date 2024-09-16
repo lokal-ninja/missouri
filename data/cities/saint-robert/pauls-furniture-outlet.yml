@@ -1,11 +1,11 @@
 id: 661638320
-type: way
+type: node
 latitude: 37.82712
 longitude: -92.14282
 postcode: "65584"
 city: Saint Robert
-street: "Country Club Drive"
-housenumber: 100
+street: Country Club Drive
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "https://www.wewontbeundersold.com/"
+website: https://www.wewontbeundersold.com/

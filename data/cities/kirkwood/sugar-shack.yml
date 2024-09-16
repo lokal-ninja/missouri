@@ -1,11 +1,11 @@
 id: 388774251
-type: way
+type: node
 latitude: 38.58154
 longitude: -90.40831
 postcode: "63122"
 city: Kirkwood
-street: "West Argonne Drive"
-housenumber: 151
-phone: "+1 314 966 0065"
+street: West Argonne Drive
+housenumber: "151"
+phone: +1 314 966 0065
 opening_hours: ""
-website: "https://kirkwoodsugarshack.com/"
+website: https://kirkwoodsugarshack.com/

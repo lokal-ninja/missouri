@@ -1,11 +1,11 @@
 id: 343612546
-type: way
+type: node
 latitude: 39.80938
 longitude: -94.8123
 postcode: "64506"
 city: Saint Joseph
-street: "North Belt Highway"
-housenumber: 4201
-phone: "+1 816-390-8400"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/560/saint-joseph-mo/whats-new"
+street: North Belt Highway
+housenumber: "4201"
+phone: +1 816-390-8400
+opening_hours: 24/7
+website: https://www.walmart.com/store/560/saint-joseph-mo/whats-new

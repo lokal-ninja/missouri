@@ -1,11 +1,11 @@
 id: 612825542
-type: way
+type: node
 latitude: 38.7779
 longitude: -90.69616
 postcode: "63368"
 city: O'Fallon
-street: "Highway K"
-housenumber: 2242
-phone: "+1 636-281-3114"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/store-locator/store/?storeID=0270"
+street: Highway K
+housenumber: "2242"
+phone: +1 636-281-3114
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/store-locator/store/?storeID=0270

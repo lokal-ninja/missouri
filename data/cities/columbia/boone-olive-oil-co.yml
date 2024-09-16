@@ -1,11 +1,11 @@
 id: 519775739
-type: way
+type: node
 latitude: 38.95085
 longitude: -92.32746
 postcode: ""
 city: Columbia
-street: "South 9th Street"
-housenumber: 20
+street: South 9th Street
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

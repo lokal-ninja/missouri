@@ -1,11 +1,11 @@
 id: 677108789
-type: way
+type: node
 latitude: 37.70508
 longitude: -89.89592
 postcode: "63775"
 city: Perryville
-street: "South Perryville Boulevard"
-housenumber: 1750
-phone: "+1 573-547-2577"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/82-perryville-mo"
+street: South Perryville Boulevard
+housenumber: "1750"
+phone: +1 573-547-2577
+opening_hours: 24/7
+website: https://www.walmart.com/store/82-perryville-mo

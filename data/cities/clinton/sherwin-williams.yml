@@ -1,11 +1,11 @@
 id: 577834129
-type: way
+type: node
 latitude: 38.37036
 longitude: -93.77824
 postcode: "64735"
 city: Clinton
-street: "South Washington Street"
-housenumber: 113
+street: South Washington Street
+housenumber: "113"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1295990335
-type: way
+type: node
 latitude: 36.60874
 longitude: -93.22808
 postcode: "65672"
 city: Hollister
-street: "Birch Street"
-housenumber: 801
+street: Birch Street
+housenumber: "801"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3340"
+website: https://www.menards.com/store-details/store.html?store=3340

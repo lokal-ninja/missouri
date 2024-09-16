@@ -4,8 +4,8 @@ latitude: 37.1509
 longitude: -93.2574
 postcode: "65804"
 city: Springfield
-street: "South Glenstone Avenue"
-housenumber: 3434
-phone: "+1 417-877-0108"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/springfield-mo-600"
+street: South Glenstone Avenue
+housenumber: "3434"
+phone: +1 417-877-0108
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/springfield-mo-600

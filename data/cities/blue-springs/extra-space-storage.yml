@@ -1,11 +1,11 @@
 id: 972904795
-type: way
+type: node
 latitude: 39.01035
 longitude: -94.27364
 postcode: "64014"
 city: Blue Springs
-street: "MO 7"
-housenumber: 715
-phone: "+1-816-666-7433"
+street: MO 7
+housenumber: "715"
+phone: +1-816-666-7433
 opening_hours: ""
-website: "https://www.extraspace.com/storage/facilities/us/missouri/blue_springs/7279"
+website: https://www.extraspace.com/storage/facilities/us/missouri/blue_springs/7279

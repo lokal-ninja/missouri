@@ -1,11 +1,11 @@
 id: 345409606
-type: way
+type: node
 latitude: 38.75149
 longitude: -90.24271
 postcode: "63136"
 city: Moline Acres
-street: "Chambers Road"
-housenumber: 2471
-phone: "(314) 388-9524"
-opening_hours: "24/7"
+street: Chambers Road
+housenumber: "2471"
+phone: (314) 388-9524
+opening_hours: 24/7
 website: ""

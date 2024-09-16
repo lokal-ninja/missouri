@@ -1,11 +1,11 @@
 id: 826440302
-type: way
+type: node
 latitude: 37.94696
 longitude: -91.79495
 postcode: "65401"
 city: Rolla
-street: "Westside Drive"
-housenumber: 1551
-phone: "+1 573-364-0125"
-opening_hours: "10:00-20:00"
-website: "https://www.rossstores.com/"
+street: Westside Drive
+housenumber: "1551"
+phone: +1 573-364-0125
+opening_hours: 10:00-20:00
+website: https://www.rossstores.com/

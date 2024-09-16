@@ -1,11 +1,11 @@
 id: 554769575
-type: way
+type: node
 latitude: 38.98988
 longitude: -93.56704
 postcode: "64020"
 city: Concordia
-street: "North Main Street"
-housenumber: 101
+street: North Main Street
+housenumber: "101"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.caseys.com/general-store/3489/mo/concordia/101-n-main-st"
+opening_hours: 24/7
+website: https://www.caseys.com/general-store/3489/mo/concordia/101-n-main-st

@@ -1,11 +1,11 @@
 id: 277752065
-type: way
+type: node
 latitude: 39.24824
 longitude: -94.57488
 postcode: "64155"
 city: Kansas City
-street: "Northeast Barry Road"
-housenumber: 450
-phone: "+1-816-448-0874"
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/mo/kansas-city/2054/"
+street: Northeast Barry Road
+housenumber: "450"
+phone: +1-816-448-0874
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/mo/kansas-city/2054/

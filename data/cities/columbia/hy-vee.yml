@@ -1,11 +1,11 @@
 id: 136425102
-type: way
+type: node
 latitude: 38.95026
 longitude: -92.29686
 postcode: "65201"
 city: Columbia
-street: "Conley Road"
-housenumber: 25
+street: Conley Road
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

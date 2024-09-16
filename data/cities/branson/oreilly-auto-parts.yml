@@ -1,11 +1,11 @@
 id: 263853660
-type: way
+type: node
 latitude: 36.64166
 longitude: -93.20503
 postcode: "65616"
 city: Branson
-street: "State Highway 76"
-housenumber: 904
+street: State Highway 76
+housenumber: "904"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/mo/branson/autoparts-4077.html"
+website: https://locations.oreillyauto.com/mo/branson/autoparts-4077.html

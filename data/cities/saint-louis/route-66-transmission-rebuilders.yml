@@ -1,11 +1,11 @@
 id: 622922564
-type: way
+type: node
 latitude: 38.54983
 longitude: -90.25632
 postcode: "63111"
 city: Saint Louis
-street: "Robert Avenue"
-housenumber: 116
+street: Robert Avenue
+housenumber: "116"
 phone: ""
 opening_hours: ""
-website: "http://transmissionsstl.wix.com/transmissionsstl"
+website: http://transmissionsstl.wix.com/transmissionsstl

@@ -1,11 +1,11 @@
 id: 1271281119
-type: way
+type: node
 latitude: 38.80172
 longitude: -90.47531
 postcode: "63301"
 city: Saint Charles
-street: "North Third Street"
-housenumber: 2300
-phone: "+1-636-940-1244"
-opening_hours: "Mo-Sa 11:00-19:00; Su 12:01-18:00"
+street: North Third Street
+housenumber: "2300"
+phone: +1-636-940-1244
+opening_hours: Mo-Sa 11:00-19:00; Su 12:01-18:00
 website: ""

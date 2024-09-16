@@ -1,11 +1,11 @@
 id: 345801234
-type: way
+type: node
 latitude: 38.77089
 longitude: -90.22152
 postcode: "63138"
 city: Spanish Lake
-street: "Bellefontaine Road"
-housenumber: 11011
-phone: "(314) 867-7908"
-opening_hours: "24/7"
+street: Bellefontaine Road
+housenumber: "11011"
+phone: (314) 867-7908
+opening_hours: 24/7
 website: ""

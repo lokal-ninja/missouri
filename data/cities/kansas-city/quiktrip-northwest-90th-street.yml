@@ -1,11 +1,11 @@
 id: 1207790547
-type: way
+type: node
 latitude: 39.25827
 longitude: -94.63017
 postcode: ""
 city: Kansas City
-street: "Northwest 90th Street"
-housenumber: 4380
+street: Northwest 90th Street
+housenumber: "4380"
 phone: ""
 opening_hours: ""
 website: ""
