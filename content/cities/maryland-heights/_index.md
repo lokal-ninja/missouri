@@ -1,6 +1,6 @@
 ---
 title: Maryland Heights
 url: /maryland-heights/
-latitude: 38.712
-longitude: -90.419
+latitude: 38.715
+longitude: -90.457
 ---
