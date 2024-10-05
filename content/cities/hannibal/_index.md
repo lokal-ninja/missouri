@@ -1,6 +1,6 @@
 ---
 title: Hannibal
 url: /hannibal/
-latitude: 39.71
-longitude: -91.356
+latitude: 39.711
+longitude: -91.357
 ---
