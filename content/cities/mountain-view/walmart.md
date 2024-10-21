@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /mountain-view/walmart/
-shop: supermarket
+shop: department store
 ---
