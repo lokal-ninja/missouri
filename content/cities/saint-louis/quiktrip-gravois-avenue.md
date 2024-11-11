@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /saint-peters/quiktrip-main-street/
+url: /saint-louis/quiktrip-gravois-avenue/
 shop: convenience
 ---
