@@ -1,5 +1,5 @@
 ---
 title: "Schnucks"
-url: /saint-louis/schnucks-hampton-avenue/
+url: /saint-louis/schnucks-arsenal-street/
 shop: supermarket
 ---
