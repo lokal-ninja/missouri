@@ -1,5 +1,5 @@
 ---
 title: "Walmart Neighborhood Market"
-url: /joplin/walmart-neighborhood-market-south-maiden-lane/
+url: /joplin/walmart-neighborhood-market-east-7th-street/
 shop: supermarket
 ---
