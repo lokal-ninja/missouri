@@ -1,6 +1,6 @@
 ---
 title: Lees Summit
 url: /lees-summit/
-latitude: 38.93
-longitude: -94.407
+latitude: 38.916
+longitude: -94.361
 ---
