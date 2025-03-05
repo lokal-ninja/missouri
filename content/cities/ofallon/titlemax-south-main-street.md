@@ -1,5 +1,5 @@
 ---
 title: "TitleMax"
-url: /ofallon/titlemax-highway-k/
+url: /ofallon/titlemax-south-main-street/
 shop: pawnbroker
 ---
