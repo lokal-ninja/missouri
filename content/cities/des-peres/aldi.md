@@ -1,5 +1,5 @@
 ---
-title: "Aldi"
+title: "ALDI"
 url: /des-peres/aldi/
-shop: convenience
+shop: supermarket
 ---
