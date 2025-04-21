@@ -1,6 +1,6 @@
 ---
 title: Boonville
 url: /boonville/
-latitude: 38.952
-longitude: -92.74
+latitude: 38.975
+longitude: -92.744
 ---

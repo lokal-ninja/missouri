@@ -1,6 +1,6 @@
 ---
 title: Frontenac
 url: /frontenac/
-latitude: 38.631
+latitude: 38.629
 longitude: -90.407
 ---

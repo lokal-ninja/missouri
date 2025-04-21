@@ -1,6 +1,6 @@
 ---
 title: Sikeston
 url: /sikeston/
-latitude: 36.861
-longitude: -89.581
+latitude: 36.88
+longitude: -89.575
 ---
