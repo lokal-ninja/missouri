@@ -1,6 +1,6 @@
 ---
 title: Wildwood
 url: /wildwood/
-latitude: 38.582
-longitude: -90.628
+latitude: 38.581
+longitude: -90.629
 ---

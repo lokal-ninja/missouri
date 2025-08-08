@@ -1,5 +1,5 @@
 ---
-title: "Petsway"
+title: "PetsWay"
 url: /springfield/petsway/
 shop: pet
 ---
