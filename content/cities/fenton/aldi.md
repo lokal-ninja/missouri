@@ -1,5 +1,5 @@
 ---
-title: "ALDI"
+title: "Aldi"
 url: /fenton/aldi/
 shop: supermarket
 ---
