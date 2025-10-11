@@ -1,6 +1,6 @@
 ---
 title: Hallsville
 url: /hallsville/
-latitude: 39.114
-longitude: -92.227
+latitude: 39.117
+longitude: -92.22
 ---
