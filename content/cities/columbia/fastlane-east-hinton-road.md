@@ -1,5 +1,5 @@
 ---
 title: "Fastlane"
-url: /columbia/fastlane-roanoke-drive/
+url: /columbia/fastlane-east-hinton-road/
 shop: convenience
 ---
