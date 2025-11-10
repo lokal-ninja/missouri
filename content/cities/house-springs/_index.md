@@ -1,6 +1,6 @@
 ---
 title: House Springs
 url: /house-springs/
-latitude: 38.413
-longitude: -90.584
+latitude: 38.412
+longitude: -90.579
 ---
