@@ -1,6 +1,6 @@
 ---
 title: Piedmont
 url: /piedmont/
-latitude: 37.147
-longitude: -90.701
+latitude: 37.139
+longitude: -90.702
 ---
