@@ -1,6 +1,6 @@
 ---
 title: Salem
 url: /salem/
-latitude: 37.636
-longitude: -91.539
+latitude: 37.645
+longitude: -91.534
 ---
