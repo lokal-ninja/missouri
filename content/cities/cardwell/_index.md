@@ -1,6 +1,6 @@
 ---
 title: Cardwell
 url: /cardwell/
-latitude: 35.996
-longitude: -90.342
+latitude: 36.042
+longitude: -90.339
 ---
