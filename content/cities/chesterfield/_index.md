@@ -1,6 +1,6 @@
 ---
 title: Chesterfield
 url: /chesterfield/
-latitude: 38.669
-longitude: -90.597
+latitude: 38.671
+longitude: -90.62
 ---
