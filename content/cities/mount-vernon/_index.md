@@ -1,6 +1,6 @@
 ---
 title: Mount Vernon
 url: /mount-vernon/
-latitude: 37.092
-longitude: -93.826
+latitude: 37.094
+longitude: -93.825
 ---
