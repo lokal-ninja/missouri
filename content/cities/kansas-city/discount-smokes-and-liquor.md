@@ -1,5 +1,5 @@
 ---
-title: "Discount Smokes and Liquor"
+title: "Discount Smokes & Liquor"
 url: /kansas-city/discount-smokes-and-liquor/
-shop: alcohol
+shop: tobacco
 ---
