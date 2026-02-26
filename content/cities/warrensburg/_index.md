@@ -1,6 +1,6 @@
 ---
 title: Warrensburg
 url: /warrensburg/
-latitude: 38.77
-longitude: -93.733
+latitude: 38.778
+longitude: -93.736
 ---
