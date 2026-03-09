@@ -1,6 +1,6 @@
 ---
 title: Shelbina
 url: /shelbina/
-latitude: 39.701
-longitude: -92.039
+latitude: 39.695
+longitude: -91.964
 ---
