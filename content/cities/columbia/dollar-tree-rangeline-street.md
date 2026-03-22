@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
-url: /columbia/dollar-tree-grindstone-parkway/
+url: /columbia/dollar-tree-rangeline-street/
 shop: variety store
 ---
