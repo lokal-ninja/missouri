@@ -1,6 +1,6 @@
 ---
 title: Fayette
 url: /fayette/
-latitude: 39.147
-longitude: -92.684
+latitude: 39.078
+longitude: -92.579
 ---
