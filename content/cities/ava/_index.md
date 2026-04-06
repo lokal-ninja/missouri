@@ -1,6 +1,6 @@
 ---
 title: Ava
 url: /ava/
-latitude: 36.959
-longitude: -92.677
+latitude: 36.938
+longitude: -92.665
 ---
