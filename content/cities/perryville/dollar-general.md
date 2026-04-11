@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /pacific/dollar-general-west-osage-street/
+url: /perryville/dollar-general/
 shop: variety store
 ---
