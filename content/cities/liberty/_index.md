@@ -1,6 +1,6 @@
 ---
 title: Liberty
 url: /liberty/
-latitude: 39.246
-longitude: -94.42
+latitude: 39.237
+longitude: -94.436
 ---

@@ -1,6 +1,6 @@
 ---
 title: Kennett
 url: /kennett/
-latitude: 36.238
-longitude: -90.038
+latitude: 36.248
+longitude: -90.065
 ---
