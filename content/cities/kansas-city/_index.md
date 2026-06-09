@@ -1,6 +1,6 @@
 ---
 title: Kansas City
 url: /kansas-city/
-latitude: 39.183
-longitude: -94.578
+latitude: 38.999
+longitude: -94.556
 ---
