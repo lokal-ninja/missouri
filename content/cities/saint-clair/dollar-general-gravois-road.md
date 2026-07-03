@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /carthage/dollar-general-south-grand-avenue/
+url: /saint-clair/dollar-general-gravois-road/
 shop: variety store
 ---

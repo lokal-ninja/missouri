@@ -1,5 +1,5 @@
 ---
 title: "Schnucks"
-url: /columbia/schnucks-forum-boulevard/
+url: /florissant/schnucks-charbonier-road/
 shop: supermarket
 ---
