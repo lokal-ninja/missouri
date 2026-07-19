@@ -1,6 +1,6 @@
 ---
-title: St Peters
+title: St. Peters
 url: /st-peters/
-latitude: 38.743
-longitude: -90.61
+latitude: 38.772
+longitude: -90.582
 ---
