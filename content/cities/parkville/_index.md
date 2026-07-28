@@ -1,6 +1,6 @@
 ---
 title: Parkville
 url: /parkville/
-latitude: 39.19
-longitude: -94.687
+latitude: 39.21
+longitude: -94.686
 ---
