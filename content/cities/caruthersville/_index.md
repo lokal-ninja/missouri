@@ -1,6 +1,6 @@
 ---
 title: Caruthersville
 url: /caruthersville/
-latitude: 36.19
-longitude: -89.668
+latitude: 36.192
+longitude: -89.655
 ---
