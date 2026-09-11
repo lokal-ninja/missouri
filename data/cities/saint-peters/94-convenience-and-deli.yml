@@ -7,5 +7,5 @@ city: Saint Peters
 street: South Saint Peters Parkway
 housenumber: "4500"
 phone: "+16369221188"
-opening_hours: Mo-Th 07:00-00:00 Fr-Sa 07:00-02:00 Su 08:00-00:00
+opening_hours: Mo-Th 07:00-00:00; Fr-Sa 07:00-02:00; Su 08:00-00:00
 website: http://www.94convenience.com/
