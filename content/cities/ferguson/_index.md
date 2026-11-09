@@ -1,6 +1,6 @@
 ---
 title: Ferguson
 url: /ferguson/
-latitude: 38.746
-longitude: -90.305
+latitude: 38.738
+longitude: -90.303
 ---
