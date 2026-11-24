@@ -1,6 +1,6 @@
 ---
 title: Sarcoxie
 url: /sarcoxie/
-latitude: 37.072
-longitude: -94.133
+latitude: 37.08
+longitude: -94.105
 ---
